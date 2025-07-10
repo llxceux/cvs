@@ -1,1556 +1,210 @@
 <?php
-$q = isset($_GET['gemini']) ? $_GET['gemini'] : '';
-if (empty($q)) {
-    echo "<h1>cvs!!!</h1>";
-    exit;
-}
-$canonical = str_replace(' ', '-', $q);
-$brand = strtoupper($q);
-?>
-<!--DOC HTML - S E O R J B M-->
-<!doctype html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"
-    data-authenticated-account>
-
-<head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <base href="">
-    <meta charset="utf-8" />
-    <title><?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU</title>
-    <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
-    <link rel="icon" type="https://ik.imagekit.io/3dgm6pffgn/indonesiafavicon.png?updatedAt=1727030863103" />
-    <link rel="canonical" href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" />
-    <link rel="amphtml" href="https://geminihaxor.pages.dev/<?php echo $brand ?>" />
-    <meta property="og:site_name" content="<?php echo $brand ?>" />
-    <meta property="og:title" content="<?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU" />
-    <meta property="og:url" content="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" />
-    <meta property="og:type" content="product" />
-    <meta property="og:description" content="<?php echo $brand ?> | Merupakan Aplikasi SIPP (Sistem Informasi Penelusuran Perkara) dan E-Court Pengadilan Negeri Kefamenanu inovasi digital dalam pelayanan peradilan." />
-    <meta name="Keywords" content="<?php echo $brand ?>, <?php echo $brand ?> daftar, <?php echo $brand ?> login, <?php echo $brand ?> link, <?php echo $brand ?> rtp, <?php echo $brand ?> situs, <?php echo $brand ?> agen, <?php echo $brand ?> bandar, <?php echo $brand ?> gaming, <?php echo $brand ?> cuan" />
-    <meta name="page google.com" content="https://www.google.com/search?q=<?php echo $brand ?>">
-    <meta name="page google.co.id" content="https://www.google.co.id/search?q=<?php echo $brand ?>">
-    <meta name="page google.com" content="https://www.google.com/search?q=login+<?php echo $brand ?>">
-    <meta name="page google.co.id" content="https://www.google.co.id/search?q=link+<?php echo $brand ?>">
-    <meta property="og:image" content="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604" />
-    <meta property="og:image:width" content="1024" />
-    <meta property="og:image:height" content="1024" />
-    <meta property="product:price:amount" content="10000.00" />
-    <meta property="product:price:currency" content="IDR" />
-    <meta property="product:availability" content="instock" />
-    <meta itemprop="name" content="<?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU" />
-    <meta itemprop="url" content="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" />
-    <meta itemprop="description" content="<?php echo $brand ?> | Merupakan Aplikasi SIPP (Sistem Informasi Penelusuran Perkara) dan E-Court Pengadilan Negeri Kefamenanu inovasi digital dalam pelayanan peradilan." />
-    <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604" />
-    <link rel="image_src" href="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604" />
-    <meta itemprop="image" content="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604" />
-    <meta name="twitter:title" content="<?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU" />
-    <meta name="twitter:image" content="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604" />
-    <meta name="twitter:url" content="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="<?php echo $brand ?> | Merupakan Aplikasi SIPP (Sistem Informasi Penelusuran Perkara) dan E-Court Pengadilan Negeri Kefamenanu inovasi digital dalam pelayanan peradilan." />
-    <meta name="description" content="<?php echo $brand ?> | Merupakan Aplikasi SIPP (Sistem Informasi Penelusuran Perkara) dan E-Court Pengadilan Negeri Kefamenanu inovasi digital dalam pelayanan peradilan." />
-    <link rel="preconnect" href="https://images.squarespace-cdn.com">
-    <script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
-    <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
-    <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
-    <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
-    <script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-901b92ac6382aa506e2c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
-
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
-
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
-
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-98890d5c030fb474ba6c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
-
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7a98df8511da483159d9-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
-
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-6ba49635395d7a3ea6d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
-
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-debf953cca7d88c08601-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-
-    <script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
-    <link rel="stylesheet" type="text/css"
-        href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
-    <script
-        data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "Robopragma", "fullSiteTitle": "<?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU \u2014 <?php echo $brand ?>", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604", "authenticUrl": "https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>", "internalUrl": "https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>", "baseUrl": "https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "<?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/slot", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "Slot Cekek", "firstName": "Slot", "lastName": "Cekek", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "Slot Cekek" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 1000000, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
-    <script
-        type="application/ld+json">{"url":"https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>","name":"Robopragma","description":"","image":"https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604","@context":"http://schema.org","@type":"WebSite"}</script>
-    <script
-        type="application/ld+json">{"name":"<?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU \u2014 Robopragma","image":"https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604","description":"<?php echo $brand ?> | Merupakan Aplikasi SIPP (Sistem Informasi Penelusuran Perkara) dan E-Court Pengadilan Negeri Kefamenanu inovasi digital dalam pelayanan peradilan.","brand":"Robopragma","offers":{"price":10000.00,"priceCurrency":"IDR","url":"https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
-    <link rel="stylesheet" type="text/css"
-        href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
-    <script>Static.COOKIE_BANNER_CAPABLE = true;</script>
-    <!-- End of Squarespace Headers -->
-    <style>
-        @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
-            .header-blur-background {}
-        }
-
-        .ProductItem-gallery-slides-item.selected.going-next.loaded.next-loaded.prev-loaded {
-            width: auto;
-            height: auto
-        }
-
-        .tweak-fixed-header .header .header-announcement-bar-wrapper {
-            background: #000000
-        }
-
-        .collection-type-products .ProductItem-details h1.ProductItem-details-title {
-            font-family: exo
-        }
-
-        footer#footer-sections {
-            background: #000000;
-            color: #fff;
-            font-family: arial;
-            text-align: center;
-            padding: 30px 0 30px 0
-        }
-
-        .products.collection-content-wrapper {
-            padding-bottom: 0
-        }
-
-        .ProductItem {
-            padding-bottom: 0
-        }
-
-        .header-nav-item.header-nav-item--collection a,
-        .header-nav-item.header-nav-item--collection.header-nav-item--active a {
-            color: #fff
-        }
-
-        .n-columns-2 {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            font-weight: 700;
-            z-index: 99999
-        }
-
-        .tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical .ProductItem-gallery-slides:before {
-            padding-bottom: 100%
-        }
-
-        .n-columns-2 a {
-            text-align: center
-        }
-
-        .login,
-        .register {
-            color: #ffffff;
-            padding: 13px 10px
-        }
-
-        .login,
-        .login-button {
-            border: 1px solid #000000;
-            background: linear-gradient(to bottom, #f72500 0, #d11f00 100%)
-        }
-
-        .register,
-        .register-button {
-            background: linear-gradient(to bottom, #191ce3 0, #0507a3 100%);
-            border: 1px solid #070707
-        }
-    </style>
-    <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "SoftwareApplication",
-    "name": "Robopragma",
-    "operatingSystem": "ANDROID",
-    "applicationCategory": "GameApplication",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "5",
-      "ratingCount": "3161977"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "IDR"
-    }
-  }
-    </script>
-    <script type="text/javascript" src="/AViJjj-GFnJdCYHs"></script>
-    <script type="text/javascript" src="/kdES_h_1OpsNnV4W"></script>
-</head>
-
-<body id="item-65fd0fc7db01f63c712f258e" class="
-      primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-middle  tweak-products-price-hide tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65fd0fc2aa1d0858f5af2fe4 mobile-style-available sqs-seven-one
-        show-pdp-product-add-ons
-    " data-description="plp-mobile-editor-column" tabindex="-1">
-    <div id="siteWrapper" class="clearfix site-wrapper">
-        <header data-test="header" id="header" class="
-      header theme-col--primary
-    " data-section-theme="" data-controller="Header" data-current-styles="{
-                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
-                                                            &quot;action&quot;: {
-                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
-                                                              &quot;newWindow&quot;: false
-                                                            },
-                                                            &quot;showSocial&quot;: false,
-                                                            &quot;socialOptions&quot;: {
-                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;socialBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }
-                                                            },
-                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,&quot;cartStyle&quot;: &quot;cart&quot;,
-                                                            &quot;cartText&quot;: &quot;Cart&quot;,
-                                                            &quot;showEmptyCartState&quot;: true,&quot;cartOptions&quot;: {
-                                                              &quot;iconType&quot;: &quot;solid-7&quot;,&quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;cartBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }},
-                                                            &quot;showButton&quot;: false,
-                                                            &quot;showCart&quot;: true,
-                                                            &quot;showAccountLogin&quot;: false,
-                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
-                                                            &quot;languagePicker&quot;: {&quot;enabled&quot;: false,
-                                                              &quot;iconEnabled&quot;: false,
-                                                              &quot;iconType&quot;: &quot;globe&quot;,
-                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                              &quot;languageFlags&quot;: [ ]
-                                                            },
-                                                            &quot;mobileOptions&quot;: {
-                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
-                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                              &quot;menuIconOptions&quot;: {
-                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;dynamicOptions&quot;: {
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;allSides&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;solidOptions&quot;: {
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 100.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;allSides&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 30.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }},
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,&quot;value&quot;: 12.0}
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,&quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;gradientOptions&quot;: {
-                                                              &quot;gradientType&quot;: &quot;faded&quot;,
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 90.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;allSides&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 30.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;dropShadowOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blur&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0},
-                                                              &quot;spread&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 0.0
-                                                              },
-                                                              &quot;distance&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,&quot;value&quot;: 12.0
-                                                              }
-                                                            },
-                                                            &quot;borderOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;position&quot;: &quot;allSides&quot;,
-                                                              &quot;thickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 4.0},
-                                                              &quot;color&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;showPromotedElement&quot;: false,
-                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                                            &quot;blurBackground&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blurRadius&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              }
-                                                            },
-                                                            &quot;headerOpacity&quot;: {
-                                                              &quot;unit&quot;: &quot;%&quot;,
-                                                              &quot;value&quot;: 100.0
-                                                            }
-                                                          }" data-section-id="header" data-header-theme=""
-            data-menu-overlay-theme="" data-header-style="dynamic" data-language-picker="{
-                                                            &quot;enabled&quot;: false,
-                                                            &quot;iconEnabled&quot;: false,
-                                                            &quot;iconType&quot;: &quot;globe&quot;,
-                                                            &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                            &quot;languageFlags&quot;: [ ]
-                                                          }" data-first-focusable-element tabindex="-1" style="
-
-
-
-          --headerBorderColor: hsla(var(--black-hsl), 1);
-
-
-
-        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-
-
-        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
-
-
-        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
-
-
-        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
-
-    ">
-
-            <div class="sqs-announcement-bar-dropzone"></div>
-
-            <div class="header-announcement-bar-wrapper">
-
-                <a href="#page" class="header-skip-link sqs-button-element--primary">
-                    Skip to Content
-                </a>
-
-
-
-
-                <div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true"
-                    data-header-border="false" data-test="header-border" style="
-
-
-
-
-
-
-
-    border-width: 0px !important;
-
-
-
-
-
-
-
-
-"></div>
-                <div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true"
-                    data-header-dropshadow="false" data-test="header-dropshadow" style="
-
-
-
-"></div>
-
-
-
-                <div class='header-inner container--fluid
-
-          header-layout--with-commerce
-
-
-
-
-
-
-
-         header-mobile-layout-logo-center-nav-left
-
-
-
-
-
-         header-layout-branding-center
-
-
-
-
-
-        ' style="
-
-
-
-
-
-
-
-    padding: 0;
-
-
-
-
-" data-test="header-inner">
-                    <!-- Background -->
-                    <div class="header-background theme-bg--primary"></div>
-
-                    <div class="header-display-desktop" data-content-field="site-title">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        <style>
-                            .top-bun,
-                            .patty,
-                            .bottom-bun {
-                                height: 1px
-                            }
-                        </style>
-
-                        <!-- Burger -->
-                        <div class="header-burger
-
-  menu-overlay-does-not-have-visible-non-navigation-items
-
-
-
-  no-actions
-
-" data-animation-role="header-element">
-                            <button class="header-burger-btn burger" data-test="header-burger">
-                                <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-                                <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-                                <div class="burger-box">
-                                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
-                                        <div class="top-bun"></div>
-                                        <div class="patty"></div>
-                                        <div class="bottom-bun"></div>
-                                    </div>
-                                </div>
-                            </button>
-                        </div>
-
-
-                        <!-- Social -->
-
-
-
-                        <!-- Title and nav wrapper -->
-                        <div class="header-title-nav-wrapper">
-
-
-
-
-
-
-                            <!-- Nav -->
-                            <div class="header-nav">
-                                <div class="header-nav-wrapper">
-                                    <nav class="header-nav-list">
-
-
-
-
-                                        <div
-                                            class="header-nav-item header-nav-item--collection header-nav-item--active">
-                                            <a href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" data-animation-role="header-element"
-                                                aria-current="page">
-                                                <?php echo $brand ?>                                           </a>
-                                        </div>
-                                    </nav>
-                                </div>
-                            </div>
-
-
-                            <!-- Title -->
-
-                            <div class="
-                      header-title" data-animation-role="header-element">
-
-                                <div class="header-title-logo">
-                                    <a href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" data-animation-role="header-element">
-
-                                        <img elementtiming="nbf-header-logo-desktop"
-                                            src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1735629222/INDONESIA_logo_bjrtbk.png"
-                                            alt="<?php echo $brand ?>" style="display:block" fetchpriority="high" loading="eager"
-                                            decoding="async" data-loader="raw">
-
-                                    </a>
-                                </div>
-
-
-
-                            </div>
-
-
-
-                        </div>
-
-
-                        <!-- Actions -->
-                        <div class="header-actions header-actions--right">
-                            <div class="showOnMobile">
-
-
-
-
-
-
-                                <div class="header-actions-action header-actions-action--cart">
-                                    <a href="/cart"
-                                        class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                                        <span class="Cart-inner">
-
-
-
-
-                                            <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                                                <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                                                <path
-                                                    d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                                                <path
-                                                    d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                                            </svg>
-
-                                            <div class="icon-cart-quantity">
-
-                                                <span class="cart-quantity-container">
-
-                                                    <span class="sqs-cart-quantity">0</span>
-
-                                                </span>
-
-                                            </div>
-                                        </span>
-                                    </a>
-                                </div>
-
-
-
-
-
-
-                            </div>
-
-
-                            <div class="showOnDesktop">
-
-
-
-
-
-
-                                <div class="header-actions-action header-actions-action--cart">
-                                    <a href="/cart"
-                                        class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-statecart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                                        <span class="Cart-inner">
-
-
-
-
-                                            <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                                                <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                                                <path
-                                                    d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                                                <path
-                                                    d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                                            </svg>
-
-                                            <div class="icon-cart-quantity">
-
-                                                <span class="cart-quantity-container">
-
-                                                    <span class="sqs-cart-quantity">0</span>
-
-                                                </span>
-
-                                            </div>
-                                        </span>
-                                    </a>
-                                </div>
-
-
-
-
-
-
-                            </div>
-
-
-                        </div>
-
-
-
-
-
-
-
-                    </div>
-                    <div class="header-display-mobile" data-content-field="site-title">
-
-
-
-
-
-                        <!-- Social -->
-
-
-
-
-
-                        <style>
-                            .top-bun,
-                            .patty,
-                            .bottom-bun {
-                                height: 1px
-                            }
-                        </style>
-
-                        <!-- Burger -->
-                        <div class="header-burger
-
-  menu-overlay-does-not-have-visible-non-navigation-items
-
-
-
-  no-actions
-
-" data-animation-role="header-element">
-                            <button class="header-burger-btn burger" data-test="header-burger">
-                                <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
-                                <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
-                                <div class="burger-box">
-                                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
-                                        <div class="top-bun"></div>
-                                        <div class="patty"></div>
-                                        <div class="bottom-bun"></div>
-                                    </div>
-                                </div>
-                            </button>
-                        </div>
-
-
-                        <!-- Title and nav wrapper -->
-                        <div class="header-title-nav-wrapper">
-
-
-
-
-
-
-                            <!-- Nav -->
-                            <div class="header-nav">
-                                <div class="header-nav-wrapper">
-                                    <nav class="header-nav-list">
-
-
-
-
-                                        <div
-                                            class="header-nav-item header-nav-item--collection header-nav-item--active">
-                                            <a href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" data-animation-role="header-element"
-                                                aria-current="page">
-                                                <?php echo $brand ?>                                           </a>
-                                        </div>
-                                    </nav>
-                                </div>
-                            </div>
-
-
-                            <!-- Title -->
-
-                            <div class="
-                      header-title
-
-                    " data-animation-role="header-element">
-
-                                <div class="header-title-logo">
-                                    <a href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" data-animation-role="header-element">
-
-                                        <img elementtiming="nbf-header-logo-desktop"
-                                            src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1735629222/INDONESIA_logo_bjrtbk.png"
-                                            alt="<?php echo $brand ?>" style="display:block" fetchpriority="high" loading="eager"
-                                            decoding="async" data-loader="raw">
-
-                                    </a>
-                                </div>
-
-
-
-                            </div>
-
-
-
-                        </div>
-
-
-                        <!-- Actions -->
-                        <div class="header-actions header-actions--right">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                            <div class="showOnMobile">
-
-
-
-
-
-
-                                <div class="header-actions-action header-actions-action--cart">
-                                    <a href="/"
-                                        class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                                        <span class="Cart-inner">
-
-
-
-
-                                            <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                                                <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                                                <path
-                                                    d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                                                <path
-                                                    d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                                            </svg>
-
-                                            <div class="icon-cart-quantity">
-
-                                                <span class="cart-quantity-container">
-
-                                                    <span class="sqs-cart-quantity">0</span>
-
-                                                </span>
-
-                                            </div>
-                                        </span>
-                                    </a>
-                                </div>
-
-
-
-
-
-
-                            </div>
-
-
-                            <div class="showOnDesktop">
-
-
-
-
-
-
-                                <div class="header-actions-action header-actions-action--cart">
-                                    <a href="/"
-                                        class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
-                                        <span class="Cart-inner">
-
-
-
-
-                                            <svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
-                                                <path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
-                                                <path
-                                                    d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
-                                                <path
-                                                    d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
-                                            </svg>
-
-                                            <div class="icon-cart-quantity">
-
-                                                <span class="cart-quantity-container">
-
-                                                    <span class="sqs-cart-quantity">0</span></span>
-
-                                            </div>
-                                        </span>
-                                    </a>
-                                </div>
-
-
-
-
-
-
-                            </div>
-
-
-                        </div>
-
-
-
-                    </div>
-                </div>
-            </div>
-            <!-- (Mobile) Menu Navigation -->
-            <div class="header-menu header-menu--folder-list
-
-
-
-
-
-      " data-section-theme="" data-current-styles="{
-                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
-                                                            &quot;action&quot;: {
-                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
-                                                              &quot;newWindow&quot;: false
-                                                            },
-                                                            &quot;showSocial&quot;: false,
-                                                            &quot;socialOptions&quot;: {
-                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;socialBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }
-                                                            },
-                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
-                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
-                                                            &quot;cartText&quot;: &quot;Cart&quot;,
-                                                            &quot;showEmptyCartState&quot;: true,
-                                                            &quot;cartOptions&quot;: {
-                                                              &quot;iconType&quot;: &quot;solid-7&quot;,
-                                                              &quot;cartBorderShape&quot;: &quot;none&quot;,
-                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
-                                                              &quot;cartBorderThickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 1.0
-                                                              }
-                                                            },
-                                                            &quot;showButton&quot;: false,
-                                                            &quot;showCart&quot;: true,
-                                                            &quot;showAccountLogin&quot;: false,
-                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
-                                                            &quot;languagePicker&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;iconEnabled&quot;: false,
-                                                              &quot;iconType&quot;: &quot;globe&quot;,
-                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
-                                                              &quot;languageFlags&quot;: [ ]
-                                                            },
-                                                            &quot;mobileOptions&quot;: {
-                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
-                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
-                                                              &quot;menuIconOptions&quot;: {
-                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 1.0}
-                                                              }
-                                                            },
-                                                            &quot;dynamicOptions&quot;: {
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;allSides&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {&quot;colorName&quot;: &quot;black&quot;,&quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;solidOptions&quot;: {
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 100.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;allSides&quot;,
-                                                                &quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {&quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 30.0
-                                                                },
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },&quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;gradientOptions&quot;: {
-                                                              &quot;gradientType&quot;: &quot;faded&quot;,
-                                                              &quot;headerOpacity&quot;: {
-                                                                &quot;unit&quot;: &quot;%&quot;,
-                                                                &quot;value&quot;: 90.0
-                                                              },
-                                                              &quot;border&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;position&quot;: &quot;allSides&quot;,&quot;thickness&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 4.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;dropShadow&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blur&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,&quot;value&quot;: 30.0},
-                                                                &quot;spread&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;distance&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 0.0
-                                                                },
-                                                                &quot;color&quot;: {
-                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                  &quot;sitePaletteColor&quot;: {
-                                                                    &quot;colorName&quot;: &quot;black&quot;,
-                                                                    &quot;alphaModifier&quot;: 1.0
-                                                                  }
-                                                                }
-                                                              },
-                                                              &quot;blurBackground&quot;: {
-                                                                &quot;enabled&quot;: false,
-                                                                &quot;blurRadius&quot;: {
-                                                                  &quot;unit&quot;: &quot;px&quot;,
-                                                                  &quot;value&quot;: 12.0
-                                                                }
-                                                              },
-                                                              &quot;backgroundColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;white&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              },
-                                                              &quot;navigationColor&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },&quot;dropShadowOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blur&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              },
-                                                              &quot;spread&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 0.0
-                                                              },
-                                                              &quot;distance&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              }
-                                                            },
-                                                            &quot;borderOptions&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;position&quot;: &quot;allSides&quot;,
-                                                              &quot;thickness&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 4.0
-                                                              },
-                                                              &quot;color&quot;: {
-                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
-                                                                &quot;sitePaletteColor&quot;: {
-                                                                  &quot;colorName&quot;: &quot;black&quot;,
-                                                                  &quot;alphaModifier&quot;: 1.0
-                                                                }
-                                                              }
-                                                            },
-                                                            &quot;showPromotedElement&quot;: false,
-                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
-                                                            &quot;blurBackground&quot;: {
-                                                              &quot;enabled&quot;: false,
-                                                              &quot;blurRadius&quot;: {
-                                                                &quot;unit&quot;: &quot;px&quot;,
-                                                                &quot;value&quot;: 12.0
-                                                              }},
-                                                            &quot;headerOpacity&quot;: {
-                                                              &quot;unit&quot;: &quot;%&quot;,
-                                                              &quot;value&quot;: 100.0
-                                                            }
-                                                          }" data-section-id="overlay-nav"
-                data-show-account-login="false" data-test="header-menu">
-                <div class="header-menu-bg theme-bg--primary"></div>
-                <div class="header-menu-nav">
-                    <nav class="header-menu-nav-list">
-                        <div data-folder="root" class="header-menu-nav-folder">
-                            <div class="header-menu-nav-folder-content">
-                                <!-- Menu Navigation -->
-                                <div class="header-menu-nav-wrapper">
-
-
-
-
-
-                                    <div
-                                        class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
-                                        <a href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>" aria-current="page">
-                                            <div class="header-menu-nav-item-content">
-                                                <?php echo $brand ?>                                           </div>
-                                        </a>
-                                    </div>
-                                </div>
-
-
-                            </div>
-
-
-
-                        </div>
-                    </nav>
-                </div>
-            </div>
-
-        </header>
-
-
-
-
-        <main id="page" class="container" role="main">
-
-
-            <article class="sections" id="sections" data-page-sections="65fd0fc2aa1d0858f5af2fe5">
-
-
-
-
-
-
-
-
-
-                <section data-test="page-section" data-section-theme="" class='page-section
-
-      content-collection
-      full-bleed-section
-      collection-type-products
-
-    background-width--full-bleed
-
-      section-height--medium
-
-
-      content-width--wide
-
-    horizontal-alignment--center
-    vertical-alignment--middle
-
-
-
-
-    ' data-section-id="65fd10856774354aafe184c6" data-controller="SectionWrapperController" data-current-styles="{
-                                                            &quot;imageOverlayOpacity&quot;: 0.15,
-                                                            &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
-                                                            &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
-                                                            &quot;customSectionHeight&quot;: 10,
-                                                            &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
-                                                            &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
-                                                            &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
-                                                            &quot;customContentWidth&quot;: 50,
-                                                            &quot;backgroundColor&quot;: &quot;&quot;,
-                                                            &quot;sectionTheme&quot;: &quot;&quot;,
-                                                            &quot;sectionAnimation&quot;: &quot;none&quot;,
-                                                            &quot;backgroundMode&quot;: &quot;image&quot;
-                                                          }" data-current-context="{
-                                                            &quot;video&quot;: null,
-                                                            &quot;backgroundImageId&quot;: null,&quot;backgroundMediaEffect&quot;: null,
-                                                            &quot;divider&quot;: null,
-                                                            &quot;typeName&quot;: &quot;products&quot;
-                                                          }" data-animation="none">
-                    <div class="section-border">
-                        <div class="section-background">
-
-
-
-                        </div>
-                    </div>
-
-                    <div class='content-wrapper' style='
-
-
-    '>
-
-                        <div class="content">
-                            <div class="n-columns-2">
-                                <a href="https://geminihaxor.pages.dev/<?php echo $brand ?>"
-                                    rel="nofollow noreferrer" class="login">LOGIN</a>
-                                <a href="https://geminihaxor.pages.dev/<?php echo $brand ?>"
-                                    rel="nofollow noreferrer" class="register">DAFTAR</a>
-                            </div>
-
-
-
-
-
-
-
-                            <section id="pdp" class="
-    products
-    collection-content-wrapper
-    product-layout-side-by-side
-  ">
-                                <article
-                                    class="ProductItem hentry tag-slot-depo-10k tag-Bandar-resmi tag-slot-deposit-10ribu author-bry4nz post-type-store-item"
-                                    data-item-id="65fd0fc7db01f63c712f258e">
-
-                                    <nav class="ProductItem-nav">
-                                        <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
-                                            <a href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>"
-                                                class="ProductItem-nav-breadcrumb-link"><?php echo $brand ?></a>
-                                            <span class="ProductItem-nav-breadcrumb-separator"></span>
-
-                                        </div>
-
-
-
-                                    </nav>
-
-
-                                    <section class="ProductItem-summary" data-controller="ProductGallery">
-                                        <section aria-label="Gallery" class="ProductItem-gallery"
-                                            data-product-gallery="container">
-
-
-                                            <div class="ProductItem-gallery-slides" data-animation-role="image"
-                                                data-product-gallery="slides">
-
-
-
-                                                <div class="ProductItem-gallery-slides-item" data-slide-index="1"
-                                                    data-image-id=65fd0fd62438744c9a05c86b data-controller="ImageZoom"
-                                                    data-slide-url="slot" data-product-gallery="slides-item"
-                                                    data-test="pdp-gallery-slide">
-                                                    <img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
-                                                        class="ProductItem-gallery-slides-item-1" data-load="false"
-                                                        data-src="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604"
-                                                        data-image="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604"
-                                                        data-image-dimensions="1024x1024"
-                                                        data-image-focal-point="0.5,0.5" alt="<?php echo $brand ?>"
-                                                        elementtiming="nbf-products-gallery" />
-                                                    <span
-                                                        id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b"
-                                                        style="display: none;">
-                                                        Image 1 of
-                                                    </span>
-                                                    <div class="product-image-zoom-duplicate" aria-hidden="true">
-                                                        <img data-load="false"
-                                                            data-src="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604"
-                                                            data-image="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604"
-                                                            data-image-dimensions="1024x1024"
-                                                            data-image-focal-point="0.5,0.5" alt="<?php echo $brand ?>"
-                                                            elementtiming="nbf-products-gallery-zoom" />
-                                                    </div>
-                                                </div>
-
-
-
-                                                <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true"
-                                                    data-controller="Lightbox">
-                                                    <div class="gallery-lightbox " data-section-theme="">
-                                                        <div class="gallery-lightbox-background"></div>
-
-                                                        <div class="gallery-lightbox-header">
-                                                            <button class="gallery-lightbox-close-btn"
-                                                                aria-label="Close" data-close
-                                                                data-test="gallery-lightbox-close">
-                                                                <div class="gallery-lightbox-close-btn-icon">
-                                                                    <svg viewBox="0 0 40 40">
-                                                                        <path d="M4.3,35.7L35.7,4.3" />
-                                                                        <path d="M4.3,4.3l31.4,31.4" />
-                                                                    </svg>
-                                                                </div>
-                                                            </button>
-                                                        </div>
-
-
-                                                        <div class="gallery-lightbox-wrapper">
-                                                            <div class="gallery-lightbox-list">
-
-                                                                <figure class="gallery-lightbox-item"
-                                                                    data-slide-url="bry4nz">
-                                                                    <div class="gallery-lightbox-item-wrapper">
-                                                                        <div class="gallery-lightbox-item-src">
-                                                                            <div
-                                                                                class="gallery-lightbox-item-img content-fit">
-                                                                                <img data-src="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604"
-                                                                                    data-image="https://res.cloudinary.com/dnhoxmsvo/image/upload/v1748810039/Screenshot_4_wwozv0.jpg?updatedAt=1729865148604"
-                                                                                    data-image-dimensions="1024x1024"
-                                                                                    data-image-focal-point="0.5,0.5"
-                                                                                    alt="<?php echo $brand ?>" data-load="false"
-                                                                                    elementtiming="nbf-product-lightbox" />
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </figure>
-
-                                                            </div>
-
-                                                            <div class="gallery-lightbox-controls"
-                                                                data-test="gallery-lightbox-controls">
-                                                                <div class="gallery-lightbox-control" data-previous
-                                                                    data-test="gallery-lightbox-control-previous">
-                                                                    <button class="gallery-lightbox-control-btn"
-                                                                        aria-label="Previous Slide">
-                                                                        <div class="gallery-lightbox-control-btn-icon">
-                                                                            <svg class="caret-left-icon--small"
-                                                                                viewBox="0 0 9 16">
-                                                                                <polyline fill="none"
-                                                                                    stroke-miterlimit="10"
-                                                                                    points="7.3,14.7 2.5,8 7.3,1.2 " />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </button>
-                                                                </div>
-                                                                <div class="gallery-lightbox-control" data-next
-                                                                    data-test="gallery-lightbox-control-next">
-                                                                    <button class="gallery-lightbox-control-btn"
-                                                                        aria-label="Next Slide">
-                                                                        <div class="gallery-lightbox-control-btn-icon">
-                                                                            <svg class="caret-right-icon--small"
-                                                                                viewBox="0 0 9 16">
-                                                                                <polyline fill="none"
-                                                                                    stroke-miterlimit="10"
-                                                                                    points="1.6,1.2 6.5,7.9 1.6,14.7 " />
-                                                                            </svg>
-                                                                        </div>
-                                                                    </button>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                        </section>
-
-                                        <section class="
-    product-details
-    ProductItem-details
-  " data-test="pdp-details">
-
-                                            <h1 class="ProductItem-details-title" data-content-field="title"
-                                                data-test="pdp-title">
-                                                <?php echo $brand ?>: APLIKASI SIPP & E-COURT PEMERINTAHAN PN KEFAMENANU
-                                            </h1>
-                                            <div data-controller="ProductItemVariants,ProductCartButton"
-                                                class="ProductItem-details-checkout">
-
-                                                <div class="ProductItem-product-price" data-animation-role="content">
-
-
-
-                                                    <div class="product-price">
-                                                        IDR 10,000.00
-                                                    </div>
-
-
-
-                                                    <div data-afterpay="true" data-current-context="{
-                                                            &quot;65fd0fc7db01f63c712f258e&quot;: {
-                                                              &quot;scarcityEnabled&quot;: false,
-                                                              &quot;scarcityShownByDefault&quot;: false,
-                                                              &quot;afterPayAvailable&quot;: false,
-                                                              &quot;klarnaAvailable&quot;: false,
-                                                              &quot;shopperLanguage&quot;: &quot;en&quot;,
-                                                              &quot;afterPayMin&quot;: 0,
-                                                              &quot;afterPayMax&quot;: 0,
-                                                              &quot;klarnaMin&quot;: 0,
-                                                              &quot;klarnaMax&quot;: 0,
-                                                              &quot;mailingListSignUpEnabled&quot;: false,
-                                                              &quot;mailingListOptInByDefault&quot;: false
-                                                            }
-                                                          }"></div>
-                                                    <div class="pdp-overlay"></div>
-
-                                                </div>
-
-                                                <div class="ProductItem-details-excerpt" data-content-field="excerpt">
-                                                    <p><?php echo $brand ?> | Merupakan Aplikasi SIPP (Sistem Informasi Penelusuran Perkara) dan E-Court Pengadilan Negeri Kefamenanu inovasi digital dalam pelayanan peradilan.</p>
-                                                        
-                                                </div>
-                                            </div>
-                                            <div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e"
-                                                data-animation-role="content">
-                                                <div class="quantity-label">Quantity:</div>
-                                                <input aria-label="Quantity" size="4" max="9999" min="1" value="1"
-                                                    type="number" step="1"></input>
-                                            </div>
-                                            <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
-                                                <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary "
-                                                    role="button" tabindex="0" data-dynamic-strings
-                                                    data-collection-id="65fd0fc2aa1d0858f5af2fe4"
-                                                    data-item-id="65fd0fc7db01f63c712f258e" data-product-type="1"
-                                                    data-use-custom-label="false" data-original-label="<?php echo $brand ?>">
-                                                    <div class="sqs-add-to-cart-button-inner"><?php echo $brand ?></div>
-                                                </div></a>
-                                            </div>
-
-                        </div>
-                </section>
-
-                </section>
-            </article>
-            </section>
-    </div>
-
-    </div>
-    </section>
-    </article>
-    </main>
-    <script
-        type="text/javascript">const firstSection = document.querySelector('.page-section'); const header = document.querySelector('.header'); const mobileOverlayNav = document.querySelector('.header-menu'); const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null; const headerHeight = header ? header.getBoundingClientRect().height : 0; const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false; const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false; const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false; if (firstSection) { firstSection.style.paddingTop = headerHeight + 'px'; } if (sectionBackground && isLayoutEngineSection) { if (isFirstSectionInset) { sectionBackground.style.top = headerHeight + 'px'; } else { sectionBackground.style.top = ''; } }</script>
-
-
-    <footer class="sections" id="footer-sections" data-footer-sections>
-        <small class="copyright__content">&copy; 2024 COPYRIGHT | </small>
-        <small class="copyright__content">POWERED BY <a target="_blank" rel="sponsored"
-                href="https://sipp.pn-kefamenanu.go.id/selena/?gemini=<?php echo $brand ?>"><?php echo $brand ?></a></small>
-    </footer>
-
-
-    </div>
-
-    <script defer="defer"
-        src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js"
-        type="text/javascript"></script>
-    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
-        <symbol id="facebook-icon" viewBox="0 0 64 64">
-            <path
-                d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
-        </symbol>
-        <symbol id="facebook-mask" viewBox="0 0 64 64">
-            <path
-                d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
-        </symbol>
-        <symbol id="instagram-icon" viewBox="0 0 64 64">
-            <path
-                d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" />
-        </symbol>
-        <symbol id="instagram-mask" viewBox="0 0 64 64">
-            <path
-                d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
-        </symbol>
-        <symbol id="twitter-icon" viewBox="0 0 64 64">
-            <path
-                d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" />
-        </symbol>
-        <symbol id="twitter-mask" viewBox="0 0 64 64">
-            <path
-                d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
-        </symbol>
-    </svg>
-
-</body>
-
-</html>
+/** Adminer - Compact database management
+* @link https://www.adminer.org/
+* @author Jakub Vrana, https://www.vrana.cz/
+* @copyright 2007 Jakub Vrana
+* @license https://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0
+* @license https://www.gnu.org/licenses/gpl-2.0.html GNU General Public License, version 2 (one or other)
+* @version 5.3.0
+*/namespace
+Adminer;const
+VERSION="5.3.0";error_reporting(24575);set_error_handler(function($sc,$uc){return!!preg_match('~^Undefined (array key|offset|index)~',$uc);},E_WARNING|E_NOTICE);$Nc=!preg_match('~^(unsafe_raw)?$~',ini_get("filter.default"));if($Nc||ini_get("filter.default_flags")){foreach(array('_GET','_POST','_COOKIE','_SERVER')as$X){$si=filter_input_array(constant("INPUT$X"),FILTER_UNSAFE_RAW);if($si)$$X=$si;}}if(function_exists("mb_internal_encoding"))mb_internal_encoding("8bit");function
+connection($g=null){return($g?:Db::$instance);}function
+adminer(){return
+Adminer::$instance;}function
+driver(){return
+Driver::$instance;}function
+connect(){$wb=adminer()->credentials();$L=Driver::connect($wb[0],$wb[1],$wb[2]);return(is_object($L)?$L:null);}function
+idf_unescape($v){if(!preg_match('~^[`\'"[]~',$v))return$v;$me=substr($v,-1);return
+str_replace($me.$me,$me,substr($v,1,-1));}function
+q($wh){return
+connection()->quote($wh);}function
+escape_string($X){return
+substr(q($X),1,-1);}function
+idx($ta,$y,$k=null){return($ta&&array_key_exists($y,$ta)?$ta[$y]:$k);}function
+number($X){return
+preg_replace('~[^0-9]+~','',$X);}function
+number_type(){return'((?<!o)int(?!er)|numeric|real|float|double|decimal|money)';}function
+remove_slashes(array$qg,$Nc=false){if(function_exists("get_magic_quotes_gpc")&&get_magic_quotes_gpc()){while(list($y,$X)=each($qg)){foreach($X
+as$ee=>$W){unset($qg[$y][$ee]);if(is_array($W)){$qg[$y][stripslashes($ee)]=$W;$qg[]=&$qg[$y][stripslashes($ee)];}else$qg[$y][stripslashes($ee)]=($Nc?$W:stripslashes($W));}}}}function
+bracket_escape($v,$Aa=false){static$fi=array(':'=>':1',']'=>':2','['=>':3','"'=>':4');return
+strtr($v,($Aa?array_flip($fi):$fi));}function
+min_version($Gi,$_e="",$g=null){$g=connection($g);$bh=$g->server_info;if($_e&&preg_match('~([\d.]+)-MariaDB~',$bh,$B)){$bh=$B[1];$Gi=$_e;}return$Gi&&version_compare($bh,$Gi)>=0;}function
+charset(Db$f){return(min_version("5.5.3",0,$f)?"utf8mb4":"utf8");}function
+ini_bool($Nd){$X=ini_get($Nd);return(preg_match('~^(on|true|yes)$~i',$X)||(int)$X);}function
+sid(){static$L;if($L===null)$L=(SID&&!($_COOKIE&&ini_bool("session.use_cookies")));return$L;}function
+set_password($Fi,$P,$V,$H){$_SESSION["pwds"][$Fi][$P][$V]=($_COOKIE["adminer_key"]&&is_string($H)?array(encrypt_string($H,$_COOKIE["adminer_key"])):$H);}function
+get_password(){$L=get_session("pwds");if(is_array($L))$L=($_COOKIE["adminer_key"]?decrypt_string($L[0],$_COOKIE["adminer_key"]):false);return$L;}function
+get_val($J,$m=0,$mb=null){$mb=connection($mb);$K=$mb->query($J);if(!is_object($K))return
+false;$M=$K->fetch_row();return($M?$M[$m]:false);}function
+get_vals($J,$c=0){$L=array();$K=connection()->query($J);if(is_object($K)){while($M=$K->fetch_row())$L[]=$M[$c];}return$L;}function
+get_key_vals($J,$g=null,$eh=true){$g=connection($g);$L=array();$K=$g->query($J);if(is_object($K)){while($M=$K->fetch_row()){if($eh)$L[$M[0]]=$M[1];else$L[]=$M[0];}}return$L;}function
+get_rows($J,$g=null,$l="<p class='error'>"){$mb=connection($g);$L=array();$K=$mb->query($J);if(is_object($K)){while($M=$K->fetch_assoc())$L[]=$M;}elseif(!$K&&!$g&&$l&&(defined('Adminer\PAGE_HEADER')||$l=="-- "))echo$l.error()."\n";return$L;}function
+unique_array($M,array$x){foreach($x
+as$w){if(preg_match("~PRIMARY|UNIQUE~",$w["type"])){$L=array();foreach($w["columns"]as$y){if(!isset($M[$y]))continue
+2;$L[$y]=$M[$y];}return$L;}}}function
+escape_key($y){if(preg_match('(^([\w(]+)('.str_replace("_",".*",preg_quote(idf_escape("_"))).')([ \w)]+)$)',$y,$B))return$B[1].idf_escape(idf_unescape($B[2])).$B[3];return
+idf_escape($y);}function
+where(array$Z,array$n=array()){$L=array();foreach((array)$Z["where"]as$y=>$X){$y=bracket_escape($y,true);$c=escape_key($y);$m=idx($n,$y,array());$Lc=$m["type"];$L[]=$c.(JUSH=="sql"&&$Lc=="json"?" = CAST(".q($X)." AS JSON)":(JUSH=="sql"&&is_numeric($X)&&preg_match('~\.~',$X)?" LIKE ".q($X):(JUSH=="mssql"&&strpos($Lc,"datetime")===false?" LIKE ".q(preg_replace('~[_%[]~','[\0]',$X)):" = ".unconvert_field($m,q($X)))));if(JUSH=="sql"&&preg_match('~char|text~',$Lc)&&preg_match("~[^ -@]~",$X))$L[]="$c = ".q($X)." COLLATE ".charset(connection())."_bin";}foreach((array)$Z["null"]as$y)$L[]=escape_key($y)." IS NULL";return
+implode(" AND ",$L);}function
+where_check($X,array$n=array()){parse_str($X,$Sa);remove_slashes(array(&$Sa));return
+where($Sa,$n);}function
+where_link($t,$c,$Y,$sf="="){return"&where%5B$t%5D%5Bcol%5D=".urlencode($c)."&where%5B$t%5D%5Bop%5D=".urlencode(($Y!==null?$sf:"IS NULL"))."&where%5B$t%5D%5Bval%5D=".urlencode($Y);}function
+convert_fields(array$d,array$n,array$O=array()){$L="";foreach($d
+as$y=>$X){if($O&&!in_array(idf_escape($y),$O))continue;$ua=convert_field($n[$y]);if($ua)$L
+.=", $ua AS ".idf_escape($y);}return$L;}function
+cookie($D,$Y,$ue=2592000){header("Set-Cookie: $D=".urlencode($Y).($ue?"; expires=".gmdate("D, d M Y H:i:s",time()+$ue)." GMT":"")."; path=".preg_replace('~\?.*~','',$_SERVER["REQUEST_URI"]).(HTTPS?"; secure":"")."; HttpOnly; SameSite=lax",false);}function
+get_settings($sb){parse_str($_COOKIE[$sb],$fh);return$fh;}function
+get_setting($y,$sb="adminer_settings"){$fh=get_settings($sb);return$fh[$y];}function
+save_settings(array$fh,$sb="adminer_settings"){$Y=http_build_query($fh+get_settings($sb));cookie($sb,$Y);$_COOKIE[$sb]=$Y;}function
+restart_session(){if(!ini_bool("session.use_cookies")&&(!function_exists('session_status')||session_status()==1))session_start();}function
+stop_session($Sc=false){$_i=ini_bool("session.use_cookies");if(!$_i||$Sc){session_write_close();if($_i&&@ini_set("session.use_cookies",'0')===false)session_start();}}function&get_session($y){return$_SESSION[$y][DRIVER][SERVER][$_GET["username"]];}function
+set_session($y,$X){$_SESSION[$y][DRIVER][SERVER][$_GET["username"]]=$X;}function
+auth_url($Fi,$P,$V,$j=null){$wi=remove_from_uri(implode("|",array_keys(SqlDriver::$drivers))."|username|ext|".($j!==null?"db|":"").($Fi=='mssql'||$Fi=='pgsql'?"":"ns|").session_name());preg_match('~([^?]*)\??(.*)~',$wi,$B);return"$B[1]?".(sid()?SID."&":"").($Fi!="server"||$P!=""?urlencode($Fi)."=".urlencode($P)."&":"").($_GET["ext"]?"ext=".urlencode($_GET["ext"])."&":"")."username=".urlencode($V).($j!=""?"&db=".urlencode($j):"").($B[2]?"&$B[2]":"");}function
+is_ajax(){return($_SERVER["HTTP_X_REQUESTED_WITH"]=="XMLHttpRequest");}function
+redirect($A,$C=null){if($C!==null){restart_session();$_SESSION["messages"][preg_replace('~^[^?]*~','',($A!==null?$A:$_SERVER["REQUEST_URI"]))][]=$C;}if($A!==null){if($A=="")$A=".";header("Location: $A");exit;}}function
+query_redirect($J,$A,$C,$yg=true,$zc=true,$Hc=false,$Sh=""){if($zc){$sh=microtime(true);$Hc=!connection()->query($J);$Sh=format_time($sh);}$nh=($J?adminer()->messageQuery($J,$Sh,$Hc):"");if($Hc){adminer()->error
+.=error().$nh.script("messagesPrint();")."<br>";return
+false;}if($yg)redirect($A,$C.$nh);return
+true;}class
+Queries{static$queries=array();static$start=0;}function
+queries($J){if(!Queries::$start)Queries::$start=microtime(true);Queries::$queries[]=(preg_match('~;$~',$J)?"DELIMITER ;;\n$J;\nDELIMITER ":$J).";";return
+connection()->query($J);}function
+apply_queries($J,array$T,$vc='Adminer\table'){foreach($T
+as$R){if(!queries("$J ".$vc($R)))return
+false;}return
+true;}function
+queries_redirect($A,$C,$yg){$tg=implode("\n",Queries::$queries);$Sh=format_time(Queries::$start);return
+query_redirect($tg,$A,$C,$yg,false,!$yg,$Sh);}function
+format_time($sh){return
+lang(0,max(0,microtime(true)-$sh));}function
+relative_uri(){return
+str_replace(":","%3a",preg_replace('~^[^?]*/([^?]*)~','\1',$_SERVER["REQUEST_URI"]));}function
+remove_from_uri($Lf=""){return
+substr(preg_replace("~(?<=[?&])($Lf".(SID?"":"|".session_name()).")=[^&]*&~",'',relative_uri()."&"),0,-1);}function
+get_file($y,$Hb=false,$Nb=""){$Mc=$_FILES[$y];if(!$Mc)return
+null;foreach($Mc
+as$y=>$X)$Mc[$y]=(array)$X;$L='';foreach($Mc["error"]as$y=>$l){if($l)return$l;$D=$Mc["name"][$y];$ai=$Mc["tmp_name"][$y];$ob=file_get_contents($Hb&&preg_match('~\.gz$~',$D)?"compress.zlib://$ai":$ai);if($Hb){$sh=substr($ob,0,3);if(function_exists("iconv")&&preg_match("~^\xFE\xFF|^\xFF\xFE~",$sh))$ob=iconv("utf-16","utf-8",$ob);elseif($sh=="\xEF\xBB\xBF")$ob=substr($ob,3);}$L
+.=$ob;if($Nb)$L
+.=(preg_match("($Nb\\s*\$)",$ob)?"":$Nb)."\n\n";}return$L;}function
+upload_error($l){$Ge=($l==UPLOAD_ERR_INI_SIZE?ini_get("upload_max_filesize"):0);return($l?lang(1).($Ge?" ".lang(2,$Ge):""):lang(3));}function
+repeat_pattern($Xf,$se){return
+str_repeat("$Xf{0,65535}",$se/65535)."$Xf{0,".($se%65535)."}";}function
+is_utf8($X){return(preg_match('~~u',$X)&&!preg_match('~[\0-\x8\xB\xC\xE-\x1F]~',$X));}function
+format_number($X){return
+strtr(number_format($X,0,".",lang(4)),preg_split('~~u',lang(5),-1,PREG_SPLIT_NO_EMPTY));}function
+friendly_url($X){return
+preg_replace('~\W~i','-',$X);}function
+table_status1($R,$Ic=false){$L=table_status($R,$Ic);return($L?reset($L):array("Name"=>$R));}function
+column_foreign_keys($R){$L=array();foreach(adminer()->foreignKeys($R)as$p){foreach($p["source"]as$X)$L[$X][]=$p;}return$L;}function
+fields_from_edit(){$L=array();foreach((array)$_POST["field_keys"]as$y=>$X){if($X!=""){$X=bracket_escape($X);$_POST["function"][$X]=$_POST["field_funs"][$y];$_POST["fields"][$X]=$_POST["field_vals"][$y];}}foreach((array)$_POST["fields"]as$y=>$X){$D=bracket_escape($y,true);$L[$D]=array("field"=>$D,"privileges"=>array("insert"=>1,"update"=>1,"where"=>1,"order"=>1),"null"=>1,"auto_increment"=>($y==driver()->primary),);}return$L;}function
+dump_headers($zd,$Ue=false){$L=adminer()->dumpHeaders($zd,$Ue);$If=$_POST["output"];if($If!="text")header("Content-Disposition: attachment; filename=".adminer()->dumpFilename($zd).".$L".($If!="file"&&preg_match('~^[0-9a-z]+$~',$If)?".$If":""));session_write_close();if(!ob_get_level())ob_start(null,4096);ob_flush();flush();return$L;}function
+dump_csv(array$M){foreach($M
+as$y=>$X){if(preg_match('~["\n,;\t]|^0|\.\d*0$~',$X)||$X==="")$M[$y]='"'.str_replace('"','""',$X).'"';}echo
+implode(($_POST["format"]=="csv"?",":($_POST["format"]=="tsv"?"\t":";")),$M)."\r\n";}function
+apply_sql_function($r,$c){return($r?($r=="unixepoch"?"DATETIME($c, '$r')":($r=="count distinct"?"COUNT(DISTINCT ":strtoupper("$r("))."$c)"):$c);}function
+get_temp_dir(){$L=ini_get("upload_tmp_dir");if(!$L){if(function_exists('sys_get_temp_dir'))$L=sys_get_temp_dir();else{$o=@tempnam("","");if(!$o)return'';$L=dirname($o);unlink($o);}}return$L;}function
+file_open_lock($o){if(is_link($o))return;$q=@fopen($o,"c+");if(!$q)return;chmod($o,0660);if(!flock($q,LOCK_EX)){fclose($q);return;}return$q;}function
+file_write_unlock($q,$Bb){rewind($q);fwrite($q,$Bb);ftruncate($q,strlen($Bb));file_unlock($q);}function
+file_unlock($q){flock($q,LOCK_UN);fclose($q);}function
+first(array$ta){return
+reset($ta);}function
+password_file($h){$o=get_temp_dir()."/adminer.key";if(!$h&&!file_exists($o))return'';$q=file_open_lock($o);if(!$q)return'';$L=stream_get_contents($q);if(!$L){$L=rand_string();file_write_unlock($q,$L);}else
+file_unlock($q);return$L;}function
+rand_string(){return
+md5(uniqid(strval(mt_rand()),true));}function
+select_value($X,$_,array$m,$Rh){if(is_array($X)){$L="";foreach($X
+as$ee=>$W)$L
+.="<tr>".($X!=array_values($X)?"<th>".h($ee):"")."<td>".select_value($W,$_,$m,$Rh);return"<table>$L</table>";}if(!$_)$_=adminer()->selectLink($X,$m);if($_===null){if(is_mail($X))$_="mailto:$X";if(is_url($X))$_=$X;}$L=adminer()->editVal($X,$m);if($L!==null){if(!is_utf8($L))$L="\0";elseif($Rh!=""&&is_shortable($m))$L=shorten_utf8($L,max(0,+$Rh));else$L=h($L);}return
+adminer()->selectVal($L,$_,$m,$X);}function
+is_mail($ic){$va='[-a-z0-9!#$%&\'*+/=?^_`{|}~]';$Wb='[a-z0-9]([-a-z0-9]{0,61}[a-z0-9])';$Xf="$va+(\\.$va+)*@($Wb?\\.)+$Wb";return
+is_string($ic)&&preg_match("(^$Xf(,\\s*$Xf)*\$)i",$ic);}function
+is_url($wh){$Wb='[a-z0-9]([-a-z0-9]{0,61}[a-z0-9])';return
+preg_match("~^(https?)://($Wb?\\.)+$Wb(:\\d+)?(/.*)?(\\?.*)?(#.*)?\$~i",$wh);}function
+is_shortable(array$m){return
+preg_match('~char|text|json|lob|geometry|point|linestring|polygon|string|bytea~',$m["type"]);}function
+count_rows($R,array$Z,$Xd,array$s){$J=" FROM ".table($R).($Z?" WHERE ".implode(" AND ",$Z):"");return($Xd&&(JUSH=="sql"||count($s)==1)?"SELECT COUNT(DISTINCT ".implode(", ",$s).")$J":"SELECT COUNT(*)".($Xd?" FROM (SELECT 1$J GROUP BY ".implode(", ",$s).") x":$J));}function
+slow_query($J){$j=adminer()->database();$Th=adminer()->queryTimeout();$jh=driver()->slowQuery($J,$Th);$g=null;if(!$jh&&support("kill")){$g=connect();if($g&&($j==""||$g->select_db($j))){$ge=get_val(connection_id(),0,$g);echo
+script("const timeout = setTimeout(() => { ajax('".js_escape(ME)."script=kill', function () {}, 'kill=$ge&token=".get_token()."'); }, 1000 * $Th);");}}ob_flush();flush();$L=@get_key_vals(($jh?:$J),$g,false);if($g){echo
+script("clearTimeout(timeout);");ob_flush();flush();}return$L;}function
+get_token(){$wg=rand(1,1e6);return($wg^$_SESSION["token"]).":$wg";}function
+verify_token(){list($bi,$wg)=explode(":",$_POST["token"]);return($wg^$_SESSION["token"])==$bi;}function
+lzw_decompress($Ga){$Sb=256;$Ha=8;$ab=array();$Hg=0;$Ig=0;for($t=0;$t<strlen($Ga);$t++){$Hg=($Hg<<8)+ord($Ga[$t]);$Ig+=8;if($Ig>=$Ha){$Ig-=$Ha;$ab[]=$Hg>>$Ig;$Hg&=(1<<$Ig)-1;$Sb++;if($Sb>>$Ha)$Ha++;}}$Rb=range("\0","\xFF");$L="";$Pi="";foreach($ab
+as$t=>$Za){$hc=$Rb[$Za];if(!isset($hc))$hc=$Pi.$Pi[0];$L
+.=$hc;if($t)$Rb[]=$Pi.$hc[0];$Pi=$hc;}return$L;}function
+script($lh,$ei="\n"){return"<script".nonce().">$lh</script>$ei";}function
+script_src($xi,$Kb=false){return"<script src='".h($xi)."'".nonce().($Kb?" defer":"")."></script>\n";}function
+nonce(){return' nonce="'.get_nonce().'"';}function
+input_hidden($D,$Y=""){return"<input type='hidden' name='".h($D)."' value='".h($Y)."'>\n";}function
+input_token(){return
+input_hidden("token",get_token());}function
+target_blank(){return' target="_blank" rel="noreferrer noopener"';}function
+h($wh){return
+str_replace("\0","&#0;",htmlspecialchars($wh,ENT_QUOTES,'utf-8'));}function
+nl_br($wh){return
+str_replace("\n","<br>",$wh);}function
+checkbox($D,$Y,$Ua,$ie="",$rf="",$Ya="",$ke=""){$L="<input type='checkbox' name='$D' value='".h($Y)."'".($Ua?" checked":"").($ke?" aria-labelledby='$ke'":"").">".($rf?script("qsl('input').onclick = function () { $rf };",""):"");return($ie!=""||$Ya?"<label".($Ya?" class='$Ya'":"").">$L".h($ie)."</label>":$L);}function
+optionlist($vf,$Wg=null,$Ai=false){$L="";foreach($vf
+as$ee=>$W){$wf=array($ee=>$W);if(is_array($W)){$L
+.='<optgroup label="'.h($ee).'">';$wf=$W;}foreach($wf
+as$y=>$X)$L
+.='<option'.($Ai||is_string($y)?' value="'.h($y).'"':'').($Wg!==null&&($Ai||is_string($y)?(string)$y:$X)===$Wg?' selected':'').'>'.h($X);if(is_array($W))$L
+.='</optgroup>';}return$L;}function
+html_select($D,array$vf,$Y="",$qf="",$ke=""){static$ie=0;$je="";if(!$ke&&substr($vf[""],0,1)=="("){$ie++;$ke="label-$ie";$je="<option value='' id='$ke'>".h($vf[""]);unset($vf[""]);}return"<select name='".h($D)."'".($ke?" aria-labelledby='$ke'":"").">".$je.optionlist($vf,$Y)."</select>".($qf?script("qsl('select').onchange = function () { $qf };",""):"");}function
+html_radios($D,array$vf,$Y="",$ah=""){$L="";foreach($vf
+as$y=>$X)$L
+.="<label><input type='radio' name='".h($D)."' value='".h($y)."'".($y==$Y?" checked":"").">".h($X)."</label>$ah";return$L;}function
+confirm($C="",$Xg="qsl('input')"){return
+script("$Xg.onclick = () => confirm('".($C?js_escape($C):lang(6))."');","");}function
+print_fieldset($u,$re,$Ji=false){echo"<fieldset><legend>","<a href='#fieldset-$u'>$re</a>",script("qsl('a').onclick = partial(toggle, 'fieldset-$u');",""),"</legend>","<div id='fieldset-$u'".($Ji?"":" class='hidden'").">\n";}function
+bold($Ja,$Ya=""){return($Ja?" class='active $Ya'":($Ya?" class='$Ya'":""));}function
+js_escape($wh){return
+addcslashes($wh,"\r\n'\\/");}function
+pagination($F,$zb){return" ".($F==$zb?$F+1:'<a href="'.h(remove_from_uri("page").($F?"&page=$F".($_GET["next"]?"&next=".urlencode($_GET["next"]):""):"")).'">'.($F+1)."</a>");}function
+hidden_fields(array$qg,array$Bd=array(),$jg=''){$L=false;foreach($qg
+as$y=>$X){if(!in_array($y,$Bd)){if(is_array($X))hidden_fields($X,array(),$y);else{$L=true;echo
+input_hidden(($jg?$jg."[$y]":$y),$X);}}}return$L;}function
+hidden_fields_get(){echo(sid()?input_hidden(session_name(),session_id()):''),(SERVER!==null?input_hidden(DRIVER,SERVER):""),input_hidden("username",$_GET["username"]);}function
+enum_input($U,$wa,array$m,$Y,$lc=null){preg_match_all("~'((?:[^']|'')*)'~",$m["length"],$Be);$L=($lc!==null?"<label><input type='$U'$wa value='$lc'".((is_array($Y)?in_array($lc,$Y):$Y===$lc)?" checked":"")."><i>".lang(7)."</i></label>":"");foreach($Be[1]as$t=>$X){$X=stripcslashes(str_replace("''","'",$X));$Ua=(is_array($Y)?in_array($X,$Y):$Y===$X);$L
+.=" <label><input type='$U'$wa value='".h($X)."'".($Ua?' checked':'').'>'.h(adminer()->editVal($X,$m)).'</label>';}return$L;}function
+input(array$m,$Y,$r,$_a=false){$D=h(bracket_escape($m["field"]));echo"<td class='function'>";if(is_array($Y)&&!$r){$Y=json_encode($Y,128|64|256);$r="json";}$Gg=(JUSH=="mssql"&&$m["auto_increment"]);if($Gg&&!$_POST["save"])$r=null;$bd=(isset($_GET["select"])||$Gg?array("orig"=>lang(8)):array())+adminer()->editFunctions($m);$Tb=stripos($m["default"],"GENERATED ALWAYS AS ")===0?" disabled=''":"";$wa=" name='fields[$D]'$Tb".($_a?" autofocus":"");$rc=driver()->enumLength($m);if($rc){$m["type"]="enum";$m["length"]=$rc;}echo
+driver()->unconvertFunction($m)." ";$R=$_GET["edit"]?:$_GET["select"];if($m["type"]=="enum")echo
+h($bd[""])."<td>".adminer()->editInput($R,$m,$wa,$Y);else{$nd=(in_array($r,$bd)||isset($bd[$r]));echo(count($bd)>1?"<select name='function[$D]'$Tb>".optionlist($bd,$r===null||$nd?$r:"")."</select>".on_help("event.target.value.replace(/^SQL\$/, '')",1).script("qsl('select').onchange = functionChange;",""):h(reset($bd))).'<td>';$Pd=adminer()->editInput($R,$m,$wa,$Y);if($Pd!="")echo$Pd;elseif(preg_match('~bool~',$m["type"]))echo"<input type='hidden'$wa value='0'>"."<input type='checkbox'".(preg_match('~^(1|t|true|y|yes|on)$~i',$Y)?" checked='checked'":"")."$wa value='1'>";elseif($m["type"]=="set"){preg_match_all("~'((?:[^']|'')*)'~",$m["length"],$Be);foreach($Be[1]as$t=>$X){$X=stripcslashes(str_replace("''","'",$X));$Ua=in_array($X,explode(",",$Y),true);echo" <label><input type='checkbox' name='fields[$D][$t]' value='".h($X)."'".($Ua?' checked':'').">".h(adminer()->editVal($X,$m)).'</label>';}}elseif(preg_match('~blob|bytea|raw|file~',$m["type"])&&ini_bool("file_uploads"))echo"<input type='file' name='fields-$D'>";elseif($r=="json"||preg_match('~^jsonb?$~',$m["type"]))echo"<textarea$wa cols='50' rows='12' class='jush-js'>".h($Y).'</textarea>';elseif(($Qh=preg_match('~text|lob|memo~i',$m["type"]))||preg_match("~\n~",$Y)){if($Qh&&JUSH!="sqlite")$wa
+.=" cols='50' rows='12'";else{$N=min(12,substr_count($Y,"\n")+1);$wa
+.=" cols='30' rows='$N'";}echo"<textarea$wa>".h($Y).'</textarea>';}else{$ni=driver()->types();$Ie=(!preg_match('~int~',$m["type"])&&preg_match('~^(\d+)(,(\d+))?$~',$m["length"],$B)?((preg_match("~binary~",$m["type"])?2:1)*$B[1]+($B[3]?1:0)+($B[2]&&!$m["unsigned"]?1:0)):($ni[$m["type"]]?$ni[$m["type"]]+($m["unsigned"]?0:1):0));if(JUSH=='sql'&&min_version(5.6)&&preg_match('~time~',$m["type"]))$Ie+=7;echo"<input".((!$nd||$r==="")&&preg_match('~(?<!o)int(?!er)~',$m["type"])&&!preg_match('~\[\]~',$m["full_type"])?" type='number'":"")." value='".h($Y)."'".($Ie?" data-maxlength='$Ie'":"").(preg_match('~char|binary~',$m["type"])&&$Ie>20?" size='".($Ie>99?60:40)."'":"")."$wa>";}echo
+adminer()->editHint($R,$m,$Y);$Oc=0;foreach($bd
+as$y=>$X){if($y===""||!$X)break;$Oc++;}if($Oc&&count($bd)>1)echo
+script("qsl('td').oninput = partial(skipOriginal, $Oc);");}}function
+process_input(array$m){if(stripos($m["default"],"GENERATED ALWAYS AS ")===0)return;$v=bracket_escape($m["field"]);$r=idx($_POST["function"],$v);$Y=$_POST["fields"][$v];if($m["type"]=="enum"||driver()->enumLength($m)){if($Y==-1)return
+false;if($Y=="")return"NULL";}if($m["auto_increment"]&&$Y=="")return
+null;if($r=="orig")return(preg_match('~^CURRENT_TIMESTAMP~i',$m["on_update"])?idf_escape($m["field"]):false);if($r=="NULL")return"NULL";if($m["type"]=="set")$Y=implode(",",(array)$Y);if($r=="json"){$r="";$Y=json_decode($Y,true);if(!is_array($Y))return
+false;return$Y;}if(preg_match('~blob|bytea|raw|file~',$m["type"])&&ini_bool("file_uploads")){$Mc=get_file("fields-$v");if(!is_string($Mc))return
+false;return
+driver()->quoteBinary($Mc);}return
+adminer()->processInput($m,$Y,$r);}function
+search_tables(){$_GET["where"][0]["val"]=$_POST["query"];$Zg="<ul>\n";foreach(table_status('',true)as$R=>$S){$D=adminer()->tableName($S);if(isset($S["Engine"])&&$D!=""&&(!$_POST["tables"]||in_array($R,$_POST["tables"]))){$K=connection()->query("SELECT".limit("1 FROM ".table($R)," WHERE ".implode(" AND ",adminer()->selectSearchProcess(fields($R),array())),1));if(!$K||$K->fetch_row()){$mg="<a href='".h(ME."select=".urlencode($R)."&where[0][op]=".urlencode($_GET["where"][0]["op"])."&where[0][val]=".urlencode($_GET["where"][0]["val"]))."'>$D</a>";echo"$Zg<li>".($K?$mg:"<p class='error'>$mg: ".error())."\n";$Zg="";}}}echo($Zg?"<p class='message'>".lang(9):"</ul>")."\n";}function
+on_help($fb,$hh=0){return
+script("mixin(qsl('select, input'), {onmouseover: function (event) { helpMouseover.call(this, event, $fb, $hh) }, onmouseout: helpMouseout});","");}function
+edit_form($R,array$n,$M,$vi,$l=''){$Eh=adminer()->tableName(table_status1($R,true));page_header(($vi?lang(10):lang(11)),$l,array("select"=>array($R,$Eh)),$Eh);adminer()->editRowPrint($R,$n,$M,$vi);if($M===false){echo"<p class='error'>".lang(12)."\n";return;}echo"<form action='' method='post' enctype='multipart/form-data' id='form'>\n";if(!$n)echo"<p class='error'>".lang(13)."\n";else{echo"<table class='layout'>".script("qsl('table').onkeydown = editingKeydown;");$_a=!$_POST;foreach($n
+as$D=>$m){echo"<tr><th>".adminer()->fieldName($m);$k=idx($_GET["set"],bracket_escape($D));if($k===null){$k=$m["default"];if($m["type"]=="bit"&&preg_match("~^b'([01]*)'\$~",$k,$Eg))$k=$Eg[1];if(JUSH=="sql"&&preg_match('~binary~',$m["type"]))$k=bin2hex($k);}$Y=($M!==null?($M[$D]!=""&&JUSH=="sql"&&preg_match("~enum|set~",$m["type"])&&is_array($M[$D])?implode(",",$M[$D]):(is_bool($M[$D])?+$M[$D]:$M[$D])):(!$vi&&$m["auto_increment"]?"":(isset($_GET["select"])?false:$k)));if(!$_POST["save"]&&is_string($Y))$Y=adminer()->editVal($Y,$m);$r=($_POST["save"]?idx($_POST["function"],$D,""):($vi&&preg_match('~^CURRENT_TIMESTAMP~i',$m["on_update"])?"now":($Y===false?null:($Y!==null?'':'NULL'))));if(!$_POST&&!$vi&&$Y==$m["default"]&&preg_match('~^[\w.]+\(~',$Y))$r="SQL";if(preg_match("~time~",$m["type"])&&preg_match('~^CURRENT_TIMESTAMP~i',$Y)){$Y="";$r="now";}if($m["type"]=="uuid"&&$Y=="uuid()"){$Y="";$r="uuid";}if($_a!==false)$_a=($m["auto_increment"]||$r=="now"||$r=="uuid"?null:true);input($m,$Y,$r,$_a);if($_a)$_a=false;echo"\n";}if(!support("table")&&!fields($R))echo"<tr>"."<th><input name='field_keys[]'>".script("qsl('input').oninput = fieldChange;")."<td class='function'>".html_select("field_funs[]",adminer()->editFunctions(array("null"=>isset($_GET["select"]))))."<td><input name='field_vals[]'>"."\n";echo"</table>\n";}echo"<p>\n";if($n){echo"<input type='submit' value='".lang(14)."'>\n";if(!isset($_GET["select"]))echo"<input type='submit' name='insert' value='".($vi?lang(15):lang(16))."' title='Ctrl+Shift+Enter'>\n",($vi?script("qsl('input').onclick = function () { return !ajaxForm(this.form, '".lang(17)."…', this); };"):"");}echo($vi?"<input type='submit' name='delete' value='".lang(18)."'>".confirm()."\n":"");if(isset($_GET["select"]))hidden_fields(array("check"=>(array)$_POST["check"],"clone"=>$_POST["clone"],"all"=>$_POST["all"]));echo
+input_hidden("referer",(isset($_POST["referer"])?$_POST["referer"]:$_SERVER["HTTP_REFERER"])),input_hidden("save",1),input_token(),"</form>\n";}function
+shorten_utf8($wh,$se=80,$_h=""){if(!preg_match("(^(".repeat_pattern("[\t\r\n -\x{10FFFF}]",$se).")($)?)u",$wh,$B))preg_match("(^(".repeat_pattern("[\t\r\n -~]",$se).")($)?)",$wh,$B);return
+h($B[1]).$_h.(isset($B[2])?"":"<i>…</i>");}function
+icon($yd,$D,$xd,$Vh){return"<button type='submit' name='$D' title='".h($Vh)."' class='icon icon-$yd'><span>$xd</span></button>";}if(isset($_GET["file"])){if(substr(VERSION,-4)!='-dev'){if($_SERVER["HTTP_IF_MODIFIED_SINCE"]){header("HTTP/1.1 304 Not Modified");exit;}header("Expires: ".gmdate("D, d M Y H:i:s",time()+365*24*60*60)." GMT");header("Last-Modified: ".gmdate("D, d M Y H:i:s")." GMT");header("Cache-Control: immutable");}@ini_set("zlib.output_compression",'1');if($_GET["file"]=="default.css"){header("Content-Type: text/css; charset=utf-8");echo
+lzw_decompress("h:M±h´ħ̐±ܔ͈\"PѩҭcQCa¤鉲ó鈞d<̦󡼤:;NBqR;1Lf³9Ȟu7&)¤l;3͑񈀊/CQXʲ2MƑa䩰)°쥺LuÝh歹Ս23lȎi7³mڷ4њ<-Ҍ´¹!U,Févt2S,¬䡴҇FꖘúaNq㩓-֎ǜh꺮5û9ș¨;jµ-޷_9krùٓ;.КtTq˯¦0³­ֲ®{�ùý\r爮싍GS Zh²;¼i^ÀuxøWΒC@Ķ¤©kҽ¡Т©ˢ켯Aؠ0¤+(ڐÁ°l\ꠃx躜r耢8\0新!\0FƜnB͎㨒3 \r\\º۪Ȅa¼'I⼪(i\n\r©¸ú4Oüg@4ÁCº@@!đB°݉°¸c¤ʂ¯ı,\r1Eh舐&2PZ¦ퟒ�GûH9G\"v§ꌒ¢££¤4rƱ͏DВ¤\npJ뭁|/.¯c꓄u·£¤ö:,ʽ°¢RŝU5¥mVÁk͌LQ@-\\ª¦˓@9Á㜥ړrÁαMPDらa\r(YY\\〘õpê:£p÷lLC ű踎͊O,\rƲ]7?m06仰ܖTш͡ҥC;_˗ѹȴd>¨²bnퟖ�n¼ܣ3÷X¾ö8\r훋-)۩>V[Y㹦L3¯#̎X|ՉX \\ù`ˈC§瘥#љHɌ2ʲ.# öZ`¼¾㳮·¹ªÒ£º\0uh־¥M²͟\niZeO/CӒ_`3ݲ𱃾=Ы3£R/;䯤ۜ\0ú㞚µmùú򾤷/«֕AΘ¿°ñ.½sጣý :\$Ɇ¢¸ª¾£w8󟾾«HԪ­\"¨¼¹Գ7gSõ䱇∆L鎯瑲_¤O'Wض]c=ý5¾1X~7;iþ´\r�n¨JS1Z¦ø£؆ߓͣ吂tüAԖ퐸6fФù;Y]©õzIÀp¡ѻ§𣉳®Y˝}@¡\$.+1¶'>Zãpd੒GL桄#k��zY҄Auϕvݎ]s9ђ؟AqΌÁ:ƅ\nKhB¼;­֚XbAHq,❃Iɠ窹S[ˌ¶1ƖӔr񔻶pނÛ)#鐉;4̈񒯪ռ³L Á;lfª\n¶s\$K`нƴՔ£¾7jx`d%j] ¸4Y¤HbY ؊`¤GG .ŜK򦌊I©)2MfָݘRC¸̱V,©ۑ~g\0薂৶ݺõ[j�½:AlIq©u3\"ꦁq¤漸<9s'㑝JʼМ0`p ³jfOƢЉú¬¨q¬¢\$邩²ñJ¹>RH(ǔq\n#re(y󖇊µ0¡Q҈£򈶆P曃:·G伞 ݴ©ҞӰÐZµ\\´訜n֩~¦´°9R%דj·{7䰞_ǳ	z|8ňꙉ\"@ܣ9DVLŜ$H5ԘWJ@z®a¿J Ğ	)®2\nQvÀԝ뇎āj (A¸Ӛ°BB05´6b˰][諪Awvkg􆴶ºիk[jmzc¶}荹DZi휤5e«ʷ°º	A CY%.Wb*뮼.­ٳq/%}B̘­皖337ʻaº򞷗[጗Qʝ޲ü_Ȕ2`ǱIѩ,÷曣Mf&(s-䘫AİتDw؄TNÀɻŪX\$鸪+;аˆڕ93µJkS;·§ÁqR{>l;B1AȐI♢) (6±­r÷\rݜrڇڟ욛R^SOy/ލ#Ə9{kસv\"úKC⊃¨rEo\0ø̜\,љ|fa͚³hI©/o̙4ċk^pHȞͰhǡVÁvox@ø`�&(ù­ü;~Ǎz̶׸¯*°Ɯ5®ܝ±E Á°颮Ә¤´3öņgrDь󩴧{»佥³©L&ú>脻¢ؚZ췡\0ú°̊@אӛffŌRVh֝²盉ۈ½ⰲӷ) =x^,k2��jࢫl0u랜"¬fp¨¸1񒉿z[]¤wpN6dIªz뵿宮7X{;Áȳ؋-I	⻼7pjÝ¢R#ª,ù_-м󾳀\\檛WqޱJ֘uh£ІbLÁKԥ繖ľ©¦Þѕ®µªüV{K}S ʝޝMþ·̀¼¦.M¶\\ªix¸bÁ¡1+£α?<ų꾈ýӜ$÷\\вۜ$ضtԏ̈㜤s¼¼©xľx󧈃ᮓkVĉ=z6½¡ʧæ䎡¢ָhܼ¸º±ý¯R¤噣8g¢䊷:_³�ҒIRKÝ¨.½nkVU+dwj§%³`#,{醳˗ퟩ�Yý׵(oվɰ.¨c0g℘Ok7®苤Όlҍhx;Ϝ؏ ݃Lû´\$09*9 ܨNrüMՂ.>\0زP9ȧ	\0\$\\F󪲤'εL庋bú𖴏2À􅢰9Àퟀ�nb쭎¤󅠣ĜɃ 겐Yꨠt͠؅\n𵂮©ʅ⮜$op lX\n@`\r	ȜrЈ Έ ¦  	 ʆઆ𚈠Ή@ڋ@ڜn  	\0j@Q@1\rÀ@ ¢	\$p	 V\0򅠠\n\0¨\n Мn@¨' 쌀¤\n\0`\rÀڈ ¬	Ҝrऌ ´\0Џr°挀򉜰`	இ {	,\"¨ȞP0¥\n¬4±\n0·¤.0Ìpˌ𓜲pۜr𣎰뎰󏰻񙐱񙑑0ߒ%ђѱQ8\n ԏ\0􈫊ȼ\0^ҏ\0`چ@´ȏ>\nѯ1w±,Y	h*=¡P¦:іV¸.q£Ō͜r՜rp鎐񐱁сQ	ёї1ג `ѝ񯓱7±랱򜲠^À䏜"y`\nÀ # \0ꉠp\n򜮀` r Q𦢧1ҳ\n°¯#°µ#𼌱¥\$q«\$ѱ%0奱½%й&Ǧq͑ &񛧱ڜrR}16	 b\r`µ`ܜrÀ	ވÀ̌dઆ¨	j\n¯``À\n`dcсP,򱙒י\$¿rIҏ 	Q	򙏳2b1ɦϰ1ӑљ ӏ fÀϓ\0ª\0¤ Άf\0j\n f`≠®\n`´@\$n=`\0ȎҶ nIМ$ÿP(¤'˰􄌿Ġ·gɶ--҃7R皠 	4ࠅ��˦±ѝ2t\r��n 	H*@	`\n ¤ 艠򆬕2¿,z\r쾈 脜rF촨ö؄ 뭐õ䄬´z~¡\0]Ğ\\¥׉\\¥£}ItC\nÁT}ªؗIEJ\rx׉û¾ٍpIH��fht믮bxYE쩝K´ªoj\n𭅌Àއtr׮À~d»H2U4©GܜAꂧ4þuPtރՖ½谐 򐠍L/¿P׉\"G!RtO-̎µ<#õAPuI뒨\$c¹ÄƊ §¢-Çⴏ`Pv§^W@tH;Q°µRę՜$´©gK膼\rR*\$4®' 󍨐Ȋ[�Iª󎭕mсƨ:+þ¼5@/­l¾I¾ª�^\0ODøª¬؜rR'r蔐­[ꖷĄª®«MC덃Z4慠B\"栶´euN�¬靏𴺜rª`܀hö*\r¶.V%ڡMBlPFϜ"د&կ@\Cޯ©:mMgn򎮶ʩ8I2\rp��÷﫚 mT©ueõզv>f´ЃേT񍮱M3Pv'ktõdO\rd÷kõ¦µyW߂¾떶Քʖþö뭾X¯ºûԶBGd¶\$iª %ѱj EΌrLJ£Pr§%n=¢¦H®\"\"\"h�\$b@ᴪ䆜0f\"鮷H®*悋v\$\$¬B֗@\"@r¯(\r`ʏ Xǂ(0&.`Ҏk9B\n&#(Ī℀䂯څ«d^÷Z®ü £@²`ҌI-u0£✮Bu4sGu§÷۴N©b÷u ѵb}׏~)uBw뻂ÀŁ5=w9[ɫs寉8=0\r ¾%`ڝx&^سsc݃.\$千ÀZ4¸4÷u`¾ЀǄ㛅 ᄸ;wTøMeÑÝ8X¤zl닅U`㐎ø«^XO؄¨m§@M⋀WûXøj߈ؽXGT¤EʏøH¿xY桎,øÍ¸Ŋׯ|״¸%Uj¨·q7wX¶=ػdûxU8��¾O«򹥾¿¯£¸iycٮ&Y%9Ak䍤§Dz9D脋ģ[·¼ә׼xµX^Vς꿍DGgwǏÀ陙CùI`Ƨù¢=ٗzYOؠ6¦|x«)«⟋8#ل饙ٙ8Qx󙙎´٩ù©ùߛ&K÷¥ٍùº(¹¾%قr-ٝÁJÀ𠀿Z ·xùªDz!¢Wǝٛ£yٜ \0貙y|b¿|ʡ£Yõy㘹󦹟yzC+=ԙ¦⃧:]s¢ø¨waúxùªf*ºqzӧ`[#s¹y¢÷+uXTùøٌأ¬½묠¿C1¬8U©9«억ݭǖ`̺ͬ®ø¹Z󯹧¦zÿ ڧ엮ºû࿰û°¸鯚ㆣ e˱Zሻ+²úՐٰ>ǡL)ºªűO+I±دµx쒠˯ºyBy»´¸I{z\0\rᜄý{k¤^º=®©úµ£:§ΓA¥2;ځµ7Ȝ$黣®­õ±;»û]XX³kY¼#ܵvT\\®Q¸庀¢>Àɓث±û'¯»µ­[퓦a½ħ¾0§xI[󞼋;û½\0[܏²AÁZŁ»e¸ꢿ䥣³p΄앃:⣂fCZÀSDv£ü.\rò#ٚߔU ");}elseif($_GET["file"]=="dark.css"){header("Content-Type: text/css; charset=utf-8");echo
+lzw_decompress("h:M±h´ħƃȨ0ÁLЁह1¢S!¤ۉF!°朢-6NĢdGgӈ°º;Nr£)öc7\r稈آ81s9¼¤ܫ\r磩ʭ8OVA¡£1c34Of*ª- P¨1©r41ٮ6̤2ց®ۯ½܌#3BǦ#	֧9Φꘌfc\rǆIЂb6EC&¬ЬbuĪm7aV㕂Ás²#m!��岹޶\\3\rL:SA¤k5ݮǟ·׬ýʒaF¸3阒e6fS¦빾󈸲!ǌú -΋,̳L‘ºJ¶˲¢*J 䬵£¤»	¸𓗂¹Áb©c蠹­깹¤怏Ԑ迃Hܸ£ \\·È궾«`𖅎¸޻A༄T'¨p&q´qE괅\rl­è¼5#pώȒ ѣIݥꦗBI؞ܲ¨>ʫ29<«嗃2¯¶7j¬8jҬc(nԄ翨a\0ŏ@5*3:δ涌£氌㭂́ÀlLPƴ@ʉ°Ꜥ¡H¥4 n31¶汍t򰮡͙9闏!¨r¼ڔ؜ە興£ùQ°¹6膱¬«<ø7°\r-xC\n ܣ®@Ҹܔԑ:\$iܘ¶m«ª˴틩d¬²{\n6\rxhˋ⣞'4Vø@a͇<´#h0¦S歅c¸ֹ+p«a2ԣyh®BO\$Á繶wiXɔùVY9*r÷Htm	@b֑|@ü/l\$z¦­ +ԥp2lɄ.õغՖ۬ķﻘǦ{À˭X¨C<l9𭶸9ﭬ򙤃¯À­7RüÀ0\\괎÷Pș)AȯÀxĚq͏#¸¥Ȧ[;»ª6~Pۜra¸ʚTGT0謗u¸ޟ¾³ޜn3𜜠\\ʎJ©udªCGÀ§©PZ÷>³Áûd8֒¨話½􃿖·dLퟔ�.(ti­>«,􃃖Ò+9iޞC\$䝘#\"΁ChVb\nЊ6𔲃ewᜮf¡À6m	!1'cÁ他تeLRn\r쾇\$􃲓\$ᘰÀꙡ'«l6&ø~Ad\$느\$s ¦ȃB4򉝩jª.ÁRC̔Qj\"7\n㘳!²6=΂Ȁ}");}elseif($_GET["file"]=="functions.js"){header("Content-Type: text/javascript; charset=utf-8");echo
+lzw_decompress("':̢Фi1㳱ԝ	4̀£̑6a&󐰇:OAI줥:NFᄼݡCyꭲ˅\"㉔ʲ<̱ي/C#ٶ:DbqSeJ˦Cܺ\n\n¡ǱS\rZH\$RAܞS+XKvtdܧ:£�EvXŞ³jɭҩejײM§©亁B«ǈ&ʮL§C°3呰ՌƩ-x蜮ә섓ȂyNa䐮:煛¼䨳͐( cLŜ/õ£(ƈ5{޴Qy4øg-ý¢ꩴڃfЎ(իbUýϫ·܎&㺎ä��b¾¢ؠ.­ہ\rΐܼ»σĺ¼͜n ©ChҼ\r)`蘥`淥CʒȢZùµ㘊<QűX÷¼@·0dp9EQüf¾°ӆ؜r䡍拨h��Ünp'#Č¤£H̔(i*r¸榼#¢淋Ȉ~# ȓA:N6㰊©lլ§\r􁊐γ£!@Ҳ>Cr¾¡¬h°N᝞¦(a0M3Ͳ׶ԕ愣E2'!<·£3R<𛂏㘒攃Hη#n䫱a\$!蜲Ј0¤.°wd¡r:Yö¨酲慡]<¹j⥳@ߜ\װl§_\rÁZ¸ғ¬TͩZɳ򎳏\"²~9À©³jㅉPؖ)QYbݕD동c¿`zᣞµѨ̛'룴BOh¢*2ÿ<ŒOꦧ-Z£գ 踎aОú+r2bø\\ᾰ©ᾌ¥ùש¸Áޮٞp!#`卫Zö¸6¶12׃@鲫yȆ9\r줂3烰ޅ輣!p9஑o6s¿𣆘3홠bA¨ʶ񹦽ÀZ£#6ûʥ?s¨Ȝ"ω|؂§)þbJc\r»½Nޟsɛih8ϐ¹束躞;躈垌õuI5û@豍ªA萗aH^\$H׶ㅖ@ÛL~¨ùb9'§ø¿±S?PЭ¯򘰍C𜮘R򎭌4ޓȓ:Àõ܇Ը򄌴µh(k\njIȶ\"EY#¹Wrª\rG8£@tСXԓ⌂S\nc0ɫC I\rʰ<u`A!󩎐Բփ¢\0=¾ 斡䐈1ӢK!¹!埐pĝIsѬ6⤞éɎi1+°ȏ┫꼕¸^	ᜮɲ0´Fԉ_\$멦\0 ¤C8E^¬į3W!א)u*䟑Ԩ&\$ꔲY\n©]Ek񄚖¨\$xTse!RY» R`=L򸣄ޫ\nl_.!²V!r\nHЫ²\$א`{1	|± °i<jRrPTG|w©4b´\r¡ǆ4d¤,§E¡ȶ©䏼è[Nq@Oi׾'ѩ\r¥󗻦]#潐0»ASIJdс/QÁ´⸵t\r¥UGğG<鍼y-Iɺ򄤝М" P B\0ý텀ȞÁq`Aa̡J堒䊮)JB.¦TܱL¡÷ Cpp\0(7cYYa¨M鱕em4Ӗc¢¸r£«S)o񍠂p权!I¼¾Sb0m챎(dEHø¸߳Xª£/¬P©踙yƘ鸵Ȓ\$+֖»²gd茀öΎyݐ܏³Jט렢lE¢ur̬dCX}e¬셑¥õ«m]в ̽Ȩ-z¦Z庻Iö\) ,\n¤>򩷞¤朲VS\njx*w`ⴷSFi̓d¯¼,»ᐖZFM}Њ À\\Z¾P읠¹zؚûE]�ɟO룭ԁ]À ¬Á%þ\"w4¥\n\$øɺV¢SQDۺݶ«䇋wMԮS0B-sƪ)㾚�ǁ2δA;慥n©Wz/AÚh G~cc%˛Ʉ£&lFR昷7|ªI¢3¹�֌a½䣃0RJ2ϑ%³ÆẠSà©L½^ trڮٴ񃋛¡ʩ;Ǯ喚Ł>ùá[®aN»¤Ϟè!g@1𰳢üN·zԼb靖䛑õO,۳Cuº¸D״j޹I;)®݀霮n䣺ሂ툗<sµ	Ŝ0÷hN¼PӹΘ{ue¤ut뵕ö腰º󧽋 3򇮽g¥뺏¸΂ӊ썃º򗑇0øط9p-Àº	ý§ø˰ٿ'5»´\nO۷e)Mȩ_kҙz\0V´֚ú޻j\nÀ¦꧸Րf-䠃ˮ@&]#\0ڶp𹍖ƛtˤú¶ ó¼b}	G1·m߲u߀*񟀸D²3Ǳ¼BӳQ淵ús%Ꜯª5s§ut½»s򹥀øN¯4¥,J{4@®þ\0»PĊÞº=¯l²`襏~F١h3o酜"¤q·R<iUT°[Q഑UǍ6üT. º갧pe\\¼½��ߖ̕pCe	ٕԗ\"* M	¨¦Dþ±?ûhüز¡УzU@7°CӴýaµ²iE!f˜$üB¤<9o*\$¯掬H\$ ŀࠊ怐\rNÀYn<\$²	ÀQ=F&¥ *@]\0ʌϋ W'd֠z\$愐jА[¢ö\$򤯐0#& _̠+B)wv%	┄LcJRSÀ©`̌Ů	FW	ꋜnBP\n爜r\0}	瑩0²Z𸌂򯠪\$«: §8ieüÀ؏xↈ¹± ¬GnøsgO¢䕥VU°@NÀ¤ϐúd+®(oJXƨຍ'F٣רV®I^٢1>݀Ќ\"¤ ȑ񒡑\\¢`[¥¤«¨.ذfbF;낇瘆pϰ/t` 􋮨§ÀV鸸 bȲ(HlÁΔ¯1v­ޅퟡ�1T񓙱ɚ1¦Ѫf˜nT\$°頎q+˜�vևüVmûǲ°¨اϸ±񧌥«\"Lm¼((CLz\"h☘m= \\H\n0U f&M\$¤g\$񕅠a\rPþ>`ˣgªh��R4Hѧ穏­³²GK;\"M¶ۨThµBEn\"b> ڜrÀ©#\0敎:�	QQ1{	f:B˂ᒪ&ܣ)JµĂr¹+.\$Аqõ-r®S%TIT&Qö·һ#2o(*P¯ⵯ`1H®¢'	<T𤱷ª¾sÀ쬎ڊ Ҏɔ샞\r%3r&Ǔ4B쯜0ЫLH\$³4dӾү³ඵHö·* ºù3Jǐ¥<Hh©pú'珯&ﲉ.V.¢s5ӥ3�Zۨõ9Eg§;R;±J½QÀªӶgz@¶޳'dZ&¬U㲟򦆠戢*²D򈡠䜲;%x'G#°͠wÁ#°֠ȏ2;#򂶀Xɢa힜nb{4KG¦ߥ°҇uE`\\\rB\r\0¨-mW\rM\"¶#E��Fծzӳÿ@4JȒ[\$ʫ%2V%􏦔ԖdմhemN¯-;Eľ%E¥E´r <\"@»FԐ·L ܟ­ܴEɰ°҄z`е7雎4¯˜0°F:hΌKh/:\"MʖZԶ\r+P4\r?¤SøO;B©0\$FCEpǍ\"%H4D´|LNFtEѾgþ°5彊\r\"޼5³õ4ྋ񐜲bZਜr\"pEQ'DwKõW0g'l\"hQFùCc®򉈒P hF]5µ& fT挩STUS¨ÿ4[uºNe\$oüK윏 ࿢\" 5DũEҥ\"±]®/­∐J­6U¤ÿ`õ񡩿V-0DӔbMͩ­¯ؽċ`楱ELt+웶C7j뤵¤:´V4ơ3ߒ\rG򉔮#¥<4-CgCP{V\$'놈ӷg໒@䧐²S=%À½󆱫: ¢kع®²¤󚎥]aO¼҇9;6ۜ⸗À¨*øx\"U®YlBö򯎰ֆ´°·	§ý\nퟦ�ɬҚm\0񵢲䮰Oq̨̍bʗ1s@йK麭pE¦Spw\nGWoQӱG}vpw}q񱓜\ƷƒZ÷@̬¡týtƻpG}w׀/%\"LE\0tÀh⩧\rʏڜ\W@ɧ|D#S³¸ƃVϢR±z2Ϗõövµú©	㽨¢¯(¸\0y<¤X\rםx±°q·<µIsk1S񭎑4Yq8.ֹS;qˡ,'(򛃖伮豈J7H眢.³·¨񵌏°ü#ʄQ\rerÀXv[¬h\$⻭阙 °ûJBg韉iM8¸'nƘtDZ~/b֕8¸\$¸¸DbROOƻ`O5S>¸öΛ DǪ¸¥䇀_3Xø)©À'鄊d\rX»©¸UD애X8򕸯-旅Ѕ̎` 	জnZ˔@Ra48§̺ø©\0銸°֎§\\갥㌅·f\\ 𾜢@^\0Zxڟ\0ZaBr#嘇𜲕¨{˕¹flFb\0[ވ\0[6	¢° ©=✮ ¦WBøƜ$'©kG´(\$y̥9Ҩ8٦ h®Rܔ٦o؈¼ ǇøY£4ش7_­dù㹍'ý¢ú ܺﲻz\rٖ  尾vG菸莘썏h'樎XöS0³\0\0ʉ¸ý9s?öI¹MY¢8ؠ9𘼤£HO,4	xsP¤*G¢磘8·ªQɠøwB|Àz	@¦	ݔ£9cɋ¤¤QGĢFjÀXúoSª\$dFHĂPÀѧ<嶴Ŭ}ﮭ£rÿ\"ŧk`¡cࡸ¦e»C¨у쎬:¼ޘ:X̠¹Tނ´dƃqh¤γÆ¹ׂLvʒ®0\r,4µ\r_vԞL򏪃¥jMᢛ  ퟼�sÀޏZ°@øº䁶;f�2Yc륺'MerʛF\$ȡꪜn ¤	*0\rºAN»LP¥䪙»»¿¼;ƣVӑ|(ퟧ�Ċ[p8󺼼Ԟ\r䂦/DƔؕҞ Bퟘ�_¶N5M�� \$¼\naZЦ¶ȋ~ÀUleõrŧrҚZ®aZ³¹ㇸգs8RÀGZ w®¢ªN_Ʊ«Yϣ򭭉⪀]¦;ƚLڿº¶cøû°ŰƚIÀQ3¹O㇇|y*`  굉ڴퟳ�v8#¯R��X͢V𶸆«i3Fõׅдدc82ۍ­\"¶¹©G¦Wb\rOЃ¿Vd蓭¤w\\䍯*cSiÀQү㳒`úd7}	º)¢ϴ·,+bd§۹½FN£3¾¹L\\㾥Rn\$&\\r��敝O5kq,&\"DCU6j§p燉\\'@oµ~赎=¨|&贡ϕBطHڹyz7ϐ·(Ǎø⇽b5(3փ_\0`zТ®Уr½8	𢚠vȸL˓·)²Sݍ<²*7\$º\rRb·₥ýƴDszϒ>[Q½Ќ&Q«¨À¯¡̧\rpp̺·/<}L¢#°ΕТZ¹㲜"tƯ\n.4ާ櫐ºp®D쮠¥ʹNȢFआ\0`^夎\rnȂ׳#_℆ w(ü2÷<7-ªX޹\0··s¬ø,^¹hC,塺מ\rKӮ䝓¢¯Ţ﹔؜\򫶂Z઎\0§Q9eʛ˞Eöw?>°\$}£·D#ª𣠣ӄ0MV3½%Y»ۀ\rûĴj5ԅ7¼ü{ŝLz=­<븉øMõ°õ⇘ю޿LŜ$Ე{(ÿpe?uݬR*Xº4鮽¿͜0\"@}<.@õ	ގ²²\$Ujsݯü\"* 補$Ծ÷զCPI	ÿ贿᎞ùü¦蠆´	퟼�\\ ̟莑5YH@٢④Ѩù櫱O0T©' 8¡wü»­öj+Hv_#º�06ȷ֎X໤+£ܓ\\À喜n\0	\\🟂>sӏA	PFöd8m'@\nH´\0¬c菷SߟؑY᠝²¨¢RלýDna\" 왾¿Ám퟼�@6䔒½+잇xV䜰°WӰnw.¡؃b«9Í¸EȼE·Â\rЈr¬\"иx¸-¸ꊃ⚜rN6n·\$Ҭý-B툦^ө┥y&㣗Wǧ࿢vR쉸¥³N\0°Àn≔`8X¬ퟅ�:{Oþ@\" !Á¤\$K䓱oЋjY֪J´þ­ܨ}d<1IǌxdʙΔT4NeeC0䥿:DFڵLު::HjZ嗓­FõRªMրnS\n>PO󛌜$V8;#K\\'ùB֨»R®د°Rџ8Áj骄Ej \\~vƂжěp@TX\0002dE	H퇖𱗄\"Q'EDJB~A´A¤Il*'\n¶Y宨+©9¾񒙄pgү\"¸18İIAʆCȨV*a萀d֐£5H\" A؛嶃ݳ¬Yݘ;訞ȯ¨¸0㖶}y\r͒⎗¥1u\"ˋmざ񟌺0焄`ߏ¯¿\\B1^\nk\r]lhø}]HBW`±0½꨹rFf)W,Ւ§]sm9'O¢xԽͬ깊8§£? 4ɉ¡\"҅蛽̼ѭS¨ɃþMûж̱6y|Z򁋨%ࡑ#8¢TC!pºˇ\nدCZ(ｷ阡 ·Á?9|󝰼BL\r\n]ÀPB0¤&+tĈ񖅘Ăx^÷L𽛦Ă񸽽ЏruЋ\0¾\0005哀\"Uؔ@܆°\0\$䁁ސ\"ҠČ]l/	ù퉢B4¯.¶ d7\r@=ª߬¢՛*G j¬üf`»:Hn쑔bĀ71Ǫ)C<@A͙#°¦¡둥o▒Y!ŊIDM¼\nlt¨/)\\43)®ٲ­ɸөÁ²f[ ppp1µ©#Ð¶p\0ą§œlÀ^{A¤TH儶ցʓ«蜮\0P∀.\r|ÀTFD0Sy𛀏'1ց´¤K² dؓµ±¯ĎBþC禅)þWs Hee+@4 r·ᛚ*Lp1<üfNY'­-	XKVa¦L­¥ö\"\"쬕£qɮYJHୗ HV/lCަȀH)oÁ&\\2ă­%⡩z\n^Q(6옄 ȻJq°᫜00a#˶\0vr,»M̺&Aԅ򬃜»9%YdBꃨÀֆ!W\0ꢜr{ƀǱ¹I¬22AڒکH¾a@r0Gɜ7Dd.LM<ひЈˬk/Meª¹}Ғ3作0ЦɏBø\nPd.\"ȱF3Xȓd(*¨J6 䇙F:¬ש1±ῬQ&Ϙùµ¬h<J͋¤fdEպ*񏁸\n\0¼À.\"B -#£ÀΗt¿IΫõЉI8 ²8dh	«胸§~°	L!K(úBXµ£-ȬhΥc/ֲ旋PՉõ«Nʲȼɧ׶Ҽ\"µM'¡K,\\H°ɥ5*o]4҆P	2ͼ)T¾oÀ\n¢¸؉¶ڢġ¨(ø_8Xr绅uú؎Jù¡鏐[rûDC:¸@ÁͳÀl\0©e\\*x@Aȡ&�5×,ª#1xÀ º!T Dª­(Qᄊ|D D:\0Ɂِ¹ԠÁbaEӿrn°²WkxøX=i,\$3[r9BƱ§d㡘þ\0ºԖH4­«ɼ(zʆº��IbJ©g Un(}¨J\"ϦABб9~ŉ霣ڜ$¹%d  e\"µ`À존ª¨'O= À @\$µO\nmTׯ+Z䱙ø-­¢ꟐF?ҕ_I¤J˘ ģ2¢ꭖ¶;ª?2¥Áᰡ*P3Ɏªõ럔<E¥JŜ\(ݲ��ةꉑ鬩·󉒌L&¥͡ȯKÁiцt»¤°΄KúHRl¢ȬEs¶¿¤DøxǴ¬i¾º֡faBɱ󼆔˥>V皎©ɭQjŷ§þ\"%RhȠg£ፌ³ø«խb£58R¨¯Ī㝧9Ԇꊰ«·Թ¤2Q0ý¬IR[üZ£ݎ\0÷ǂ20£¡\\[@ᑜ0¤Ԋxùµ䅃{©✤lp1=\0·RоɾE~߆ꗙѕ:0À%R+)\0°	ƑQဨ\"¡_jTX\0윲1\0P9#\0ʹ򈻂ª|À²LöZ¼Ƃ6ù/BܮB{񰁠|HĔ,ቪ;(õ`ʲ@6ª>¡	忄P\0/¹󜰼\\ťBܠjq©U/\rc©üꁐԒ¤6(N\0º/\$ܮ8µj*U\$񺊹*³=¬;🜤f¬➸X؂CEþr\"/ͪkځ%\\9k§ù肚𰧆­À(¬𜧴U��®m¤@kT\0Վ¹EᕍsEhy򥜮䩠)b7ª㐨W%,ȈJ¤r¨󲄶rhEù\n0Q곊 U9TPOÀմ°8j|¤}Ò<0ȋ♃Zl Еؔᶗ°șڇ*¯\$οÀU\rۜ"¤.ª Ts~˾(𳁔aº¨@իlࠃ:Π­:OiùBXÁ?ʄ¦鷉¾Lj|ͺnK:ز}²\0݉UMc`P%nn\n,촡Q'%+H.苃\"#Gг`¥¡ݨݜn1fg\0М'¼k¦²qxD<\",a|{~þ󸜃<S»iBnkNþ և³}Ӡk:ή­Àݧ۩JD°hÛf¢\"kV~³ᗭM`HOkD¬^0/tj«l³\r!Ϧ<ÀG��ºնµ#@­ek@2«w齴0ܜ­tęį1ĵ̹vː%8±?1¼ۊl旁xtǔmp­fK3Z܊£=\0@^p·¹¶泸]Ҳ'봙¡@C·b뎔圲[ȣV��À˯-¦ݠe·}À附ª܉-釭m³I\0+͖߄ۛB+稐-ٴ䫾®q蝖i>=½0-¦cLpJ b\ndᲩ⫣ᇋs­·䞜"ґЎø`.úȍԹȐEtPqԉ]󤫊8¼»rWTŁIµ苑f÷aG.떄7y狿lٕA³7'¥1	Ⓚ-ٸI§m·˂L:eΉAƗøݎ¶EIݢWzԳW򽂟°)*/)Cʇÿx*c]쥷}½∅»_όIvͲ½'\$U÷ݓ4k5WʏJC® 7*b%<WC@ƉÀ¼©»c{޴«򔋑¬3)X򘦦¢eL쟉坢,N젲k#p5 ´f4«öǺ돺¯#⽤\\®ºࡻNøbԕ𯹛𖀈Sմ¾`qӿ~1=언厉¸*ᏏJꖃ¡񮌢ڨ'Dd,@kL񚹠¤÷\\〉2ͩĪ±<³@_q÷2\0ձÁ)`À꽕s°±󍆙\0¡ӢÀֈ\n­F׼*Àx*À렐ԠÁ-\rø|@ѱԷ𖈚@w󝿈H]µ嘜0¶༟w¾µh0!˳¢1Ϗ¾¦ǬhW°.È꽗ªR*÷A_Ƃ兄Է ?1,Ub̹=tȴè¤䍗¢^夙;ߎ豌@򨱼D⅌Hx©T()0z`џл¨AL錱)\n̋[fHWo@bBKÀiM±ä+ﾨvI¶(z:䝮݀À 9uiѤDY֢¾ûɏ`ö®ᝉ\0°RĆ,K,÷¨㶌¸Ĝ"\"£1gª(­|T.,񹇶b+\rk]u¶&詼©墣Sͅd[¼,gꨡJº(CĶk¤\rF؂+	񌐹₌©¹))UA߂Uh§ң3x񭮹±úü»䘋xȘ®2¯´q¬ibֲY7逫̹즈, §¼Ω¬٪¤J:«N¸ܒcly\nõ¼2ŗ��>Ŷ6Q#A0­ꆻέiù~@VXÀ¢^¿山-ɫ϶|£ܝVf¸¢û.{	ᒀ\r·§;걬p°/لõuFǑd\$PЮ0=@kSƔ0hÁɈ@ы/*(O斮´G>(rˎ!6ષ®򙽘Z@º²'&06kE|ϧ|H;¼掲gҥ˗+¦¯4ù;̓¯¯'x|f©9­̚(O¨𤦧鷷%9]¦צ}̃G֔ĳ¦µ炾󓌅÷XM0ͩgQ·ª¶8̄ù+O}¶͝0}9֐ޖ»ߎhίmgD铳°ü¦Ġ\nͷ4勳P~}O)©Ug܏9ùɃ֪§8PݸÁ(Хĳö۪޷oABאi)üK򄽙u¤봠}s±1软dݖ[Ĵ\n¬粺lMзr:F#{ְ*#°xܜ°¯<Ds½k/mw :^櫦≱¿ďD¨2ºz*Ѳnª%��ک⃙ *ʡ8-·ᦴH'텄㜲͐ºд䝄8`¿\"¡»»i]ZZ>Z\0ަ9û욑+䟂~ᜤޭLĐ\\쇁XA©¬ 耳̓i秺Ҩ$÷SMڔ'1ׅ菄͢	˵E©\0Ğ\$㴴Ԯ¥쇺\rMƷS¦ӖlsªAf֋૬Nlۄ^zz²dS®/rt²Nù>ýo%i¥½\0J¯B©po¢ܒê/֘٫x\ny+«쬥4α5Q'JD]¿B@mӎ´ȃR§Ski~ú܎¶t0盠1z	&׻^\nOՒ¶²ɖ÷뒀³GV@T*ވ9яG0\0'֠Ѱ\r廢QKsLd*;\nၗ恂.ĔUNpଁL—Rԥ øbFÀøyn> IKÀ¶rGû	@ٌ?cIݓu%GöO��փöh¦5TüyüI­ٺ\\0¼إː>öʊ0˞¾ûQB¶©EI/-LBTڡb6쿫`jp\0K¾kd⍄/䉓k.+*ͻ¡R|gR¡ýøW\\wùtன¤^Zc8՚~FÀ°SǵԃSm̕;b>\0jz='Á>̥qy}:»u§µ&垀WºDQ¢ϣ-ª˾Ƕ<[e÷xؠ萮[ú¹L©\0wmùl°tz맼S&ퟬ�dbܸͺoi⧋©\r`ւµԿD5u@bN¸ϕ𤷤�ԛõ裀񻃎r鉞ût±¾󜰯ŁtMscBW?°*D.põ¤'2Ge\rp*#­e¹ЪڅCýӸ\"³QI\nhiøQÁ@ᜲl	߈´߮¤ʴ*វøsÁ9ퟂ�hqժ¸~,¤ᙎ¸ĤQs¦\rBjºõDÿǡ 񼼔)C´\n¶ø°ͦ¹D{\rЕlְѭR㋊\r@rk§閏¢ø +Z�P¾ۖΨ鵸Ȩ􇟀ڳ㙈ø󏯧#䊧ȓu\$F&\n-v\"P܎涛jnnt뱐ߖ®§»¥öꁷbx߄Ąѵ፭԰³a\0\r§/!ȉ¢Ѻ�ިᮄGf-Mdna^(e¤¨·YޏZ,SEöN\\§ճ¸=Ҵ~Mʹ¸\rƫý҆tŦ񵜢|`ђEᲀR󃺜̠⻄耓k/K晚¹®3sJ¡䃿5XGͪ%®9)QϠ£Qܤᦱth¶��R沱ш¢ڑݜrC吏E԰#w燗2/¾֯炿齞 /Ժ񜎐΂ę˅¬\0{+򼀴+¨䱟бª斉ʹ·|ú÷ȕv갱ª¹Ԉƌ&Ϝr\\떟 =°EbګnOβnꑘ({ɹuzK­¯`=:ø\núğ÷\0ªꇐ[饙:pq+¦ԒldY띜"Ň[Vϵ{H-­ÁHןý⢸j떆Ք5ܢ\0\"N?E;+°O~»wNÝ;L'턓OFԪ䁻±D歗!#sNɼժ��Ѿmu³¤ȳG¯8ûΔn]¶¼Ρ:úzIMn O°8À脝z5o\\57<ōŲ#8⨱鿳Nیõ¸	}úx&4盠z½��¶ɽ¡<*W¸蕝󀥽{HZ§±,(<oԯÀxW¨t¶2퐝# A*·¡»o\\缟R²}xH>NP¸|Qɚ|x°'ȭ° ۅ2\0 ݿƾ2*\r|]töpᅜ"¢ڲJuuXybބ\nʚ|H7 _򗑮þGuXyH>T\r¨G»侅Ql¼񨉟§n!ε'ĪºC5¸ݾUª2!b	£9Pw4弛õᢽy藞|񢎋a\$¾g骁 󔇕ː¡&~9(\\*½!b_Ϲûw±7\\£ǰ]=ߜ\*䞭@𣎷ͪ证5QN`@<\0°6!9Ƒl¥\$wI\$4 õ¾2뜤¥&Ь.RZ򠗳Yuyᤳ찥&SI®݀¨EJiLcõºV®1F񱅤Z\r\r¦̨¡kڂ»öHH񋿮ªªöKý§ ?xµ⭰\n۪d͎3K󖄃ӵ9)ľ:B#¨̤N5A1ƉƸ̏d[3ڠᨑ[s~)±9 DN⹸᱾>‘±'ȽΏH貧,½\"¥󰻜0˱eo>¦۽®|«2¦G+B¨@z·Ϥø򄀝}rQÁҠk/|픇񺗑¯䗜0硂4>򕞼õg݃oûXE买üŌrgAĶ¼p¿eú1ﴪŇ룔½7ڀ[ö>]ý#뿪B¨~փ/¿}ųÿ:ûU\$𿼼¿Gü䡿\n>0#!i>.{A}'hQÿLw뾟W_¨h#dÀŃ»ªdFQ¸µ󢪻渜"\"¤P{õགྷ޴ Nוө󟭕՜r_Ŋ؄e?l4À2¡?\n嗆ú	崱Ε½°_ݿ`_üõǠjý¬{_k_ۿo÷~ÿ¿c*#ÿ(´/ü!Dn¤Fÿ`＿@s􂚡®?;܅Ⲻÿþ¾ÿ\0kþ	ÿ*Ný삄;¼õ°+d\nZZdB»À÷ `B5搜n8¬֩క̐c#ou½¤k߁ˊMݯw.쁪FÀJ¦ȡ|®Ĉ2FcY).¬§º􁘈y򁛫꾈ù#/&¢£ö㛀 ÿ񘂌Y@ý¨À(|\r\0,O¼񰙢Ԏ²Ŭ0דۡˑÀɌ A\$Ǻ0,ˀªӰ>>9úÁ\\tiø<\0㗁q\0Ľ@`񜰦Vj°­dߠ'(	!_²nõ 0+c´µiig8a]'=-¬B!(§ظ_ݫƸ²j©µ)\rH5Hn	,f«r�d\$򖈐 ¬2n鴆ܛȽ୭d©FE-dᩨaN_z4@À[讣\$x!!i0TªʵÀ8̉¸¼¯þ\0PZ8ZÁ¹ꃣ砕Á®+ЊAAF(䇁؛`mg*¸vS, ǆܞퟘ�Aþ۬ &Ğ¨9ꀅÁücݰw+nν°)\$뎅Б𾁊ۡ朰004\0u񻄨´¤\$°­y	!°B۠A<µaAz ¨ÁZA4\$ZY9.aX\rdځL¶|oOz|߂Zܚ(횣ĆÀ");}elseif($_GET["file"]=="jush.js"){header("Content-Type: text/javascript; charset=utf-8");echo
+lzw_decompress("v0F£©̐==ΆS	Њ_6MƳ訲:ECI´ʯ:CXc\r昄J(:=E¦a28¡x𸿔ħi°SANNù𸳅NB጖l0瓉˕l(D|҄犐¦À>E㩶yHch䂭3Eb堸b½߰EÁpÿ9.̾\n?Kb±iw|ȠǷd.¼x8EN¦㡔͒23©ᜲљ̨y6GFmY8o7\n\r³0²<d4E'¸\n#\r򈱸讅C!Ğt訓õ͢qH¢sÿ2Nq٤̔9÷À#{c랥µÁ옳nӸ2»Ár¼:<+̹CȨ®Ün<��`ȶ/b蜜 ȡHزSڙF#8Јǉ78Ë«*ں!À詎旫¨¾:+¯ù&2|¢:㜢9ʁږ:­Ў§¶㰁/#À 0D᜜±'Ǳؓ漢2a@¶¬+J⼮£c,ø£°1¡@^.Bܑ᠏K=`Bΐ趏 ξ(eK%! ^!ϬBȡHSs8^9ͳ¤O1ѮXj+⸮M	#+օF£:7Sڜ$0¾V(نQÜr!I䔪¡X¶/̊¸땶7=۪X3݆؇³З^±�#Wչg𢸟�7µ¡E©k\rօ¹Gҩ폴We4öV؝½󦷏\0R􈎒!0ܱWݣy¢CPʣ!�|Àgn´ۮ\r㰌9¿Aݸ¶۶ø^׸vÁl\"b쐼yHYȲ깅0ҟ.ý:y꬞ᚶ:²ؿ·nû\0Qµ7Ḣkü<\0򩦹¸譮B軳Á;ֹ¤򣠗³ʐ ϦÁ/n奇w�A׵ö¥AÁ0yu)¦­¬kLƹtkۜ0ø;ɤ=%m.öׅc5¨f쒯¸*׀4ݠҖ¼cÿƸ܆|\"맳򨸜\ڦ¸PNÁ𱻗ȁsfΔ~PʰHp\n~«>T_³ґOQϜ$ЖߞSpn1¤ʚ }=©L땼Jeuc¤©ءA|;ȓN󎄭º��R¦§ͳ ΉÁú.¬¤2Ъ腑ª`RE魞iP1&¸ވ(²\$Ѓ͙­5Ḙø·axh@у=Ʋ⠫>`þעЗ¯\r!b´𲎀ö2pø(=¡ݘø!es¯X4G򄛈hc 퍑S.мYjH𺋂ӖÀ 0柁j䜮f\r¥́Do𥸘\\1ÿҍI`(Һ! -3=0䔍 蓬Sø¼ӂgWe5¥𺜈(h©֤岜ӫKiʀY.¥ᒌȜ$@sѱEI&烄fSR}±Ųڽ?x\"¢@ng¬÷ÀPI\\U<��"E0t8Y齂`=£>Q񴃂k ¬¸+p`þ(8/N´qSKõr¯뿩*[JùRJY±&uĊ¢7¡¤³úؑ#ԾXû뿁P򃄁D򜤔قÁõY¬´<镣µX[½d«d庥읁a\$¸ΠüW稯ɂ趡+eYIw=9iٻq\r\nÿر賁xڰ]Q©<÷zI9~W役RDKI6ی큞Cz\"0NWWzH4½ xgûת¯x&چ¿aӃ萜\鸃ན^ԓ´þKHx¨ٓ0腃҂ɚ㧘µk,񎼄R ~	ౌ󐗎yºSzú¨6\0D	桬𘏆hs|.õ򽉂x}/µN烈ü'R公n'|so8r壅t覩ȡ¨\0°5P򝖠dẘǆ̕q³¹5(XµHp|K¬2`µ]FU~!ʘ=堊|򬵰ꂜ\ ¾C¨o甶e╙C}*¨¥f¢#shpᏵ拚³®mZx০n~v)DH4祆vɖªõby򶔊ǌ¥,´��y,̫֞2¹􍺞÷¥ K2¢xo	 ·2ѠIùa½hõ~ ­cꀥjõ6­שÿ]¦Ԙ¢5׍dG׊Eδˆ'NὒVНɜ@оࢿ^匚öp:k˱StTԙFF´`´¾`ø򻻔ﭩ4÷7āpcP򘷶õVÀ칂ىLt	M¶µ­һöC©l±±n47sɐL¬!񹔻l a°Á½!pG%܏)<Á·2*伌9rVɸ\\©³]tn\r<ėް£vJ栱I㩠1½Ys{uHհ?뛖®ǎUo䁟r`SÿCcv˳J釣§µõԻ=ϣ-H/À®ر'E° |߻\r};ø>þx貛ふ5B¸*\0¹ଈM³©\0̻HU·ö烢¹W廳ɹB'ͼǶ󛓴s¾٭yÿ»瀙ﻯQ߄ü>?/<µK@  À¨B|aH\"¾ R	ှ~@BhEL\$𮛊°Sa \"Ђ0솥`b\0üÀ@\n`=ҭnڹ.*̔菘´n¯<jO¦lM\"mRʃΰ/±¦*肙Ĕû _E4莌úϸܰ玼R0*񯛃֊Bo>S%\$ª ȌN¸<΅ξ𹆯7\n§̷툌޴,鯢󰎺°¶쐬퐴퐜"l&T테05nùü㯩вø𶤮邐蹆֣Bp𲰋ρ\nԧPِ݋Ю-,攱÷Àָ3\r/p°P߄ b¾醁%mШΐ2?P°񀳰÷0(ö/gpz÷0茠܌ѧυ𗁏\\嬳q򱾸pú@\\©ªu댌@ ؜$Ne°Q¦ú猨0(A(¦mcL'`Bh\r-!͢`񛞂k`ʋ ¶٤þ`N˰§	§ЯnNנú»D\0ڀ~¦ĆÀ`K⃂] לr¨|®©Àʾc˶iԙ带㢜r4 ,v̜0ދQ؉ NÀ񘯏쭴© q©'ª tr\$°䮰춥ꥬyMb؊(ⓩL')¶ޯL²MIs {&񠋈@d׬¶wf0ɭx§ֶ§ö~3¯X½h0\"䒻DΌ+򁬏\$ b\$ǥ2VŌ¾̠Q\"¢%¦քR©FVÀNy+F\n ¤	 %fz½+1Z¿ĘMɾÀR%@ڝ6\"좎5.²䄜0无Ď¤d¾4Ŕ'l|9.#`䵥憀¶أj6뎤ö ¶čvڥ¤\rh\rȳ7©\"@¾\\DŰi8cq8Ğ	\0ֶbL. ¶\rdTb@E 蠜\2`P( B'㈋¶º0 ¶/഼3ú³þ즒.Ss+-¢ᠣAi4K}麓¬¾ກ\0O9,©B䀀CC'B@N=ϻ7S¿<3ǄIڍW7³҅Dö\rŨ°v¹@½DȺ9 񂬔~\r虜5z^r!񽉍¥텳B螦\0eTK!ÁKUH´��¨2i%<=І؞ úçٸr7s҆ǥN³»E@vól5\rpǜ$­@¤ Έ£PÀԜr✤=Ѕ%4䮘\\XdúԌz٬~Oস끺m\" &g5Qn½(ൕ5&rs N\r9잔®IY63g6µ]Qsvâ/O 򼈎¨@ʹ§^ur\"UvIõ{V-MVuOD h`5túɜ0ԇӔõ,	(ߪ®qRG.l6[S0@ѥ´¶C}T7擸5mY뉕ú)õ8ۃú¹r⻴ئ)´M+ÿ4	À ɇ4õ̼©Ϊ1ԚJ`׉5X,¬L\07T\rx­爑dR*އ¦ۊЦ\rص52À𗋭Cm1SR骔`N¢e@'Ʀ*ª*`ø>£\0|¢ퟦ�E,¨ag.ˣupƃ9`B¸ªaa¶¨ްꠤmҠR~\0ö֧-cmO´񱈜reINQN�\rþnq܏¶��n´Sn�wƃ¦\r ]a¶¤-ϡ*¬¯\\5Wpv^ OV`AFÀ脇3#82põH'J'nM('M=j¹k´ZbBn<<狠\0¾fe¤:\0싨úN´õ¼vퟯ��闱¶ލH(Qg􂂵Ʉy< �\\¥c\\򳬵֋q0­~¢i~뎌e°Ѷ¢ҪѾöȠù~ ƍ؋mٿғ}Wؘ\r慀Ԍ\"i¤\$B㿲ᣤg䞵b?ʶ!w֓+xl1`¾`ށ	s؟ 귋¨ˮǶCnhEd Qөd\"6µ´`¨\"&f옸µ(\"ⲪQz眤ě0%±0lw uך>w류±µ%»w²Z̜"-ÿu�싷󕤓Yg±þ>x\\˭פ¼࠭v\\ýx^'M	Pù̝YP됬ݐù)8û%C§@؄F ̒\r@Ĝ0¼\\ྰNⱮS\$¹YIՃI ة÷>xP͸͒¹:ͷ򽖈T,⧌칙ͱБ2͌¼\r¬񚌒Ϥ¼­ΔЙрОҹF¸`ùOf¸Ow¾\\hؽ¸}SjGGWA팇£RJ\$JP+ӷ§L¯v,ә(̵ǚP째ޔڦz+ ޡj˘7 ͷ¦-vA÷Ϩ ڞ9󔙶ODùZºC¡mù`OÀR¢yӒϞ쐡뇶zs¥G\$IhY񖕧ٽ58¼¹xFøõ§ø«¨Y9¨©iݍ8´UöCڛњe««Zq¥uA«±§¿ùو̹!°½:ړ켏øb0{\rúQh`Md7Ỳ ۲8ֈ`%Ƹº㻭ÁlʃXk³H¡Ӟټ\0ν؆`ShխXʖ»\r·揻y¸X¸¤¸ :w7±·ڄ׮Ʃ²ңû/¢:4(Mº;­¢øc»D£z;¼Z3¼»¹£½¢ҝ¶砛ؿ.ªń¹\roؙbO쨞`Ϻ¶|ª놗÷ۉ/ٿX׎]¼|ü^!%Xٽ³8Ճܜ$̻ġz¹T媸K·¹-~² 8X)<!֨y«9ø¯ú·ª:ûĠىFú®xz+U຃ÿ¶¼úA¬E; ª'ťc­ùۅYߪ³ªüw¯<{¦õ9úøV:ý`͊ʇ<ءÁüGءǙõ¥\0儚ü÷U Zq\nmx¿)_¿}YǏ韩z­ ù­y\rҙѬۚ3L̙ªљ²Ι¸ϻ>Mҭ	M͉ú)¸P\0u8 S!Z{Y¼䔜9θَúfV3oõOϼþE½РCЭ񐠿¿XU¿սҬw©0´}©­Ҍ͙ݷY3ӬӔÁ4˝G݊Й¾&¹äنͭ(َʭA֜V=f|Ҕؘ@E/ߥ\0r}þޮnnǜ0䇌y¡¶<+Ӡö_¨|ʫ#AŶ\"C[y֚EW³鲗²f(\0澤Л>À) ހ̟ȕ났U؜\ù#ýe½*r`܎Y ۪£=aþ\\֦^g4ޭü�ýإ#讔^°|ނ¡QXNܧ漉義礜0rƉþ�^Y薣斩龫쾥׾˪ގޔFÀW^蒥¾ݒ\$+ՍPիY*u¢~֖,¶ō՗W͂hhGÀ¿K´\\C¬鿷HmZ抖ÀSZ_U֥朲­õb)õ´gg	q񻭶ö@@Ս볐݈΅t䜲J°ǎ۔ӗ7sÿ¤¹¯U¬K_1巴¾j&S傩\0، &\r¬ Ҍ`ø:µj҆À~=T̪¢¾gϤ¾�û枨Þ헕𷗝½믛{ùB¡ɨ杯|͖ȧ񪯈d\\ޖSɗﭹ¡ÁG`u­̱Սفʿɽ§3}򑗂\$qI򭂾°G=ꯖz¬\0_põ§´!tᄲ{ے^Z&§ü	uӚX¸ö1@ÀЏG{䐞øõЬ¾	NIҤӂ��=0ÀBu82Ɠ\"񶸮Qpj믋v\r<®Չ¶U¥\0.ù¯Ռ¨EÁM\n8VүQ\\`?༌6¬ª̽\rl±¥¨¶±쀠\"øુõB2pu즜0凖낵¤\rj¥ª0Vˁ¼µ;v\0eH;ʇTJ¢ŶpH?/\\ȵ@!pp¸C¦ʑ+5\\+a8;\r(*³Tǆ¢;ɖO|¸^Ld&/¨񎉥Tȃ��G᩠j%Ǘ䇄Ԝٛڃġ4ɮii­ 4·󝀴Ɔ#5cõľ÷𗉕Z¢R񹒠@ँ\$I{zÿ胇充| ¼¦׉ª܀@=hCEöՈ¶, ,ZiµµKºàP¦|,g°z*ʖƱᅩAjknK\nºÀC\"J79À}4f¢*´4붵¶ê­׏«Q\\¡ޒcMᑜr{*۱j¯­譏lFm𴬙ō¨* `☹GÀDÀA-qqab´±1ª9RɈ¾Ţ¡g8+¬l/³¦䴹ń栨 ʀL\" 8ȭ谨Dc¿#ihc`Ǹ±¹A1\\ùuK(д!¶dҳ¢8ûΘ¾шц®4¢j;#¯Ø񯁘Às8Àƺ5,ucncFöNpPa8Ǉ8겎KĒцǱύګiȋ4A	£8TҨƲ6 ;*i㘋²%M݂JG² &탪1T\n4	-#讗%Ƙڇ¯'z#ʅ8󁘎A+@S.0ӗüõ቉`UºQ°Εdd\$)¤Ȫ]¼ͭT驣ƃ訹M*ퟥ�b+ù·ѽΑĹdt\0-¹Lü8\$¥\$¯ڼAɍ!뤏\$p@]d£¸ߦɍ+2E´y߈((_|ōdÀvU9!¥D	ѨúªW=򗆣ø駴bN;¡'£¡\0²O¡<LiAɘ РT¸£¡\0¾QɊ# }Ba(𯊵GB¼%-)ʨ򵄴¥~\0I数Pr+1©ª¤¤%51ĉL`ܞE'(/Ô¬£%Tɩ9˚OrT㝬ٿ˼ӡՉ¯/|À\$O𐀚 Љ®XN|±%,¹SK:]ha%¥ª)kʾP\0,·¥»'ఊ©:ҿ	䗕æ��V£0újهJM¡*x£􆐩¬jKȒ û¦\\\ru\rۨÐWԘ١F: kºퟑ�ƈNJP!Q2 'H *\0g T|΀ª~g`D,͏¾\0#¨	³;(\0 À ̵L��5'і`'´Φt(Lög󁙤Ϝ0য়ksi񸦂Ղød󭁸ºP\"Ng`O&ċ  X@²	£ͥsh��_܅sb¨fϵɋM>s3@Tݧ77À+򮓔dӧ5'6s\0\\ԧ\0O:ퟸ�@ P滻9ڍ¶pFπ78_l³9°\n¦)Rg³9@a痺iۜ0þvSD򧮂ú\0¸S݁ù\0øsõM\0Bȟ\0+Oq`§׾ل4	 T9ۧ7=°Mⶓ=qø'y;ৌF領) ϖwP·TӦ;\0¡O|?0)O־༟̾禄`#N´ \0¦ù>'Ϫ}ՠ¬ͧ>񀢾e	\0? *P3¡\\ÿ楀Ӎ��\r'¿C𐖈 O¡E\nMBʣкT;µ绽jPރ49¢¥繅z#NƉ٢΀FYҍ̄\\½\0CA QJTV��©­鷠\nvӰ@_®Q¸LْRc!VÀ|zҍ6¿KKюS£4¥ɜ$aIª|PA+¸.qKD-瓠®EvbCO>¡H¬ªٌ<ᭃ\r#䣌Pܘs⥺P֭20 =¥*ÀWL2dത \0ءù<	࢙°q\\pa@Rd ofKM ݓp ¡±§\0}ȶ񪺊\0у⩡2Ձ¦3\" )@\\*gӲM#!Ÿ銝ö愤P4󃥾KҭA甜$C§jtqP°9ԒƸ¨Y¬jP:vTu 䆀®T²¤`=¨p㩎cj*¥x᪤³m\0ø£MJjFm¥p¦´槁¼FQRܭ뙶õFǑ¡lDjº¨¥E¦MSȖ4\"\"m̀J¥Q¢H¤Á@訂큲h`O䥦8 >P8	ӻ;57ª,)©䌆mSvէAᓋ򼅎됕°dŷՏ鸲Ў.S¥,᦯8§ζqõ,ûNz:ȖLÁ؜n(%>鸏Ȉ N%'愠>\0ö¯¬ԕޖ9§aÏ ¤õÀPI菈	ӹ\ne¨5@\0£͢²ALS!mªºӱv¦¥(鎎7=ª=Y¸AN¥´¤®񒫂)ϊ´¯4ΘX©JgSmZu\"N:À*4³*튬¦:¯	ÀÀ	р¦À𾗙ܖЌ±臵Q2¼҈õVXR¤5ש%례նÊ򰲋µaªþXv(õuj똔Ŷ\$±X胙V°ا&ÁՓ½H8z~幂^¨k`¢ª?lĠwuuzʀ±lS~À.\"¸E¼S*�©ebM5»Z{l{a˯ʌX³ēU1ª֡ú­񎅦aȘ܎Ul1¤ʢ±\\Ж6s§««:ª§Áș}램ʯ¢䥒<,s9.!ÀSV \n쎢ڴ\nhK#ª°l%g[;̤ƱX¾˙gQ¤\0¾ᓳ¨lꣶڄ¡¾ցuோX=BܪФ³󂅳롚ԕEZ¸Fl~ýbµ{\$_²r̜0Mkw/~չ|C»j©ª^5¡D³2%ݛDׁuªxo{Dڶݶg©屜0Ƭ>ܴ쯺諚a\nḡ논 A٤*Ãe@򽕎0 7}h\\ö+朌1¢®U5½ᜰõ9RѡV硚nh­µüm b	¡  =󎭢4䗞IO_¸¼[@Jöu⠽¤ꡎ@نܳ()À�\0 ӺÀ𬜲\\jõW 'M°µw>ø[ʮKNퟱ�øv\0« \$)Ƞz}(򄚆]b§Ẽ᫋Xz־G­h?EʟQ뀢º��vK³WQR§KqE~IT£5ú)ªn«\nT-yDы{¡`P/얡:¥I]nթ䫗©3ú𞾾¡½ίL\"(S¾ֲ°千kǗ\r?µc䪗l񄕬;õM¾\n7ꦖRަº½归㹁ǔzV.ʫo >Җb´s̄(!ۋ^Ƚ­ȘF\0.סMJI.¨Hiً8A3��`(\$ړ\0Uр¦?𨌹\$ƾ퟼�pॡ¾ϞTp\0C¡Z2¾.,.ü}÷󠭑°u⒄4¸X	pﳔx+À择񻜲À÷Exö	Ɩlῄј2)0۰r\$¶ю¨>% °z3쟇!PᨱP¤p»L\"\r s\$	¨7%ɌúᘄÁ612ýBÁl0µ|.Z(?섁rZ@<´m¸{fC¼,a¸n#>È܇2񂎲퟇� N§\0Uµ·f1<A+8ZqӪa?}Æpü:֜"8ɇ9à0݄a·\0nB7=n\"oӮü੃±£J0Göɸ梌\\l:b§kdXPᰋ<)ߜr\"Ƌ;1Udbⷋ8°¾L©V¿ߠ¢¯귆0HQ󪣐*˙WYXþḳ-ѱ෼Rÿ8K¨ܓWtL2<{ẇεٍ쾡ӎÀeÆ{ʟ3°£\"Jā*¨R¬BcлV̅q<뫐q̅'##>т2F0ۜ"X´fE¢{|cⴇՍ5Łȷ>D\\X䕖Mgc⣉gǕ'񃑬5䄜r9%ǑW¢¢'ÀdʂNOW¼£#鳆ྀuµe´´Wߧ¾;퟽�\S®󦸫Ǝ,՗}ø蟼°ø퀠ݰ!vx䠡]mʱ턼¼幄x.o𬙡	tø À䝰Yl¯;ùYA[u��㿜q³𿱆´\rඃ-Ԁ٘À¯\n3⛨j#°¯K 6N^H鏜$蒨|À蜤¢ýe療Hؚ%pğ%	l\nڋ Á¼ࣧ£B߼¦\0%ø{Ez³¯Yjic&¡5nGg寥Z¨£7G¨\\K¹K²򭥑f龗惰lʇ¼þþף¾Àw 8§a¤L¾*}]ҟ@¥R¤}JQqg秞^a<ʜ\ ᧀ[оPR푪4_YؒVvª\"eq霰?YwÀV\n²ݛ2ɚ¨®󝍦m2〨n򜢦@؄³߈𕴑O啩,;☃¦˘#L[Á俨TȺ®].ޜv��\$\06{+\0\nÀ/\0ĴI¶½TŶ󱤩I¦􉘘��ㆆ*96t¥Sziύr¹숁§(\r¶ӱX°\":́ބOþõ\0(	MÀwӆ¤4蜝J飋ùVӮ󹨐2jfú~ٖ@􌜲Cjyz¡\nö£´㑫^ꋒ´԰㵄¼Жꗖڸ¥7¢Ɇ͗Ћ䄆𴵕­cŇP²=n´ÿû;Ŧ帛þ+-C®\rûzqfT²ӀSАC¡ͅᵫyk/ТEŠ8}t餎fЎo񈍻內Áÿ¿½I%Á£a»¾oϤ\$´성zJՖÀN!oP6␤F§H½\rq峚쩶© 飇EPͅ	®¦δ؇p)þ}Á+fö¸³wI͓U򡉃fõ翻ü 򹚙0⵽¥MwЎ`U*þ¶Nci´4+ۮ Վ­¯m+lL!؎\0ro}¤頏;a!ޘʧ²ƒl¹]bYڠv³´»\rҌZÁ}m��'p²˷Nśi򂏜IW÷Uay\r볜¨v帰n+慫mĮ͍dL°©p\nUÜnC\rc>͑7c¹\rˌøۙڮ�UýϚv[£7¸Ŵ`Q\$gY¶T9·PUýՀ㶛Áܦ¸ǠōLξ񮷰&\r/w«=~´혃rp<@e-ˋõ¶/e§VཁÀõ*򲟙a滓ڈ5e5ᙹ%¿JB¿�08 .֦V	ª Dg\$U͵޴Am?@ö\$􎜢ܾ觻§ڨҸ5°Ⅳ¸Á׶B0¥®­&L+C÷\0P0'ͰP?&¹Ï²㜣͒\n傏ĜrüX'ȳ`!rNhx1dނɈdŉ¿;ۭޘrJa+΃Ć􃘮½6)ÁÀ鉽,&À±Qª/L?¼	ֆ¬Wk½p`ۑ,UF³5£=h滚OÀ²e×fÃ¹ ÀþWeʽ\0؈ѯoPi<Q̦\$0³7{辛ފebwª4µ,ý¶[j?Y򤒜\« ]®#K.·ڹZ·¯=\0Z۝%¡&Q2µ]rûBӣ·Оmõ|<¥¡>ª/k¸گJ�Vk¾l"¡ށ슷�¸a܍o²ú¸۫᳼u≯99ʣ󫇛º\\掞ĭõp럒úٖþ¶􅀠䰟ûRߺӀ\\^bmҸ&¾g÷ړ柟À鏮A(4䰷´µ¬N~|xöÁ۔r(r|ȧ#°GӜÿD½¶k³ȗ悘\\Á©[ù=ýScRc𩙛򆷎8i屺/¼m¡^̽\"w}¡躐¼y\nퟧ�6(m�\0u#Ne񣳶T䎜0xǚ: 87W­££̀V!µˮ먂󅚂ťے/¹&ú,Gڍ𗂜f㠴ú£ªµ쎓¡¼耷z&£b2֐}a׏B¸ùÁގÿ܀Կ ¹|\nt\0t(ºk̑Ppü㗩	Ͻ;󴗝㶦Nt@¾qƊ£I\\՟?;ǽWtϟVۈ)\0'B˱[1¶v÷ĳ첰¯±zꮌ󣔞N⣆}I֗S99|#¼˳휢43¦p68F'�9X}Ǟov¡°eӶÏָC뗎ԶÀB[Á9삭ⱆŵqN§y&ψrY\\\"󜢿v;µ»ܰҌ±=¨&ơ\nT¨ߜna»ޏC\\\0002󄥈Ѱ´<R½øø¨䷜"ÿÀ蒢c»¼=.з˕䢼FS>i󚱌ƾ¥£_O 𔏡!ل4¥.f륊ł¶񷠱·,üZù@Ĝ0<F.Ď𣾟}¥££ʠpC<I·=矚05ь°)ގ󈆆¿灎z,uþ؅\\p6ޟy-嗽5ơT#Gø\0*m¿󵢒Inʩޘø␟ÿ»:*úڽi½`7h޾¿ݾ罈ьøEB.֜Xʉ¢¯`Uq§¬s¯ﳬ[S+{ ³	¦0ú痻7p֮»͹ֶ.챗ݿ]xmúТ³}¸«<û[ݻ£ݗý􆎖h»۫Y÷¾𾋽eص\raaûF䰓x̶؏cÐ¾¡ᛌþe԰¤ 7§>@頯ૼ믩;ý£¿¥.ퟛ�Y'»¿ÿ㡑ȾE򀰑@@��=C¯¨`ր®b®-Oz󭘶ø²t>=Á=¸3n!׶ö8DM&J۷Զ.]\0ׇO?[û4D#~<öOÀú­\"뉯򑃴¹͂cLK1霉YĉIѸýù8Q藥)¯ӠÿŞǐLú6+جB邹㷢o½L]+VPü¹ÿBEӥ¹ߟV±x費|[汕û\"_~ₛ∇sp󃜜n\$ȞR`ùǮ` 휢逆?迉Q¿āqû²^¤`ÀW\"蚻ý\"IPD¥þǇ2ÿûþ°ÁoCn݂̆}sÿûx2i wc%ý¿꾣񜲹Nù\0I¬౤þ©C 8pӏẒYP!À)¶F5 	 ¯c¾.󷯶7dZ􃏠<*7£ý䎌њփ4w(鏈rⰖn¨ʰ¯��«'ӽtX6g6恜"®V:ȍªö¼V䳠\rZZ¦𓁛&!۟O\rOD®	öᙤ ,г4/´쯳õm)ͣ}¯þ𘹄¤҈[nª4\0ჴτ<D¿.´砂\"\rC¦°²𻀝³@þ£³®歜0´D0¾Zÿb\rV%\nRRA}Ԓ\"Á.ªP >n1شɽ&:>\$^RMpQö§\$Ɍ\0ö1񨰥ҿ}Յ«mHÁB	¥²	£Ah1ږɽ&LÁ	AºT¬!톜\)^Á2è.°W¬p.Qؔ£\0ܜn`(உ9ۀ¦`(켜0ʦ>¯��#ဓ2D@֒´\$酜0f¸rv\n*`£½.W᳀\\ༀ>H *©Ar¥񑇪úP;ÁD<|¡IÁNȄ0UAX=)҇kºX0Áv1؝A®U,#DAc@(PAZt¡۰[Aτᯰ	0³0_B5IkÁ4ФÁ©bQ𧀔1Á%{ѩ©=\$PI=KH𰆂¼\"0\\A;	aҢт]ü&7A\n:Yǂ\$)\n.°k§	ĝPs\$ù\nȒp­¤ü¥+Ј/'¨O#\$,𡥰*dЀB`Ġ B	⿰ÁHTD1)I¥QtLN©C©=\0¶eÿ\n{,±<4BԔIi%��Մ\$BW𨥓¤P˘쳜30MAE\n(İ¶Aы|c¤)โ뜮#Ǯ'\r8𘅧[ڃ¬ൃ¤0ࡂ<BS0iBf¥L悸	䱦	û@ДC	¬;惾U,8b\0ޖt)\"2AiRC\n/°»¾³ܺ¤ì仉_X(rC眲컅¹C_(µB,-°dCý\n\\9P¹C .Ш=B𔀭tꝐo䜜0ù N	ŠֳHڨö^ރІ@¬/ʼЅᜮDj؎`れl¹þ|/ ! 񪿪Gೀ^ \n@°'¸	C( Hѧ&¼\"¤䚪\rLFþ¿2쑄x¦󨡪DµI@<¦vQÀ0§ CªԈXH\0002^;i©~¾TH©65  CH5(49ĉ Ň,SF_TSцł5\0Cq!¬`þ¨¯Ŝ0OĐфEW쑑PEE?љ<S1]EY쑑_ňºȋX8|X\\ŷܑqOŜxö©,GŊ\\I2¥Ǖ0SQ#a\nŬ<\\Ѡµ=\\]¢+%I\nŇ\\n×\\FiTĪ+񬄽܋±/ё1ª\$'䚱T§¤U±PE |R@/Ũ{Q`0¬\\WE9¬Uщƫ¼c <ƹDXўE­|R!lF,§ qќ"¾H,d񢅧<eqF]¸ɎFkUQFClRq(	Àº©Dg񏆡DeFw0ܱ]­le1F%\$eꇅ¸m¢M£]ğ񰛓腢ۀރxx\0 )؃Xm`[ċ`®łܝmP:iSM=@9İSFĘxՑB.«t£¹\0p\0هUО\rNA;ªܒhЁx~렐wƗ̞҅x8±ԟӐs`!_��\0P±@Ɯ$4ᷭ°Гø1¤nª° *\0#Rð?	'\0d¡ 	À(Hxه \$ù\0 Hþ`(¦±xGDtH롒\nɁ ¬ǞFJJ|ᶠ>?õXBQF؃㩑þ\$`¬\0>06Д\r\\㺉(+ Jȑµdf`>\0Ӥ1³h«̐²ŰK򎂜0¾T@0µB؈ྵ 䩠6Ɩj¶B8蚠򿙶¹4 7꼀¦»°D*ܼlퟠ�H1 ±¹¤7˵ҥ¨?leQFȝȜn`<°bĊmr°򟤈䊜0\"Ɉֈ¼9ұ+򖀯G蒜0ɒ1ſ#l䌈ҙ鞁l\0øȈҞ¼̈'𰪂3i ȼBD럒٦o¯²c䚘ႍJ\\#2¨mbJ\nЫ@ÿG詐kQf)(&\\~Ák©¼ؙ㌎û¬!*E(BɦȔ²-ɠ±R݃\nªȜ"iH\nɔÕ\n=Wă<Ѽ¾@ *Jz𷬃¶z¨! &\$C.ÿH·\r񼙼F⸠+?´¼¬΃tÀ֟Ύ؁u³ĝ-ȈÁ~b%xҤ)ٜ"|^BW¿Ƒ쎢L3S(\nbÀ󂚣蔁¡ɒ󻒜"զHCTؙi¢W¢f¨IX!qü¿D ý	^H𔲉9(̚䊜0Βɷ˺À4)) \$~0±6#\$*Ӵࣔ;<D·ڤ£«Rx¦}*#õ­3ʐúgŃ؃c4³À´©`@&¼ ʂ¸[ǳ#ªda?ǨYȌnü;􃠷x:L²´ņ-Ѓ¢_ʈ£¬rkɂ 	򨺜$∲³²#\\K\nH+릒¿µ\rȔ»󫼔R¾2§쯀֜0¬ør¦¦˪D<rᭃp¬§!@I˚Ȓ³¸(ü¦o탼ÿChO󃼫`먑2՜0辠,]ǲ\rxŀ:@򜢼¡(H+R뭜¡À텱+b Ib(øaHHƣ I@)ҙ\0Ҙ.@Ɍ¼Ȝ\²i¼̵3-`̇¯ˊ¼¶&ˊՠ¤Ҟ\rɣ𠒍*҃H\0¶L ²鋩.	i\nv\0ٯXe¥0¼\0ªý/TÁ@6K۩ø\0Ĕ́!¼ɣԭ¬²üퟅ�5Ɂퟖ�\0ø\0L²Ҹ')Vҍ;:&X²¥@ڈ,­\0ýJo,ळµ䱌ºbʎ¼Ƴ(ԇK:ɴǢ#I⭘R¹Jܜ"@·JW¸s˺䊓)Ltʁ6̬˪±¬Ŝ\肒»һ!FÀ9	0V򇻎ͬȓ»ÿċo]L±34:ʵ3ÁGLù1h`ρÀh'ÿK02Cjo\$N|HY1Σ\$ﳔ˓I͜"õԚ󋊱1Ժ󊊰萂W1\$0¼®ʃ\\՜$&Tԕ䌟5\"p4ߵH0ƒMR͒¢[6\0i7;	\0iB͇6@#򨍎§׀䀂`¬M*´MK¤LF	%AYh\r!j§sp,)-(`À,MЎ򽭣>¼¤Qÿ\r®ԌWTҐ\n(¼M»Aµ¨i¡l><Ԟs{(H\"MԨ¤ɶ¾º𩒓N¹ü ¯MԜr¸+ɶ⓺ª6zZ@? 7Mչ\0BöµڒK�´ÀJüIjl¥qǪRM#T'ή٬k)繜̡µ«\"ü©D¤½ܣ/ӊO¦/+3\r˗.P[ÁH¦뜮³\r%#X8ҭȞ¸1ІZX6¨6z¼xn\0øHT°|J4ms³Á) 苼ª̜󑉴ڬCµȔ͐¿ᮌ𜰰06@\$��rKHÀ>󲋖§쓒ڀ;p5ªD\0©;t³¸-#\$򓍉¦0褮fϸ¼��ú3ʦ/=@᭿g-kA򜢗i4H82aÈ%R2+FûМpa򏀋´pmöI㾜$¹*?¤­¿Ө\0µǵ|¡\r¦ϩ5 1þ(\r¬û2䋶`°OqmMJნ\	龼À³󏥸À ,:8¨ ,ϟücړؚr_±üÙ؀c4D䦂\0¶ʃd¼Be0\$Ô̜þ쾓¾&Z\n¦R̜n	 ¶K🽂r÷:񼌽ӆϲ%|Á¨񹜀ꯐM95 6PQ=¤䁿À:ȵ³ü˱@9Э°\rE��³\rTĭ̆	P2Q¦+}3^f蠩Lnd¦`\0䫐¬Ә\$D·R\0ȋ¨ѧɊ\rd~Áj\0ƒպ\\¤̜nJᛀ?: В匞쿏ü:û/+>(!%1ýfg¦/񻻳ζ%|ڴ<M§C܁³DLCā¡¿풊o:դ³ӆѠ՜n@9P¨+Ȯ`Ȑջ¯®䙓/P5t1J0 O򈌵5HRºMRûղɺDժµȞD®󔃯D\$ճ´6z=³Tµ·FT졵͒\r\\®ᭆ\r@<Ȍ)䯼S\$GL	Ü$tª4-XZ]Έʦ񌲩Às\$Q򄸥6¥ȫGcSFz¦ퟯ�LlA=¢W.lG¡,\reÀýR\0¤˔­)3e«Qf½P°Җӷ.¬xԹõHÀbDIH¼xԻه̻4÷G솔R\0¦õ TR\n¥%@\nKI}%Tғ3\0��ú¬A»҅I\$£ÀýQøÍ't\"E'A»ҏI(´;JH¬b²ҷH䂡»ҹIýT«GJT­\0J5% 䑧Jõ)s.RɊu#tRE%QǱ.¨磖Kt4¸°Ƞ¬´·˂	U½NS\r'ՆµFŀ6IK(ԁ\\\n@%H<ȦIL¤²<s\"(%@(L	㐱Ӕ\nC:aR¼ɌسÁ&rCæSFZ´Y󰞾Áĸ@:53MdúԻÀüR-4x 2I9G9iaGQg¬쁶£)(䔹\0ʆQt⋌	LDeӔD¥kq¦A¡rAN@w&5l;ۉ8ڳA\$°,h'!U\nA² \rʠ(\$#@Núٽ	򐪒\n͝Jx04ꄓ÷O|oȈ\$Y؉˔D¡\r)JƌϠׇÿ\"(5ࠊ󂜦D܈粒F󰍈­`I샕5°c򿄅/ӗ±`=¤¤ퟮ�0!c0\0Ҽ|Ŝ$Ј́Fȿ0I­FJG&ݜ\">´\0쵡p½4mö\0Fв¯L%HOD)A@ĢX	bФ/A¤kl)А¥ӏUă@6cMb`պÀ¡U:ÀӲO ý㸀¦8üI÷¤\ng#𔰂 )®¥O\0¤\0`	䄜0(þiÀ§ \\ ¦D¸­\nu>'¥T ΂?j®b~`&\0`4IBu	LSAzC¥¡Єi~øz`!¶ĿRµK-%¾µ;53TÁeL@Ŕɏ,9qU\\ؠ)=\0D»A²ø`ɏ·<¸ªܦ@Tzcõڂ(\n򨃒;Ϝ0¸ǴQU5ԩU¸µ+Բ嗵.KV-M5ø`'ÉVs5(֥	¹alUd?p¤U_X\nZõYyU­JµtճWeK^Í[\0Bö	埕fčWJU~Cp­_5T2\0 µyX컩PB̕ħqDᗭcQ9*LF˞򾰼\0Ćඖf3\\H,øƿYQõ}囼Ju噕f·%Yͧ`6V{LM¡M4¨)0­C´ݪ`9F갡Áլ¿Z¡x虖»ZiÀ<µoZڜ5±NH­j­OV®խܖ՛aHP¾Tmmõµ:j'\0<V盜^ռ֘0°௡?\\ou°Û͗gָ^mmUƀᛃu¼©Dmj ֖ԕR\$³ׂzga¨˚ճࢫ쏔n¬\r禀µµ+\0«.ֳ]xõ̆ɽvc@Wk[�ݜ0[[¨P݃띭v׉]ª¤〚¨:+¤Vԙey؊ݕ¼ý^O򚀼U쌏^­tM¤\0Oõʉ%\\恵ל\`°Q¨½˛TúÀ5׌ż5µٝAj²%[S¿§\0܁m��[P8o¦+u\nVԔUA4)\\x<5헫& Z³û��UúO񜰿],`¹C Tppdܘ? ·ො0󜜸­͢\nܜrª혴>}jJoXfµܗꔓퟱ�þitª񢜲vخ½´Չš{4@蔝a=vfڃ\0冶E³a5jûX­a\rĜس`틑ugaEjXºՌ᭘µ`ŋY¦vڨ]´¹XI`͍-ؕaѓD\0ÿ݊욘ǣЎV5~2@\r\r&ˤ²VAءc݅Ɔ񣕏6Gً]\05󄥶F4󡅅VLWˢ¶JXݡU6¸ڧi^MdXÁ·H¬¥oՆYGd଱ºȷeõט­evYµ%[UgC眮܎!%6\0GְeaM	(g򅱤󕶓¦9d0\"QyN_ýÁgؓf¼]aW¦3ث՛af ¤ֲ)üMϙϛ̸aú!ퟖ�٠¦񖺒ý⁙򜮕v+4Yûg9zL ݠvΛȶ\0nõmVxڔiwu��\rUÿؓb¥֐٣cꝖ?סf탶X¼Uفg)ڃh½¶ڈe욙\rfxCRحi¦¢ə\reM`2F륍§Vڝ¥* Y­i´]aTړbͨЁת}¥v¦XYú®fکj]§ѵٲ¥6X±j­«¶\"@\nႜn̉E¨¶X	֗ڛj²gv1Fꃽ  7J¢À+͢,\0ªQ\0軠BÀZÀmªkڃZ꾚뢅®ö¼ڶm¯­&«l°V¹l=}ö®c´ŵk°񺊵g `Y§8ۏ6Àõlղۭd\\b¯Zɬü]v»mv5½m¯֋ژ؜r¶#?	g¢VքڨT­¶@ý)û]ü露xڥk³¾ٌk%\0;פºٮ¬M65bL±öX֭ᤓshE»֛\n`S%h'ՍZ ѕīZ=£5֪mfõ¦Z|o둼|`U߂(ø76,ق:¶֛]dpV´a񁟵mm¿!سlýÜ$څװ͂\0֨6EAdڲÿѼ¡¼/൵¶79²,mi·ZͰzȗ	Y꺅Ģ>݂b\\ip77؅fݻµqõך܃p\\̵嚰²ׅܛc5Ǔ뚴6Ƙ_c¥ö뜜;d5ė+\\.ҽˡ۟r劵ܧoʷ\"9úh	XQr 70\\۱5ͦö3Ir蹗M¥·°͠´WA]\rη\\󴝼öo\\_rýʗ!ܱrŏWFطs¥÷6]%tS¸W>\0ݳퟷ�WOEjܜ\歔ۙhZ¤Qʣs¥WSܹqΌ]_r`CW'^uͷ\\뗝֕ª]qn-y(Y½tÀ\"°^¨aᄝ՗aVgrmط^]sUή¥؏¯ĝ£Z՘w]W½ηl]2¯±£XZtu՜0¯	癴l6øօA̎Q´VcpͿvþܳpj úP§vd]«w%ʣ \\༞vý{À݅v5ҷ]U;qƖXij·­ö~W@l1͓¹Rv £º>ø\n@Â¬`ɞԼ`,PSf»X*À\"­Vª#?倕§B¢W^|¡E蜰\"y艩·¦㺲«\0¨@:f᭞Oyುrº:n)ýh,DÀ\nªڮṲ¶£ø¤8þC頡^£z=귕ކ»봲ަ\n¦Qcü¦q\"𜮀,®¾ť蜮À'§졲§₨þ«f>苠-\0yꮜ0/®L¨û௦øIՐ ø\\µD\0>�ޛz0£񕽼½ﷂީy˹µ灭_\\U緙^^\rö·Ԁ{\ng \$§	}мޟc{÷÷¯	S}°*Ξ\0©ø{}mù#yý嗡(˺-˻	 (§zø`&^v!r§TzWԞZg©¦\0±~Eõ÷ޔn  ¤͵7՞~ſ7垛}ø_¡}Q2 #ޑ|f\0埄\n²n!rȚýú𞬂e뗎^·{©`¤^ýõ죰^З(ÿ·¶^¡z6W¹`~mø7¼`'{կ÷^ÿ|尀«}õ𠧟|]񠫟|􏗾؉ע߽z%嗔ߪ¨kX#\0¡օ7þ߿a­Uª kCõ§¤ղ׌\0|ճ\"߽��ǩz��ˀkX¦³yM﷌߶ތ׏ӽ\r頝zv §Ky퐵D»z@)՞«ݾuI¦}TµøÀ'ʞ	鬕/*ɛޮ`kCú�ý8N_桀	*ö£ú¯y꺷þޑ}MZ #ޜ\%VXU_։󵡲щUN÷¼ჽMúWꡔBz8`aW{ΐµEaTv7ԧ¢?2°إa@­ýX,^ܜئUv؅a£oĊׅ¥痔anI\0䄏俐ÿÿHy؜nW҇©yjfᲮö?e긺޼棰ể~õ@_© O%¦&c񔸿撷±Mս=ýU<«g{@\\£ÿ'£y}õJºöÀ	x&oSΜ$\0)ፉþWݏ¿Y\0ĄU±ÿ  	P¸{\0Ʀ «aö?û8޴? 8__Eýõ>bS�Р°ü꿏ƂHCùD?@ý@(bY{nù⿇*õ߯yº븮⬜nµøj塯\\¸bߪL¦*Xª⭉ƟI􏙂؀ÁFm⋈>.§`~/\0«\r¾/ Ǡ²jɬ&zȘR蟽Ox°§ޭ¢f㰏ø`ýÁ¦ºƚwõbӅ.Jܮ®X	8Ր\rTw*{xyDzxԅˇf68ԟ鈖6¡rƌᙲ­֝XLǩ2Àýøb}ޥ¸¬⡊渣ø⑖ݎ¸c?鬢?\"t¸ע7¢p)ϟܚŦõm§~ø즈?&9㲠z* 㳾P5A¨B?˴Ұ?¨\nS,a=Tø*ش߽ȅwѣõ¨x=ǩý癁엨ÿwÿU-Ⳙý䙄®؈㩐X*Μ.²L¨T&㐖?⩊¾¸ⷉBù䇋Μ$y	d3FR/¯NDaߑ89_n õû¹\0V?\0ýXü䩉ֲ *duþ5ù^¢°١޽VաϒrjણC8n\0f÷´d±p؊ߝ^I¹\0§'ú§£þM1ᩒƜ0Y7d/㰤°½ÿÀ''\0þw¤ߩ^i c¾颢ǻ֍\n¤��øϟ£1w򮬭&0a­UVҦùB*幂¯	ԣK\0\$ °	eE[oe¹~&XAɄ鹁býT¦»b£üIب?nB\0^¹B_øXõe\r逧ߝ2	þӥ/@Ỏ𪘨㵖愕=dö'ùi(u³Ʉ_OX*ʑ_ƺ攉ʂ	øJ˒	®嗖[¸jT÷{ª7À岡Мn÷­˿0ü\0&½T¦7ɤ<úzc򏢺ȫI誥S¾[¸leZF* *\0®-Z²\0¦^iϦG.1i¸fP\n²g·©\0l㸞¥Ȱ©ª«2ƥכ±ثYϯ¶B£ạ¶dJq¹Kf?g¸L枚֪ ɻBjխ氂)Ħ.e͜+h­´ý؈8ov\n9-µö\n÷֓(?p\n/§\$?m÷_<¡þ%9º®³½Nקޗ\"/ǯoi濈殊¼gx !渜oٮ\n(ԟ\$ɢ⛍B¶¸~慼¥򍜌°@Hyѕª*zX𢢂5鲈fND	öߎ?ֵ㧁>Aµ=Ժ?#ùaŔE[Ra-N¸S+qЈý䭐Һ5=呐ҹW󤵈\n8bx~Yºc򛈽䕱fFӬ\nȋ㺓)ýǞ§	«k齜0Hƪ@ 爀Vy¥¼ז\0ś馧�)cýbyF~J䓬?FX³hzq.틐ýʖ?(ÿyRU±V®yö+j\r��?ú #»VÀɏh3h	㳜0if4જ0qf{֜0¥>À\"佌bjXƦ<>ýýȨb?b'ݺH	\0/䵺Ͱ)÷(b~\$ˏ՟ƽڧ)¢~c󧍢±佝n+¬bp».鞨b¢\n°ig\nhsÿ¦zh`®°¦顨f«©Ǩ򂌋L瓢2j ¨õz-ÿʟ(£ڥ­ûhL®ö〿\0øc¿TYû⁤¥ú͏ýJ܅@\$\"fùdg埦9õ軻*gºTiW!S9QH¿柘Cୃ.÷ПE^~x¨ܲ¶鹤¡¦ܤ烂öBڤ'>艉ö¯£:~yúã>n&pB٭ýûcõ_©~´{Xޏ匎÷䫫§68򀉃&m蒿vխ峖ƹºq0	)󣍣:#򤘂·늖  ꉉ[ù䩓¢}¹±£Vu8öUS޼㹟÷÷鯹nt·½偻⪷ꞙ¶£ةϨöO'娶@#¿ƀþ\"ǧY¥㻣õ{撣ÿ_թzp:ᎿVª娿jk #ꂺ긁`P~IūkV¢·­U'*~Q.^U㹠F«¥üe¤]츱¨\n­ª°قj¼»À¿aK朹ܥǫn?鹧p­µù¡ga¸üù²øȼº(e򺎶ˏՇƓ<釱>㭛9P\"@<шùȜ$`d9̖»g¡\0놦´\rqלr1b\rǯ\$;@ڃ-@󆉭L܂P#²;%aj̜r}2rMʅeL塒ʓ��ΒõӃªL´3I­±竅ardk¦ȺsţLퟥ�¡V»zϜ0ۮ˩ ­k«B&¼¡ψ#X.´µl­¹Ҧ{F :⍓�3Ζj¸`©Wݟ濺ú§°úÿk󃥹±f*8�£}֯Y¸㧘̀`\"\0!P)菡!Pÿ©¸礂\n͜hnFKcù^݈Hþ¸ލ>)úꤚЉ·³磰͒ &µ¨zXK姐PlqURþ䁆F\\۟쵲BxRᏇFȘH춗*}㺬oöǻ'l·ÿl @H	)¦²J)ö^{¤%񗹫DµO\0Øù>ሊа農;斨UTBP§#´{8ø\0?ۺkqIaͲ] Hк諈ỴҊj]蜢°핦¤ۆ)\$E54Ԃ!e	ज0휤üԊ蓬ޕKxº0䪆͒AK/˿³0Υ⑶yµҲ»¿PԘÿۜ\%R	01®ԚΈ]/(8ۤ´FуȜ0ƀdؙ½^䐔ۘL)5sL\ný򁭃G#ƒüأ\n+ 4kM턴๝N	ʻR*ྜ0뵈5{U�kA³ƿĳA9±􇛟Tѷ¿ҕT~\0녏¸\0asπƁy֜*ȕ񺇯\"|r񽅏c¤yö:G¤	¬rz><D&¢\rޤ´2H\rC\$ڌȒrWmΩÀR]¹eI¦Zµ¯a)��»0©®疔ؤ&;¸8»ömI䮸}¦IEҒn¨+4@º¸ւMYº渲¯P݂Yº¤✰¾¨IT©/µ½³*ۍha4z톜r¬[»낉À��õ!on³/v𠴔DQ¶䖗ºT£ڄM¦貇)צn̚Ə¼Ʈ³Ik¹À}͖g¹Ƹ3^¸Dký􊫇½f��ᵎ²\0o9JD¤»º֧½β´Yõ與*̕¯n©¾ 5»殃º��ɑkثB£Eû{ْHkZǌ伳FZ±=Á¦j͝Kü/%|3}ș'RȈ𯑧)Sۖ¿i@6ȁ¬¼¦Àf8nٛÿ¦VZY^ü\0ÿø8¤̯׷õW\rҍ0ɜrý ͘b��LL\r±7ӏ0rDWõlþضLT8¢0k;틜"+Q\n\$uºʹʽvC[µ¸1·õ 웥L÷m̠ý�	!.¼ùΛ[ʵvLġ,𽀇	8raxgʙ컃%©㜤vϣ·5a£ü©6R\"𘡰O´ù6zѽI\"怬>ûҿ펛ܙAµޓO붱ù9M¸⓬߫TԢ@\$ úȋĴFƄ¸mb&|IDlڅIpo·ח9uرF˵AՋ[۴¼&К섛nЉ{Ċ8򗞖͝²5qe4ܙl사h񾅄ÿ@qb%[yŰCc6󽔧¤6tø\\ZkÿŁ󰜓¼²½q)/ҏqû :;þӁE\0Ж«|qőƶیΎfÿ@ÿFµ6 :\0#\\F볌cn»m斬¯ù³b§Ȩ뭊Q¾l`2k磔m»G%{Ƚ=ük2̧\"9Sˮ2\"¯ÿ+7!!,÷.¯|#\"W¼¨U	ნ$7¶>¾frP¯&6᫟mÁ{³k³l¯'Zõ뫉¢aʆ³¼r濜0<򏊵¸첓ʸ@2/𧧩\\¦뗊)ü«k»l¯'6ⱏǘ\r»³r¿ɿ+À5Љʐ±r͊E}ܵrϊȥ|¯򙋏-|¸\0ۊÿ*<©Ӝr˴ļr©˧& <엇pdHs¯怼Ó̄¤úÿ󙰰:ýIȏ)<Ɇ´ԠkB\n;@úWO-;/۸©N ֵy(NªEڭ܃µy\\	ºP&3H^»۷?P׶f¿uCܮ)ٶ썼ِc²þգY·u'񳌡Z \0ǂ¡ù(ȷp8䘱ՎȠ0جo²syΏQE󹎧:ü،Ԕ˕칼숗ϲϱOゲsơ_ۛVaz#ܽﺃ	zM¢q	Ϲ㈫T²݄° À´wЖכRﲐa	W��ö͉е 4]\rfҠ񏜜읜ntCϜ0I³±��!􋱁Ϗ=P(¸'ėC\\ùs©·ӕЍ~#D¦(!⫓ªX露ø]��I³IҼ5�֟JÿχK;\\vN¥¶¸t³ӌ£﬿G@WmИDýᶏA7mÁ8 \"\0®��|,t¡Ӡ5=3ùҔ³݄ϩUù>��A#)D=ѡ	õ􄜲 ö{O񂏑2+s¦ẍ¦gя=J󩔧6uMď=üûtՑ	>i²½��ѼΜ0Ƣ`圙ø[ýY ­\$&¶i龖§֜0­e´\r`1bX镹÷g5֠¹ݢG)ևD{µẰo`7S\rֿ8ý%·͑f\0º²¬quXùɀY%5Ɍy6¬peÇ8ü脀찠ץź8xO»õ¨9d\n!.À²~F¸=jo­Х¦O֣׻PPɖ§Vᬐ+F;V¿d*¡rX󏕅㵧ؐt3󚎇o\rQ±g\\ÀuĢ>½qsא¾1mLrCt҇`��º=%örKvo\rgK`ҿ[Q¶K4¿·9|½ڭ㴸Uڀ<Á½³0/Z%5ȸ`¡5ïY}b]+חYԆWڜ$\\C¬Q5\0qýbp¶pjºuśdн¹uÁѩ}põ#'m¦Wõ8ÿoFW盀qQ|1T£¥otdAG\\ª&&07Åќõʹª}٦˩Uҡʈ,lӽʂ.\n͵vǮ=UWؓﰝy©!°s㥷u®ýÀ»+¿ekütѶvFW]·ȓwU��É��ek\rkۉû§P\"\nÀY=qwyº`J4Pj¨T󊆵אݱG)gpRļgnbp��zP(п=¬ƷwٗI\$Á�ýv\\Y]ػGµߠný靿´]Àýý÷ü;'X4Hy߸Ϣ؊8'nrvg֧pþ^({⾉\0»bW\\EҶɟHýqVû,÷yb¿÷ו^PΜrЇ��mצϬkA>Ш¼37R|E¬s֣Qø;Fr2xresQ8AtR	¯]bmq uժ՞w]qpL휌i\nEօ>3G°©ֿy¥ö斮ӽÁ¥၎ᬷჼº¾3w۝µ᪆񰇰*uˠ,}~,¼h玦W¬㘔䶳󸸍}qs¬/wUʙ¶ňR]¶\rяpý©LQ¨ヶC@֘µs^<𛳗ƘT#.¯A|^ùj~��Ԝ0؏ÿ堩\0؇i+lüdxMmЉޏ<»H¯¿ݏI{C%ְhޠt¡ַu%ґ:4ޚ\\8ݔH¯u>)ۯu>ÀZ3¸@oSÀb @ù/Ѽr ù¯ןx!¿÷v_\$Hﶋ稱­I]·µ3񽥓IiЏ§qøș\\ }BtG6؜r䰝Ҷҽ,lfߌ\\ʑ蝳þ+𐠝ºҶ󩷎ݎ±pDvø½yڠoe芥ʡY¾&öbaϹׂ#я{SiÁwoþúTL(¾ot°^7_T̛­Ηiێk͝·D> 	è¬A.k) ӽ£Yi°Km&W´©Ɠ©긺¾¨¬ܰM4̂[щ%Mg꿉÷wX1緊°؛Ďҷmz«ך]¤÷t¤f÷­ꅞXН-÷Á뇵i𗫎þ͞úùpd˼ۉ.Iü·d®66(bUvþÀ􊜲zאּüÀû)ο²üOû(÷Nɺ⏠MÁUz㨐Y2꺣꿧þʔ;¶?®<ø􍥌<ûZ¸?>Jªq짴>ܜ0󋄕µTEߗ{b»-t¨2gû¿ ¼·õ¹P·%/¿B¸ިoÁԒ{Ӄ\\{뱸¥¼Z󙎟KõYҷ[!.:璞Y暴Á.¬®h+Á)]|·Kv뗌ý.{õ㺵齙À¬t鿧Kzù4wµᾜe֬W>ƾݿP��vע¾«냵吤õ\0ﻑý႟>÷>wuȻa6k¬üú)ܿŽümdm6½úSÀUùݤanCüz^!4õ=ڏܗ|~M§ȿùߪK񿣗³½O»Oퟷ�3úۯc÷mN6bgI&tO刜",\r򹽂Ap#¼'Á^wÍºÀ֐)򸔿%wvׇ^�򼜝üŶ²\\O􇂧}ý\n¿3�¯h?EYєª!½»璅aQ؇Cý3󯨞^û߲­gA,ýԗEн1õ0%XK4Lûߘ¥.߉^÷|ߩoauS鯗=ӵiď׿@ýy4w4>\n´üM¢ћ´lFÿcx~տ½ö􅳴½Վ}쒲ށ:4	#µ·֝,|º˨tqa^!ퟔ�i\"��¥rÁ˞bg\\髪ߋԼ𣧿}vęX]!w,r^ùv҇ߝI۸H!໗㷱¹JŪ¸?zùWח⟻҇ޞ񴯲¯㴠Iø跄ڽù\0񍵫Ә+ܲ~U󬂾­Ӿ]O 7ܜ𳅥W_K㠎ý:і󞳺¯ҟÿP~=菊µrµ£ù㶓젶¥õ-TaüH 	t·폓±Hyn·시ntwِKõ=ӿ쪰§&߈?vu҇õMûԠ2n\$㡿LO9_¤2Aú䂢²i¯ɲϼ󱗋уw]eϿþû¥u_ȝ?øªÀ�ѽ]芑v악«\$ϪEUû#懱ýל·?⌵Ц÷õi󿟟힢\n謙£pmýϘ>t폦\rxýᕤÀs¼§ø.*O(AP?4ٝ縜r^8nJRo\0¦𥛑\0004v");}elseif($_GET["file"]=="logo.png"){header("Content-Type: image/png");echo"PNG\r\n\n\0\0\0\rIHDR\0\0\09\0\0\09\0\0\0~6¶\0\0\0000PLTE\0\0\0­+NvYts£®¾´¾̈ҚüüsuüIJ÷Ӕü/.üü¯±úüúC¥ל0\0\0tRNS\0@昦\0\0\0	pHYs\0\0\0\0\0\0\0´IDAT8Ք͎ǻEᬬ϶õ¤p6G.\$=£¥Ǿቌw5r}z7²>P壜$³K¡j«7üݶ¿̎̿?4mѷt&3!00^½Af0ޜ"彑�𪠧4¼⯥E賈藘(*Yӳ¼¸	6	OW¢Ɏ܊m¬r0þ/ ጨ\rXj#֕mʁújÀC]G¦m朰¶}ދ¬ߑu¼A9ÀX£\nԘ8¼V±YīǄ#¨iqޮKQ8J౑6²晰§`P³bQ\\h~>󺰓ɀ£¦¼¢سGEõQ={*3벣7÷\neʔL肊~ЯR(\$°)ʧ ÁHQni6J¶	<׭.wǉªjꖭ«꼭¿?Sވ vÌû񆩧ݜ0֞ձ«¶)ª۝÷U¹92Ѭ;ÿǍøµ£!X˃䚜ÿL񄮻tæý/wÓ䬗R÷	w­dӖr2ª4[=½E5÷S+񗣜0\0\0\0IEND®B`";}exit;}if($_GET["script"]=="version"){$o=get_temp_dir()."/adminer.version";@unlink($o);$q=file_open_lock($o);if($q)file_write_unlock($q,serialize(array("signature"=>$_POST["signature"],"version"=>$_POST["version"])));exit;}if(!$_SERVER["REQUEST_URI"])$_SERVER["REQUEST_URI"]=$_SERVER["ORIG_PATH_INFO"];if(!strpos($_SERVER["REQUEST_URI"],'?')&&$_SERVER["QUERY_STRING"]!="")$_SERVER["REQUEST_URI"].="?$_SERVER[QUERY_STRING]";if($_SERVER["HTTP_X_FORWARDED_PREFIX"])$_SERVER["REQUEST_URI"]=$_SERVER["HTTP_X_FORWARDED_PREFIX"].$_SERVER["REQUEST_URI"];define('Adminer\HTTPS',($_SERVER["HTTPS"]&&strcasecmp($_SERVER["HTTPS"],"off"))||ini_bool("session.cookie_secure"));@ini_set("session.use_trans_sid",'0');if(!defined("SID")){session_cache_limiter("");session_name("adminer_sid");session_set_cookie_params(0,preg_replace('~\?.*~','',$_SERVER["REQUEST_URI"]),"",HTTPS,true);session_start();}remove_slashes(array(&$_GET,&$_POST,&$_COOKIE),$Nc);if(function_exists("get_magic_quotes_runtime")&&get_magic_quotes_runtime())set_magic_quotes_runtime(false);@set_time_limit(0);@ini_set("precision",'15');function
+lang($v,$E=null){if(is_string($v)){$eg=array_search($v,get_translations("en"));if($eg!==false)$v=$eg;}$sa=func_get_args();$sa[0]=Lang::$translations[$v]?:$v;return
+call_user_func_array('Adminer\lang_format',$sa);}function
+lang_format($gi,$E=null){if(is_array($gi)){$eg=($E==1?0:(LANG=='cs'||LANG=='sk'?($E&&$E<5?1:2):(LANG=='fr'?(!$E?0:1):(LANG=='pl'?($E%10>1&&$E%10<5&&$E/10%10!=1?1:2):(LANG=='sl'?($E%100==1?0:($E%100==2?1:($E%100==3||$E%100==4?2:3))):(LANG=='lt'?($E%10==1&&$E%100!=11?0:($E%10>1&&$E/10%10!=1?1:2)):(LANG=='lv'?($E%10==1&&$E%100!=11?0:($E?1:2)):(in_array(LANG,array('bs','ru','sr','uk'))?($E%10==1&&$E%100!=11?0:($E%10>1&&$E%10<5&&$E/10%10!=1?1:2)):1))))))));$gi=$gi[$eg];}$gi=str_replace("'",'’',$gi);$sa=func_get_args();array_shift($sa);$Wc=str_replace("%d","%s",$gi);if($Wc!=$gi)$sa[0]=format_number($E);return
+vsprintf($Wc,$sa);}function
+langs(){return
+array('en'=>'English','ar'=>'العربية','bg'=>'Български','bn'=>'বাংলা','bs'=>'Bosanski','ca'=>'Català','cs'=>'Čeština','da'=>'Dansk','de'=>'Deutsch','el'=>'Ελληνικά','es'=>'Español','et'=>'Eesti','fa'=>'فارسی','fi'=>'Suomi','fr'=>'Français','gl'=>'Galego','he'=>'עברית','hi'=>'हिन्दी','hu'=>'Magyar','id'=>'Bahasa Indonesia','it'=>'Italiano','ja'=>'日本語','ka'=>'ქართული','ko'=>'한국어','lt'=>'Lietuvių','lv'=>'Latviešu','ms'=>'Bahasa Melayu','nl'=>'Nederlands','no'=>'Norsk','pl'=>'Polski','pt'=>'Português','pt-br'=>'Português (Brazil)','ro'=>'Limba Română','ru'=>'Русский','sk'=>'Slovenčina','sl'=>'Slovenski','sr'=>'Српски','sv'=>'Svenska','ta'=>'த‌மிழ்','th'=>'ภาษาไทย','tr'=>'Türkçe','uk'=>'Українська','uz'=>'Oʻzbekcha','vi'=>'Tiếng Việt','zh'=>'简体中文','zh-tw'=>'繁體中文',);}function
+switch_lang(){echo"<form action='' method='post'>\n<div id='lang'>","<label>".lang(19).": ".html_select("lang",langs(),LANG,"this.form.submit();")."</label>"," <input type='submit' value='".lang(20)."' class='hidden'>\n",input_token(),"</div>\n</form>\n";}if(isset($_POST["lang"])&&verify_token()){cookie("adminer_lang",$_POST["lang"]);$_SESSION["lang"]=$_POST["lang"];redirect(remove_from_uri());}$ba="en";if(idx(langs(),$_COOKIE["adminer_lang"])){cookie("adminer_lang",$_COOKIE["adminer_lang"]);$ba=$_COOKIE["adminer_lang"];}elseif(idx(langs(),$_SESSION["lang"]))$ba=$_SESSION["lang"];else{$ga=array();preg_match_all('~([-a-z]+)(;q=([0-9.]+))?~',str_replace("_","-",strtolower($_SERVER["HTTP_ACCEPT_LANGUAGE"])),$Be,PREG_SET_ORDER);foreach($Be
+as$B)$ga[$B[1]]=(isset($B[3])?$B[3]:1);arsort($ga);foreach($ga
+as$y=>$I){if(idx(langs(),$y)){$ba=$y;break;}$y=preg_replace('~-.*~','',$y);if(!isset($ga[$y])&&idx(langs(),$y)){$ba=$y;break;}}}define('Adminer\LANG',$ba);class
+Lang{static$translations;}Lang::$translations=(array)$_SESSION["translations"];if($_SESSION["translations_version"]!=LANG.
+3006665564){Lang::$translations=array();$_SESSION["translations_version"]=LANG.
+3006665564;}if(!Lang::$translations){Lang::$translations=get_translations(LANG);$_SESSION["translations"]=Lang::$translations;}function
+get_translations($le){switch($le){case"en":$e="%̂(ªn0QО :\r󉐀a0±p(a<M§Sl\\ٓ;bѨ\\ҺNb)̅#Fᆃyfn7Y	̩̨5\rǃQ匼ΰC­\\~\n2NCȨ޲4Ͱ`(:Bag8锈i:&㙔幷F󽐔Y­\r´2 8Zӣ<ú'HaБ2܌±Ҟ0ʜnңb樱ޮ:Zΰɕ㑦Յ­w۸݄¼ꭦpQˋ΂qꡊÁ¯°cq®w7PΘ3󆰪/ؓJý6銆̯g2qspfoµE񷘲¶&üª£ ڵ¯Áx˨\n戎:0c|9¸h¼ùO¨@;¯Bµ	²cܸ\0x\r\n¸̞C@躎t㼴\"°;~8_\0ㄌ÷C ^&¡𚳦#p̳¿͋^㈼Ҹ㨆¡3KQ蠨9²úºӈ#c89ʻª³t¸¡M89Â+#ܡ ¡*,1,ӃC8cxؒ?B 򸴴ڴ¶4ಓ(:¡Áö1ª��È뷎#\r&ӊr쾅èݯ-}D3긎͗¯ի@c@揣¸пV2'гXṉl*8\0003³ʭxחxؐϨ Ʀ55ԛø􃴹´ӬߜrϏ­õvJ°B®͡\rÿ>W껵ax  ɲ򴱚B(񈯸.Ν[!Kꗛ¦¡F£EC«벦\"<˒һɴ¤´͹ȼ&k^E¢:]9N¸1_#¢rH1/Ȩ7(jEZL�� ¢׀¬¢8ʷ½3:˷<¬B·@¡x̳\rB:û񘔪\r軼7(ù4h͗ÀO÷£hԤ}R4`O	ÙT\n¼}ρ򨨥ĺ0쳍¿¿¹ұպ:*1nªg)΃¬0愂\rQK\\¾\r6¤ᕱQtaF´q񧏟Ҍ7频+|}񘎮.=¶**¸ɔ¢C,=Ԧ|¸܎£jH\"Ő8?Tkь¨½£4jъ;G¯!$«̵魦ĂՓBiőeJY1(J`98t\0Qϓ�p81ʊ\\i戲;µEיلFȘ퟼�!}º7ݳ?(}ؾ¾J𾐼4«#``˗?E¼ߴ҆gJBD¨\0yE𐂂j\nY©1¸6\":ύú¼xȆ&B̩͔LJ 9z\rÁٙ<شJ¢䞇ˁ>20ҲO§f4J0ੑ,>|ϬTZQEıu¼#G\$¤£}\"Á) eዻ\nԖK22³®dx\"HoډoR<´qá3(ZLCؚBбkUهR:HY+e܋ ҈!1&e\\86X%xȹ;¬󲘈3Ɓ#Wvᔩi¡<)Eø`@R%I¤΃􂆚t⠴\n²FprX̻uxcH붞Ј2*\n\nk¸¤㗁\0F\nÁy§ְoKÁ3¼9BpIم'|⏈ϐO	À*\0B EUH@-Y`ªIJºOځ¬ᕽ췗O,kQIڰ𯵄F¼¢xv\0UI涜\IR-EЩ}ipú3j✰AFɕjɓ:lû2¿o舙¬ b깠¡L¸³\nLϜ$bM0Ϙ0ꙃDm񅫾⪲ĉ\"虢XUÚʒ5=򸳅jɺn䙴¼gD²\0Ƃ%m͛%mY>⫽&Y9'@¬SΏ2Ig诧̒ZዦնZ\neh9!k«bÿ<¯Ԁϒ)ek<1µ ǥ¦\rn´,ºa62§õ򱝏ٽ?腾Z¶©.¢¸JnÀ¢4AB)6\rxù±뺃%¶\nP 0'©~¾x«霃ᬫ (\"º2vrK«J0¶EwQyP¢lݛp𖊔fa\"�Àp˳(®삌ݜ3!Ρ:峂¼\\<ٲù¨1¹º£2κ¿7>栝򆨉z36g֝t[(¡f\nNIm-\"ǔd%ª򡻩I穄jo \n\nᔱkKe¿\nJꚲ+X½ZiٯǱ1M3֖D\$ZRτ§宕YВg	)&vD쭃\$vùa1G²\"٣2²露¬§qnӲn˵طm/z½TƓ\n󶯥d䏃];��Ǽ7ک­ŀ栃ղ°3آنW񩱼4²򜏌ø§Vd½ۜn82v~S֔@@¥µp7شچ¤é|D,殐Z뚗¹­}Ιd%ද¦Îɗ­ُ¦Fӧþ떫§p^°I¸FS{wªDշµ+\$䫀-��΁KF^Á܈[󦚆OgNõ­pvq=ÿ¨ퟥ�¼H ©}ØöUꏒ¾S³𽴪0\$¢§¥Ǆ*¥	8ݦªRłv|Ȫ®Rúϕ¦\0搎RúC+髧Aӕ-w(»*xE¢Z_.|͋Àþý©ztpb𸧪÷§οÁֆSû©Ƶ)#øü玬QÿS{㎡霿)ÿ÷ùþŋ¿ù霢¿Ē¬t/+8l㐴򈣘ʃȬ 릹ܲ\"|<cNꏨ#°4608ꫜ$üf�찈쬾ʰ\0NWk㠰d,ևƁ(F@2+D¢b®¸ƢPOb符KÀ־Mþ²®ԃPɣ	,+	ýΤ^4Â҄p񰜷lDA/𲐸Ä࿯ցGU¢ýûcʜnǁА\n£y𾓐¢ÿ,§Ƀ°X✰	ؙ㣄.,ꄓª\$Àޅ,¿°=°\rb6𭮑㬱☟Ѱ\"cf!¢- 1Pܐ¢ퟷ�ü\r®^²ί\r\n䎜rV \0Ӝn¨f#63§\r⮌ǒ/p¦ϮJ*¨\n pi㜜.㚑탉D̬άʵqB챺ʂ: 斔¦Lº錏D	±\r1¸Ⱥ|\n6¢󐂆.℅°񣙈¬4v^I욢빛=c¢¢ׄD%«UⲡB眎⌥t]o?#>掎°n¹򴟃\\²JµRN찀ꫥ#1@6\$½cH`F\$½ణęrù1R¹쨢±N렀	َZ撘襕)Mlᬫ(NѢH«j禯­	Bª-򦋌HǢÒ:a\nûƚೣ§R ପ��¾Ũ`Ppd@(BԇFĽ ";break;case"ar":$e="%̂)²l*°±CۨX²l¡\"qd+aN.6­d^\"§ť(<e°£l Vʦ,l¢S\nAƣRƂꏏNd¥|X\nFC1 Ԭ7`ӄ\$F`ǡ2öʜr°¯l'х<>!!%󹊪\rrSĕT¥e#}´Jü*¯Ƥ*V́il(n񫕲ý±۔҉d޵'c(ܯF±¤إ3Nb¦ 갲NS¡ ӳ:LZùú¶&؜\b䜜uĚuJ¶ͫ´ωBHd±Nl棌Ǥ2ޯR\n)荦㼚:³\\%7%ӡSpl|0Ѿ (ª7\rm8(乜r㒾¸³B¾K\\ȱ Y¤ϳޱ°ªA¨/³Ⱦ*Qb&KkB,iT¡OJE#/\"άɋ±Ǝ"´G¬¦À2.# ڵÀÁ\0ȷ¶M0޺ ¸ᄋƱ¶Cֳ¤ݸC撎㋺ϋ­LԹퟠ�䌴C(̞C@躎t㽔2t¡A#8^2ÁxṎ£ȗI༶Á-+ֳA#kt4㰸!򾆖&ÁmEȄ`ȆhZݙºK!C횗LDp閕ÈU끟;([0Z©	#®Ю0CtƂ£\"#a%Er\\¥DBψ±ªQse®©C]ќ6C²Zƙ(êE2KΜ"OÈ궋°¶£+񉯵²º÷R㢜$¨wũ°U­h:ZE)+4abV8[3idº¤)²löF°¸¡KkV+k\$#`㣨ᵨ ưσõi/	0¦(ZƖ殥kǩ!5¤_¡:½Ñ橚1lß,Po´?vh-,X¸źüc°׬b;eՆ¨ù햱ږ6&l<Ɩȯø«\"V&d£۩6£±=SӨ躛³,	nC󕕩@9R3\r#?H2õ򶙽}ڀ\"7ú#Ḱ0(ݡwa͌£ö7LUH柔{²ۙے¡s°is/˔º,U쒒û)´>¸亜rS<Л(ޙ0lJüµ%]B°@ު0n :½\0ꗓf`6ퟻ�xʉΘ]뽜\.lõSv\n)0¨eÀfȞ I|\\f`¾њH¡¢@͒((` I©<7 d𘞐iE=úԜnPªD¨µ0.R*MJ¥7B@ú3*sخIû/b°¬✜ýFÀ)\"º+\"R ʲůPò\\ 	©¨݄e.Ӣv@¡ฆúryOq]@(%¡B걇DՠRo9J=ԧHm¼6©@讞LµM눚¹°ՒX˥^¼d\"¢ Ԟ)r>ʠJ£B©	´64 ĩfr²ձͣR̘i¡Aؾi½6XjÁ¥½3䟑ۗ\"%Ғד3oō\$\$TjC@p\0 쎗A#­t¢¸Rʡö\$ȷDЇ\"L½5F°כ\0ʸ۷w̓¥ٺý/'ꔠ7º¯dBF tx«҆*fªTFͳ5.½7ª7\\¤\\Aܟ0ы:~yV烩?D¤tY\0F¨t­F񏨺±\$¤醖駡)ú?m\"DXõaȉ\$¤\nùJRü§�إzL	4&ǌ利E¨)K&ʵ̸öI a䏥(¤«\rҰߛ4úXkؕ)RS@¦¹毓±±dutª4®\0P	ጪb͏0zL¾\n¸ܥ#D ZFƨ½͇ĵ㽷¯/bE¡®¾qFމdH񗖫ڵ.H\nvִtmઍLµڂ-ݭµ3`¨2✲2ɮU±o}¾MaȒ £ܱёG²\nx}թ\ne%T\0 \0U\n @±ÀD¡0\"㦔l¥{ﶒA[xf©£֜$ᕋ;Ŝ0Qǲy²�X'«zJ󽅶νT0 _:ji#¼¼K©ⷿù@TZfM\$bÀ¾- ©¶ldE\\kʛE¶3£v£*\" ¯ýgÁ̞᜜oÁĚ뚇O%iGƎ÷	ߔԄ¿`\0¡ށiԋùP魃|9e®ǙCX'j­КCӎvRʗ0ঙM}'¥섆0z¥楆N򜮜爥¡¡+©#g䂛+ֆPH¶چ#*ݵXtõvш㯳|:͌頎Ĳǜr¨¥¡h袄b;+-ºRH£ڜ$X°̫P氣\rd!§ӵY¹kb½½ЮIg<BP½\$1}õKXBݡ鵴ΠI��뫉t\nښV˱䐈媹苋q\r0½۲ǡP 0-\r)Uþۄ²)»mR\"܅t¿m㥖;ÀT+Ä®\"漛/y4½¯B(|:𧭦T񜮛µo»[ޓ®\\ªA/.뒠ő&d%ޖýaü¢펞ۍ@_93ý.,��὏(þe^ù¶B²ϕ�MÀr\nD­1*(dґT4J®ퟝ�	r̬B/񑷴Jµ²zù =¦÷B^\$/^}Xö«̗ª8r唕nþlᆹAp~# ϯFlƞӌঁnX¶(᜜=Ȝnjk*侲pЂɦp!ﰐeذ\\¨¡b\$xù¾Ggt]_턣И\$ýퟚ�oHТqԼPÈȬ	ゆW嘳ˮ󃎆C >ȁ\n\$'~ĮC\$\\Я Xd.ÿªkN_DŵPJ⊮ᣟEڝAs،䒍ÀМr®^\r昜r§ b¦G¶d܍0Э\nҬ쒪zWp¦v!®Ej%Gޏ¬꾑Dς	皱㆓-\$ѦõX¤CM(§͚ibѕ#o𤴂b#OBGOH򯌱P'n÷Cø>Vü¨)l\\ 🉐h(0ÜNºŦ򑑩\n&ٜ2屚屍\0¤#±`l§)¼ワ\0␯¡P½ͬ/d@0mløCfn]İ(򜲡@,¤|⯩\0? v%џ>Ъøo\r8ý.,-º ¤Z%²#£ꐎϡ(|告.ŝꮰRN䰺䪺䣎£F¤!O°f°tV!m1»˨Wq⒧ W®1嫮ؒ¯쾭W񽝜"䦆?+nͫ²ϭ²ܤ¡+ƫ͠¯¥-#/0(gľG㌻#\rzo就P#q]Q ҕ*0N.Nµ2²ᖄu3c2ҫ*C%̡¤gbúpå/2㯳Jõ˳ʻ5cčQ	ꂾ®d4\$Ԭm䀀ɜr	ﳻ7ㄶi¾Rʡ\n9s88i𦎴\$\0:«Ӽ瓡К%΄z󯄄u<¢ϳ±oԩ³F:s߶q>c̼&ù.r񏓅(d8:ዼ𼬦_4qk=¤C@´\0b䧆g4p̎ö6m#鶱¦ԓlgҘök÷GR¿H该±m\\Gퟘ�¦2]ƓD¸Ķ􂝱C¢Z²ZY³#buE.^`؅k\r3~D̡F7 \rȜr ̂dܜ$\08·Jȷ ª\n pxȡJ#ىﶕ\n��«\\Ŵ!Ьыû	£	´¡J@򠂜\%W3PZ/)³2⮖\0E(厄LɑF²䇏J6\$\rЁE@O¤θ-Ν4Ƚ¢蜢bՇଆT/«ꤏŎPTkFߐ²4°,茵f(kV{ղ0P«<-˼b仵	\0¨xCf4CI8S\rࠍߤD&僵~f҃+.´ƺ\$p²ʆˋbʜ$1+3.¦úW5Ӑт㉦c̯-¢ܫ̀¯\"@¬KÀꎱjg͂f¤\$frje⚦v:O¨ӕb͕p14³qA²V¿된"LҌGϗ \r슎ʎEG0d&HGǄ,Rܛ 	\0t	 @¦\n`";break;case"bg":$e="%̂) h-Z(6 ¿´Q\r끼 ´P\rÁtИ4P텔)	EVL¹h.Őd䙵\r4eܞ/-萨֏!AH#8´Ɠ:ʥ4©l¾cZ§2͠¤«.ڨ¦\n§Yؚ(˜$ɜ$1`(`1ƃQ°ܰ9(g+8]*¸OqJԿ_Ж\r¼ú¾ Giٔƌh£꒻~McN\\4Pъ򂞴[õ1¼UkIN¬q떖Ш呺6Á}rZ״)ݜ"Qڲ#Y]7O㬸2]õf,¤鵚©¼D5(7£'ꆆ1|Fç7ժQþߌs⎪n˸÷¿ȳ¸¶恰ʬ¬˻ ī(H4ʴ쁜0\n£pַ\r㸜£䷎J󄵭곚À­H۴²Cf>A¯£NԱ¬��n:zX Ċ¥>©2*÷\n¦'hQ퉍ø2\r£Hݒ ޲a@: ¨ฅ@±s 篌ᜰð# ±#ʐ㈨4\r㬜覻Ń X¸й£0z\r 踎aОõ\\0˒􊗅8^2Á}9Ѵh^+a𛔏򰍔\r³Ȓ7Áްʴn㣬+¶ʛªû\$򡠐ǫo+¡¢O¨9x઎úrʩ닭ۭӅpªM) ӱO\$©¥°§Eʹz²B¸¹\rӢ\nÎɗ+(`ɻJJjz㥍³(½}4¨֬¸Δ¦̊񓽞±H1 ¸)8ۜԤnA¹Fəý¦·¸郰ƣ/¾¬'荵¶¦ٰs*ü'%ĠE.I¾hg뱄Qp£iJ:෴I¾°؁,4٩9ӏIЭh²׸·®tQ)龼~¯.H쓮k	i¬>⯝¯\rޱµnt)\"b0剻숩>:״H7UŰఝ,ږ盯ݲEڷI÷ϵ«¶g%⟗罫qv.£JZZ9֜$Τ,¨hHոhB\\G�ްʸRϨªr׃ý́B ҙ7̅+a\0ںsE#Z҃ ꀓ²#_ሰ±	û`ø!¬\0̚C;ÿ°¤ʗ ±3¤9§°؟ߪ(DºBˈ¨eі'5ʰ§@¥9y¸W4|c7!¦}q·暪Id?.¹v`IڰВe=¥c2h@Plɏś.HcA䮓Ԩ͵sⰎ΀ЩۘRD\n\$H#ø숁ڮ§ՇتÌkA&ϕ|R´ÁJ0§\0lP͡¬ȨF֙㲓&9Ĉ촒DzJö:2y\0sȁ÷ZHxΔdY¬z攅;\$Ϝnó'À⦕@aCɕ] @þ  Kiu/%ḩH&¥TºSjuOª,͕ɕ*À^¡ tW광鐯pg¨¶ឳι(H􏤰w+ґ¡¤2ϸ°[㉥ź%ŲJJ§ĩ])<Fw9F@򔘒 \\¤RʡM)ż¨¤Tªµ[\n¡`nӱZ ¦DN\"-ZW¥iG(¤븨=YLwˈ3援¶쑄»҆|;¹ꇌ[%8&ZB§%£˰ПӼꘜn\0004À؈bЊÁCf9T܃0u­᰷x0 T Piþנ@ԤӜrӨ0ȠpaT¬2��rHAt³4C`ݑ Ъfù è6rH9*\n\nة,򥳯bE\r\rɼ1Ω㢃zA¤;VЊ뺈M°]2¦t훑\rw9E>±x䷙)Oi¡Ƞo=fDª岧p梓 .ùࠡBQɂpКCh~ЁLׄÿ}a푢yw!,\"f¤B.¸Zܹ1\"8Q��rێ\"2󏪊s©񨥈hݳBŽͤs¡\rúCbC鍩֙.s #«톈SSY´G¨򢉊5¾ȅd­斨-ܗ;ؘțCdjG︑U ·SǗRhQCE¹e ܍Kȏ.T{'	ÁՏ±¶B-+䶇¼넖d񒦎gY㻤��#¦)³\\¥iᱏ¬㜲fSʛ!ºI³±/½햓«ډ,EQʛ8\"𐹇<UXAW\$RC5`©lo1ö׭½ú£dR,4ԥ¼ěFl,陒/R;畼¸	侈2𑗏M«ķg퓼zᢇE* ݮA¢^A_&s{Ⲿ^а§؝§rù͡��" BCìѬ¡񭻆_5Dd%A񣊓÷yÁҊﻄPt`¸+ɛ:ړ½¦\$⯯	?ZMú脶Ϩa\r䳴»´᫑񨾵˳¯0zQ\$ÁܖӅ͈ձ튪U\$򗣵x¯Rⁿ~§!�B©全٪כP°µ³𙰸\n\"r9¼U÷¶A¸1מ©` nfޮ\0񯘇ˎ/3שP{eBü訋ތHyC󉁽R]ۃ­¦@(9ٜ0ˋT tJR§¢ҩºל$crþû埞鉡º³ܰ鱑8mz䕶ⱒ{緧Up퟾�¢L_eºݹ¡Q )x»zh£ĎõwG륛mga¬5(O\$þÀ ʿfÀA!B6.r氾'ퟏ�öH瘟,>쭐ߍ´گ잦øA\\c§¬X9§¶û#ȸ£'¼i숋Щcv|;­仫¨М\ʠ ¨\n`\0⎤J\r\$ȎŨLÀލ\núMdڻN\0΂&̢H¨°փ¾\nKd8¦`© ta =вރªˬøĜ$(垡ʷ!)°μ­ML£\"q°ޥP㌃褬 «¢\r즋0ykFǏ¨¼èø3Cl�e\r0דǫ<ېǋú΂:¬¹\rѶ½)g1HЇ Á6'\"vG輅­ȪF風%͂ýI1��,(}L'&ϐ,­¨µ\$fcǄ(²>z%®𪬲±Fđh߱£J2)p¨ܬ>&䭂*:£¬cx悌¥ҍ&&P_­nEྡ¡堚%ĻNܜ$mºB)\n셶<&0؟hB¼BHˣI𴲼¯܆ɜ$r2c쭱¤¥¾낎6B¼򇮲Е#©z©	!΁\rRw'1'篥*±.o'¯ղQ(1®x\"Lúªߏ䝇ԏ-Һ촴d`e±ī£dȌªi޶Ȅࠂß!°(ý0ý²¹r̧İq´Nü팉&hÀ箂³Ѩ+òd\r仓ݠ\r΅\r¤¯`\r¯fh±ªo6z䪿d婰狍*¢þcF* 摿#겁6n嗆8frۓZ곞鈯6H¬결2rµ7tͮ3\"3܎/)󍘢rb񳳻ᙒ\nªm\r10릊[\"A°ß鱗Dč)úӢ=ĜГ=£%>˙탋�o¼þ8ªy9玏>Ӱ씜ː;*ɂsГқ#辴 I%*𩺑J+ƴ)ͪ揀gȂq@!v<´4J¹:±ƋJo£:mP®q(ùG\n£GCzֹ֭­ג­X-䴲\nrLI?m*ü¨p¼��vʄf洄)􈾡¡'¾^N¶qI*Bֵƪ፩®J/2ޯ8Boo£«D򛻱^貌ⴻC³i(퐔÷KR*ȃ9��Un\"O»OO©LqIqQ³³(t+6쪼G.µµ8e³<´?)õF镊˪|htOQ��±Lo؝©9НµIV±⣷W¦tѭn偼b\$A2/dΧ'	X¨\r¬{B&ݰQ=ｔ9?U@õ-;µ¶5𗩔ý;R5Eo׀5»Aõ%5hѳ£\\ҷ_f¤úò½W--=Uݜ\姕ՁRմf¦<��Ӿ[¶[Ц,C󜰠֚ĺÀŘL2䮠ȸ/õc©Lª㤫*¯p¥co÷c֔ö䆶Ёd°zDÁ\0P	Lퟲ�MPӃQ󜰱\0㥕4=)ՃhÇh㑓V²µWᠴi𑡕+b+gö¶%Tۘu6gE𐴰_iUT,üXı5^¼SՕiõnFHvԶݞe¡j²<:6µۛ	¬pPV񄠚<Ƨ|B)°R?õҒԧ󔷰봎璨I\rú!ԗE\\ӲߓҨ?ҬoTupt÷//Ųl­o½>n7AwU\$ƞ¸(¦\rV-f#Ώ,󆁣Ը4.·oNl+§ч'.«µ- \n ¨ÀZ2©킫2¡Qmӄ{-\"#j·赴Mx񘻎n߁T)x\"i(hQ왶4ө'_ö®^cܱ/¯H®jԜn>ö_χ{ƐΠOµøÀN¨»­嶗¾@i ªm0þFʜrn法C醒0𞇡ZülѐL\"ؖ/R£M5û18F4ѡL򑧔atmثM3&­睄³AÁ\r'wM\\3m򎹒ÁX¢̿\$'p葒gyҹ(0⨒l\$hld󔏬骘病¦@¯|y%﷑S­+\$¢£k:û택ªrꞒp춪I2X񆨧dõr.2(쑸򲴟7LƖ3©j2¸��ķ只ĸ8Ir40÷®Ab쪂㼦괂ꮍ²<TZ>^\r଄ ʇB-Ă֭ޒU­pk<hcµB^퐻Bbࢻbreak;case"bn":$e="%̂)À¦UÁאt<d ¡ ꨳN¨b\nd¬a\n® ꨲ6­«#k:jKMŐ񵄩À¥RAҥ4}O&S+&ʥ<JƐ°yª#Fʪ4I©¡jhjV멁\0悛ΠõULªϣqؽ2`©ܾS4C- ¡dOTSє��(§©芹BH§W΢Jh¢j¦_ܨ؜rmyioCùҚ²£N±􈼲,«N®%Dn৮еUüõ8O2􌭮©ŭr`診¾£NS7]|􆇵Г8ظ:>¾ÀЮ<L޵C鏨§½øߧ~S+㾟j<Ѯ®ꎥ¾까/MĠ0NB𓺏lü蹆ù'бP邈򐼂¥4/¾jr첥.½¯.j糥򶔫mT딅⤍ǜnܷ­ª蠄-ꎉ£l몡'ʂú@Ep­\0¾ҳmÐ䃏´0 題?	2𴌙­oKa3ɒPÿщ|2jpጊ٠@´}0A/Ĳ®\r,®)🫥t9?/3ü+¤K°･H­҈hµJ?\nt÷Ε<SĢu씢¼?*lS·򂝚«Ђ2\r£HܲRMG#º¨<u:I¨ʶΕe#*\\õV®üG²⁇+¶��%5uJ鴘藁`@!\0й£0z\r 踎aОø(\\0ؖ5\r㐎£p^8#满£ ^,Á򣏔҂¬ח\0x8õ½݋˴þ¨񪀡+mL¬ĤZu`:¦��~SNyeBY¼噼=8htRᩏ§t鲾 3무¸Y+^jtt0晴癤Ʒ;庫´KB%˶¯(u\nsD³ۓԱjsRU<¨°\\fvlr霙cNܧ_ի³7¨¡¡kӚ%®ԛ:B-=ٽû칄l}kbµЌ\rYY®\0޻Պ¦��*.ݜrץ¼蜜:E9׎􃓡ÁýwJDiꁱz͢㐡]ü[¾}2÷Řl(w |ϞQ	µ ªMi܆υF!Ԝ$ÿQʰ­­³&XکqigᬢE­ԡøgƃAU܃Ng/uþJȅ;脪ùv½U²«J;풂G⨞ӱh¤UXº¦y*K¤O£̄ל@e榿szș}Dú3>ЕcJxgA»2̀Qf.稓uÀyףE	]DLR㺐Gny񇣱\n©}]銋²vR`㈳cɜ\ϕb°󚃒P憄|0q©w皋t0y´3䈺٤n芎\nhÿI㒺髓Ǻ՟򹒇EĜ"񓔿A1蕉i0Ԅ+A?wܪ:mŹ¹ޏ둵\nn<ªølC`tFiQFH֪ۛпdÀ��­ø¦SE½@ ²ºΕªpFљ<¹¥ҩHܰX+°ٲȗdùo!Kɻ:öbgً扑쓙·h\\ª°¡*]Yz푲U뾁¹湞̲Mf\ra¬U²U|Á:CU }\\9գnT¦Ӫ.)��}/żÀ`̜"0¶Ø/¼7蚪£g=%õ¡%뛑²1+l¡\"��ª٨§Hٗ+¯Á:\nb7¨A+G¥5¯)ㅜ˜0®Ȝnջ«dsöHΒ¶©+ܾ(½XX夎uw=\"޽Kt¬)Y8��Eޙ!C~z¯H%潗ºù_kõ°ÁC»a4½0栄(xD9Ն\$ǜ$R¶AÁC塏TE`¶]Á3ɛM3>olʔ»¹A.^¬tZ쇒:¢幧»禊X[²ֱ¯,l繻Ⲑ|訐抐+xü坖w֓퟊�ʾu՟Vµgaҋ7lú��;o}]\$1뼀 \n»Ux笜"±ý`RҜnڥl=͐µx§Эl¹⡸´¢õ¡W↥#¸%)¨˕+ꕍ#𑦕D]q۝'½Eޣ9Z¨ˤ6c!^ۆΰM˫t[VWSZ<P>À¹	gmui瞶 C'8 aL)cЀm4¼Ą#!`EZ˩ў½E2YP@9<½֞HԳ°\$򳧇NRıһ²;J^M¨®kK¾|烃h@Ӧg¦#ρ©2´ɺCP=±Iь䏍\0 ¥¬*2աi°&J­Dø©h³¬ȝbKÿWA}³%	ҰWG+ Q6U׸¨55¬O\naPÁKZwꚐúP\"cs4^q®T	ZΜ$iqj!Ent[¼왈]TYüÁ*bE\\J¦U˳Ǚù\r݌	zl闤ӹRԴۼ鵑¹%tȅj  R*jɧ½ù¦¼߶繝wh¢tVzª쮂ù'X©􇷽ǂz®ȃ5Czh®ؔbH͖«r3xեªᆐ9:1l¼¾µÁ5欄9ú\nfý»L\"Г?䩃ZzY 󎉤KQuTԃyؽ곩ˎ➔桧ý4¨¡+©¿ɪԯќԞడ:C¥cu÷õ¤+~ػ;ƻʓqMªٜ߻b÷0X��軶َ§ڻ¿H·|µ֣µp¹~´hlν򡬧˖\$䧰±v,Àꋐɯù7AF٬À\$XpeÀ¾ªlΕ¤Ħ\"¤j 倕Høч®Vl탸ѯü	d+ý/ٌ짦þ鍦hΒù튦¢øpςõ\$܆̼猒�Vþ,ªo.⢳紊¤XV	d¼⼆澎vǡý㕉¬R¬'Nܢ6búqj+mNõ怑ģ,öYG´+n{¤\"L¾£.wű\r/ퟟ�(LLF¨jko&\"Á,f৘񈎈Fꮨ돖կ*Dªúo>D¹⸻bsќȩ㾧C0>y1򄰶μȈꢩ󜮶ûks8يN\rP8ݥ§bt񒺐<𪆲«ܑ𥜲ˬú§\$øS¼i1(ûHº򥄜n¨ 	®ڑ붟⸊+⒭tAힲ¨]쨿I⍨Ү ^ڨg<n¦⁩´ÁP烤¸#¦EP񍴰l]R¯d¡ꁱ@萸Ѳ\n´\rneL  CgҜ"փ!噒BR䃜"򜤹*ط8E񉋰\0A;,vB򣣌0`ψ\0HõͲ±ʹ䖿RN򒂜­ފҾùù@撂Ӝnԧzذ¡s(❩/A#r/2%RA'Х%�®zRH0ցK☖Ø®r#1沮烸箮누ևޙЦҁL´2Zþ\r¬霤Ι򔈎°2ꠢ,Ҷ-®lv°N&SN1«eߗ&Č1L(pĦ³k\$­Ns\0`h\$|	f*i3*!´gD8Pt-,õ-jњHAƑ/رBøPȏT-ʇ)󓜢o\0Ү.k˺F®𢢧0󁱓ǰS¬͆½¤¯JqG%;򍪋¯h°��ψP߼P£­(PՋՔ%8=4򳽓ÿ<4)Am>²¬pﰰ/#졯¨f)Б	Z²J¼öÁP5Ⅼk&nRժ䮫\$厪DP󱿜r\n3\rqԆ£?ªõ2t\0£񳜲Rr£jH񟅿#pFqǄﬄ$j¨Ҫ꨺ض¯¯@8]󺰓ýJT귎NLDû>¥ح퟈�F¦Բ¥T��CgCTõ>oQªFqƱ&4Cu(JᥗlÁ㤸Q2\r\$\"ˡ.f찌_\$£k\$㕜"=\"r+«H¡õKRUUJW²F<a+q򗵦ͩVҧ%5'Qn°¤\0Ӏ¯54%W4:фJ获¯󳹋t£X2ћβiќ\T2·Z5ºQȦF8I߬F֥T§鄈]¶+´`»¢¶mª(=ퟥ�聑`雏\rU35֯\"x竛_K򌔝lJѯDrn8HܦKέ¦¹õ«H/5ø-폲cT53\\hS֧S��õ°\\Hٓu˓µ坶NUµUWj⨨aU6±	õ .+±􇍚��«\\ö¼ºöȃU9я:\rYTö٪öܜ$ö൶Ñ5᪒ϯ+ö¹詉I֪i󑘶÷_¶·]𳱳`򮻌ϔ4⻓jJiﲲKWƳӜIQHDASõWzJ֑jt¡]¯7TJʧp㶅v}qõ#oöﰥ3'rgׯSW/h񍄥҇¼DK啗h!.x噝׃/[y͗z!Gzhi{ĻL쏶3ÁT'JՅ²{VQ¾÷­㒶iwCWEobxÁOx|vA釹50U=,­W]÷wm¥°#up¦­80n¦ø\ro׭v85%XPҩqаÀϛ©qؓحǹV߰*}%)|\r£jP]@ø3J؟©sx�۷5G#�Unص\"t{4¹0!uP~첇&Ǻ76(jhOõ4ø\$\\ÁX񿙱o<ㅯ\r[£ퟺ8��ӆûпù9i뮿²򄜲H/#ɨúuWaɷ\nC £s.\\n慼³®󳳖õNUoxxFĈ鋔 P¢fiĜrVǿ¼ꇯ3ĬÁ ª\n p´c>±f,slLN{a)ؓ8µV5#e\"騙k¸*YOǽp¹ĉ#¹¹%BuӀF©4÷t礈Ὸiu[ؤ/!*~Cퟫ�]ùn3ø񄚂>\rnz£T:tXxcª֙jdK­	¥:Lђݤ8Ԫ𓚐𱲝5¿B¶ut*<\$閣؍Cٮ\"��旁񖺝g±>B¢>C:؉¤XSù�÷ø;1Xڌ8z·yº@¹n盚±ªz|gԿU𣶣¬(]昤º0Մห8=Dے¶I7´}Q c?doö'kF°4Ȅt̺³Hڛd³pxҮ®@죻®ГGȹ¢jfceû<E·bcr_G¢׺.§[,÷U.ö򔹒´𵒯ڹû¹\\뺆g¾'EJ¿i&JK¶®Á4Cz#6­½w𶜢´";break;case"bs":$e="%̂(¦l0FQ´7¦¸a¸ӋNg)°ޮ&£±0Í磱¼ً7Jd¦Ëiá񘜲0%9¤I܈ש7C󜀔iCȦ4え* A\"PCI겋ÁG��竬¬§¡ЂbdѶ.e¦өӓz¾¦Cyۄ\n,΢AJ ¸-±¤إ3NwӼdᎱ\r]øŧ̳c®XՆݣw²1§@a¦縖y2G௷ܘΚ㜦³\$e੍ưVŴb¨M ¢U쒫§¬ªn5܎桁乮m˨2¨3üO湢ɰ֖,`&%i¼­Ɋ،0¸ º\rL퟈�nhԜ´q,##¤ISTМ"( 긩c萌#ƕiÀϞ'M³㋤͇pӐ9똈⒴2C0z\r 踎aО󨜜0ŉü.c8^ąㄟ(C ^(𚹡À̹¨xҷÁް̘��46¢T>÷&)|쎃굎8떒˸ӓ4CxΓ}QT²;O̪R䎐¸®0­\n\0đMy_X\r^ףR!Á㠪6¦1 ҸAL`ܿA/醦¤h֣>ª[K¨Zѭ¯Jü߈(̰£dv˙σ	F.P:¿ܲqº^ºû¶񘄓5£8ɂφ!\"®S5©;À#­¨°Ǒ­,»/¨\rw􂃜rl-£xڸ4척W4谢&.C¢[|£nC֠ԫ¥I_Lݞ¿BúEW¥8L	OԅGª:¸b\"S¦)C|9Z[©h��ZB0­RûFYʰ\r4[|¨\0ڍGr´򉓫DxþWh󃑉93,®g \nqΎjh¿´ý\0@¹¿©np=G2ݠН\n󜰝}ꎑ𜮙0鉀kʬ´.\"8ʷ±ʯސK2͗`޳ɢ	ø|E\r�7(Ϧ:ǒ\0͸¬2p9ʔϊ0Ἷ?aŷ(ʔaJ@Hإ=\$峜"£.鸵iý¤j/?ɐ1»PҷQV3e-¥ԾSe靴£؜rp2ĺ¨DZ<nle*(Uªy 0ւ¢)9E9¶Rˉ\0M9I§ 攒ýÁQ0\\R¼Ky0&\$șDP䞬LC´ɡʄfiְtsn憆̫O¨쎇'Ƣ¤I.d=맲̉ҒlÁȴ°@¢Ȝ$:!dĻO≜r±_£ýb½!&#gӓߜ\#ÁϤd_CAaƂ\0Ƥꗜr%ݛTّN0举Gt7#񉜲! \0%ùC¤¤\0Rh9*)¨܄,Hc>§<3Ji͊½G!ЕDhdد񘐆S,¥񌲍Ĝ\"Ibd)«ViɟSøl讎ѧ8¢͘c3¥ٻ,c#A鬥E񞸁) ϛ4WC尭4©­Ԑ0eՏᘐ!­ ¨؅󸥓𘌵JÀ⸍%ȄRN°c¶	\$<¢缑\rʴَ㜤C©ªGa\0ء	Oõ?DYa;©¦¦H󌔂xS\n³ԙXȱ|e<±´��\n⻕@;ن\\\nm(\rΠ³ռ¡'ԕS¨§-I®#ɡ\"0´٘ sҒ&?8¬̹£´j«,H ܩω{³ص2ڝQ¤`'BD!P\"\0Phɣ2tጒ©dDB)W4@-Ժנ÷¼ʂ诅✤A蒒´󾩈¶¼ҚWZ!<82£Àژ¹¥§vD)'aˡǄ>`㬣pmýBº<m­Ȭhf¾M\"Hnl³P��n◬F¾Ӌ-͹³bdF⤳\rf\0#ùf¤«)\rľΐbü§U٫Aѐ§LRә'3s:hC`Qᥑɏ<҉zC~V(.A®=ɲĩසÀ۩ಌͽc3΂K潇©	��Ε̅9ncLvxq*&K²h´A¥¡߇*s&£	!º¤¨YO-[d͝¤µ°Ձ�ͅ3Loڒ¬b ┖:q¡û&À(!ːǏ6!ۣ\0·ȱ6=z󗆽 pppd0쥒2rITY壦ӜG➂卅yS¶&SöʽÆW` ²,|.T!\$\nÀ£Qի!͛ι臠¡̆m¤¥>°Áx K\\,pA.72jȅEDvFԔ!p\rɘ׃rT㊴R\rtp	\n¼{0ǈŉ¡o®ör¥{Ʊo.jǘ󻯈9¿	眜¹޿ƌ·5荬¸b÷Jڑ䧝򻿜$ø½Ἴrɱw<圅aö5gúOh봠Áqnݍ{78齨đöᚏXLB6ݜ0r\nA'\\'Ǝù¡#kěe͕ºA¢2Rढ़¡͟䆔6³.8ޘ£)𴼕¢.f÷s%#O(�˴÷ý¿\n< ú4Bퟋ�)§¬¡zrq̐÷­²拲µ%?S瓏±��򩋺IMC͛}Pú.Jûߛ÷}¹eù9A¿Aٻþ〗À޷ک¬.΢±ø²꫄\0@-P۩<©jCm¶<\0¬wÀɁՊx;#6o¯º1 ZP '\rbȠ\r(.d@§,¾혌.Ьυۉ0C	 °ϦO¯ª¾.Ű~Ǧ þ̈¤\"ﬧ¬Ih¯ˇĵ		¦þJýPM聂XúIƌ.|⭐孚c®c°mԦ0ΨG֙PڭPģȮЦꐔꦺ·ʀثþԛ¬׫؁O䱋{ѐ&Ϋ\n֯⦩#¨_ŚY񼏤L3f>ª\"\\0̖ͮ'1FZSƆ-`զ:뎓¢RgjbM	PLJ(őa,e±,¸-֑C킯⨭؁1f\ržõ\r<吅jjTőO¬朲;¯Ɔ񨮬BQ¾݆bCúӞmߒB`&ݱ蕱֧@צ¨գ)F(\$QޥR\0@ަÚC£ℂ2žO_\0FT®¶S퓌±͈A\$fHû&ýP'2ÿ2ힽeú\"忠͜\Ȁއ𬓍ʰŉ&S&ҿ'\"٧c&S̜w¢¨3£!°#țҢ3£V0ª.蘞­*RºҜn֙B%+\$X^JҢRșͯ휧¹.q#%Qû­ビ/񝲰T­/͆k(ý'3\nڡP60䥟-ܢ´6¯֜$*[/C¤[s/%񚉎ꂣ%¦@mJ¼bņXrȎ𛱸.-6cT�6Ŋȳw6¢p\\®üd&hՀSdn4%x1F7冖Ʀ꓀W³¨G©綢Ө8Е:񆛅2\rV㞂P2p묜\ùʨ_CL!²#\0 ˞\n pu(*ۃƜ$V¤.`␨ᔎ1³\r(ꮁA®ª§Tö°&ú_ÿ¥^n\0ڦ¢=pHɃ׳qT܃6N&62°<�)h޽1cF䄀±ú▥e`ypЩ¥䜠¨ΌZąҗ̨{oڣ³¹	tBᦵJԞÿ̛wAeK��ýtˊꜲ࠾£\r6ƆÀlT®t±Ճ֠˽#¦#7°ÀFE°mn'0Td̾#ÀĬÃ\nMѐG ꙳]Nú°@\0졥򈜢bҳõޜFꭴö2L.ùb3*ÀꬌlǉɄ0E¡Lc׆@䎰`<\0¤9rӠª믬±§|BS8¢;break;case"ca":$e="%̂(m8Χ3IإL£©¸衹¦ÁҴ<NBѰ 6Lsk\r@x4d牑´ʳ#qؼ2Ôē¡\0悒c鄈@n7Ʀ3¡ҸCȦ4え(TPfS9Ԥ?±𑼤i3MƓ`(Q4D9°EΦÜr\$ɟ0ÁֳX񾀠°6#+yªedy׆a;D*ܬi渚ԡ+ªⰴ(¼8˜$\"M򼙀k¶壘ø¼Xē௙NT^yŽE莜n)�j¼o§M|õ*u¹º4r9]¤3MPʴi^2.̀ڡ㨦:£H!谤0­cp򈈐¢ ¢%iҜn\$Èƴ¤좈¡fퟔ�T֦£ܭP2%136j肶Ȉ埌#ǖú\"¡-촐踐҈d(9밈⎴2£0z\r 踎aО󨜜G)\\»Ỵ¼²9xD£ê숯C2왽x!󶍌²0ӈ§(n	¨P鉄`Nӣ¨ƺ-̍2ǣ̵:µꥌ7ՑJ±Lc0Ӓ	³+££ @1*¨`ض-/\r¨ڽB ҸAP{њA¶§(h=A»\$1²µԈ:B\\önxʳ,\\~;/¨˖!��ȬG ¢ΏȱtV!¤L00`صú86\r}ڧώӣH㲴牆ZƢd\"¼Ԗt*£Ī ґUøť|0ð¨@)\"b걲 T=WֵTL1I𥬂ԣMSӣÿ²\"*¢¨֭{=+>®[µ]¦úx(5͂ؾ Ȃ심ÄºkC.¸½±7l\"@S>þӴºAQü½@2µ 仆H𰏴]qc}\rȲڊ򁲊¡/]þ房F.Ȓ÷𽯎2厒\$øۢR✤谫¶³KFh(6p¸½[\"8˫ӱ 6S`SHӣ޳ބfণ#Ԭ¨7ª),\"°\\̝:7¯,¹M(ΰ��W@e̔¾\0渃r3&½񟅜"EɠT0ȡ(b2𠆩Ĺ%ȐC	љKƜr0¦4ʙӊkM¡ݷ£��v\rÀ½µÁ>©4ﺒHI9`Ɯ©\0҄ã÷.Ͱ袔FFj3}쒄ԨUHʹ!i�HeC .K©~¦D̚RlMɂ8bݡU2jN(z洮¬D¦°I(!­B#򨜟R4\$¾®׏am0R·ʑD-q	ܭЄ,7JÀ\"!!౶XA3Eûț񢯑ҥün8&Ʋ0#DHäY*Qɔ¢²þ`̑E(⭣¡B\n (\$\0((À¤¡ҒM􋼰>ȓZMy±«	»ºB\r឵ȹz¢{8Á¸;琇 gǵ%4򑧜¸kRC'¤´c\r ¼&UD#񐰈(߭ߡ°C\naH#O¹ú('üb|s´kȁ)jŠӶ	̚WbD~󐯉A.&¢b㒠\\ýl:b@É¥«\nx!Y\0nÁj后㬸>Á³uAɲ捎0 T ¨û\"Iؚ2©\0)Nµ암�D½Tµ̬橕Ts Ѥ\"番#E嘑զrû#Ào\"I,1~Љ㪦\0#Iª1n癟j¼Ñ©\$h<ƭȬ»⡁ú°Vd° \n¡@\"¨Y݁&[*&|K5gt·H⹎Dº>´WF٫gaÁ4laգ\\윥2öcԓH´Êxg9䲨f³4佉§񪱧9~i䍬򭲖ڐ¾徭¡&!䞖➓¿­§<w	cMaùH䬅\0 ¬]J,䝚bE1]:uaݩվ�/(Nje­`zM3 㬽_ms᫧¢´¼˜$£~R簽/t B Ts¬𞜢be-'S±f¿R̫¶Jh֫E~rªµᔻ⬾´[񑄔ÁZ¼cΑ¨+¤¬©BdZ˄d\"N tdWͤz\r\"¦ڑׄ´a¬·FµkF֭z @䀴Áʫ²ƪ斆dѬÁ¹)ф·m¹ॸ¡Ҩ\n\nK¢PjH±w؛SE7؂֍Ɯn!½¹³{4ùද=K1øu§i³Aõ䤖@/\0)d83BV:ΗR°\rޔ蜢F»X¢.¹浭ûܔhf¦p	s-꒢Bø+Ȱ9򰂋¾¸^üẔ:`ùb-ը&e9ڰ/lֆ~5x64[硙5䬹o5㠮bŸ%&4𼇶Dȩڅ0RfCWl½Sɂ\\·IƬड़$ûdJ(F'¥9ò»`ݬ􌍗R◚Ò6qԸû)°ޓ ¿eݝ匚NT	iAѧܼ갔 ÖE܈߃ǘ)̌ µ)Dj𬖼x%OǙ)ʣaǻ!)峩ý:dco^E¬§¨\$øѣ􌭰±%9Y{婞i¹©~·㓗s&g͖ʉt÷Nŵ~Á[·£-󲢜n1pƎ�\0û\0ºE+\$4DÁ±1|.ėᗟaùт·FA¶ NѢt2rҮ輜r¥¬º̢¤#ઌǣt􎖸̖Cl8&IøD򣏐º,5+Юùp4i7,øNFЯ𬐝͍EȀP4M/n䃀p°fᮣ͈وN>«.B2¢PNI/B÷2ݭ:¶詂𭆏3ºӯ��Ⓞ'ضk¦YǊA쯜rذD8Th&l£(»	*«\0=¨d¸ºF%L@CО·ÁfȪ®^p냄ÁL\nKв©ퟐ�±\"v闌°ڼ̲Á°��A䤵뎽-4o⺰Àþퟙ�!𴤆͗PιF·QƴàAxˑ|õ͠⑮䏭𾗆��)Q¦F/溌±ZŴ׭,0ƙ˄⤄¦-طHퟲ�lퟍ�DM	Ǚ°ӟqplǣ¦dj&¦§£Zbɖˣڭ6#¥üþ >ҖH㞜\ŵ°¤ú¨lA풴℔͘g ގh2@R ל$J.݂ø\rД2Y%҈¬qݐ\nʥ%跬l֍Z?Q£Q±(B%(򂬍] M+)£٨n󜢢#)Ĝn\nþM͜pe¯H\\\nm(®ƒĮ񽘲̛б䨓𜤙q@\r¤j¯¦\".I¥JG呜" \0þ¢\"ﲼDE¥öY\r؝\"./ ﲈø°¢öl\nþѥ1όڜ"Hübk S`؅jȄDk¥軏µ&¦@Zb³Bmǐ«L¡ ª\n puǄ1䓚«Tnlᐊ4S5³Hs	\nH┡n-e򂂲÷쳛`̏-#f\nýRnֽ 软l׃פ!¬5񰣠«e澋fd˶PF|7#?S;࠱ %hBj<䯗\nޤ¯t쨎0񌷃fV°U0<\r|¬¥ú|HC£yC𾾒ÁBJ1pTʣ|(C52^>Ҏ=RΜ"k氏Xty-Ja%*¿혁T,Яª̰e+¢°L:d𠥅½\0/ù\0b̠ǸS§-Ů퉚þ.0YˇFϘĂEDl/g=#\"¯«´2\"γ±̝ʜr=´95hz9욭CCT戯%Db궀\\@څ\\Rj	\0@	 t\n`¦";break;case"cs":$e="%̂(e8̆*dҬ7Á¢qвa¨NCyԄo9DӉҭ\r̵hv7²µ쥶Mf󜬧¢TLJs!Ht	PʥON´Y0cA¨خ8烑줺ÁVHɨɫTژªù¾X\nb¯c7eH衱M³̈«d³N¢´A¾Ş/J{ 򈔌߬P̄ܮZe2b磌l赺DoøלrȢʻPî7쬄n¯[6j1F¤»7㷻󶲷61T7r©¬ٻāE3iõ­¼Ǔ^0򢲢৩¦p@c4{̴£̵T¯ʹ&㓞鵃¢p	(戁B#ZÀ-£((!£HЯ#z9¤0»먡è˴®∈6#t§!#\"¡(©s.VªC@5[f¶!\0ĲA\0ч\rXú.2Á脴 ็Ax^;́p×ư\\Ḇ9。9cº@2ᒎɠƉƣ2@򌩠x!򄫏2ۏ! P´7¾4>:(C[^¡B㸴6´szíE3Mӭ릁\rcªռ(Kp5Ѣ°¹UL£\$0C \\׵賟׃x:.o :(ƅ\nH%㪦:ED̎ȁ)À浿뵒<B`#pƹ¶°܅ƙzüSId\rúþ÷QLX:Ü\÷r÷`ΦBԅC!CXȲ§iȭ!³#G­6	;\"\"?웿A_rа 9.w¥u=ī󁔜\¢&GDʙX@U��ۖÁ:-͇N4­혱H=J?ûʷ3¨\r)갃¥«@ѓ«¸6ƬX<m:¦¬5ٛk@P턎oB\r£¨绊3¸첏hݜ\2д*EÀa𜰧cp̴㬱q!퟇�ܘ摋\\_A\\򜏸	ْփӴ!±b[½ƝBbYѰ^6·Á7¯Àʺ4ֆ)Ɉ¨۲Q29V⸋jø㐓up0³ð̜Ɖ2E0료gEjr�Ȑ¡5H湄¤QEm4³¥6 ú²yܚºF¸؛`û	c說µù?Cߟú!ϥþǿ\0H¡ڃõ́讉?޼΃ö,圲?ÁB젻~DFߑ°|Ϣ;\"\\­¤CdEΐ.eI\"d´C~BC©қµ@´RzQIK±*¥t²Ҫ_L)/К`d\r䔺杁򧡁̸Ez┣\"¤ٹ\0Ԓrdل²ȮR|z¤0Α(O	cÀ¤(\$Ш¾Iꊉ¦CadEi4%¥²XKIq/&\0\"2Áɴ¦°^TPnA¹:§vΜ	ý̷ǎBGI朰<鼃ȉþ\$ʄ'웤»H\rŁ¾7嬓놵dŖ\nDYJF¬>Kv Ȉ b꾚C´\\ܓIgÀX½FќrɃ Emd,5D^Kܤu®¼V»nA謲c+ǑQª78Ԝ$ü\0  £gn\n\n8)d¥kARd\r!؇Pϊו\$࣪\nK碹3D\"ONJNՏ^ԍ^Y9+À\r¥̇9Н}e(MΞr@RL\"kX= 3öAª¡­¡%øӰ@Rҵ󆓴L*~Mõþ	¾a!\"A䶳 ­%~<¤Β¥픉{!6fu񛫂ӷ;N²I\"礤WA©𗥯zc,́ĚN`  ©²¤򾐜r|'¤a[*¬Щ²\n§o¶sxBO\naQ ¡;P»[¥QZ©*ü˺ú(nEɹS#ii]Z¡͗nc	  3~GmcõґR.FgPm\r􀐄`©LMù'm'Ünꄐ\$_\$A4¥췉e-dՓD򭋻숪ҚD.H!僘 Vd*琹'cr\\¬Ün֒©\nDc	b\\©!]ӳM1}6l\0¼HS쁙P؜$b²l*>H9±KºŜruHM¦fͥ&©\n¹a㜮{³gB¤稆ªt[z͡觼édº{~읕­U:\\baY᲎4zAԺS%5G(򶨹F¢ªQoӚ'+ ú񜤤4\$e[F䡯Á9'd��Kù	ú̩ϜԱ򜢅«Àꙑ䒗2º҈Ҝ$õ\"ýªdˋZ݆ ȩ79¥<,õt°𱒔Ԣ7¨Ƿ.M̭P\npEGo#9̓ķ\nӈ´㚔&+?6󺤸VΚh3tЎMRS gΙ 䄆°όb򇠨#'üբ{-ʪퟰ�IϤlGT\"۶7±enҰ\"ú=w*@N¶t࣭cþ?+䇜"þRÀ噠Dö֡gQAaö^֙ZɂP󉸒&ЙȉݽT¤üeqfuøσН\n߫<ʄݜ0f#Fΐq)۬®¼#΅]υZޯ޼wfﾈyE:§HÀ󹄹ѳ&ecӻ驁»¹hK	Àö=ҔD޼|Pީ³ɫ缤մ=󡫯vϟǈ幜n¾«N¼c¨Àöf A¶_·%·ü ª§õ4#\n򝓧]¡\r¢2¦\n_촒;R>O\$\0Ä\nU@¦tC☀ǂ'£p̠?ޅŞR-@ꂰ Ʉ\r\"z\$¶=É귃¨6h(nS%^7আMh®ࠦ&VH7砵�JPh1堯pZ&ð&jiІ΅(΅;퉆£K\n(:򏪼®캍ǺT㆜\ö7VŅ➧栥蜜	­s\nE4ݜ"r@ȦLm򌎀}Ŕ	🅈ݢ ®þ¯򂄚\$|ނ U@\r{@询\n\neǤ,䌌Vú®¦'d^%w¬؂°¥		얍/m4\rE݇±bϱg)l\"±rЬމ°¦ΪT=\r懭<畆.ü²S¯-§𱖵\nQ &1¤��£J򨉛󮣛˛lIψȟ1®ͧõ­􃬾´È��:ñøѼ²£K ؠ±þﱺm⦴\0ȟ°x* \"\0 :Oiʯ⚥Z'Ĕ¡䌥X¿pގ\"¦^2R¡lrY#鎞C®Jb§R@𸮎<ʐ&«ǓE쪐D¬B­õ&NfP®ߦԌ&eY𦡲«c+!Н!m򜰮񽜢nj〜@ª碠0\n£\r.{Ѫ®򞥲󈲑\"Qiƒ#i篍xᮅ0ҰׇB8û娆E	gF䐔S,¼r-^Î^挗7򅘏¯ۈr0q¶泋\"-ǀ߀@概9²©0­U1Rٷϰ¶ᇜrnfü²pc[%%Ď]婘箳2n#63Z®󱺳c03g0`µ6Ρ:eTDN8Frî堮'= 嫯O,Т³՚À£Ӫi⼢;-m㳬@ǲxú獸\n¤苫=s¬0ԖAT[BBRϸ³´,¡Øғ_¥2uC\"t%Àͣвk*³8ªü÷QֳӅI«E昱̵­TT\"4l4t]ԡ4m\$@\" oF^¿%ڹ��T#ª¨oõQаԦ򣖢L뜏Vy´¥KQ@R؅c¼'F4À¨¯¢vI嬀e¿\n\"o1B2l%ªιÀh䄪\n\n ¨ÀZ%\$©ryJѰȴ²u\"CcQ½J��#S56֏R󔯟BF¢!ϊD	Ro&㉥U<rª\nÀ��E,°LZtùü?膽󜲣耒𾱕w£43 G®D8ϏÁZ%°&¤@ҫ,FA㐖ƧNO!{\\ΜpO&n〭Ի�ظ碊h\rõ坱ĀvXV9_fi_³OՕ`± Σʧ0y`cƫ¦§	N&ဲaeBcTN?\0a5µ\rp'R򡍨ג󧅒\n¢E§3b0B'£\",vl(QӋB\"+^¶\"=Ǘ\"Qޭ痞츺✢¢©Ȭ܊,¶_#ahC?`6ӅúB东rØ»ªöxbtú5Œ";break;case"da":$e="%̂(u7¢I¬׋:\r󉒖f4À¢iֳ4N¦сҲl\"񓙑¸9¦Ü,ʲ	Nd(ٚ2e7±󌶯7C±±\0(`1ƃQ°ܰ9gC¬9ÁGCy´o9L擱؜n\$􉩄ų6M㥣)շ¸6遹ЎXZQʶD®L7+̢dt͗ڄؠ0\\ȁkł6G2ٶCy@f´0aʽs´܁[1֙ݨؚ7bmÀ︲À嵅GS8(ªn5續߯ϴk1NnvÀv»{i؝7ŭ@QB»)¨&8ˣø(&쒔74Hֻ# ڶ) ޲ađhܴǌ\$@ӿ㔂㈨4\r㫄09 ЙÁ脴3杅ḯ%Ȭ&1ˀΗ¨|l9Ǐ؞'A𚴡kcp92I0޷x#b³\n66ãþ\nʪ:;cX躎@QC4¨X촌£¼ý@3V»­ⰲѶ(P+#ܶ訊224ݻO ¢Xމµ P¨<+𶺐e*ø»n\0閰d7ƙV,82È궴C²ܺՓqM8B2=\r3;¢0֜n:R»£@촎k+6:ˁbB-¤1uT¡¥£cH3ݢC&2\rţcӔZfc&􊜢`Z5¬°T-?«»􌑅Ÿ­h{\$	cËûŸ룓\nM¼­l\06ãU>¨þjä,º놿¢袁IЀ%±î²󢂉´	¼ͳZ7ˢΌ󠋪Ɍ2¶lLz»/;(B£-Pʼ%CrA3h؜º뼲8­²Lþ\ns¹ޜn4ú!-,úج¹҅Y賘ꨘ޳תÀ°꾜n}y!đ ͣrعǳǒ0㎉²TR|d2SиÜnø\r`򥎈ب42hûo¸±+mɩ¼v1,G¡bHR 飉T'B婊°²۳\rҘ}ù44ƀ½҅ªʑ8tk؜\sDA¡À7/ղh11\$l¸¦~C)ûdpկsJ|I򤔎RXwI¨Iö䤕«sn­ݺ¥À揙6%¶PNd\"ό4dƨ\rg%昋%Z<ÿD<鮁n9/aK̳γhúZ򔩋錨)ǌ͢³­K¼ϻ\"Qy%aͬµ~g`i-ͤėGF ȱ4UńĚȃߥ¤¼̙À@@P²jNA:0pτ¡L\\#mhԆ2L֜r,¼258ΛCf䞲úF¨g+´¿»\n`)=ktƜ"Cʴhّx��pFH՛£䧃¸h\r!44rԑ#Lׄꔳ½0¦ g4A) K!(0 حӆP䬵İDI«3ᘙ­À½ѰLt߁¸¸ Y@͜$°@Ë/ʲ]Yӱ2+1¤c®Ií儱2k²6.pRɰ£F 7Ѫ(gh /qڽ̈́¨E	䔊1\$Ɂ2E4¶(.⼿+X7򺚚\"dTZ܂	¤`Ϩ4h Pp\$1.¨])tҽ垲­NX¸攅.VlMװO	À*\0B EdL\"PlɸU.p ¥c뷾§ܦU[�Έ¡£JʴA¼8[ꑜrGҷ̳PQ51좓bpɰCL<ԨӍ̶̕\r§&0hoDa;Ь¥dк&­=©¤3Qø:mUڋə6\$Dm䕐8!2(m¾D觏嬩(T^꿯ਫ*ª}\na¤=*洍út¶뛔	[%¸l;Άǲс#¬ށ/ܪ§hxˇ´⦋Iº6��b>`û@ːÀ²2»¨Ô¥¿ ±µTFC1/\rX짗ۓb𱛌d|2dhcöZ\rj¨´s«¦Pʄ2\0iٲ.恄EKfc/ud¢Z(\n\nHɶ i\$Ld歐2#Dª¹\nP 0)]Ce\r��xd'¡5úºЀpe΅4U8ʪ¢1b¥*9¬̩-ʱѥ`hxKGzȆ��r!ﴄ½wu󶄛a뽊R5P¥ٻ.JÕûB䠐툗;h]»_�µ° ݚ𲭝»ȴK^Lѝp񟭄PþpTD¸\$¼*\rؒz¬r¢JL2)?D«µÀ.%r2zK p£4R��Y6üCRȚsT%嚥ýɕJȭ!J@^FGuH؅琮¢¼Q!M¤G˿¨V/'݆F󺑴ªҝݬjkz¤ɲý¨¨˖ÿ/䋭J߇_\0Dí±gMOR½ݿ>γ¦úO¥ǟI򕇴A۾[ªДShEÁ ³5¬EΈ..K¼'Z\\º˳��A˕t'VºͿҗG N2_9Vþ՜»¿։ż콟ќphú犗K·AhH\0R5싎Tޭ}¶Nʪুʿ򵿌ׅ筿x¬>V\\Oz®C&Wüm@ݯÁú?W¿÷\\ÿޤeڙ`AƩù-Z>݇ġ減 ¨O¤v{≜0\0싈~8ù掉@؂＜rĶ8˼Bʷ¥(⤃#=h´^\\(/Ҽe\\ɬ`LQdɠ̦ؗÿ¤ΒDꐮ'÷v𺵯躐o撫¬QŒPЮ¸¿N§Д#p 0P¤񏂷®ѯ䑎ȉ£L\r\r¿MgЉ\n-Zp®ö=,D0Т`¬/£n`\r¢¿HҙDúú¤)\no̸¯¬찾ºиøﳌyB.ZoEDj:䆫f»Du〴Q)넯¦¼ІFOˬŜ0\$2.⨑+xU® qFzJ¢譆n񄌬·Үþ̎ 򈠜l欚°ˈ§beP¶둑ﶺќOԍѳL̰ҿ»ä̪ݏ񻘑#qÙ.Ř͌@#60񜮕Àqb~f\$ú\np\$¢2EGTC­i¢ˈFNޱú¼i>҃\n¢U\r\\\$­<-ϟ ߡ¥\"Mú-¸޲*'\r²ûˬd𜲀V\reú\rp\$.ςø,5z'ꝁ« ª\n	𖣀?%0#m֍)Bgnޒ1¨9(ªüþ¦ +儻T룯Q<%调|惲V°<7⮅§=\$Ȏܰ~4‵(·%Bü񬎃&ú!p6ǲ޺):±§¼9 &b%½F죚R˜S«¢ga뎳0M0񪷎ȫ윢𢐴趡ఓQ+2Ϋ)3󋳋vL2K˨㒤³ªöƭþ=*1bg󆣍<-F󅰑p°#󼝯À«²朮J؂B\\\0샣ºd3R-̠-§тøF¤O Ӕ0̷Q𳥷봷ÎTӶ0\n&இ,ѯ\"\$`ࠉ@@-j!ù%p";break;case"de":$e="%̂(o1\r!ܠ;ᤃ	Њi°£9牅Ǎ Q4¸4L&Á勺¢¤Xҧ90֌4ù@i9S\nI5˥Lºn4A\0(`1ƃQ°ܰ9ͦ㠂ž9ԍḨإ穽V\n%ōӢ¡ĥ6[䠢²¿bƠQƦa¯\$WԺn9°ԇCіIg/С¯* )jFQ`ɍ9ߴx񨪠0·Y]rgΑxL»Sᚸ­@wŎBþ°򸧨6ʮ͂h:Kփ%챭|i¸隮z9#A:ι¨W ª7/㘂7=ɰ@##kx䣢¨pŁk0򱍫\n\\;.,(ܺ³ 0oО9S/Ø&\r㺆C񈯑¨C´õ±ȶ¬p3騬8¡!¨x´:§H́#ªӄퟀ�؁đ @¨*Mhx0´.\0̞C@躎t㼜!ⷅģ8^㄁,xD¢ê6鉣p͑¥C ҉!ÁްУܿ/وþ¸㠤:·C«§³©»Ы)£¸@ͬ0¾¯�RU.ԧ£¬ˎh¨􅜮켶72a*ʡ(°a\",¹	Z-U#𷍴܃°t8ΎHẖ·阩h½À跅´(֠ZѨ­:´n´(+{&˄\nD\"@P淔Z÷逊3¢¸亸¬eZ¦Iº宠`Rü񔋥³\r͵U£À趕므߷{ ֜rz;Sø丧%̦�rV0z¨hj%K ߋc¨½14\0JUBY\nn*UW֮>­0%ϛhƊ1J>µ¥@SRՁBHڸFûМ"dI·1坮¢ڼL!WӐ¢k򹄒ý\0½亏7ͼȌcZ:¿Ե pØ}¡Љ½<2򁲇£°؈�ʯG)ꭇUִ\rz|\"Ng\r'\0007ö=8-4Ɯݍ®c-:>ԇ4ӻЦ(À±³C#¶ ˍ)«u4°õˋ7ɣdz#6H¾oհ	򝃍8ط¶!Xp-\n͵°\\²LQ3f½㈨񿡫 &48Oq\r´± ؋JG\"4·ФþӼ'ϼ±À(q`;׺@ÀӀCÄ,e²ÁT6¤ɉº>ǜ`#8Р֤Ma®On´#¤䁉ۨFʀt¾C*cL©4¦´ڛӊ=Nɻ'ȄIOÀø䐤sÉ\rmBg̓ጲ\$Ԍ_鰣A¸ֱfq©B@o½\" ǈIr©a¥§ªnI²./&\0И\"fM	©6&ஜܪɕ;P^ȌYiIýͶ ۗktt1P׺眰^øhxD:¼\"pÓE!ň۸ꚌÿHЈȜ"2dNP	@2=.ÁpnɅ?D´lKGuÁ𮚖ꛚ񬷿v܌D)ҳ£0`¥B©4ȩ攥LʣЀҷ¤<±VúuJ΅·✔`軅iAD\$ü ¯À䨕IºǒVѕ¯e©4Tծ&hLL	\$?ᜈŔ˂\r~t¨eX\$®(ÿrT,4¼°\rzFHЖȗ큜0UJ䢐Gɒ\"Đ!0¤\0T\r昮¬\n«Uጉ'ՠ#(ꂖ도ŭJƔld򧄨AꞓIUc¯;VΜ2,ɱG¤Hĳp¸4©°I¹¹ۿڲ£/©¥ø­6*¦-9A	M'>⛂}9ٜ$\n<)@Z¾1e¤ීȎjbHzvtrrNɫ°@Ȣ6_{¶w&\$w¸)iÀC·b疸gSՂ@뜰-!䢗²햦yڤ4@Á*C\\w;щ/Ǔ9ü­­Ʌ@㆑`dll^\"\0´̜r`.A:¼\0B EǤМ"ÀNʎ¸AA+<dʟ>	 \"¶JKpQJ0Ƅƭ1	Ӯǐ©)§¸ø1VYŏ&ꉇ!HԴwy¶fõ(~ႸùՔ¦½ r\r浐¾£Ƃ±\r%ûA0腏ΐk¬	у§_AiP-¥퍔}齋A±5:6NnͩiŘť¶ꬴö'Wl  ؚ컴>礎©b³󙯒1OlIt°3CʄºYM©ҨS­Qi*ZARª½q)뱎䭆ҙNݦ¿F5¦c+Ҷԡႀ0ģY_؇lKF_IƄɄ2֤H/5HE¼3Ӑ£.<`ӧ泩(­lz¢¶¦ᄳ'üXѓ¸re@ٙ¢E[0oC÷5DЏ͜r1im n*޲\0T!\$8Ų\nû^Qޥ¼©·I袈?¶ć»§߯PdˠU®҇,ª͡ӯӮI>¡􄈑3[ٚz¹3Q﨤p@Oaºέ	§y�¾)§ѩ) hkUƺmN\$«?h>¨¿hO?X1j𑇺¢H@²:ÿ¿A?߳��l0無¿B3&oƗö8g[%8³aK曋ᓩDⓒ¨¢\\¸ܐĬqJ·ú¤#iܨª¶fSȝȶƈ3Մa立fƹUqձ·˕t9첧ɒ'FƏ®򿬰[°¦¤)̨3tp!¨𠎢섰&~̘8аܰK£[͌U°5\0-o*¬\$ƐFt:p2ˈ깉4ͨ\0˅ލ✂2#Ɔ`澰ö٢ڤ£`GX¬c	\rlWÀޭₜ";¯jP¢\0Z\\e¤'򄣔\r*Y¯ұʰ˜0\"C_\n,ýb[£¹\0ÖE#Ir=ПC®圮ퟫ�𹄜=\0¤煔JФöOp񎾜$`PUKϐ폸'ѶƜ0ʜr¬d\$6\"YP¢IѠଫp°뮉Qz0fz¢¢VÂ§, ´lɂ\r±f4\"y'��1`蚪ü,cZ'D.¬@ȯ#pά𴤜"z°9ʰLL\\¾MÁ£Iъõ¢Ũo1!Q®\rú0\r/°΅¦䌀ᅆT±bú2)Щ͈¥Mʷ1#ѐoGpiNi񯣒N&򓐰I\"ꄧҟQ¢Z碀ޅU'2Sc䒤H=¢@¡°̨6v#𶯊Kys\"}#M§2«R,jj)µ%RC1r`\rm'dѭ¡׋_䓬򀤍3¨:r暜0ে\nG rPzD<N\$r1ù đF°2¹&2½1',M¢\nB2ܕn2㒕#p13d\r&\$8ョ\$+4@:s34³9/'1@ᬃ&[(~[;*򸨄;4󟴳p賁Rn\$D֌²G³jªМnҪe6`YԑɈ\0ގ´��)ρb;³¾/öb¥£«¤ɄJ«/лqE4o83S@؅`}S6ǒ0£¬ÿøYkD񜢬Q̜n ¨ÀZJxÜ#ﰤøo􎕁°񲷁J8mt>¢뙆+4#!OX߮ަ̰\nÀ=��[D:¸l !稐´Y#ÿgv뫼p#	ODBِСh¥¢ܻꐋ¸W ںNg6𦞐!钭\"49 Ɓ S4Ρ븬lʰt˗➏`ܜ4塔̈́Ч7֌ㄮ-P(ﻥGLj¦Ȍ5k񞄅I#Ř¢|tʽ0lԅ9î'\rv'­椵L¿±ÿI`÷TH҃ꎰ	촥-ѣ#:ʲ%d&؃ROM¾÷ ­*aM ݍ⬅-޼Ʀ2Ɵꡦ Tf»ZÀʲ§O­f¶u²⯛bM1SꞲmHǚ§u¥䤤²B냊q	8F\\";break;case"el":$e="%̂)g-薲õ±g/ʸx\"Κ³Аözg cL􋽆Λ³БeDًøXº¤ŢJֲ͜¹F§1z#@ѐøº֛CϦ+ªY.S¢D,ZµO.DS\nlΜ/겪̊Չ¯Dº+9YX®fӡĤ3\rFñÀ挕Уk[)>®Hj¨!ܙuq¨²骒?#Bݗ𥼓\$¯«]b膞2³¥n´嵒>㡸z< ³Tڍ5'Q+^rJٕ)qs+4,eÁr΋ĵºƭ¬¹穳J7g?g+¹1]_CFx|÷-U±³¤tLꢻ)9n?O+ø��;)û©©Ij¶裴P#öþÁ0\nQ!𳔟'®\n|W+̙¦©ꢌI¦Hsْ¬H<?5ВP9ɥ¤3әřG(-󴃲OT\n£pַ\r㸜£䷎K9Fg¬RPCZ󢊁¡=P靗¡Żº4ªL¤¡@fq4֏AtώD\\9굃;*%낞 ә§Ш̦gb뢅º-IR\$¦ hҷK¡\0ȷ£A, 긎b0cZ9ԣ8@0Ճ谌C沄¸Һ\rx뛄9󜰈倴C(̞C@躎t㽔5-O.Ӝ0Η£p_iv¥¬K |6̖EN3Lm4㰸!󢺺噜΢-J®f&° Ń%;O>%c(¼⛣퓶%0[6񙙌푥YCǕ@٣O>­cĮ6囹󀤈²8®0Cuz£ @1# ʄ꺞«Vҳ­&U9Lr_:힃2À˒_(̓봷©Zӈ㍃ӹ޻¸§vxӒ9٨ܔ할ě²0ʨנұqÀMӂûόù¿.¨ʌ¼Jں��ҥ4ժ±9²[JNGH§q</jޡΤ3෦qA¯½JJR䜤뺄圪V;¡foH@)\"b\r쎯B}» ɬ\rG±úRe/.Vghµg?᛾YϨ˓y0?͙𙓫µ2Dø⃜0셬½7g싟ÁΐH᥁6팃Hgqȸ±ma\"܋¶襈«=D§d@A˖bN=#@@C¨sV+i-ШZj¿Km09򂘩6̟6Hg(↫<_&Á45D>L	p7Fxҫ£\\>¡᫆市Cùw-𳊲%ʫS¥>¢B\ңH ¨B\$S«1)¼ŀa(:ꌆ\$2w\$yH&M\0006@䁄§9(öJ¼öO©Mꌇ)VvsP󲖪K6Q±袐°(҈J惁4P­͓yF{Q䚴-½y롒w]婕\\Ɗ輗ባ¸¸·JSބÜ"󚫌rQ̱¡-§¹̲«4K²²ɲKɮ ¦⋾󽳎)+')슴±Y¥Ґ¥M޷y\\SQkd`¨\nVU̐9¯A¤Tʠ9-ǞHdU+h-ż¸䜜ˡuuػ©¢񎋍zõWC£^ÀTö<],❇ɂBۄ'ɋ­JúIIuv^P#{a=,⡯.EzL¥&Lþw\$ә\$Ál­µº·לn㜜«t®µیׂ򞋚9ǘ��,ª¶ׅ8b鲯%Dª'eȱ>HG~¹B!D®񍞂\$/˻)'0£<Xќnû>G2@ە#̝¼ģn3ÃFHۍ=՞&ú¼LkGĶ®*	Y!¤6Ʀ²]¥´2µ µ-a՜\«°̝o0l\rឰ¬¥bȌװ5»NuQ!²<ȴJD¤,񁁶ü°|£*嬸\"r.|ÿtu𧋦ꜜf=!&8T»²JH\n\0@RŎ>ȦÀ¨s	;䚫吘ꍘÀ½h ҝ¯ e÷µh«hÀ«¿¼©fö°��͑ ʅ8K¥яbƮ¥ք«\0sZJ萆CppY녩­P䔃¸h\r!4Cø²¸¯>\0»ؔ0ĐʙҲ4'8SːC\naH#(q̙2IGµ>2<H\nL®.»qJ]^31CH\$݁J슼E+܂¸ZρT¶钾݃wdµ¤V#uqOg´²_6P~¡\"JRZݰ딥¾!Gԇϑj¦K¾?\\½lX÷½©qs\"61քר٤¹\0¦w5걢­컣-½½v\r´V¾ۨ6	r؆õ헶ʊLͮZPᤌM	IWќ$yR{쵌÷߉:beD\01iG':ö	÷5û£¦hf\r갶:¬7kŷ°\"°S{ʁ؎!ȑbq 閡Iɐh%ûQh ý¸gUȎ&\\ú4.}ٷ挓ºf?ӎ'N±ě֙9황zM¿qň槫u?йþ2�ºüQ帟>¢6^︾*|ݱ䗫¯¯󇉢rJ̆'ᷥ«\n¡¹뺑û¿'ѷ͓صb\r٦5ö)½>+°*4O³¨­À¡¥򊅛RYC㈟ÁԺppöü쨣&vKPpŌ(ÿĄ*̢Ƣȫ«®cأH\$¢W羧Ǌ4ĦΎ¼ ܟǨMg0򂸪\$󂌕䌇ml9+h°o¸G̤҈Oª#8`\r嚊ܲ꿈쁀怀ʞ 晠酦¾¸㐹Ggüd\rþ8gpdyD>òf \r˼ɀ襤¾\r¤ҫ완§ö³°܎ƴAnbFþMüJԃ>&Tl'ù\r⤵¤ú󢨜$𦴎¸歊xM~>�낦@»ÀƜrb\neºXEЀ˒爣ʜ$舃澚B>񐵆Ŕ(2gT\"H箓/q/vӪ\n£izؤ䀢ªÿ)цw`#§𣜢#gi¤h)à!¥	\r.¹g9딅ͦ*L\"O+>O ¨\n`\0⎤º\r%ZW底ޖ+斅l˦ºHζ񩚭䰉døM²F²łúưjR9h-\$Z\$D더)ЖûƢ?⬺4RũZû)͡Nh(יִõ]\"-ʸ	`&&\$ȑþ5ҲOҸ.²<&/ú돴,rH9Kv愧¤¸ک {,-\"©q÷g��%;ƲŲ£&2/&#RP'%qÿ¢++r Բ½\$*ҮRζŊƔFÀyo܅ʹ¢2L¯浮\\3hَ|+b Á焲}LPýà?k­Á^¹®þ¢;0Fz/»rݎ¬Mf4֫¢CǂԜ펾3J>󎱅 ķ骓?5b¾򬋴ª䂀ӀA¾}hR\\¶!¨t\$촤p'Kj-Oc9*̑h Á2LΠPC2Ì|򧻆(㨸£p9)\n)وþ挈d¨h욻þ«s퇦d¹R®@򄖴\0psù@iθ=B`*ù틄f~*ӣ?®L㜜,ῂ𼣃򆰼㮿ԩ?��փq/ȸTE|¨-Eƾ ƺ&\rYp)ЪI赧\0ĺ¾¾񣥨\nфܢ씮񮹖H=��úxǐ׈ǣSF¯´FľIc(ń ،䀙`ќr< ۈ¦M6O񇐈 șj¥>¡úLq9«m=Q	µԱ\$f#RFG+FWCõ\rQ	D¸󨁕;RӰ(Rꛓꥭ턩_\"²ے¡k&⍧\"'t=\$rý 횝ª¹UUҹ--ÝV飵q\$GM'շ!`uQù2Ϛ짐P3/Cc%CµZI^»dbD./T4N¹IW4\\,oU«̬B'F/ǓdWMM.&ܕ¯Ų.>j8I\r9\rıPö'/^·򷣣)\n4ݭ®ߣѻC<mf¬ɽa˼,.²-´ÜrGFz\r񠜮꛶Z󯤂蚂񩲡=³\"Q¬ýcNn뵅P¥\\±^ȼyDj괡Ic!\$ۈU1Q�NU\n­d{®ADǻEۛ°µ\nõDµ?սloukg__VÆѱ_(_ckP¶f塂¥篵¸úՙFֽ¢uԉ𡌵K]򒵧:·S6훵÷q��状þ¸ѥ8t¹n¶㮨Bp7Eª镂º\$?נÉ¦#ö(J!򠻤쬧0ƲǤಏZµVfõ[d?µ݀akԍnvח÷X7r׋s©_°۔T¤~´(Q{!´˜n▏¨°0¾Ci,ܱ´³\"Lk¯(氠w肗ڃo|ﲢø­N⯡c&ǒ,\rjzXˎ^¥UIkҌ¸UÀŉ(¬ؙ݂ø¥5f­侬µত|Փ÷[·mvýEG7¥q·»rn,cץFw3y¦m\r÷;|K%±GKpût/t̴Ř=¡H=tNTBѼڧ鍤Շ5½Fؿ&㱸³ԕ҂Oᜤ45{X£{߬Jþꃯ򿢜rLӨ箙sퟨ�怡«hquOݭՖUꓜ$֪J¢q1_rx*ý«9),陾dc\$§ «¬񆐾��%-Ӛl%Y2u+õuA񇲐õmR?Y²ԪT:·#ѦCڈiL\rV`ؐx=nµl<dל$µw¢L㩇uFJN=1	÷a:6dL℥c冰7}YSÀª\n p&ÀI'��B()Bٕ詑BOBT9'LRǋb굕戴»ėDF|ý¨ûp 㤯T NIｹ/oϛ£N()°ѝ%Kz®:S>PMV!]V¿]HᎽ묽\"ΔӸøě­9Q.0¡E{AvQ扠'壦d߃5X\0õH ƏaČтcj)ϟ9Cz9\"ĉ9'߄ݐ[N)5K¡ºڭڟDi괙³m5s°Uý£N®¸gpԘ񰚵®\",d\"Ԯ²uݟl¨*y'®R邭H6÷ ĈtE0媮°p¥j£#®[.瘟4|)𰷏Dw҇»i>-¸1rQ\"eN©ªVr\"Ñ­nD¸§nz\nÿS̀혤Ԑ²`ÓŕFÀ®世箭G݆cГS?ߒ󏂍·ﭙǷ.i©¦¾h./k3N_[»[:ï𶁀ގĺퟠ�N<��_°dө]m¤´§s譢D񆕻õא/sG䐠";break;case"es":$e="%̂(oNb¼橱¢䧋BM±Щ;ŀ¢,l衶XkAµ¡<M°\$N;¡bS\nFE9͎Q鄠݈2̎gC,@\nFC1 Ԭ7AL%ý\0鯂L瓑¼~\n7Mֺ8(޲4톓dJ¦x磦̆1¦*rL竔Z퉼oX˕.˿ifS {4䢧ؓ¹C¡cpƴ:ݜr'¨̪O{0ߤd}ȉޅ·硁樯7-[؎Nn2Á\\öԁj ¤üH}Cɲf5®Hl\\񄜙¾S9㈧+/js1򜲦3OG\0007x@üÀüc(䓺,C4ލ.䎃 PÀp@ÅB`޹\rΛzḮL4 ÌHȶ­Ps<cz�Ʊ¡HȪ75°2ÀqT¯Cز¡`@5£C3¡к杅ḯ1ÌgAr޳쐞8/ØxD´l¤㢜$9x\$b°ҹ¶/Ch⿯ҨL,ڲë^²C¬°჌¥Ӭã+䞃£*r),T<2鈣 퇯/⼅¬脼©Ms׈P¨ۜ"B ҆دs\$킶Mզ¬-ՇhЀ:шµ¢\$Û6٨@ºÀ)qB忠P2׸غS˥SH¡Ћ#Ho㑡1L¤̇Y®4eR躈�$Ǿ򆜲g¼\"cҦD®B䘳°\"<@,La@Uù?7ŰºR衂¢&MʠĬnMTt쿣Á2R S 㔽⛙¥iꁥ©L#AH(4­=[	#lv�ƆǩíJܔ␈2s/\\!nSDjü1圢88ú,C`߀Щ©<B㳜n±Ã	Ⓗ'޸µ邳˜\ܨ폡hG,¤¯(}þ̉ƙurnb0ʏ5®0зâ͉ĵun!=V2ِɆV÷\$ͳ¬ûlֲAзmIr+\nŜ"m-ۡkR󅉑􁜄Ɖú5üh7]rGûxPAk6M£RLP	#\n 0ւò[¨3bûвRQ¤<D¨²ퟮ�.¥􂘃ºeL¦´ڛ{DhV }\nQkro̅2²f)Il¯BqR✢µDD¬҃𕄈✍𠥦ز\0ڐѾoPa+Á´¸bLBR/	ӫ\$2Nª§伎MʐµȀN«CPa 猃s3ch2'¢󎜤F4s~Bҹ(1°0kQҎGа°ǰʚ臈9RBМ$1ĢD§Gcü1IC¸ᒖɼxøqDkĚ\$3Z%Á\rҐ\0\":-򸿂\0POI:+⅁¨rZYs֟䅕ªNҘk¦ 4°2gщzFҼHКޡ䗐*?!D µkÉ#	㸜"󗛉À9§\$蔣øcQ3\\ɗ¤kHªܡ+\$7·¢Rǜ\7b^z\"ЖU!±юc\$iˆ\r¸huI傦P𐌛ûI䒂£~gWQ1jȐ¶%±=*s򄁁C䄹偓s'4£z8)¼�-øȈb顋 ¡¡ph֧QHO\naQ\$rk-§ly1p+ uDUmrRJȂ昌b͓覹Q®=LǹgÌ¬ö^°L-ţ9;O\0 ÁRh2dك>õ  [޴G¯¿«s򓭳)6Ƞ0¨nIA)dxR\nWp»ЄcEϘˠޫЁ\"pr%񜲱җ#C¨dA<8/稁X	1YB,\\2øÀ¤q£¤IOKCȁ¢¾J\n[칧\$m¼aSTOCa&NrΜI)6SӄcJ\$C÷@ȨV[ͱa憂в~®a/Ǚ̾©p©N¥̬&tЧt±¶¨򾉘:¬ؿЛ\n±[3fxY¦cٔ˵1\nK{[;Qø1­ۇL#AӵEC¬þ¨NdK4h0邋(mCF°gξڤ8K,&\"\\L¨鴍4bL^Ԃ欀£Z¦-i곘*¤&񬂬Tک»)uѯ¤YvB̺®£0#doّo%,®cs)ª̤°@і³械U¼橊!°8*Kª+29l򼟟J¾F伡;h·supgAyOW턋õ|gx\"¯ ®7~½	AF¦¢RષÀ͛X.<2¡}󄡗ᜓqn0t]duɴ÷X\$÷I§­±!<ʪze¤抖v¾uǥ瘤H2IόsFвr晙&嗅դytK҄뤇%9zDԐ͂\\cû°	C'ч 뎱¼ˡ¨N⑉û/D¾ѽ°ù{5·¦ۗ°[֐HU̜$¸.ܴ­@E9ʔÁ0EXeUy¼dyö䋕I?ޗW,v§¤̥÷Ѣ#\0³\$Rõ*ۨi.!Խ=ם¬ٕLI~ȅӈ³I.Je@.|¡wPᝋ=񘸠⣻˱1®Ġﳥ¸iW¤��滮螑\0Hӟ¨ퟑ�˼\rIb^²\npˮd¾1\n9Ș¦Ɯ"ďF÷¬TÂ1½σŉni𜆋\n5BfӜ"*÷ I⒱8ݎvߎBr®F􈪌..¡ü㣐ᰒ䃾䀀ᣮ䐤~E¹G¨zBújFp§혵°>h0+	J	\"4¤i.쀽iª@򌧢8î.萂��榣@!¤¤&©2\\¶/O氇؅̘«Ԙ𺄉I[Px!®Aɴ±0ʽ񎋬gü\r˒ՈԹ¯|©dԢڔÎՆQ·͎6𞵊FP̩m휰øzŃS�eʶ¯¦¨­¸@/uI»\n̬8#1|d±`:EÀ`㤈XmþÎlB\$ߦf/\$¢ʩӖ±U↚±¸ۑ¯xĶ񉗑]OvS ̟©o»qԻ񌜑✜)쭜q𺅔ݤtỏ\0즭üՠʖ1lHW!ª©��֑\"\"­i!­l]Ͳ\$򠉍pؒD8̈́2M\$&Q5Ѹ8N撟͕&­1j¥#򊵲p õmȂ²2õj쏊]株(޶㐗񾠤B/.ޣRµĲɲ¼ýퟋ�jz\$O­E²3¬@j±kN\$N.)`5R釣0d2\rVIÌ/Á@Rl9©\"ǌ'ⶬbnǨoR£óüܠ¨ÀZFⰜ\ ¼ҭ4N|3Fτ'J⡦\\,,L¿ʲ5¯Ӄ/X̧VRV1Àª9Jܽ𙈺In숴5¦Х#d*3LLϴ½䆃³¢0c̜n^¯�E榃¤Uʣ܎\0ʤ°²e©fέ媖ͨ<B&&cLAÐ£檌0öif?(®įp/°(가ǢGCF��f¨=󸚣G~[;\n\$ø掀\rDЂ¿,VܔDc􈀐H؜n\"=õBǜ$|¥¿`ၣf˦Ĭ¤1\0Hõl1.­LFɰ_D1I0LGT\r윮⠣2M ¢õg/*XýL~��:䰚Dx5j*\0ȅÀ";break;case"et":$e="%̂(a4\r\"𘥹&!¤ک7D|<@va­bƘQ¬\\\n&Mg92 3B!G3©Ԥu9§2	ap󉐪dCȦ4え(aǌ¦A®0d2ࣤ4ЩΆ<b&l&+\r\n¹BQ(ԉDԈaͧ8Ӂ9ᜲfu¸p¿Nщ9d޵'hѸߛµ¡&S<@@tϝN󤨩gጐù9NI9᰻|)@jߚjC¦,@m\"ûٳq߯¦|ȏ㽚qFݒ̶µ`뺪y㹸@e9­Rr4ڥ1D冓y¿P90/9\0*飌ܲȲШ/:>£#\0P7­¨#BS軜n㮰¬\$>\0ȷ´̰肵Hॗ#ƈ%5°ꨐˆڰ9됈㼴C(̞C@躎t㼼\"à-C8^2Áxᣉ#ȗIؼþJ!03-Chº\r#xܞ㈼ț ƂK°'8j+|ܦ㚌-jü߲h ˗°\"ኺ£·͒҃­\$­p³߫ÐԲB¼»(J®?*(]츅\nϛ¬¸¡¨h૜r㫮70Ы˃.ʞ!£ҲB=C0d^&ӀʻB\$¤0·>µ ɰ0굎cûۂ`Ң̀P|­э£jӂµ5¯Ѕ³H˧qBþ90 ʕψؒ5i¢Ҝ\ù출r:揎cÀ\"`Z(:¨ú7Q®Ō'r\n9·˼¨sKT۬ü?T­.'V¬ýSU¦І\n% ֱ QJ­�$±*©^Դj¡jخo !Y&'n;¿&3¢£Os¾#󀐉<9sퟷ�<`|'(ǰ{fo«SߣsüÀAѯ£(𖍗ךè۝¨%¹yµNΨ««\n\$0´9mՍψ!-֐2ٯ¢4°\0˳j47ò¤𼲐c¸¿®;<뛇5ڼÈÀ禪?@³¡w5`;8ʜn)P\r񒇢`µ\rĤܓN+&3`@Q9I01§☘3)E)¥T®RڝK酔\$ȵ:iEm>'䠏¡{fΘڣú;4ܣ¤Ė»𭦕¹/He\$䤜¢֢SiwÀ4¥RJY,%¤¸º`)2ÔΪӃ®N	ɴ³ãtǜ׆򸪟3_Nȼ8􆖄=10ý~°ʦȣ§爺÷غ;pԷ\$P°HԅI๟r¸C1­\$Ѷ܊Cc񓩈Ӊ}Á\0cɡ>@扂)C(E켐ЙúHÁ°<Yj5\nm=p@@P¡¦c󜮈A;@)Ȁ°˦ഀњSÜɹEȭ𮖦ù\re©(©'lҔI|ÀL՞Ѻv=ƾ㡡bJܳ0бˢVԍ2溭CzڏE0¦4F^¸<c\r²y¦4ŲT~˹/|°8새tԒ󞕣ʣ_» ਜ$0򥑒ۄ̂٫3Rqȼ3 ۅ㜜!¡¸1˓	UɊk4¤(𦕁ji=Q¨Bº¢Dܸ=HȻ򂪕dǩ.8ˌ\"V¨2㜪¥7˨3\0¦̉£#`©6Bvm,2A\n¼AcX̲Brܠ3澞UeS\0\0U\n @À®@D¡0\"ܥ±\"앆F󪚜nb¬}U\nIJ;ź박üَ\r!ጎ0«ޙϹ¾\$JúöؙSЬ/养¡)«@ú>m¦ȀVՑ\$E÷ퟵ�yȝkY򷼐Ӑ¨P>K染۴Ƣ뎼ᔠ-À¦´J2º'(\r}'ദaZlM£ùn7'f\r©b[Kނ ¡Uxԅp桴.˩<C£m/ù\0ù6Vδ\r7H]Mø[]h\ne©F8¤0芓ێ\$§,ÄCºĐ̥º\09k_6¹fԃƠú£/��µYCB¦	+O´­¢þhZے@-VC`ጕ΄£eΣ\rlT᜷Ȋਹᜒ%E¦𰕢WΜ0¨HGᔩ*\$ʮ5_°^Ƿª´\rX'ű¶UXf͸(V¡8*5De65\$ஞd`.hT!\$\n´Í3֪gùdkK㴽۶QˡX\0¼7¸Z🂭h萎hüι!ڦMn r|	z¸5³\":Àל\\ra»Z4\\t¤+󞍎᧽󣗡>d£¤¹V繍\"󤝈)?!Uù»򪀺RۣWȈt䔋⃟,8Z̶}úU°녭-9)O3hdɊȲö¦\$y\0ÁE椗}R3Ǹ¼@p38ub¡ԍ4-0Wl9^̸VqXI>L±^6xøU¢곴'»a\"򫺎T,1ហwϸe¥௹ϼ񈨪l£Àüû鼪z»ö𓍇翽1��Ն9\" ঋǏ} ´��»E£hOٴ6%·úiH蹿񐵮²l婡6#ni넜¢*´Q&¸÷`��Á\"±\0όE⚶dRĮhÁp?Pývø݌@k¦®jb&¯&E⏠쮒QͰ?ʹ&ÎQ¢Àc¯r\r®4õ.<[n@'L.¶j¶̀!l\0즵*¶m;->·˃/b/ϩ𗈂לnt?°8{£JÀʅ§x%¬3ډ\na¢֏Gx[𜖫��¸IĎȺϦe0ΌI\$À}¼½,э¼\$t4E·눱鞲pҥªaĴp«	¢В腫Ӌԣ医¥\nSIÀSŀ0°E牢ojϑLS¥>T1V+°QJ§±e1kq^n,<S1uB0-ºBMو°В蠧㐬񟖰HýQ_ḛ²õ񗗂øi\rq g¬>xݑś1' PܭƜnΉ	B£t	'퟉���br¿b!¬HaOЂt୲)	򕜮/f謅Ҡ2'/xf}Űû/r1!¨íٜ$	üԉªӡ򌮧c¥ԉΤ¯\nЅO¢ù'\rH30.z	(-U(s(ʈԮ\0>ą*-'-Y­{#p±^͜\OC\"Q¸ýª5^Ɋҗr³,o=Ҽi.W+澺¦ґ-2±,\r|؜r؍θ1±E¦¿#²	\$0栱k°¦\$󒝱z��\r\\,鈅\0+&XkF¿삢211kv@É\$Hmc5³R퐔	ov\rŘÿB�h𳵥bVe¶䨇¤gd9Nꂀj ؅`֜$¥Pw'˅\$^.¹ ¨ÀZF¢*;N¤(¢X /lʥޡHi0¦D	¨ü\r ̏\$\r笁QZ0ºûꏹ±úLt¿&ü<㖙ꪃ\"N4G´%<㺉ʠûV¨Q¥NփN]¬\0ü1Tʯ͆°bЖq¬¬昋ªR´󫡁OD!T_º\r霮a΃6	­G4sGƖ4ô3x=ԈO.Σjj%TjreEǸS.\0`F	Hkퟎ�\rjm(öِSiB¼Dý!oö¼¬��&礭\0¥􌢪l ¬X	düj\":!F´\$ٯ¬cDteF¾��댆UԺYU ހ`h´ª+k⠉\0@	 t\n`¦";break;case"fa":$e="%̂)²l)ۜnö@ؔ6P𵄦چ,\"˖ڰ@ـ£­\$}\rl,ۜn©B¼\\\n	Nd(z¶	m*[\n¸l=NكMየ~B§¡%򉒲ID6¾MB¥✰Sm`ێ,k6ڑ¶µm­kvڡ¶¹![v͉M@¡岹ka>\nl+¡2Hµ£0\nȝSP©U!uxd)cZ\"%zB1°´ÀC2ꌄ©o\r䪵\\¤o1º§؛滭P͓s󩚚W㤵>·--¶#J윋˦Ī<­֋TܧsüüF¡є¢̯\nS0&㾂l°`Q\r{US!\\8(ª7\rcp޻Á\0ʹCx䤬򔼐­*ɖ(2¡rל"¨㔜¤²&򜢐¢_)¨Ç²¬kû\n2E{3	µ¯# ڵÀᜰȷ£A 긎T0c9½c8@0ǃ谌C沄¸Һ\rx륄´9𐈖䨴C(̞C@躎t㼼1ԹÁC8^2Á|̹͓P^&A𛅋Xͅ\r²°ҷÁްΊ~ M¢T<³ù6.Ѩ¥HSR²ϳ\$ժPл󹝷쩐0QX%zZ\n㈤7J((J2<nєڶ­	?6젲KVɭL񚃜\\n\\ÉӬúB¬BùՈy]õ«¬E¨q²_X\nc.[]%L0ꬊܕ*¦¹\\Ldȑ2��aN¸«5-Q\r²¾ ¨¶)³ª۫®Oˬ򺙻l¾圀ߟ9­ᴯĨ\nbÀ\"ª@Ʀn|痮&3±RUZ5_7Uz÷Y%hیcL¾ږl%°m7ö¨ꊪ±U°yP¡¢ŔgwªڞE쬓8©llöʫ*V\"X/I@6£7R3躙򜋧C󏔉0983\r#?82􁲣!=}^\"\r#°6K\rݟ{!wüʼD¡NuIƛϕι°¢.U\0˖¤½clN𴱍{ꂮY¹Ð趰¥ZIH¦¯«Rú!K3<K2FR\$SJº1EE5&乬фHērYB1冡²¯\\dQt}P)aÀÁ󞨰HAE© Ěn@ÿU̜$!¤#­H:ǞƸV÷»̀T\r\0\$%.J £°܁Ӡcy¤2#ԜrNټ'¤øºPQ}B%¢z?x!э¨D£Қ=ĥºȻo6š»ò^󷮅𙦒Βꫮ!ù5³^,M\"ơ-V\\p⻲!H<ù@TU{8µ7§杓ºyOiõ?¨¼ÁrPꥣ¼ܲ㲑_흗+ G]퓭ɚ?B񬑳ú#͜±?򖊞鬳͜$ ?¸fú¤9+[H8ڔdHOɬ&퟊�ę❜r!°6\0ėᴲ­@LXaզ¤ퟱ�謜r᝚¥䀈\\wT4㙃t|!±梲Rc	VfĲ±攄<'GUÁ|S*໰ (¡\"Lùµmʒ&\n	)f\rė÷%ߕ)%Eퟝ�e\r锹ԯ=L©)ڜ$\$碃 ¯:¿»Iʈ¬54­6:K窱婐D̓«څ£68&4ʙӈrZܴƚ­Nӹ.X0Ƙ\\¨eªaL)j´Ԅ	¥ڷʲW+VnR΢ إDݓȼ©O+ШŦ֠⡜!­˲ ⿈\$²Fr¯6»%D<D	\$<¦\$}oH©l7-DÁ_q©\"db䳇´e:\$腍HI°lÕIûEeXõൈÁ³Jü72ϋӞ?´ﷺ¿۳ƈ¶栎¹¥3\\��٦텪<~KDhؐӛM¨)м#JjR􆏚ʷöJ¥y=2M򠔘µ½f	wף؍8¨\0('BD!P\"匬(L¹q7Y·JeCw¡¼K£&>ꎦ86��L<v䂟UƂ'nS¸㳠\nz%:R(ޫcࠩ3U:­bý\$/h鰱觉õ@ü©ra͐핟\\ᮁ_úsVꂜrdC§R8©Eё!(̛E¶úR÷\"nHa%ƔmiנlS£}2ࡅ ¢1rºO®ͦQ¡̌¥ծQʮ%¢ɬe\$Xm݌ÁՆ¤?»Ç Ԝrb°:щ¯)0EY»ټƪµӖ℠\n	!¸4 t¿¯;Ԩmö>F¢¯ቼפ/@w¡_SbƷHr~-.zɘ13\nø補rd!§¬,xe茧Aޜ\º淙¿V/*`}<ג┭õr79秨㣞g\\Ǐý¬sӇK½¬¶C	\0񱤂땧¡i!%V¾Ʃή]¦HSc'\"µy\\¦­o吪 *>53⼭򸆛¯¦!9\$1¡JԶ£¹0֪S]\0Ϛrs{,)菿ػ͕񹔞ͽ«ظ̑º摊N䜢ÿ5鐿O	吻ғyE3Ņ8ɩW\nøVû񬍞Aõʶ%ø\rE^¦ӄuƚ%\\Ҝ"rõ&3#²`'Ҧ\röׅƦ­D(5𘙅ಉD2뺜$ꊳ	ebꕣG-L8^ߍFø\rإpQL卢0®~Έ٪^朲\0ø̬孴`A ච~®°D¬6f4̕㨫⠥T3nD¥.Z|pkXifł历'Af䔋Мr uN\r®eЬҤ\"ªȋ躒-Xj휜?\$ѰD¬̖m\$֮ބm3p(4�ӱMA/`7q\"0j(B>fþ킞ׅdȪBb򯈷撶о1@ü¢BpeJ¸±NϓB-2秾lp՗ƌծ|)<呰øq*I̬U*6\"*2£¾_a±gõ¥¼剖?ö뜢F{𜪜rJ%񟘂²찓莸- l/O\npꌎ¥¹𖁯⯷q3 H;Q!²'¶j+uС\$h/£÷јkА�񫠱Ò8z\raFUE􈡏	[𒮁TD\nūd?A°	ԩ´ѫLάûr	#qHü²CmM'򹚒/\$姤>៲¢²Cª讒)fҦN㣲¨Ü$'Né亪R0¼*\"਎\rhЋK(´ ɈJ¦貜d낤j𒘨R߯n½®y2팊£²𩄼°û㞔³¥³&騹+² 2󨪲K#󂃃D>EZͲ*탷¥ݪªߨ#0_3`_Ӿ岊ȳ_,=+&ͅ\rº/0CƐST]lb|(@C¦o̒[-t׍KC2'b¶°¨ЄFΜ"zɑn쐡:cz!o~㣕j޴/-=C<Yۗs޵亅So嵬+ªजrV½˝-ˠϮBfbúѦÁª\n pǽQ,qZ��FC¤?j߸-Nߐk05ÿ\0дWg¶af\\§gÿc@¦Ò(2潿/هÀڰu@\\b´?6ǯö\"臩޸펨3(h(<&϶氡tCѴ)Z6À\"DD*娬.ݡ	E०䕪¥M£NFϣ8qQ׎ƍD@ڴýN±❌)6FD5𝑏ۣ{Np¸ԅbmŐ��§!£®ݦ\$l#Vtú񕱜n\"¢aLᄱ\n0㩮V-*6l覴Àù	0øf©\0i¸ϵ צ咩º£/úT´ƦϜ·	´mOtVÐ\nԴKB­W4щΦ­\rZ®3Pk_ZFþ\r଀஫§5²歊ϧ°>«~µͻF.RҼ";break;case"fi":$e="%̂(¨i2\r糡¼ 2Dcy¤ɏ6b爹À¬;MlإgS©ȒnG䧃¡ԀtB¡󜜰ޠ7̄§2¦	á񚄞R,#!Ъ6 ¢|齉NFӈüt<\rL5 *>k:§+d¼ʮbQé°ꪰʉ§Yᬂa\r';e²󒗈mjIIN_}Ĝ"Fù=\0ҫ2f۩ؓ4Ʃ&öå²na¾p0iܝ*mM۱za¯Í¸C^­Ň6ɾ㔚㞄击n7F㬰ø(Ea\\\"F\n%ۏ:۩Pꮺlن䨔VÑ¨ʆ\$Ck(#霮F¼=%#ֶ2crH4¥Hø¹»킐°σȴ¿­ȺBB>٦򹏭p׎0\r޲®쀂29ऍ&㨊\rLPק긯»ɀҶ,(¸0蹧蠤Мr±¨@!〤2Á脴&杅ḯ5Ȕj¹ø䳅븞c﹌xD¡Ϣض=ްɈ¬´±sԶ»@݌ Sѡ㲘50¦¶Ө㞘±¨깯p¼tQc*n¨腄£#^; Ms]¶P-LȲ87˫ºq[Á0Zن¦ö5[-æ²`轈*º)XQ2#=㚰7ۃ8ϯöӸD#\r2ó񚾥	ԓ¾):ܦ®ʙ\nXp2֩Ċӥ(¨¤£u2S6ZÀ¾/ֺ٤oSሜnb§¸ʚ·;,B8涌EJȰĈÓIeL㦬K	(»´£'³펹[½ʜnqX!>*¶򌥁Nʦꗃ@ᡒ؃@K騤;ႄ돴5˔\0 ÈΖ»|(a_ÀiK¤¡ù,֖ȣ]À£޿I񆙭o°ﳷUퟷ�$¡¥\"p꒖U¸ Ҝ-þ܏招4J\r𦇉¢E|I{R;À2َꜜĐ¸¯(0̓¡jq&BKˎ°ø@¾¡lHҴ�¤¥ǥ\"!{ESUطE~¢j䅉rчzЈ񚙎<{m~Y󃮅ø \\LSܦy\r¸΋洤Ś؋\rﱡ幜"sؽᑳ¯쿤W\0® ¢FƂ0ª[텰iޔwCKһd49¿cޔT¬ͷ☔¡§lÀ/&ę¢fM	©6&⬜sN¡¸£n»⠜"P!4C\\FKR³ªԻ±Hý񩉯ø󲛏Á퟈�=Rm	¡w0HLø ZКGqsRD؂z1.&¦ƙS:iMaݶ£H¯S¢v¡ฆ嘐S򀢧Ŏ7爋I)\rH꓃▌[U񓇐징dr5Z²`gᙇ¤斂Ɖy\r ùӎ£i\r»é7ߡ5©F>¾ù®L^򇳮)i\nC&M\\ڵD>?МJKР#,۪³M<G+Ă\0 -nh7F·ҩAC2,Ύâj!¦O38șCˏ\"ԊDwI¨i\r8''mJ␺Զə50\n)M.i¬2.䓕ॖ25Q\$¦~-¨º':DŦ!T򃤤ʦd6\".N)᷆1o\0F¬(:G^\0L-ኃȨ»՜$Ȃ{RQ2`ػEDbՑü5Á䙒󜜂Z;*s爊BQy²¹ֺ҇㲢丹h'³J̾낵J¼%0%¶ڂZDO\naP©)¡ ͔ۚ堎	0ÁΉû*C܉=\rͥ½«)¢i걻ª꩙Ϣ4p}¶K䁔²´N  ÁP(¢`a9ϧHګ²%@¤\"9OܭǦþ«rzs°o+8P T¸,@.XA◀@@\n@^X»̾񓔕`( «jw^Ӫ5GT´RTöÕÁ1ːS,1Ғ ®񐤮ੌ4°2Ύu5((𱑲j¢Jg9!4<¶Ҍ@PVGU<¤wϟ98¶&\\帺s´йû0Cx網>襐Z}e³96¨ΉYx ௳iA>1(LЮfh±U101Ŵ𧥤94¾]Øh_4׷¸tcU\r¦µ)P* ¤&µ1Ƥ؀ 5rSYݼ䲖읁ltL®lsHƕ2ͱ4؅±^øjԅ4¿«A\0c܁­톒<b𮙔s魮õX^|§tҶȳؠ¦\rx` ¥\ny§6y2:<֑/WГ·hᐨBHeݙ¦qAJ(DS	¬֬'㑝Z»F˪¿\\+£\"U÷6¶!§ErJ»\r§u\r02ÈN¥yٯᯟ:\$³|®ncҏ!¦ú֧#OJ6򕥪ýPr:이׶Ref¡§15ط.i­ýÁ׷f��؈񠿄dbNܕ޻ɾýx\"GጮS¶9E:⻠P5ýϱ+²ÿ)꽶W¤࠭僿¿Í-Jú򦽚ب\"}§ӏµ>:¥ߛĚrO­=F\nܜ$¼nM1ܐ☶¿^熥9P䒇·_rz:b寮Qpep+¯¯��f²l¿Qäÿ·Gþ¦_uýƄb {Š!¢\\ϢjB䜢Lʩ¬; b̟%K*Á¸ﺅ\0\0尗풺®Dʯ䊏��4嬙,X\rζ ИƮ/ÀڔÀZ檖쐮퐻úL¸«KO艰zýL@±ʲcû̏Կ¯ÁƆgʑ`4KXAģҪ.W@்ʰ¾뮊ꮏjú\n:�¯ªþ䛋(ۥM©P悬ø0®AHڀZuBzڐÇ𣉬/¤`©«¸bИ咈𘿂ŒB\"U&¢NGn<ٰJuKJbՏJؽe\n%�\0­璭*לrtޱ\0þpB�1S񞵏Fv~֑ª᠂ᢉퟄ�rቍ\nPC\n¯ݜΝﲰF|¹ج6ˀÞdd( ­8.P\n?D%Bꫨ?£꣧P̺錽pD%2᱑0\"0¹񟘂Ś]鿞\$x̢%Ⓒ}ޢ@ᜤD>¶섂D\\!NB\r­ƉL<dY%2k&ѧ,<_⧧튝rplRt­L­ZR%.mҝmڞǆʰ𽑒ޫްþr)2Àމ¾Q±8ލݬ)£¢~\$r߭Xu½Ȳ¦5ҺûήZ*02c]%»02øȏ¾_-R!2d 	ª¼7m<˸歿\$LʟOR;±ԧ2B!cþU13򞺈`(&x싒u鮱3P<ߜrªR覲GCþ¯6®¥6忷\$`÷jú`莀؅cnLȲ¹д8F|;Ș/½§񻓌\nԇ	`¾z.j1ɌNvH̻ީb\$\"j,\"ffѢ%@꣬`8c\ng0£8ʔ%矿ˢÌȯcX5˞¶kÀ#¸Ԛҫ/,Wº{bJ[͜"c¢þ¾񈐋M:ϩC̤ILpm\"пhýO/1Ƚ㽫ǄoдOԵ\"p0².ÅUDø��T⼌ڜr퟊�₸bbjŰ8JXł\nQl&䎮sҭ¬~\"z\"£hь#n崐Yd:ùԸ´Ņd<L<˦v;쮈\rõ0\"HdVb8§f'Xd@ɢЩGVC&ʅL叴0ܜ";break;case"fr":$e="%̂(m8Χ3Iإ昁¼䴲񁘒c4c\"Ѱ :M&ȡ´¸cC)λƦӓ¤F %9¤ȄzA\"OqФo:0㬐X\nFC1 Ԭ7AL4T`死T&Ƹ̦(2D𑘓4E&zdȔA:Φ脦©\$&̆��9°է,vn²G3©²Rt­Bp¶2ڟ62SͧI´\$뚶N胜r@ 5T#V͞§MًᏸrrBᆨ@c7өXȃ%:{=_S­LȤû§\n|Tn򳜲<즦ѳ6΄ܳ»Pªퟴ�\"L£n¥΀ܷ; ¦<¹ƙP܁B2Զ𔈹(ĺħ©£V֎c(!5¨L2;#s\$¯㨨4®ҍ¼Oǯv𻭚20lT j 긡(º ֵͰƱ°º\0Ŗ¶tc¦Øhߒʱ@ʖ⎴20z\r\rؠ9Ax^;Ёpæɮ,3񈟬cº,2ᒀ`ꘜ"cp̋%Ҡܞ㈼/ʰΔƕJ#CbNú0#£o1,[0h휰׬b¤첞	ʃP6;ň؉>âþԜ"j ¡(Ȑ\r㚰:6õÁq7H(7T*#Uu¶ªTʁW䛆ɜ\A:L͕6¨A/}B40¬°[XõC,qG¬# #;8㲂#>3Ǐ¤2¤Κ质¤ª\\s|J@#dͶ°6qP쀘(:¥(ퟲ�ੌsZ|*¥l8񖗆eVh)\"b򨧮rù>u_ٓ[«Ɛ|Ѕmö:89¤ x#ºÁ ꃆý«볜SºU񠡜®֙P3ƈ>gۡÀƶ£eEBE8ݬ M´ڻ;R쥴93°Ä#͉S\$柝t򷝷aퟅ�8撈۶𛞕Á¦y㏣֜"ޖ2aC(\n 뇕ߜ0004&\\ ºK蓱B;%2JrD񐴊lﶜ"jA5Ŭ¼Ü$!0<aP§¯sޚ\$¨&荓Py5'x߆圙RùMdٳ\$䠆p	¾\"h1d!֏VQ¾4HV񖼮FĕT4èZ_¸ +嶆֍úÀ!ü\$Ȝ\FS¢!Ѝ'hSڽý@¨5\n¡⺊J1G7VR¨>Ǆÿ¼T%镳¯ݙ§D8Jȹª-0#t±┦*0 :2 '!d@´ࡡIԌɠ2§¤øP݃(<Zmò¥T»Zl ܃ký(ֆ<f12¸إt҉¡b2\"½W¢«QI{Đ!¦hõR*)Rt<@��9실¶xuײⲌԆ27截7&ÁȦYàə9->ZȒSs]F¦]@yh÷Y \n (%\$¨E¢h\0  #JRXs!!¸JIἁK酙W(J̑|3f¤°Áѱz=%U¤	Օh̒ X8 pԖȔ	jojꁳֈhi5g\nq3ªf'qn-UMӀ¨Ú9) \n&P+M2Y晩JԢª:½顄aµ񉲞E¨mﰄ³DL2UһHp֩ݨJ­H²liM<#¦覽O3͌£`ĸ8S痥t``봹E�s2~Ѡ¡( &²h򁜰R;ö¹¦¶[«¹>٘b¡e썎\$õť5wYª(;\$y\0N:¨P4&ۚTתpfa¢nQΫd	`©EN´µµͨT¬Ń-­µ�r´©¹.ɳýgý?˕´Z ('BD!P\"ጼ(L¸𘩓xm\0ŤE¦10ðEA¼\$­ \$81.¾³ڻ\n`\ny¢¥L³º¶\rq}c%䓸2÷nD\"tcEö��;ùꀳ²O_쳳Q̛ªӬTLy¸槡WStDC?fĥuI)󦗟#.@¦ÀSg-t3>ƫ­µ3§¤]8l¦´Ҳ©쎈A¦y֢RSjÁ܄x \0 ¥1§% ǆVځ_:Sa͇\0Llc+K=1Ԧ\n)C)LöCѯߓ!ԾPσ,µ+X+k%Bd´§zE\0JÀ¡³<6򨞛ÁXʲͮNlp^o¥~_򙘐g^]­þ^h౅w\0e1ע¯%@򞃟Mµᜲfùن{Ǚj\nܰ䝓ZrI)чþȹ!֍e'Q\"C²0s%Oޮ誑_»©󡖿 16ġP 0isͲj34вPMݼ¸ڞ ԗ0/\0)s PΡ*߭σ[[T͚t棪º2ĤҪt�K𭘬!OϞr³ُ߭ö3\0T?ܼ!6MʻÄʖ°gõ¸ƴ߷\"欞.Aw©Ѥ{ú\\򰇕wnσ¼iﰟع?d÷¯¹Ț%'p©{Àߙ«6t0+3ퟧڀ󘧁񙫄܌µ8㟧ﴏÁwB¸eGGἢ9õNAA>,¤ª§ʜn:&«Ԓ3 ʠŚÿ&  т��ˣ��k\$ڰͮ¥¤Z©,╮ºΫ&\$°(f\$𳂯9¯ cP,)©ቦ=\rфŒk°0.ö:¬¼K¶\$Ƹ*g¯6Xʈ¤𶣐EL`Y¬\\\"¡I0iM\"bn6§n䆮ZÀ¦ڌ곀殎V[,ö=gnƬ^¿ZG°¢!𦞆'¾_D\\S­þ ،ⴆ�e4\r­¼ƦC°p²<чM\nĹ¬勂)1nm£P©aL찜"O%]q+㥒7QЯy5⽈ Jʡ㺬®xJ1?OL÷I\n6𐝕o0t)廖Põ¯O/ù/4ퟻ�M~l\$⎥m񄡑¡&⡐¬Qk¯:(jPᱢºgу(;b~®냮©ìEⸯ«Μr筂ꂅƘ#r%⎢Z`«ʐ4񴴄ޤ¤¯֝ܟˎ¦:Śn±L&ƈ͐G0pͱ��`'溧µQΘpx.͖o#*᫦\"ܝЄXqфqU2r֑¾°򵚃¯	¶t`ᲵÜ$衐谯즚¬쨰)*¤֑¿'°M+.\0002§21%!,,7)NK-2£,C\\죠\nQ'֌0 Á¢4a«��0Hù'pR«sQ1}31g2@0&Ej\$征¥D߯8UN=¹e񭎗3¦¤貖霤®=³L]򆪧d8G֥ցZLM*^@ț77BlSz¶n³6x­MÀ|ӗόe®*\$¤\\㒀䲍1q3°䍿;k»+³\$ӄ哹񕳓Á3N=3ȃ &gƤ¡.˚,n-Mú_󋘲?r¿@dԠ+Ӂ@D?Atsۃ ?g.w1粂e¬ebҭ.؛Cڑ佘§n3FĲn③ءh밇E)ܳl;#\\Ȓa\"Rُ兎De£ǧυ°Pº͡HЋ	¸)À؅m~a¸5C9)¤#Cm3qÀ\$s°ƧE]tlJŜ$¦jԜn ¨ÀZR󏓨Ƥ£\nE®捔1\"ùqsB!xDÒuF;4P௸¨Хel咺1Ć_˚˄\n­@OR`䄪¶Au8:鼘T·8Gns¸SR(耆}箅¬姰gb2¤\$փ63£>«゚莴Δü¡\0ܬX1g­¢&Հ\\û£°õW�U´\$'¿Yõ[DĜ$JÁOȨ<\$§g¾q&ý%І'²t ¦Ve枩죚\rD h㾇¬ºr6ǵú쐙:*DɄAC\$ѱҬ΃hĒ-Пo✲¤B¹Lv㜆u; ʥlʬ²􆐬Q9#F奈¿>1Ȟv*	,°Ɛ⍆Fz>pe«zJ2ª£¸U©0ʨÀ";break;case"gl":$e="%̂(o7jÀ޳4Q¤ێ9'!¼@f4͆SIȞ.đ£i±XjĚ<dH\$RI44ʲ6N\$z §2¢U:ɣƨ@˵9²\0(`1ƃQ°ܰ9k38!εÁF#N¤\n73Su֌e7[͆®fb7eS%\n6\n\$sù-ÿÝBNFSԙ¢ʠ𚑎z;bsX|670·[©¤õ«Vp§L>&PG1ü\n9¶ۤµllh݅ö]ĐӒʱ퇞½k£Á0󍠢䥏&u�QT珪uC¼&&9J\nfɖZ\niûR¢Ok:/: ¾ ¤).臁PXܲ¶Lx ¥°؆42(0ڸ¢³¨: ¨̆F9Á㸀Ün褎ꐐ7±˝눈㜮43c0z\r 踎aО󈜜0Ŏº~/#8^Àㄦ9ɮ(^)a𚼺ð̼¥ª㈼ý¨ƱÁ+잰¨(;½裹­ඉ£{7\rKtS4ڂܷö 㲽B¿̄.\n蘜õ ¡(ȐCʴ֕Ŵ΃#xغ«蔪\r(u6ՐCǤ!ͲpVj+L\r𫃯O\"1³v`݋ǲHޙ*L\n˪򆝶P񀴵1Ⱚ7QfɁB΍󜤰![c),𶉮+\0ǧF畃(&ejBjٖꪖ«բ\r4߃rӋ<#*=\"蝈ᰕ3e¼90¦(T½@¸+©ԣM8P)\nѐƓ¥·#꿽6ꎺ¶±뉪Hz~¨ ¢Pժퟩ�\$¢늵£İǫC-H޽ 2wµö)a\0ۭƒꍶcퟞ�μДQŎa��쟪)M3¯Х#ù!\"}\n;I/¨)ü.PÀ\"@摳bLc\nHＳ2oX۸ ¢¯gBƥfA¸똏À­NӄКk¥úDܲhZ¡tW\\֩>Λʎ횛¢¥T«!5웳ÀOʋ_:֜"¯©q¾¨ûڿ~0?Dd߹)Jݽ¨׺:ۜ"𲅾J©ddcC䩓ٜ[g¨\"´ZOٜ҃"Υ @*VK	i.%䀘\$/?)¥5ޑK꾈ÀDzù(iJ¤~[_\n^p3TGХg%ûBBTöPjya°ӝu£c\nT:䢔ҪWK)m.¥􂝓eEɠ9&¤ج̒Niո&¸ӟ#®¡vLᓱ磦łࠈꥁӁ֚´(bJLܘ@Īq¶𖜲%(l¨(R³¸aŨ㩔vñd3º4A+\$d0¬Ċfɂ㜲%֙½b´}ğ,¸'¥öa\nB*Ӆځ㜤H\n7·ydAK&咔øCy\"qH\"\"`I\\mdL3ƨ¶¦Fhþ]𯘢ذ\n 0ɰ¶Κ	*À¾+F癗Č6BJ¡#3dTӁĜܒO!Á\$¤´ӥÀh\$3D t²®¤ЀᆜrS\0ޚЃ\naH#@:V(ii¡7R±Z٠{÷} ¤龧qƳ¦1&dջ¶4K5V½c��ߗbú咎¾Y }ª웧fV啻p¹3:ù仟8W7髠P	ጪ686ٳg¦r;(ĝM¹ZU+Tˇ̩Á٠@r町ý孮©¤bge|*!%@澓+µª4T\0AW(F\n̫72»¬I#ƌ9 2󔌠vF.͇!0xg̨󛜢~AB&Q<JC\nT ÀR<'\0ª A\nÿTxR\nX'ЈB`E·øͦq~\"Ƅµ(²f􉳛dE:R.\0«ܜ¸úDl½Lz£t/g\"ҔZcڪl궁¢g\$Qiɇ\\c°ͳe¦ XʗÌiՙ!򮲍`ͤ��	2;C´½:ZJ짳Ѓ§TnϽ+6εΫ Rg󩫆0h@��Áͳ\n/󵷛Nϋ��n¿ÁQ¾P©u	z\n.¡´ UꇱΚ\"ϭ²­䰵¬·hâ츦>CjmΖʓú±ãL(\$Á´1sɜnÀjj1݀ɉzi򕓮x÷��2·¿z´i?XÁ0ցsyZD»��þkЦޘ􆇹2Á.-#\$wg@ҁCӭ¯Rk´B2|j ()\$AB-ꀮ񴡖¶Gu!EAP*`񺆜$mú��»r£¥ɕ3񚁊��x­úoKV䃔t򾪯r3¦}߮½hh\nPW½P؆l°p=u\$ɘ`WՔ׳!٤h©\r:]ޟ:ûks%\n÷¤uρ׻| ʨvÁ¿߈�띺{嫴Kͪ𧣝·>廤kr70»ú¿k·¤wm9ʪ[K{¥3¶ޚ\\B5C¹µڲ^b9EÓ¡->OϺ£Ǆ©	aA·tT¤þ*ݔ¿ҫi¥س·C©֌˥R\rI5Y\$!&񉇡Uȷ֊䣿öª؋q5ҭýpmªrPýOʷfø£&e\0/ú7\\揜0㘎䮀¥ڛ-JψČ©ɥ¬|LB.N\$±쒋păp\"O3⾋§l\"Z܃Gj`Y(M  ؾB��¸AeX¢\n[ ܤljcLV҃Q/򝰌l¬حPµ¨Yö𠪌ʯ0®0°²ʪ^ȥDDОͰµ-øº\r\$؎NL/®Īn°G \r¯\r𢮎ƫ謤&1oǋ®¨½úÿ崩BCͯ)ؽ°	ӒIf{ũԼMՑ/X 稕B¼ʰø®¢!Ġ'	xm­ܹB­ξ©ԅ挝¨*ˤ̃ZJ«Pьg\$«ё\r򽠔T¥Nͅ&ݧ\r©^1춞¢9E\00¥<#Qׯɜ+®ٱ+\0цˬޣۉ±φ¬儯ǜn嗞ȉ鞯ߌQ¾·\\oB8姖2f^Է&\\m¢&f\\靂ðD)Q��­ힰt:ϒ?¯ѝo٣ҁ%2jõǆޣq\$қ!qޣ嶗2s&ґ!e ˹FƕC>AN锕H\$6Ƚ8\rr̠ʂB꘎ߒ§*ªEÀoBµ*2FDvߒ9䉟#²֡Ϡ򠠣ϭ²^܀@tΝ.P֥򷮎 X㼙R²ӥj@­2󌓔[%Q鱥º%\0BbFI­)\$\nµŔޅ{'Ϙ#ޯbp(cB꓈5¨R*³R¯¥W¨\$Bⴂ'ˣslýȋΎ\$痐.휲\rVjZi茊f#҆]C[\"ꢶ*FN!&¼³q»¥8dǲÁÀ¨ÀZP\"«½þч\"!¢ B(p-pphÁ1뜜Յ`¬ndÿZ㎴)3¬õþNퟚ�:c򸩋#\"f£̧C\n<@\n<Xð3⬤8�\"Ƭ<o¶'\\˩՚Ce2ь½#MFꁠुCG(7Gm[¤[F4uf	ࠨb㴃쁉Ck¦®?��ҷGa#pΧ񉌃쥈¬hB°ÀΌfdÁFe䜏Bnޠ']!񜰂O¸1��lo,\$¨@ Bÿ3ʡ䋅⊱��:I)5񄠵\riꛤ\nȀ䎰zc@ݣU<+F‰f`À*ܢ;break;case"he":$e="%̂)®k¨醺A®ªAڪvºU®k©b*ºm®©Áɨ«]'§¢mu]2וC!ɘ2\nAǂ)̅E\"шԶ\\׎%b1I|½:\n̨5\rǃ;* 񘂢JÁu<UBkړ0i]?³F'1eTk&«±袆釻Ǥ¸~_&¢0E®A¾d携4¾U¤񬍦B¥¢°i~㬍ŕ´\"U ɨn2\\+]³�´vGâ¢ҥE¹®씒(ŷMƳq¼NG#yȝο񯸫_®A_͵¾0il¾[*Js¥©8޲,)ʪĨ#cք@hº⚚島¬KԠhҷ<A\0ȷ£@ 긎,B0c:9£8@0Ã谌C沄¸Һ\rx듄l9行䠴C(̞C@躎t㼴0¬.񅏨Η£p_!r\$I輶¼±Į3<£ld4㰸!󏅺9¸𜮜$µ¡̓6#˕F¢+\$rAH�:k2º	9R\n㈤7E¨(J2,包5ɽҊ듙¤©\"hø³º§¢I\"N,	*̥Ӫ;ִ·0*ö¥.zL ȅN\$¨⩇%𔛅%띜躵ᠥJj캚n鰪ꈽ0푮ܡ2(!򛏜"U4±³iͬΤ+ )\"e±¶\rûaL%OۻB@½Kቪ<ü Ԝ8نY¡ö<㤕ý±O\"Ȳ^WI+֗£Áڕ¾ٯU6\"'􃞞h깄2Tݦ­O¼0䰏3ܺ󪃘|!ϣ0ҳ냮ğ'��⠒9ƃdq¨<¯ݼﰶû¨£À鲅ȧ?㦽;3u<ܢɂG%T\nJ՛̲׽hrIrF£³ڍO?#趫½÷RJ𖨨¨릗vڵۋ޸탈䡈⼐`²Bҿ©m¤ɥYi®:%ٍ!{¡GP\"!n²²쭌V/ ŮLIt¡)J´°º\\Kρ0\$ƙAzoᑼ&`D»\"µ·bļ\rQ*1&QǐN󈳳AI¾rJ\$Wö3d@¢ÀYӒ©%%¤ԞRUJ饭¾侹dLΕÆ瓃sۥf%Bцۈ8Z*\r/3x±aaªQD0딲N\\֑Ca鐦v¤PyƑD`rB8E1<£қ` Hพ\$蜃heU38w✃ª)Ea:ǐ؛ûsGH𐣄pޜ$ i42&XCc1Ś4hl ¥e\0\0(' ¤Ԇrڃrp07\"ਛ҈r\r!ڻPϠ\n&nHy\"ø𷤒q噝´	\$雇Ĝ򰎩	祧0ný ¤4`w\r¤1¢ڒzG 1¦Sû˥(U¥ٗ﹦öE¡Ŝr{A蘃j3D½㶚ݐ.U¤`>4°¨an&ø(°èiЅŅ°Zz\"NȜ򼁐a-l¬谙H5⑎%䜑QP#L_?´Ŷ\0¥\"\"DP³TQ¡a©d\$͑gj°V\\x³㦋I醤%ȁꍋ¡[ö`©,	)ȱ_ø=4͝4h\rRXԕ׵FT,ˎ®��Х윤؟`IU¥3N<:µ򮍩\\³an؂)¼¬\"M®«HIQ8:\"ߘE£C?OUݟõ	ª`q§ퟥ�S«)2+Ui¦ǨReWy]K¬¡Yj1Fzl\"øN2Wŉ¬`±ɠ\nj\\·¤N-f榛[+陛:ɼ\0AMٜn#䕰K*QԳu'®¡¬2\rhQ®M:ɕښ``oK³ 8À뜤b0\nrl2¸z ³G¿eڡR\nꎒD£x3@ۨȡ'_(¢딉Yõ½&l¸Ҏh݃\$±9hتR\rxC!5PQ8¡6芑¶򭤩뺳±*=e3icӡ¯«[z´Ը¶0º˶°/=õe&-h¾¢>l¬\\f!*@ŶJ*¢<{±ٯQ*´˧8~UX ù\\薽¢d9r\"G¯|jI��<堫 Ը㒦EHӮvlRփµ×֬쿍0E¶.؁O|¾2ºZŭ/TNl=«¢DVĆ¯ו¿vZƢ'8Ҝr¾H͛7dB¸¨~PV񃗍Vډ´곒¦ģ􂄛±eᖢ;Ibü8°®¸򞦏뙷YOs<E慟_¼öjI݄3w,vhnȫ½Л²xþ¬؆퇟úҎ¡*)\$\$¿²<®ֲᇋKCȜiÁEAED錕ZMꞞ¿ȆW{³l׊¼¦ª8ùJüؙϪ;\r=´bیx� *\\Dwn]ԡf瑭¡vû2¹orߝ裼ɚ󜃭 콷󽻔µ»ø«?¤S	M¸]n󆫻RºJ³03VG¤zp¾O˥~ӱ|9򈗌Ҿ»®®<¬~¦ҝÁ먱m¬,̻ui%苯פO;Kȇø𙡿񓢚j똚\nĚj§\"󯰃(뤃¤¬¼ahX%쀑섷t´E\$W.6¹˜wFTo鰼ǐLõ®¨Ӧ3J̍*\$°ϬN+°f\"Ўú*Ȼc_¬Y𩅆WÁDwJ:´b]¸␚¯|1opҜ"Sl\$.ᐰ÷Nְ®Y0ÁČ%ý崟㨊­²ې·C\rL.ÿ°ڥ��処ÿ㠲/(ֿ͠lDʃNΏ ȼ씎\rq	1QCѬ<hαB`ؐɵΖ7b^¿¯􎮏Ϧ¡Nubːܙ1`ˎ)Qk(2³Аø㔋¬=𹙅z#㺝݃¦ö£ҏj&㎭«´\$®X׫ܜ$*|󯪥¦\n6<ы��\"\n¥ї\r°¶ø­¦ZB4`䏠VA\"#Ȋ7NR+`¥J¶¦Ƨ\0@G̅ qm|4jh#Vi΅\0.yQ»!i°ù■§ =%꺱򜤐£4=1Ƙb@tJ!H4\n¿LȈ<1/W\n¶%£¦P˰!L)L0紷 hGL7.£±¥n¯*En°QLö³\"W,¹b²¶ߏ+Ȝ$°躒G5K,^`î°ïɃ娗夜\¥¢¬p ο*£6밒򬆾+ИS1f ÿ򹳚ӢηlK#kg\"]f®˸ۑ¸¡!.ǜ"(·h= ª0¼³􂌚⥭̽Bĭ ގÄ씌¬s,(!¨51! ";break;case"hi":$e="%̂pҡ੘*\n\n¡AUpU��YAX*ª\n²\"ᱨbaTB񥴪A ²ٴ!RܕO_ ªI@̨q¨*¤Ơ¨j:\n°	Nd(ҦO)´ú²§!圢5)RW¨	|堒΅*?RʔªDyKR«!\n؄µJ¯C³u\"¾)ª)Q¨:¤¸PTi´5@¥ݫ𑼱-̵±eÁQ¤ü¹I[õW8mR[#իn¡H¤U÷ȩ⇡鮔²%&Rd²E\"ÿqٱo3̏/%+ﳗ¨¿΋½Áx/͡�覭T讯ûϦ#̣½#®µo[᢫S򤧎B区hѨ«³§¯͂4µ9<锍|6ꂰAđ\"\n튜:΢Aí񫜮;hҎ􇮙+ţz摨jxƹº(/,�¼	\"񢺒CL¡<뺜nJ³ϻQ&O,.ɎE!]\"Ό¡j«˒󲒇¯컷I°3=¾*{?Х\"!\0òŃe¹!˴#TH³ÁH¹ù\0S\r>J´;QJõO²��E̡C>u*듏ª5V¼S½ªɬzѬ��!P󮋤'dQ𘐇@4C(̞C@躎t㽜# ڴè䗜r㐎£p^8#滟# ^+A��ĬV뮖e @xÅNµD´󌜲\"F«dӑVj´M|©+ ³ýE/HӁȳ*xü\"¶9ˑ,ʯ)х&:¼} Рº@A(ɝ¹©j\$呓JKN¤Ҹò^\$føm\0002´\n׶ʵµÀ»9`:ٖú<,᫱ӫʩxl|W©õL¤(ù򚶰M&>ʫ¥%[ԑu­М"üץа֬ªګ©HƮn֋W泹O1»8YI\\Pv­CzگÁ3¬§칵'ªª~낒\n\0¹d޷ٔK@\nb&zىõ±CͷUWڝ߾;yõõiDɸOjþūϵ?fJAUjfcOȦ,_٩Y帞)Diښ9ýX7£ؓSa<iE§6҆ޔ.>¸6¥ߡ<c¦}e%b´úݡ0 ¡ ´ꋴIM犆*ŝå#L§¥DO\\:l(þµ÷*eQΐ¢£Ⲝ˲8+Eµ澀Ug\$}ܣ@㫱EW8퟼�MFw<壙Á[̣'R،¤%豄%HŜ"#\$˸¶֝°-Ϊ؉\rLǁ­+ܚS|&\0 ؝3Di¾H²򥪓IǨ³պ¡Lʝ䰠#>S<4L9ݜJV骉.ۘU戸<yHɛ»QBpºޣ£kN94¾õV~²ùU\nI}҄~P°:*ԃ*Ђ²t女¸ßYhD򵇌e§\\S-µº·לn㜜«t®µڻ׊󞫝|¯µúào\rÁ:TÁ⢩r1v\$¬©Ü$蚰郦Ix¨])(]¼\nE¶ׄQ%4ѐ(Ԫdõ¦¹	.©⧖󄑣W˻Ϝù#S옗\0þ삔g]S5HW 吖>/ƒ.©ݗ\\r.eкbÁy/E쾗Ҽ_Á<Eú鲾aL¥DޒÀJH9կkAt˸ÝǞ񎃂Bº|¡NҤO­\0\\ 3(U­Nꝯ;47㉎h	\r΁\n҄£d��¯+پ[PE¼M]Ϟ韍҃·¨՜\\Tl§p戮h󤹋\n (]¨�¢¨@ ­5A򘲎ްA&c.ӣxT䑳YP¨ܯ´κ=ܤ	\rozR¦´2*ݜ"bպZù\$@¡[ȫI՞`\nEˁ3¨ú¸¤«³®X@ʘeo*ͨ:čI+Iòշ6Ӂ\0C\naH#=ԉLȱ\nu皋¬*vvޏ̯8iLWJ\\X摕<ZCY9黎ǳK ܚuuyB¸¶V򓢼§¶¸Fûjp;򅏵iN+FBWý׾벝ȑDI6TNT3¡l-ֺªÀij`2Aϋ4(𦕒¬³\"ՅIsctD9¸%;Dr¾~4Qlߚ4!SSy~Cb٪gÁIª㩎N¶÷L͓^»Ἳ떐/mͬЮTUΚC;&¬샅»®YeH«§v5Pv1Br´N T(vn˥\r󃦳­f³Q إĢ«OHֶŻ޲K)湫DCψԙ๯N\\Ȧ²��FτQ񠌕紌`³GªTs䠞acퟢ�T똞¬Ԍ⏍L¡MmYD¬}j]𨝃!Url{@­e_¥nºÁ]´nI򝣨\n¯zNy@O²µk¡Iк뮵񣃉4u^ጌ`(X͆:EXZȮ1Zﮟªµ³ѵ]T¼Zùԗ¿⏜{Pxª'RQ¾ڄ¢¥¶)}Z׶Y늽UWpNAm<N\\ώ\"ή®Ӯ¢OV\nꈹ<ø٘D8wڼբ~/ù0kʦ彛㹨\rª3ûૅÁ(º,?ݭ|h°\0<.ԏ栓º§s£𶰔ÿֿǲīNH��2H)ꚡ§I얬dޤE 9BxE?¬؂'0O.<¥(솞 ¦䐣Ʒ#h<pF\\\"m¨e\".⫎݈¦&󍨓K|Ů��^¢jcⳄށƯጅDAɎ~7ǄYɞ󧨺ńR\r¬d´²꨹ʌ+0̹pчcʜ©2Kt0§\rǮF°⯣0ШPآ-��9鳏烌k:�­*9Z鏄ބq6ü¦ͅǼ²õ±D«¥	艌КCpߑɚ¨0ީ摃El9¥`ӁI«l¢q|O1y𬼱p÷iPõPø􄍐ݜrH䩨 ©Yě«ᆺݱު±⦭Ґmئ/䲌pԣ\nxOªk M ,m8#\"µ©J?HùLаZµntIIĽ𘈑㜢¤ᜢµfT髄iJ%OqQ܆§`ºC9Q»­H¼FO,ض볓l򞲃�ݐj«\$n·,(¢¡'∜"沛(m⎋ºù'œ(r¬++A+hR㹬,H,N#ùª٬,ʻ1♎N&o̭Xt¬}gܧ\"򎬷	#Zg꺮Dú#Ίt𨁄\$؈㨧0�㼸¨fJ9ʨ³O𥪯ϴ/Қ¤`õ姀Áe`E&􇐨¦­VC®O`¥@Ȝr*Z¥N¾鎠Ʋ¼둃-r먋@ꮐ셌㳃4q㭈-:nά,o.EK..Ӓ곖s;³£-ƼlSpYj¢E\r)\":¦񂑱F(wq/1NVI©7Cø\$³øF?ퟍ�޵щ@±O߰j|»쫱2¬黴:ʃ}A´I-JE􋽋CԒÿg㋊P«˾Oښއ- þ\$ߙ*A4õͺy®씆o3!	G\"µ¨rcȐ¨琾F_H}HǪ9jƳ?),\"~¢仈Vc¯Jf ­晍DŤ±'⩈­¦ö-FB4̷+aMH ೳC��$}K	ɒྑþčA͍N𜢙O`ҔX~��a@ƞ-tE+󟪭.B«AR⺰ͫI ¯§R˜\÷\"-mL㔪��qDէPxþµs)´sUµ{Vµ3to³¥|ϪýhJulNּH03𔏌¨®m	޺҆Pq`n\r霜ûNMtgДkp[S󜖒SUõءµ/U3>5AU넓ɕS¡<õ斑>TS5-ٔT3ڀ)`õc\"pH̜"ùR_õe@ѬK¥aS öd6ړ4µᕵF¬=dGԖ-6BVSenǥ´k.vUT°ږgЛ)¤ VKS£^Tuh.߁ö_dճ`V¨´§5`V_vùH·;VLֳjm!j°h¼ƛY\n¿N 𴮕nR֝hõõgd魊µӐH^󹔕îAnв§±AYӷ^6禓Tu>¯c>풦NF\r2󝦬SaI-B#[pǆ_:Qõ÷=ђڴu]Dv뭤´ݗ*£?!ɛQ\r1ݳv֌ك#¯Cd3󓜮7f7ӄPhý&«佌ҹ즨,®Ji`\rV톂qȐ©o!n ¨ÀZ݅˰UɴL0­JM§4ѷ@-#	휲w¬̩똷t퟿�FuòW_Eף5Wû􆤡\\g\nu£t,^®÷zmrrLפø6nQ׈g̯yö\\ͯzQ쨽÷´똝|'㋮PGԡR˴ا¨·lƘ>÷M֎d%;b¬@毕D`´¼9ƚQr޹N^~¶¾񒸂En4֚W5sW,ƺ̔v­c゘<u�sRP¸קxۯ	=2뤮яxmyIكH䙮8øพ«\r¨ø?Υu¦4LDù#q¡_núGˋ򹵴ۚ^-9Tõ&¹~tŒһߥ#Á/󓖓zyG¥/´ŴD}7îzx#>pKA̣	E §¼pFa/#qC'X|Ìú¥aqK캹HĚ鳜r\\���*󪕃v'¶?ߟ7Vø#³0æ ¡&§\$Ә㌾cΤ캓̞1Hnu8\"ZÁ";break;case"hu":$e="%̂k\rBs7SN2DC©ߒ3MFڶe7DjD!𩂨MNlªNFS K5!J¥e @n\r5IЊz4傜0PÀb2£a¸ಜn!OGC|ԅ ¤ÁL5䬦\nLÌ<Ү1ͣ°ê)¡³)·`k£ڱ56L樔­:'T⤜2¢ɼ꠴Nƚ9¼@p9NƓfKםNC\r:&hD̷Ӭ¨ *müsw&kL᰸tެ<7°c̪􄘳V􁧃b񥽕܎\n*GNT¾T<󚻂1º6B¨ܵøÐ䷎Jx:H2 ·°(cVƈȓRþ¿晦	Hӓ0|\"P¬C踺\0P6¾ ��6¥m³o§£t8A肱l(淜$q뺡¿`-4׿`@\$Bv3¡к杅ḯ7Ìt¤A°`Η¤xᬋcȗIø|6Ábkz4㰸!򔪌#´6\"Ц:C¨֎1𜦰IꜮY¢Û.½»¯¾¤=SU»񆍜rH§@½*úޒ:N:6%¢ٖTN5PÓ\\V«ɲ8򅾰ș\rO򥏜$H屭%cªɅ´££­[跈(̰¨؀;#`겁B[dÿ¿¸ì10𖕌㺶3è>\n¸Տ¬N9\r½5I\"v7.w޼££[73P׆)e\r¢ÀެP²°ιXމ晾c·SB,ZZ򅲣;E*jDrބ𚉏VlūM)V¿T,µ¢{*HúS.Bŭzܡ	88픅\n\rfú㈫BbbHۜ"R؊ޜ"E¢ø¯򕝧{Ɯ"Ya5` һ0PIڨ9AZG#͟H¥] 柈th̴㪷ׇɲj»÷ɐ8m¯|A𝢵Ќ£7Ith怮À\"Ĵp[5ox;K+x2¢飢kJӒ­`޳ɚJ2+E¡P7唨HI!%eúR{zyNFËÀx(6uܙA@s&\0¨±À@͡LE)IMT@r)-`KS¢^oY𣄀jeL饵¦Ԟӊs!¹;'܋ȳ˞*5@袢֋¼8̸5\"R	鵜rO°:%㨭Nj2F񋠔Ԏ1ü)Љ=4´󍜲\$첂侘b\nfM	©6&䠜¡ċ©娽7«ԋ³pÁÀڅ𨯞9J«²ӈ¡¯!䔧BⱠ'JÀARR\rÀ¥冲䓎ÁO5p4XЈN)𳄌1ŴãE,9C\"±Cfm :Àȭ¥��L̛󘷌 q𤆖õ̱y鐆Cs§I52PXƀf̩{P`²&@@Pqη0£+ɼ´dD;Pܒ&*L¦ÀٛCl±\\s¿&©\0̔\\PÑ!ȻÄ¯	#AἩL\"㨉©\$i휤ʄfT0n[\$ö:Ǵü¹Àa ;ιͥ8K򅒚GIEM'2¨ !0¤zQ­¥±8üˠl򵚲ù󌩐:JeKɉ32<ΞB¡	쵧E:>Fù҅j¦xÁ@莞\n	\$<dzø\rjA\$pӒvXs'¡(nᕸALP³~pSܶRf-¢֓BO\naRЂª̸䇹 槮]¥朰·¥¬I5ЖsþRۑ­ )ûԴn²I¡܂\0¦Ӊ-_󘐄`©@ZŦ:PY»:Ґ´K±EΛ ֿZ󬦮xY¨ªʦf4c洰Қ¼8pʪۢʭ ບAÁ1&\n΃¢23홐d䘗>(&/ª􋈙ǝµúEI)1٪vջ¢h㸞U7&1랅ΎöƉr>&­Áʆö諂1׏1xޒÀùd1B͉12kXoZ.=b	ú^ C8ퟕ�«ά1öɠVõû'\rW³V&˓v®©£+1K0\"Á��{E½¤²@ٜnщ¦􆎢f`)³¡܇ªF䕅\rƨ؇Hagus³\\½ΘUaދ()9pwۅ\\sÁ&úRSsXº34Ùod-®Ă¡±b¤0øn)m¶&()Uㇳ!ú6Fõ嶜nL%RјdŮ ¤»¾^´,Ї샐Ӊ\\ŬY↩µhA\nP 0,ƥ6麗ࣩ̀򤩴چ¹슎gi(EBɘ¼Ù4%g')牥B݊jnAh0½˞Lö.年Ӌy1:唟±΀S:©衇£󾒎ºY<­½?õ.wա/?Aʴ@鑉÷^](涜"T¼ꭝ\rh9Óۑ1䫗öoɹӪ%YTõ݋	¡AaܷbnIHօƧ)?/¼ѕx̂Nޟԑ¤09źCҵpȢb~üúC ꉄ2W<[ëӈiDö¼6®㶝O91W`e´v0GG՘L牚º)¤i]`b:\r\\¦9*𒧕Wú\\ùz(Ğ¬øKڰ3ٓ#zXÿ'\$VBʟ«¦ÿ휮m稌¨ƖΚUǜ"\$ü#򯎮\"üe,#C\"T¢zÒ0&Á¢~-MڒÀҢqK0D힢.ư>׀F\\j¬#l¬;JZ	&Pׅԛ.\"\r΁¨\rpv¦\r§¨j쨅GOQ Ȋd%kD̄ÿm&þ𲶠ȉ#{hOጫ\r§0°݌¤װ%#¾2@в㲟墁«¡ZΠ鎦쎪頓pýq鎇х\"뎢摒61ºm6ˬ¿oQkꄱMQTّZʐ#°躍 񨦠ƗÁd@«*¶þE֕Aucj[ɔ\rd¼\$z&, ��¦и#럙cd8\0Ĭ¬̈́A痛l(\\ ҵ\"U1JڜrµМ0;̀&Lķl¬ፔɥ蕥KЈУ «Ȱɠr溰¯!𒲆댯~అ!üF2ǲ\rR0ҁ\"lºn\"2A\0LülrS#Qi\"Ś	b¾놈	°v\$##(eLø@γ䪏±#oúґ퓕𜮆®\0AM¦a¦Q\\ƣ¼ ،aBFѵ%¸hr²CǦ)¬ªʲ»+瘻Ү2eþڣFÔ\$P<)&ڀʛP?¥ Ʉb¯۳,Àʥ&nC/Ӝ0Cs´m¸¯#褨rþboþ܄y!rÿ@RY 󈷜rϮ\"w\"%'4²¶º%ZܳTGbʆƙc%첼,T\\-E!³~ᄺ᳏\$O0\\s\\°?m@ұ0Eł񤾦T˲교VcEQ°ˈ«ý⾦³ċe੓̦K ��,µ<ݼ㰾֡\nÂ:ûO~A瓰ͩ8þq)->tüf毖ü S؅kI+^Q¤`©(! ҌȬJT˄ù«4©\nl\0ª\n pyHwe𑦽d?쎦®`G¢eG񑈇Gϐ\"\$\",\"La	ީbD\$\0{¿DL߉ꔭOdûÏ:Eʿ頩º:ŜM鷋¤°S/aRùƢnbT	,°E\nIǓOD佀:㸀ܺ唃ᆻ#¤HøौùϹ\0П9cJ\r׿/P֜r<fl3Is\rSµ縦\"ý6еK)O&£RbΥ,^(:Ճ\0mМ/µZ<Rf'&ܼT­UB\rfJi͎n	°ªZ0׆vûF퍕0ddb`¬Hરl7W,CþƈѨ·+£;`5EVᜰْ拓%¢̊qT#ŕ¢ǆº&J-a^󴙂Ɔ4\r䮎�¡8)Àۻc,ǀ3T-afͮ>@ڜr ";break;case"id":$e="%̂(¨i2MbIÀ´L¦㹖(g0#)Ȗa9D#)̂rǣ籁䃔M'£Iº>na&ȈJs!H¤霰鈅Na2)Àb2£a¸ಜn ¡2ؔԾ\n5Φø *@l4Á©¹цa\$E8µʓ4ͧ	½ªl­¤÷d޵'c(ܯF±¤إ3ɨك©tƝ\ry/s4aƠU㕯l'㑖!7n³S>·S«؎/W«悹5�n/x\n\$NX)\n3 摢Щx(«6ǝ瑓¼娹蜲ºخ0䜮(ḎSw0§/2ZzܽӘ&¤¨օ@ȣ£j^« ښ£¨`ލ1脌82 0cJ½&s>¸\$hL<6Ȥ`@-À䲌Á脴 ็Ax^;ȁruȨ\\󌡺&¡Ü]ᒾ\r¯3ϴ£¬ްɐ ˜r(Ԇ	J:¯xªÁ#O󔋻³ºzÿ. P7N#J6 P®͢\nܐ扣xط½bR&¼T«pÿ=��覉)´oO¤0:S}8\"G궜"°¶£+ᴜr\0P뒰3ƨŌ!°`S򈥫s¦֜n³辷ª,¡郠IxΣ£Z\n«N㙳ݴ5\0002.#ム¦¯򴩊\"`1@Nb��ŎþMs򴹍c,³~>ج´X ɲ¬¸矉-Ś\\Ћޡb(޶B \0¢.¢!J񼨹'\rN9#̅2\$YÀ柈k ̴¢±¾'ɢk¨¤B\"򸲺@󄈞°Ʀ樲\r\0ܽ,\n±z9¥Č^(Jp;¡S£[B¬¢ ³T	kf㭰2РUp÷°̂Nƍ㰌´I)xb/x¨7²Sr\"д;ս䷌騧N#ʲjz ¦­°ʔaJ±Kգ׉:D*1I²Y.¥£x0t 9FC҄B1£ǱܻȲ#ùrX妉㜢ə,¨}񾫰ϧ®i-ŌK̥ݝV§*E´	D¢Òlś@\\ѫԇH񟜤ºFyI\$󤄜se\"m¢%fȃS�\$R¤UС  䦈tj¨	b>^J%Դg~jL\r̋/9!R-�@꧒¡^*]҄CDQ¢\$H8CJ»mAs6hpQ˹J9􁵌@P+ÀüHhLA?%µƢD҃rIo¨͙8eÀeR,:5\"XIȬRច ¹Ԩ)\$4C򺖡ل!ȺDñӜ"ýÀ@͘c#H<3£hcV̽߆öNS\nA>F9i2aµΛ5ǒU¼ʮaԄ£.üSPu\r¤ퟶ�"1©QͱfMI¼:-\08CY7j(\$0򡉊|­EHÊ½= 3Y򒂑䠱©v?? a3-Un\0 T\\Ȟ+I8 	iձ(dFNO񈔡ȎRbÙG e74¶«g¦ÀΩrtNT㟁2H@eKpF\nȼBƄ- ª`Ԕ§H°cPʴ²x±xNT(@(\n¬ \"Pk@\n	Ѭ·U屜\«¢,h­󨸫R?--¸6°f>h&ዯÀ-£XtNՕ¤²ɢ1֣¢§ܙbbb¬fXbʭ֠̕?̶&yX(\n\nƌ¸/¥²#°߃¦´°\\±µ³Ƹ┐\"²ᔁ:˼Oϡ(±JջmYaxJù¤§d{¼G@雐ɔ2*򪐐痃,\r¼:\\ûKEے&T2r\rى³¿ꅔă'#h%jᝦMn浳h㜚@Sſ°¤��´NQ½q\0001᠆ȼ¹Ĉø ퟚ�#T¸¹DNQֳZ\$򗃋«Y`FKļ#lMT5ꕲީH¹۫P*_iŘ멓 (#«´ގ☠9+ᙩ^3j2d¯R¬謆N¼Ág:7.u¥ø¤؜\¾I鵀祰9ӜsYι䘨ҟ£f&ǵ6 򠹃¹;猞rV½Ȣģ;²b灯¢I#܈ɑE֧ºW܋¦tqƗ\$\$F	䚵 n蜲ޞä򙷔)苯©C/A ¾E񘸭b*	Bi+9,ý医CnwtLi^}¡¤(5\nͷu?'½趜\\t迶껻±Àwyù©ヰ\r򜃋\0!䊹±vV ®I󶆖跂!坤ü¯㪠^T2ٚաwÁxDp򣂈ɜ"TFT󂰛9慁 õ´x[;0\\ɜ0~bc6mܰ\$ݨz¥?ܣ}4Q糚%Ŝnɟҝ͏ϒ]g³uΡδ6\"鰖db칦氭曽©úi᪷{v髞ՅǚOprUgü!ڜª¡喰¹81IȖ\$ZZ\rJo­✜L	2\njfoC}!aɣԊ^hp{jr6³ˑHýV<6 9ûýxzOΚ`՘õ،°³ǖ򘫫!ÁW֮'´²ʶ݉\$O򵾋úþ÷Uᾇۦ0q=¹*ӑöAV鞼K\0`¦pâª®ӣ&\$^\n-.쪯¾݂E¯⻯滰4þ\"4t\"(XƔµ澎ƎýHX£��$¶TNvT䡃-ºĠʄ¨r櫢'\0ȤEJÀ|w\"Rýv¬ǉ	B8ýŰ%pB)e¬X÷l^ý¯ÀLм1 ûlZ\r0¾򰃄짜rɉWen¥¯ø>,¢>°Á\rP>c¶ý°̔п\rN&¼戜0ȅLȣX(k®9ㆨo\r֌ȿԎ%`?Ƙح¾/§^-\$𫂎Md✲V¡°СbȨtWBs ޿ ̵DP\$@¨̈́ hj`ª\n pk¬=£x\$Lø0pº7㌜$Lʮt��«l	±슞ZDۢʻCꞃ\$Ǣݜ'ԧ@㰜"¦Q¢xPªބؽ\"K\$n쑮'C:\"xs@¢4cߜ0幔о2̆ù¯ ,\"ƭܡ²þNºf%қ,ù\"Π\$ǡ\";Ρ2\$m(? ގAM£À¦bƚ௾OOԙ\$¤쐙.	§ܝn&9䜜\"`笛(`@\$R[涄8©´°2ZWbûiܤƖWnP °0I୥+\" Ϫ젣)䅫Rꮷe׬򴵃0\r㜎쎗Ͳ襌l+f覣¦̮ЎõeF";break;case"it":$e="%̂(a9Lfiܴ7S`̩6D㹸A	:̦¸L0č0ӱ̓L'9tʥF#L5@Js!I1X¼f7eǳ¡M&FC1 Ԭ7AE8QԤoǓ|@oͦ㌤N&(¤fLM7\r1xX(-2¤F}(浶Gͦs឴M\"vZ§µZ-(ф늹.WCa³[¶;fʒ 1ǎ³®̧±ƭg<	§ ħJþӥrЋÁDSd®׳&Z̻БT糜"«úH&湃:ɫ|jlʷ;`{´عPζ (0µi젽(svIxܻ	zԏ3e¾ P2\r«[:#̸อ\rH±l2\"梠p��˶9`@%#CH3¡к杅ḯ#Ì1\rArг頟¦ȗIø|8\r&tʜròЙA(蒞㈼\nγzꏑz%\0000k¶3R¦OH诶k´¾%,@¯+ڔµk«f',²\"©b̠ȑtû£ @1*hNӵ\n\r㢺¶B ӐUm,7յ{&¢㲉[­£`O°\"!0m%f\n˪Ѝ2ípµ¤ §JLµ`Ě¬ дeªûl\nú7¬csLû	񣮅/I®̲¦¤쀎4³ӔԖ\r¿-䵩£¹ѕ·¦(P0ûkDPt\\眰¸UE!o-𷈭\$ö1䭶QJőPŁ>컲#l@9.N盧9(˃µsü!N\"3j¶iø@6¤#¤n0ˍ\$þ9#؛<񌣌ѵ\$ф´!£¨»¶ҫa򼹌:L\"8˚0%:TN1m펥«Ȗԡɴ̇¨jÿEMºП9հ½°밢8ʷ¡¼Kf厏}n㼐Zh7¤«V«𻦺.M۱0Ӭ²%ɐAUA񷣦±˜\CTȜ��H©ҋڟ:uk_[?vߧ-}³+nŌv¯¶O\"֟SޓҴ¤βFԌ£0̲õü+̂±\$L\nܵ퓐䤥ðΈ»°(س⦾р GO¥£􂐒*G饥 ´Áy촶²:��ù²e¦M٥IG¤0£`°9v%荩@Iт2?l↌J0Õ0¨2BÀ\\ӠR;©!\$DTቨ% ʞ£~\rɡ-3PƔ³¾l­ܹBbûɑB\$}w\\f̜n@Ÿ£\n17RDp¤CFqյ1Д很☢>S¶܈oD ;G¾l«\r²V;ؼn\r\"ퟆ�Дƺ)@aB(.¤i¾ِH\nÁ¢\0FA?\$©¦f蝉8Anz-H6Vc2#%ª_r=£0ƽJ Ҟ&´ONR¸٨DYءL¤mG³򛒲`8\$Բ¹s(b.öy¨ނɉ¯\n¼5RӆLe-f`ƲʃI¨ O ɐ¶lù%ÁÁIH_O!?ĪU'D溃OѰцT9ª`ˌ@f˥¦ᖃϨr蜒y(¤݈¿.xS\nB缆̚'p(ߓBTԝSٓm@HzT}ꉸ!\n,򜐎Áa(¤iʴC	!ÁR]¬㩇فUI̊ϹI7¤M¾5C쮍lꓠ('BD!P\"ً,(L¶p·ƨʪr¬.6wS·سBbö_	ꊇ²ö2e´歜$ANL9[·椵PZ0ýRCh{¹¥\$꼜$銚:\ne·42f6\\فԡƦ􋜮Ek&)ºhͬલQHûaL¹dýC°͉\r¾񭚖¨lۅ_ᑄӭ9ռ¸18s߶HꜰVP몄«��<#H߃AeY°&7ؒ*Y8 Ƃl˺ø䯆ҼÈQcꑰ¢FVҼs²Ѷ:¥iԝ¸¸¯øɿª\$ȵ\$|7񷙹M7t5ºCϖ\r6Ꝧs侙¹1û͘䅮A9xhdǟo|h,韒rӦ`%0Á@¨BH©Ȭ莲öÀׂx\\첺LӇ,¶©x J´F§KtA1YDõ '´m«Y)`ü\" \\uµֳ·]kͼøR÷w얭飜nMNBriși	2¤ٲ²GϒaߓػR뽈k̛~§LJY¼e<ڮ,Ѳs ծprQm뽍¬¶¢Х\"@PW6¦Ύ·¾U'Elҵ¤cÁ½>'µRDp䷰Quh©մyA§􁆣\"w\r:rCѹѴ\\�� ҎŽXڶ󻬜\¦\rᵄ¨N «z)X¹ך²4£l\nꜴû,TBeZϗF쭐»JCaΆ�Kkq_ý´3LHڟU¿ɲבlý��}\\	-A²ٯ_ݗ/Px7]+À:q׽W3ϑ¨z彔7􌽖u¾ꐗc\$,õX¾{´#T`\"­¬6\n`ڛ¨\0rnОcöþûhk§±þ֏Ɛť˻®¯¢5ÿO+ýmwսƏ«/ꂌµ(:ᦉ풏©·\"e0문ö¤㱤זS9󔕥&7n£⟈þ!H즩þý£湋\$&n0帩¤vܔcv\$ϸü¬´댮\0މ\r%\$ࠚnf͌زV6d쵯Àdņcû(:5𰽏ħŜnō\n琴耊Ѕ®¬ퟺ�\\=Nh80V)0¦Ǭ䖀CK(˅´\"¦\nIV°Ǽ¸턹	i®®ø䴶Pm\rpϜr°5𢜢Ű²p귄J¦ѐ탫'\n°��0¸瘫¼򳌸րցBfSʠÀȹ±ɒЮ·þ1ѵJ\r	񮂃3¦Vˌ̴:��玍Ƿ	KÿBҍ÷	诎§ǳ\n±K(`ð®\n§Q\r.x=Qp݉g˙p|=@&e𿰘Ѐ ,0\"RBúTÿ͆Ԏnݥ=§c⿄됵SǾ\"䭂þ`¬zKü\"£櫜b̇¾T(Vm(cϒ©͠¥= 雃Ü$ 㘜rVcªˎ>9)0ԨזΜUB(,\"p\n¤7/²ਈÀZ\r¸r%fx؍^ߣfɼڅ¦Ïÿf©T\$g0£Ü\¶򄶣¼؂*:¬멩³*ش£N)##퀠mü3dºK꘰úQe?\nR\0%lp>¢¿!r\0ϏֵN¤ý踐섎bƬ©~ýN¿.¢Ӝ"b¸rú²訲읓7\$¹0򦬂Ӓﰑa2ÿ1S2©ª,£vC\$õ'Ɩ=ΘÁîPŨ\\ 䤜$4Ӝ$>°셪˦NJVc6,؎þ>˘2cª.¹\r¤Bƶ\r0ú	퟿�.l+&O/.¹򷒶g §0ƒ·ީJ¸NHg©\$抜\ĐP0 崐,_rycVn¥h#";break;case"ja":$e="%̂:\$\nq Ү4¤ªቨb¥᪘J򒉱 T򔬅}!MÒn4掠ªI*ADq\$֟]HU⁩̄ Ȑ)dºϧt'*µ0厪\$1¤)AJ堡`(`1ƃQ°ܰ99UɷB[Hi[½x9ի«A¡£°´FCw@ ¡«;UMÀ­Վښ^_¹PªPUסɠ²ن^ǡ UМR<ƔЉ'2mh括/PěP©t¦Rù§W^°X¥΅úvªu:իL盦|	®ϗ¯~Gº뗪)A学mŒ䩴ª¡TO;%龳C²\\§10G\$%R­eK8myC±d~©²\\停\t0Cę ĔЉlrkHèI^ŐdKCД9,B8A8IʒY¥偰񜤑¢D\"§R@2\r£HܲJAq¡\\Ƒف©ðه£ӚB\\\$%q̇¯ ª届_욀ɭc,°©¡@x0@䲌Á脴 ็Ax^;ӁpìKRܜ7C8^2ÁxఎcxD¢ǁRY塠㈼ǳj^SgI\0÷¡)YRÜ$fD·¥£ڶ특g|%\nsmdr¤ጄEgAZS¤£\"*DBℒ뉼E¡f¡ĝþAވL[Ȫ䍜屒r߶ᜰQ䩔喖rђ@1\0\$±Ds¥¸Ά±̒Ʉ엥ٌB÷黜^Ήn³ǩ[W\$\"^Kꩯ¡+*[¤\$ª⅒·!9iǖ´ꑫSe\nb`d􎏛±箓¯`ǳtᚷv}£~̚üpOoVޱ°6䳔ö=֝c¥ªX;_º쯹|S±:˜ݪ׼V\"V恑@\n,¼Wѵ¡҂ºb&õչ_O䩐S.c\"ɲªbƒA 篕ʠc㩜rߚ9֥A[öᵅ¸\$%£53R&s۲(✤;y\0@ğĞ§1Rºeꉣ²¤úûù­Ḝ"_{%qA÷²öԡeÁ¥1J9ɮ8\r\$V´µ𢐳s-#3( عN	6\"Hªb𶇀信)B.Ds¡l9+oB%2*C;е\"f,Y@f<£ PbxB	x´!9E񐕣Cլ)3א0@½¡B̽!(wJ񜜿E+¥¶©!T B´¾樀»Qc`JJ\$r񈹅ؘ(J-F¨õ\"¤ԪS*mN©ø쨕\"¦U\0¼2𜘃 iʉ눓bNK՘0]rԄ5©؎	÷АÀ.䴍Ʒ\"Vל0´Q3FS^Mɉ24ÀmӸ&ø匂LD9)(£RYL)¥8Բ ꍒªuRCÀtUΕ*f􁁲.BA|\"ÁKՠm¸øS:|ŜrղVNʞú{H̋Il ¥ĺ\"d0§ȹ #،°\"g䠤\$¤񃰸PH0­lP\r쥩\$\"¡ЊT³a§p±¾מü_辮ø癓¢H\n	֧W༟ ½/ ¢鳇`þ´·0\nP§@ג᎜"EɆBNe':¸ҟ XQ㼟®4nº(ƼЍ:M4ù\"Lxw̨¥=¤¦ėþ\n5ə(!t9ċ;\"1>bOg«荈Qõ'g­`㔍Ʀޠ<³ִ頻#NŐC\naH#PSÿ%±q¾³¨Cª\\ö&4ҡ\\ØuõJ՜n¢`L¡O!¥¡F\rبƮǙȓ^󹔄hA(ZS3ՐǂøC9³1˵٫\n\rچ7\\9E\0´e¥؇죒L3ɣ½J¦kܬa@'0¨BQⱃv¬¢Jù⃁)¸Á6¢r~ y4FJ![ü°oNjI)Uÿ°̤񃍅Sel䘨ÁڦKF\n@sQI­¨S䒙鉽G/\"AP+㛙xRሥHk®ÀQN˚\0嗌䧄BD!P\"­ E	J/vKP-#!ғډûɇÞӞ|׹󟇤kNnF<n¨ý¾Bf5ֲ׉ž¬㮾cݜ­ӡ&􀄘û!dyƍ°Hcvٮrº#RµLg̾aN\\V̋00ڜ/BN^!!2迉­޺ÁY\nv¯՗꽒kޥ^¡+(ü¸4ChA��+Y~䍐®ib­P9¶»L£ü+G@¾禔%eb#|Á¥/úA¼峄1\r©Έ5³\r±礷-R\"Hn\r	p4Go\r¦Z1¡xԙ^¹À­\"ε꽍ɄYsEºV޵к\rfꗒB]肦¤`A\n󑜻3ۋtxGA¹ܐAx<l»rȴ(¤ň&ō勣!(є󂊀¼󝔸񋶜\E&9»ք¿Iҝ¦۳l¢Ĝ\Dݏ}ҡP 0󰯴CɾF§偘«­±Żº ÿuፘB잯䋁΄~û4jAt.ۦ¥Ε㴾۹퓪¥߫?jOۼõ	xÀ뼀9ÿ\n⽾􄡯ؠU(®~mÿb촢쉨hf1 'tZ얭̜&⤼ϒ\"ʚmÀ´V|Ĥ̔Enޯ·蜰ý!@® ćĒްn\0½L»l*!/kl2ïx%̕¦føȦ÷eė⪕Δ¡bᚚA̖Á¡bǇȻ㴳<[¥¾\\,䂠ü­3À\\7|8Ϻ{ 眲0ķa̴DYѤ,Zs팿Jûø)κ胴[´üû𺳑ö,鑰㑮&\"-K/6NNwacf:^𯰈ûö/¢þFdp񯞤/\$񣯕n熅&8?N²꬜üq¾⇗.¶` ،利 Ъf[P⢆\"\ne@Àȩ©úõ|ٍ{q±)±°ۑ¶Ģ䢊üDξ±̢ۭo%Qzü䭝±²n潑E£oþ!x®8+cJ#n􎬙Ѽ\$(ÿ˰^HÝ÷q|ύ\0Ђp¸ْ%(�Y®»ªϲ<oĻ-º]D5ᄬ\r¨q܇®˂ꮫ𪁠¦\r°CHW쬌C!\r貾e:Rb쎌vG˘\n¨xjMvƂ¬+þ+~±A(GPã\$r*펂÷¡Ж&ð论Ӈf=m\\肒菵6٥-򁔲森}.ҏR򂎇/²Rr:õO»%oõ&֭r 7Ӕõ\rx¦ϡ0s#-1\$m¡¥0!jAȗC<Á^˸@䛅Ћ´nB­ dq Ӫ2±À��msm\"s`��i2*-\0¸üm¾¯ N18§sfڢ𞕓3Ć!33%ΜA涢.ࡎ򸳑#Q¿7ӆr񵲒ÿα=³ftS#=s˽Ғ󯁮󓾮ü퟽�q>ꖁo\n�=Ԍ@h9ùA䧺%蜢d¡'2Q´õfõ󏐴C摀#=28õԊﳭ@\0U7/N¯J\\i\">aq£9F¶᭜njn_/탓܍«ÁnhF3󂐔Q.憥«FTI˴DúF8·𘷣2 À؅nf󎨱\rc¯`䬲P،¹Q\0\n ¨ÀZ5̌ʌø»¯¥!⨏46􇷴R6 Zhvƫ<´攳¢:틣;#b딠t䗜nO񷓜õ9Juᬉ̮vaT#	T\$!~4µgWR𡾾cꡬA9^&4º0°¡ Á<jõ񒴈J2õ,ƴ7b\naʪ\rZќ0mv¯wZ-®䳿\\\r[ђ¼澡ᘑԦRLp®⦐\$!0/'d7ƠfUKNm_͎Á+a#0bI\0I´e+wa[¢®紈Á6pGuܐ5֓񽥮՘Ec¨놝a₼¶hP􁑭R^d³[n°õ´jú`uĹ­`7¤芵荡ਰ¾hP°£e\n\0";break;case"ka":$e="%̂)RAҐtĝ5B ꈊ Ԑt¬2'K¢ª:R> 䈵-%A¡(ĺ<PœsE,I5A΢ӤNːiؽ	  §2Ʃ?ȣXM­͜")��ӐvĄ@\nFC1 Ԭ7fIɥ	'؜"鱼ɕd J쉉þ.¬©泼eiJª\"|:\r]G¢R1tYg0<ɓW¦µӋ廡©f뒚öeMų¹ýͿ'Im&K®ٙÁ蓽eל"±r'´¾Q+څø˿퟇�þ-⨜^ûnnZ,󺏋<թ軝§SV蜢­z¼©Ѓq=oú۳*#˜0¶LD¼¦ζ«S¼䛺÷-JsLʬ¨ӭƩ[xƈbd¡E°RľÖ̂ա¿Ȼ1	%iúRֆ.·\nrԴOl=Bʪ\"·kJN¢­ºS6/|6´ª.޴¬+µr¦ńȶ#pʹ³°'N´©,£-ªºµ7´Tʓt\"©\\̛«!\0x0@䲌Á脴 ็Ax^;ցpÿд\\7C8^2ÁxఎcxD©ϲ=§Áްʹ惃𣛩¤KάjO/C¬¶Cd0ǐ3󶻬Ή𭧁ۍ\r1C%w4߇ȼùp+Гo£	­ⴢ#/뮿£\"+r&��46º¼⥱5䌌Qü'lL-ß䪓I7䜜$n[­K¨ºS*Gª��3´¯)M䏍JՒ筜rA¶¨ː¶¬VCr_-ª^J릚۬고²¯୒r¿y5Ů꯵*¡k蜥£¾øj®NµK¹õ °znK¦JQM(锨۩ý{Á*򃭜$¦P¥ öڄ½܆4ޙ\r梷²蠩¦^¥1¢&P¸{��.˺'µ¼V´ցõS}oW*m¥{w¾7z¯_ü4ܸ§úúQ䩫¸w­t򽷼¨S!l<dc󜤸¶͒0>ēͷ­%˭Ă©h꜃¢+!Q@꜃p 0\$0 䘃ʎZŏ¬ðf\r!X\$s\ngnVq֒ퟗ�Ěb\nҝҖ.²¼WVsԓ5⎂W:h汲4t͜0p앰·ö܆ʥ|𬧒 ϻM\$­*:Sd rj¥,F곛9 ¬ݐŧ®W¡񖄉µx¥֒¿ºpbgXÁ^u£\")*<薚Y˫Hù©:\$ES9H䰗3栍īb)酥܆#^|Uθ9,¥\\Zi#-䎚e\${4\"¯C܆aZ~P\n	BJdcd-¹¢RtD6>Rɘöȝ	9SꅑªUNªUZ­Uꅙ˵l®Ҽᒌ蚠Y2}䲓nF]cI0}d`隙j~ᎌFaˌ-|d۳2c)^-5#隳䪙f̒)0٢¦m3ÁÁA'\$1Du#3򮴦<F³MQ*ELªR¬Uʀ;«%i/º¹Wj��诃藫9ηo@̊\\+0}¥C-ᜲg°鄮ՖўSXtNܢIԷM%+N,µºJM̔;ua(©\\ȧ܍p¢{-?X}UĥOӜ"+.˘ĩ)Rë\$k¢&¯22»QI~:P°`ȫ£yĜU)O\n]]\$�ȇ㖉¤8³öa\$ɒ?Ǆ¦\nM2`Ԧ'P8ߓݠf񪄈\\͚hdH!¼6RyZDY܋n*z1Ț\$z.46搷¤±kŇd,⦮JH˩{Ǳ&YöӜ\ºpVõI\nLt߅qh鐡0¤쐭øퟤ�eSoҮ>Y㊂ϥ&ֵ¨V箆b[­ꨧbis·μ]±㟣ªĮղ՞*I¡ކ´(U	Iõx▬:¡қc\n;]­ö&˄ûMԛ±7A¦töÁǶJiIP	ጪUퟔ�²;¯f·­Րܜ汔꬇e:§ ¡͸'9«6f斣ׁ4+´¥3\$n¤[d¶J̀ѲڙµGіdµºT·°±´v&𜤲Ӂz¯覄û*̓%ƩYe[P1Ğ%¶d߱¹7ӕ僻G¬³&KO²ýN¹üú`⧣qb¼÷rvĒ¹yõ¦µ;つ޼	\\񹵍М\¥*vùζ±2ɏkBþ.ܵ	C3£oEfzJÎü̉ʕ!Ѧ~닍❫ӋºK䜵ԛtl÷\\¯Á4}­¡¶»˰yʡ:@\$ku!ɚ-U̩»·#bWퟆ¬ûűUκ/?B͜$캟´·цGѻl8VR¼¯Vþµzɶ񺻉½YV\$`uꄂ0ƨꜰh\rᑋJ&`K,sP¶eV¹_[´氜$РÈtA9𚌳~񳨖'sk^1x}´:Ӝ$֦¢ͭ˯͝]²@لӦ¶�¬;T~<1²\n՜挠1ûÀ֢¢LÁڬMö͆뱙ޔvWy|Ыޣ̺¯6¬¢륺bM|£³+H_¥)ӱ�(Z¯Ñ£L ~®΋^K²GƘº\r¼χ՜08@\n¨ 	b|0llз«B1H´͈¼yNҊüL5dK\0`^-鶹(¯|ȍhE\"~&􀫞:²x\n)𞐤híЀ荿솅¼禌2ᨥf\$ȰLd,©cÀ@ퟋ�[¬X\\¨ܘ(ª̆=ĂΎ.ć ÈآNحõ®񧠭ޒZՎ°PꧨPPʈ⧜"ؐú&MFtj´H0üF𼟑\$&(rnŜr䶦®ùcشpF§\"ۊþd)=°´^kso:t떞¤ºv⾻<¢gj&J҉n[\rPö\nÈάʮ0x£Moª°þµGл þa1Ѳ̐¼녨냴ۈRz8hz+൬e\ngߝcu®@dC¦6܏ۯ䱇ho-YK°mqς餚­>¢ԧ\"¦0± ­\"ԇ𚏭\"§±��ªqh[Lþ釄4ü󱚭Ì󯀭°ѣp怂\rΗ\"\r.r ܠ²`ݧ*õ*c(.\rÀȲ*~î=͙£㒚A젯&ౠ¯-\"2¾񘣤\$§ς܂Ԏ¥襱F/¦C-ú-ɋ􇮌h쀒v7{,c*P«R1F	¯f+Ϫa䳩򚣲ʙ.~۳D(M,\n\$³\"󧞰y%B򉚊Ғ¤²񔩌rvO¸7Q傪ԓP((r	-O!j¯©(±ütꐫ3T¿kv\"³_3bmsf#3k\r\\:σ4㙶C؇0ü-hёbۧ¾2ct󯚒-\$ºSГ6ُ뵦֦v7Q՗㮘^S]¯¢&r^M¹<Hv=ɂ¶+/o1Җҳú̚ɓ5~4ӷ\nӼKó񫴱A愚*A+!:B^ObÿgkboAFBÿ\"D£,T3TtXr8µ´4x4ԃE+Eɼu_sц¼݃H1c+ĺo-¾6󊊲.A䛋¯9±莦񏮲4¬o²'Ĉ䆌²Ee.nJ:ÝL��˪4Ƹ´ڟg��}\r͌k¥(ycq>d»MˮȓHPEԼmu\0(:7ùN¨P펰U4-I¢h-pm³¯M¨÷`ʷ¥BX\0@@ʗ@*\0ୂcTՐ\rUU\\(ÀPuhUl\ruRUt.c&ª~OøϑtT��OT㲴蹧%[N?+´?+-ћ񹓱ܸµ£±=Ť=ȈþԗH􁡔3°\$p@´ӚʞаkºŕÝ4ݕõ\0¦ù_¶B´v&A`:İ»࣮GNխM멊d3°ԛ°ج<яÿPŦ䩀ꆴÿ\nޑv!ҽcз	oùF朤P&пe¯Pgξ¶\nӁ%:hrW¨l·PgL\"즴ѧ`Өɓd'PڜrAbΒ+`ª\nLo\"2|¬⊉5٥񣾜r膏=\rȦýH󸉁«x؄p蕈\\¬Á7n¿pɍö[~ރio򅕁퟽�Á<j´aц£öd6¾dl¡ﾏm4x¡v¾ѯӳKr³aG}0q\rdր8©o)v'?gGDE-n󟜑¨º¥º+«L񒱐?*¢h	k򳹯K¶ĐdÀ·񃮷ýe4S{I\rr �Sf-DÀþsvQx1ƴ÷ͷ4ѿ5?󒴱䯋φƸ䔐ªi󗠿öùR |:t.io/5³®{)xخª.谜¢)N5cx䂥nf¼¦ü:l\0÷体Ԏ򨇀6򂪓uh¯K¬r׊jWJfI	,B¤,l'no&~·ܤ7ìþ\rଐ`\"³ʶ¸UaVZM+ wN)l«¾ܣػFKµμֲ¼LHÀ";break;case"ko":$e="%̂bѐ\nv£Ī򘄂%Юµ\nq֓N©U¡¥«­)ЈT2;±db4V:\0悕¡pآ҈¡Z;ʈڡا;¨©O)CȦ4え)؋R;RȘҖN:J\n¬ꜜ£৚刬KRSȈb2̛H:֫B´u®Y\r֯h £􍙄½¥!a¼£±/\"]«d홛¢䲩؆&XQ]¨¥Į:ꛣ#iͮ-(̙\nR̏)i®¥ýgC#cY¬玷Ϧ��NL-¥\0S0&㾹Z쐧,ɬއ<Vђ\n£pַ\r㸜£䷎IY֜7D!`u®j*FR#DÁ*³«1D#ÿ\0*Q ؔѲúBol0D¤Ù	·-iۋC£[\r¯©ԛ³d똶	ԚÀv⨌ʲƈ# ڹÁ¡\0ȷ£A\0溎!2#ǰoΐ2ퟋ�#¹¡\0@޺́\0὎c¼ 2\0y:ʳ¡к杅ḯOÌµ.B0Η£p_CtMI𼶂릳Bl㰸!��GQኞ !@vdꚳ¾널RR\\\0P§i\"⮋ᦚ'I㔀.E뚇¶O!grW26VeQR򔤢.R\\6­ڪ\0PJ2<fZ7r9.Z!򌑡Ĝ$B*σ@:#³̉L 1:ö=¥&0£dʻ#`겄V]¥A؏¬Ź\"ÀkA+ᔔ\"÷밊eX³﹐ý?!+sec7´ʊ`'R.³­+X#d£f'<覱#sި!TΑ­¹njùb`䳟P凲¬۩ځYND]We͜r𼯎��0¾ö¤ﺄv[«ᚯk𜜠Ű!oõ7¾ם黒}9`[fD)ퟃ�£ˇ֔躎P^ӺAÈ󟘩_9z3\r#?2ú򻱾~úV\"\r#ɾ÷Є7|þøAõwè𺕳z9¥yW,˃؋*j¬øTDB:&\\%5PɃftôJ#	ª9)U\"\"þ&Ę\n\n¼7»öҞA\0u\rɝ7'\0̉A\0l\r᜹5(!0¾¿ݹ󐁔0R°|Aõ,N µ-FԙrUCi\ri\\1'YKa¹¨ІýÈdKª<)&¥TºSjuOuB¨㜢¥JT��¢¼U@Gõv}빐lB㚬ǘ£^§	x¨UA*< ³¥HָZ'Ӓ°ߣU¸90䜃J¹G)\$¥²SJqO*EШ.TʡU?'霮䒰VA\$6ʛUHt{¯ºh(ހ¤%WA­[&V,Ԥ\rÁ҅H¢TaðA FʈJKԶÀX¬J hO©¶@«ԼCcbIöoř Àf):[۔2-?¨'>0a\01˩¢YKø!ej\$Á)A@\$5Ih('À¤҈AH;ȘrPÀba\n*gս`ݙ>N\0䚏eᕀ& 䝟bLҀ ¨þDõ:B⣇R4øJH>T虔:o­¨-@«`ܜ\"Q\n*V§КCh!K\nEӫhx!°V*Ȝ$ȃ\naH#¡²ĉ¹Ď{ɺn\\QuC±-	:´߈ C흐±t©&DЛ´`Fõ:X䐃Ayꡘ{ࠇ׮�ȂQZyJI*\r/FƛӪ|\rӢ¿¦%\$Y[؃�a'ʯ[=S%a@'0¨y»򈂐+\rp°jM#*¶I¡¸렶\nBþkGP±B∐;ᙍN¹#®嚥¥sǭM¶¢[ɰF\nC٨¤[0¬\"\$Lq8³ľ2¨¿tVڃ¢lLc¢>AÁ㰌֭­«9M£4n嘩¾<TÔ󘦝 닍̂ܸ:øYu³2cj՗\riS{T_\$ݑAa8©fc®°¥3\\p±Ֆüe􏜅7³xa觭¤ޭܼ܈«&t®G¨i¾饔樓£ZnOQ9t7\$ªù\0∽^¼`(¡D+7a VaúwȠ¿ Om,¥ö¿)¾zJ	HI>C\r薒øl񘠉F՟ԥ6ѝ±2D#󨟄°;Ο²Ỏ÷.i (&õEU3*¢a̅6u\$ýTtRTҜ0ؚCל0>A;­眜�fݡ\$7Vµ/.¾;cmǠ!m􄈵اֳ,ٷ'嗋nǡꏡ}8¶Nö'²o0ṑ,¤ᒹΜ\´ESIۍ)¯MN0¶\"磔>\"õأQ­桤ZM欘»Ҷ¢U¬°\n!P*a¥0¼ĻVӺiMu|³��ºӸ⡿0\0^<©죥©ϝҴա £ΩꓰÿË­rúm(ÿZ艋Y»\$%sp4%µÿ戧¹~úB׫§¿°󆌶4Ҥ»±>Ƚ5׽f񵼩Z.Ioz±ᧇ~ؘvö&&(k ϗ:þ7tތʀzx¤9z	sr@p̶[E¸i̬쟥⨁\"=ڻlfމ֐M8ƭ´û垗=b,嗂�g}0\$63ス\r@\\픶ckCV㣠2OVqPd90h6L4^¥¶ù0vvDXDÌ2h΄.1cؒGpA࠻ⶪnª¯\n¬ͣ ΰ䨱ƾ]°rɦx䎌䠐\0Мr®\r攜r¨VΌ鈰޻e\0N䲭FonÁ`Ӱ@��Χ­\"þ¬ˋl\"b=a|3o½(6¿-Ԑþû񜲏\\ԫõŐo^F£6삸페ь簭-@'¦\0õPÁA{g򦌠#GӃ򩑰欝gŰÖ񈹬nmмv±71|<jۡ\"&¬&Á֣b\\8mÀ蚄40\"¤p©햭q\0Q¸<≌¤񺿏´))*1Ԟ¯_nk©a(殐`츲Cⱍу!¬瑃񸛲&Y񧐄\$兙QW򣜤Q£#Ø2ޠ®N]¢ù\$E򴡼3¡ؔB&RfoÁd 옯ሖ\"4cjn££.֑f­(퐞Qi#)r&1\$ȷRnt=±#fdȱ£9r¬f¿򨻫O,Ҷ֧P0ق@섀莊¤ö°Àʕ\$½\n,rퟲ�/DĠrüe)R񎹰װҹ/ʺ®0@dĺ°3謜¹nҟ+̥!𱪰g4nB¡4S;5rΩI\$'i\$gü펠HDU45܅&34ϛ87󐱫%R:õЏi􌒔퇼8Kb< Ƴ·Aؖ椥O2͢4¤¦£7=>?\"	'I#;D\$ajߢ\n±d󇃾+e>x÷󑄄Sйтhp\rV½1鼎¦PeDú'~ҌȐPVʜ0O§¼K| ª\n p}hΌ䷀ȸh\"@tb#'?PX㐜\Y-춬4ʐÀ̣憚¡h\\®!'		©׉KT)¦p¡R5Ԣ댂59͒¹ќn¯ppÁ!½ńʋ⢹MÁJ2n õJ	)\"¡&jg°h&°KöayG𪶯ÿMȴd\06.} ɖ\\.BR£aHW?©۫õ;Q0'±\nΌH²Ļ1\rࠐ\$¶Ⳅqzpõ6Q휤rvG[n琦v󡯉]Q²(°¼t5°ö¿B\"@8_¯d>󌶣𘔸¤kVF᭨Mw?­Y䭑¢Q騋ϰ_\"R¸샍ӭª6&7%±¾%½TBa\\§¡ؒk÷-00f£µOF.3t/l";break;case"lt":$e="%̂(e8NǓY¼@ė̦á¤@f0M񰨚a5ͦӉ°곋ƣb!䈩DS\n:Fe㩔κ¦󑆺 #!Ъ6 ¢¡¤ֲÁT&*4AF󑤎i7IgPf\"^° 6Mǈ¥³¦C	1Պ駜0N¶ۢE\r޺Y7DQ@n,§hԸ˨:C§吀t4L4擕ƺI®̧S9¿°P춛h±¤姢&NqQʷ}H؈PV㵵⯡꼦,k49`¢\$ܧªYnfQ.Jb±¶fMਪn5掦ၔ䲲GJt,¸ûϲ`\nÈ䐴**\n)ຌ&)|7¥計¡«Қ\n*D5®û\0('M쓄Ҡ4ĎúFµ# ڴ>ɠޏ²�ю 萌#Ə¤Nü0й²û²422Ö§C`@Jヌ3¡к杅ḯ7ÌmArȳ됞rԸI |6¬²г,\"*7ÁްȨ:<C[2C)B²	J´±UNڴ¾/͠@;##ЉS8õK¸®h6pS¦ƭb¼7-:\nⳈ`Mc,ȍb½ʮ`ຠª¬ø򍰊热p,ۨڪ¼ꐄHܱ¸ְ腈*0:¢ZJ: U'J°4J5qނ#;3ȱĜ$ªꚀ3깁B¬4¯I	-£RF`䵬BbF쭢 ʐ݈Ҏê¬9¤.6\r[Zˎc·;°׆¤딚4¯¬.͋f輕:û¥ȝ\rõ¸8h¶4?®اP⮦ϴ¹½»\rv4<K¥{ý,⢳X;6Ȱ:֜"¤<-:-Z.en\"@T< @6¤򜁁8ʐ亨r#4u 󣘼!у2͋½P|¥GpX¸÷Ⱥ­9ÿ᳃(𺜲ɕ9¿Y@ү¬/ &ʮ«e¹{µn]y뀣Pˈ-2\"àɀ̰޳äqIJ̜0T\r丒ಒhuHɠ3/ۋ;͋ʒt7\rˬ2朮H芔d¡&¿㾛M4!Ĉ៖GB¡>¡D򎰁5Gٯ7ԑʠ2i2¦tҚӪo酹Īӈn簴¨¸¤��}۟£>ÁCE¢˩\"À¾Bc°i©W\$p\"r𲘯(8ⷚ⒢^ѕ4&¤؛rq<9'��Ίꈜ$¸B⼝³ÁC&¡\nxH2CZኂ 闑!/l5riعJ⑄c\0	԰m	1Š@✲Ҏ¡C1t7욅§ؚψܑ錓˳dA𯲘°Ǡ[rWHKPқ灯'XΗ\"eY!¡µ\r\0l䜢«\ri\0S°\rĲ^Å؋񞘮)ܓ´|IHط䙳¶EEt&,ꑮ·8\r7ቶPАѨPÁ¸8.´°Rܺ椱6Y<¦Y¡pʇH9tE缝\0FĈ´½\0@-휰»6ʅԋ£«xյ@ʐ9ˣ¡XߘU扁\"\$ ��r|-w􆎃/&­򞼎ɖ&¼\"K=Hi@7,SPj0q_ێbj9¥Gб´¡5MQ	��øm#`O\naR­·H֚ظ¾-Nֵö랃Ytǡ,W맠jû±,ʌ¬0WNܪMǭ݀§綝)£#iɥ\"̈F\"浕@¤øª4¡$*Põ \0û򺙟I8¤��V`e_ÁдVDZKͫ¯»\0/0¦µk´狜n²¿ߤPV\$ٸÁiɴ³¹!җ@YU|座d텃섈¡·Fp9է98Hþ\n饭Զm[\0andIiceΗ¢to­ȭհ۩S{#+tBҸsCaͱ!BZ;(ܲ² ¡r,Ni\0\$FAӁq²{ϘPZ-Ѵè¾[P􃆹ЊNþ߳\0/ƕ-a2S+f𷃈z_®Áþ\\e黉إý0zr/s䚖\nЎ1riQyù7tΫ¡݂*ҸAt¢µ476ʿlªݘ´¬퍻ĜQ@Igڃ*¤]Ǵ!:7¼񛢰¥؃mГi櫜rg³ ,<߷}֍R󸶳²Àި¤7îPρ|ÀB\0¶Vt¢^Á˩2\\G`Y؃͉o㎣&A턐¨C	\0ɠ\$xýlR?*·¶_CJi̢/Ֆʂ˱y,õwуOF踸Y͑ӣ\$µWɀPj/B:蜰«ӚoR!P£FίUúӣݻ°u!Ԍ7eEK¬5Ҍix)_©­Զ҅󋪆8,¿໏o콇µønۖ¼Pkꐿ£x~vüd¬~/G²´~»:%D8[.þ°±8#^`ߑQZ¬·Y¸Pް坧8\nõ[uǔ¡퐔蜮ް4ڮHbꄘϴ4چΓ§º¿͋XI8wÀ¢𵘛ߕLWj%xⶦÁõıݞü߼ݱͱl°ᦾÁr%µ,jLԣ¯��lªԭ*~þퟭ�)ȉL*Ǵۆl\rbº\r¨ҋĠ츜EF⿜0ෂ´\nn\08e<´BJߣ|e30Á¬,/B­(ҙm£Μ"£^ڂBdқ`Ë൜0ڠ ޜ$Àڹ¦¨ÄE҂\n B^Ũʦ쿌Oÿ,¸ʌ\nㆩa/&ڨЀ[̻\rbþ\nøo\$jn&/kJﲱ쨬sШ .*Tø°þp\r.אж쐯Ҍɕ°ܷ؂PܪΡ/ü[鿓Ä²許 둎܇Ӕ1Vo.@-ªڬS*P7搜mJ5J蚅°ʃhߐd\"¤x\\ނfo얨\"`򼑈Q@꽂␙Bö~ˮ:4	b>¢~(&:ö?E,e±Аֲ\r,ɐ輍퟾�®¥l߄\nӭ\0q\\¬m}ԯן圜¨¯휲©¾mp|;n0!C 씾A\\㲯r5#iQlüIkB\"®˱-%BNJ଄Pℼ\"¯\$®Xj£=±)ú̲\rҺ-񚻢;(d¯!§#¦ƨ/`k;re,£𢋈ù\"\"򠆒µ%C4̐��劐ªႰ[mԌ­زjBz>Ʉ®;-²޲ͮd\"E/\nޒᯢ䛭ޮ©-䞍ù\"񊽠¨,³#P	ӪޤE\r񩑜"4󬾒Q\"T߳H߀BצĆ\\NFWFªÀ@Ӣ!ш.N= FˠƁ2©¾ڀҽ\"þ-rq*«öǥB0,,¨¨6Rg2®ù¢-:¢±9񜤨Ӥ3䷻ӯ\0®lQÀYh⢩Љŗ;󘮳2%31'¢->쏼3镑뮙/%(\rV³ ӭ嘉o¾_<sd)8¨;\"n»8²䥃蜮 ¨ÀZʾ⻿��Ε@Sú:lQԖ1YE𜠢 ¥ºJ箊'\0𲉴\"À򣠲+§ªCU\rÀ	-¢øF㊖&¸8Ю041´=iI#38N¬MNեPI!Lp <\0 \$䚏¢\nO°ۦhwт ��qp`Ď 읬i!BcBÿ4|oZĬdɴûQH6!¨úDɑ\rqI(vɠ¨w串S\r䞥m50@¦¦£úe5w#~U\0Æ bEU7+l.Z_¥ł\rnfD]р犑\n\r# 琜"PµýƗ Ǝ 뉠T¤oO2xi⮇eҭ'õ[N{`j`©P\rţ¦«숐¬D<ʌaE㈉uHF\rÀ࣬펟²̙¸ ³ࡣ2IX£˴%ι`";break;case"lv":$e="%̂(e4S³sL¦ȱ:ƓI°꠺ Sڈaуa@m0Φl:ZiBf©3AĀJ§2¦W¦Y੗CȦ4え(­#晘Ꮉ\"F3Iºt9ÁGC©­¡Ά\"۶7C8õ'aЂb:ǥ%#)ø£DdH词±bٸȵ¦ڎᒲ1	i@ »񸼎 S0ö¶ýÿMؓ©˟n䩲¹|ϗ·ȹq#¶{oеM¦þ·tϵ_6̆Q3½¡2¯虀֢)Vù¥\"¦\rúH/h+첳깂5 ¢¹\r㠊õ0c«\n@P۸ρB豤ʜ$&pӒjڒ1#+1#cܗ5ꛔOʍë Xpй£0z\r 踎aО򈜜0Ʊ䗯C8^2Áxَcº��Ƞ䇜rhܳ/I©¶6HްɈ=!¤(Ea溂°º*bh˜9.£¤L3cҠ¿Ҩ#ºBj8·T,s BP¥'):d¸B灿mTd£\$.\0M{_# ӡWхzd\nL¨	cx۲BI못¡ѽׄ£«?;\rre®7Vp޵£Û2H䧕qŻDѶ2ȕ9C\\øل£<3¡׽J¦Qo;ҵ£֦ގ젇ZC?>´u6bib ¢¢<.հ0»z¾:ŷu[f=ͩ·∘³\"C䙒ҜnÁތЦ㻎EKS҈͟0ѽOՔ°фµm_z¹'°L#² ��¤p#hབ*e·޻e½T޽BߑUö¡¥㫝\$3|ºN[њYø󁐉L7c|ʇʒr娩H1𗄐/Aɔ½_[£À鲦|Ч¼6,칃´&öx¬4CZ¸ýgOڷ\r˫Bۤ\r 喀HȌȣ֏£À䝌ýB\0V]!±B��.¾׭Z>9÷«!2@&pΛL񦜢ጡ+䤛·w`%÷»pҼ¡%tþߩL𜰵3Q 4B(IÀŇʈАϿý`ؓyý*%¼Àº	8¡Yg°4آ׉HJ|+Ÿ2j*๑L	ܮ̔¡`إ1þ%Ĩ��A\0AK¥(9\$t㜗\$М\¤@ҪOJ)M*¥t²Ҝs\$9&\$ȋۉXΩ6瘞`û @¥4§׈G		4G؜Һ=hᭆŰ@lQ.%=¯⒩q\$°\"FBջ&ú@\$䠔¢VK	i.@ùSev®ܷ;ʛ>m¡Á\r.yiЃ %耹GɺC>sþDI9\\ϙi6LѺ7G(춊򜘠ퟺ�3کSj%˚P¦yIAQ䋑Ȧ,34{ ÁМ"̈́Kbk܌%ݼ Ħ¨ \n (u>ۍ3~¦zEI!Ⲍ³��S/b=6'ݾ㠬1{;¥¨¾¸*j܈ý1F0Á ^cId!󄜤\"·Iq\r!Ȳ,eH©£¸ƨ\\qΜr)𖥜$Fý\0T0𕓫E9aL)cp/§\$Ո¨9Ám#롸 ܇ҡ	\r(ل\n	3ODܚ,耰#Y\$\r鄢ސ¢\$fP¨ºV´ljh'fw#ּЅ\\¥цEGSv¯㷺dd³ְ؀Ĝr𦕧õlù®낰©jZт@(N­ʺ#\$ÀÈ£xV²<g·u Óþ O󚌎q'¹:̭±_g䦁)21𠜮l荒¾HI%\$+⨝%¡3䤢 p-R)ۯ­򂯱*Dq셇է辑˫(}Ȝ\񽜬񃏵(#²|ÂÿŦu2u𻋃B\$*ퟹ�Ȑʧߪ<Cb֗PŐԬüL(ɔrC膄6\$@٥1GuC¸3SQ^�´ü֋EͽㅦAU2 謩堁B±\$¸¡§Wi]-¦Ķ-غP̙ºv½F߽-¨6,4Q°[þ´\r᭮ĭm(wø°«Τ]|#Իqõ\r鰊b=Ȩsi1܆V©𩇜$\$̑µF󶾰fFl7HȈҘ\r»pպ՚jvܺ쨴ANbܜnv¥j6L䤴{ś񜆫!o5ҡv!µ ^þߟ4¡½q\$ɘEH\"ÀDHO(��ɯBºʩ¶frҽ㫪·`ړw¦ޒմ&ւT\n!w|N·£b¥lە@(ù[wӔX`¼©,3J|ց¤-§̹ö¿zGXxT8Y􏛕þXdI瞨&ûú½õ5ާ·ºƉҐ¬hgޯ¥߯}±η赺:VG»¨#BM|g!֊ü¢ӎJVܩ/\n=(¯`a¡�<E_Ofû¢툊*Ax­ú5䛼.Ƈ˒2V:层Qk㼌\n HY¹0TUՄPa��ա\0悉:󾰌²;и꺜"ÿ©öFJ;Ӕ\nJMTÁrÁûd+ىơ¾hRn3C(2ʚÀ㺝BǆΏ&ÆՂА\r'¡Rʃ@꠨֜"\\Σګ\r´2\"\\򐅃¦dHöo0OȋLȰQ [✮]EذŞ¿¡M~ÿD.C>b(T(lv㡖Ɋ\\Ȭt\nͤ^֜FL÷#LdjZMڜrίE\r\rƳ\"<\r©ªFLS±b §24ŖsD8̈́B1¯쥐@Glڪߎˢ¹¢zYЄx,ֶ01Lùl󏱏S¬3M\r䐌\\Q\".ÿ ÁVg񱐑4񯂜̭¯1.!13qR򐔪,:ìB.\n	큄Qn61rଐ񾄋ퟑ�wEǰ쇩û\n��\"ª¢H䘏C\"ޮ堥¢ꞑ¨\\MՋLҟJQ1vT­䘁n¡p<in⢫,狌7�⨠§°󂱸đ觐Xň戮xRúжȂr𑾫2&xG2ʜ\櫜$ϱ#򟜤 ¦NtNڄ£STsph㮃񥕑F#򇑱'¥6#񈦈˦ű け풪®b\rż¦³(풧Ѩ岯\$RΥ)¨6򡧒¦DƄ\"@􃐸N®榈\$ȑİ\0ಢS,²Μrҩg{¢I.ȡ²М"ԹmFǮR2ퟀ�,Μ\n,A¬bÿ18۲+S2N#1ҷ²:𣛱®sn+2böƏl ҲȤ焨ư%3V4»2¯¨³bBS[3r³`\rei'r¤g䊩Ḫ䊡/©C�WҶ,﹯J*\"f𳤠³©9󮚃⭂0Ջ³Pﭭ񨰨&jqgѪsخ3¨ퟝ�Á'媲p¢m@떅з@{À؄\0V,¦l؂񀞂%ğÁ @\n ¨ÀZ򜢁&WCĐƜn2҅|뢐)·D0ÀF쨉DԾ㴓´V4ȉbZ¨xGÄ>⪠2N㤙\01<4zݰz^«&00}􎒠O3%◑Ұ͂ùD6Y¤΁HCQ+°\"·®UFƦ!%霰004kmdJǃC20\\¥À֜r蕎󯏲sOd\"øXĤ=ü7挾䥣֥`噋öģ?SÀB棫Ƞ\"e'żނ\nVŨ¬K*B跔h҂bǌPͩ<,´¬dp¯Ȅ£-U8£jגÜ0ʔꋌ -鋬ÿXJ>ՏtûLBсU澿e]D溇|¿bldj¦HԅÀ";break;case"ms":$e="%̂(u0㉤֠3CM9*lpӔB\$ 6Mg3I´ꭐL&㸀ȩ1a#\\¬@a2M@Js!FHѳ¡¦s;MGS\$dX\nFC1 Ԭ7ADt䀰0裰Q¬޳7ˁVa¤T4Ό\"T⑘LSȵ꫚­÷õ줩9ƫꭞ@e6¦鑤@k2⨦ө܃6ɝ/øùfB«4²ד%܁©4Ɗr[gNMЃ	´œof֓s6︘!襹NyCdy㠊#h(<°õHù>©Tܫ7λ¾Ȟr٦²\0¢w*Á··3Ȏ3¼P®iؘ;IXΚ§mڲ::¢`ޖ¹+ø	B򞌁؈6µ.\\7£7¡NP฽萂1q*H&鴈½c(@;# з±r¾°c»޲\0x¹ʳ¡к杅ḯ-Ʉ@7:s޳鐞°r,Iø|6½񓒳=霮´x#\"Ҷ§°{ª�¢l±:#[D9/.B¥tjxº.ɐ\$¹郌:B¸¹5Ib\n\0ļ¹͉SU,7À1{8ÁVmTLþ¥&Hk ȣx'O訁!¯¤þ4¸3>򭧜"°!ӫr^%cZע¤ɁU¸ꨰBBq`6«ªX9隶­|𷵠ꞵº¶9<\rئ(S~I#pÁ/Tk§N<!I'£0»ȄSº¢A!¥f,ꉬʄ³¬û}E腈©cMJ瀒 {¤%͒uݦԾ<ϳڳ¤aퟛ�Ì'j!򽓵:ú2\"1ĶGZ#ސX;>ӓmz ʼ9㲈´±68ޟ=뽺5ЮC:ԩظ\"ݜ¦kp2﮳\r*¶®®q˴㰌¶̰̈˾ȅ*:0듥iRþCYpÀ塯¢򊈝÷e¢̲r¥J畋񯅛3=?S:ªTõ:Bˬ6I!#þ򘰼B9I=6½䭜0ܑ!򘁦ɲ§*ʲ̶;˿4À|e\rÀ¼2KJlM䈲B׍%2ǼԎd£¾Y.Ռ»H¾˩@hA⽣vOؠN¤\\bNJ	I*%d°➼鈹&D̜۫wiµª2`Z끓ﭓF­øeAꛠޙ»G\$¯ºVKɑEƅ솄tӹ»G°º r30c uFȳR&aGúFcxg\nN¯¼¸Ʋ\\7񤍛٦EMؐ	@  @\n	ø)%Ɯ"+ZcI;)E1>y,p	±+趎£C4ˌ��¤g¼[F89Ȋt&s%󶏓n	\r4¤`䩃¸h\r!¢\0ΔޤGA0 ʶ\"¹2) 0包\r¼ټ\0ЊЄxG¾O#eا6'ydœn¡QöRfq´% e§º¥wR_)øȈ'©s(¯´:¾FBQ.d¬Ƌ²'»ﺮÁ/¡ll±ÿ\"'Fu͊®I@"@'0©BCªzøRӹ̐D݈:º6Ũ괹Áڶ'.aUe¬x¬\"<胈¤´ԃꌰF\nrIiC	е2Ǵû¸DdꁷFa5`N㈜n	ḐP T¶*Ƅ@-X𤳫6öϫ|m¡ٜFR¼PROʁHI,¤蚹爪\0§ÁܧBۊd^̱ĈH\"·ڃQ´\$>y'ԔɐuBj4SD&«{̎蜜ª㏥Ϣ·E¸f²Vі+JሉҁAX腂~ýo¯&Zb顦d۟Bn܀ʞȨi¿üR+ٻ- )«ƈZ@PJR¡²J􀃋-灠¨3|N\"'R@³\ri84~̔\$K7tM[ìf¥.A*լCtf0ᑓcܷrD\r^̄¤AW1¾:V¦)¨ߗٽ\rv\0˽Ҕ㰣^Á\r'ǚCX\n¨dɘ\"k³]\rٖù¶d`B	펩c꩞A:	©Z¦ՐX½Ϗ_괃˔0ù\\¹FZ\"Àg#!I¢ÀWA䅪°^5ª¥0ʗOj\rDõ/'dpªõڦᨲYa)¥ 'ýH¦,G¯ڤk|LCÀ{l-¶6¡K»]-ҜnAȍe!՟oC7­¾{ ݕ¥֬]¯¦¡֊øOÁ͘¦y`̴NfúÁ膩]) ` úUʬMW㺹ė]¤w¯ªУ4U0d(Lz¼ތ^J.£dhؑnѹɯÀ³\rdb'Ю®(蘯©2_iiL醼��&\\ü¬\0ŋvº��LüQcK⡉ϞÿbVA;_%v)lªu:V(÷R¶9 OLŨ\\굲» 0ņb\"©􋬿򗋻ʷഈa!¹ם��§£򾗤w%@°搣~ ¯a±÷n©3gWü÷l´%þ^쭰,©þw§?}`s7˦RõB%`I㎚\"b啻y2fTºw»½Z両I9[º󸼳9¡ú䣮㤭y%焥V)¤ù¢ȣ\\þ­\nþS쀑˺\$	ùҵμ|鮆۬sΦúª|\"Á\r&鲲ΕC¡5O]-+o¦&<ʈ߅P>?\\(­, ⶝f̖§(ª¸ǐ­䊟*Dû㨾Ċ!¥\"öFÄв\r͖Ұ#.󜮐®鐤ꮖ¥D-Ш½\"΅׆⠚ggB¾½P̑r1\0@\nC]e¶ΜnxD¢@ȽĖł2͜0ʍP򺉔'H)	ʝLf¬ݜ0\0r¤Dέώ톯»,鎱;ZϱE0ǔ,죭◑8/©p^Z¥z</𑖧µ¯͹¹0|ƌXѰ¬処;䠃W鎬(©	i\0000EVG)ȠHG\$:*Rݢd(­¸G®`策٢Ð'\n\rVbېⵎ䚇މ㠊À¨B>3VFЊW¢,ʐ\n ¨ÀZ2ٜr݂ꬦIZDX7n²ܜrYǰݣ¿Խ茼-څگßB늾yⰙl{ńÀbpùP|y\"\$I´QN§-³§K\"補\酈b4۲'P.h'0ø°©\0鉊t¢葳򟩮@ގ6\$逤CM*&¡jse\"[dªg7¥(膨\rθ㲤ͰPbV^BZ省.̨;͜¾d^°	£ý+²¾;£ꔱg1²'CV£¾!1&¢\nOҚ9d»ƼꦮCµC#g@@ގà얌²ȣ¢¼yJG#~fphمt";break;case"nl":$e="%̂(n6̦Sa¤ԫ§3¡ܤ¢©Àد0¦ᰨa<M§Sldޥ1£tF'̧#y¼隐Nb)̅%!M⑃q¤ʴBΆø¼K%FC1 Ԭ7AEs->8 4YFSY俅,¦pQ¼䩳M֓`(eŢF˔I;ۍ`¢¤¾§0߰¹ª¬\n*͍՜nmm0͇KĠ߭Z㦜ÖƎϮO8摨6緵֩ʭ9[M۝ֿ5©!uYqӦoÁEkqޝň5÷۹䵴⠱.T@f7NR\$ϙ´bSh(¦·8c\$󽋨乍ͻú+´-C ú°OÀ ¢ê9b5 ns?\r£ ڽ-Á¨⿣«6¨²c¢^3¢ú\\¨°ļ(cԗ𨩇®àX\nй£0z4c£rḯ+ɌN½Ar쳅阞ٶ°|\"J(}\rE+Ӡ94\r ʞ㈼¯ꒆ¡¶ːƍI[ª £Ͽ£¬+)û\\Lµ֡x݈²\"r:уJ5µ𻅎/NÀJCʴԨTBXޏ¿¢ 򸌠PӃL݃¼©̽\r&V⣣¥oX/ސ\rɤ4»ˠ¦G## ۉb§ ¢4]?܌b|0° P´¹K¬v?˵\0Ȉ#2?\\\"츋\\9,b؊(΍B÷Eas0XĹ x)\"dT8ºߌޟ9МtüRԃ)´C+@;Ð��Bӕ´(û¶؎f0Bʑ&P6²܈£Ɗ9^��f¬!C]Ң	^	\$͒`酦­½3¤쒫}]ָυNs¨|¢(k֨惜nڶn录8ÛE½R£(𚎷&ú7 zµ<)÷eۜn%ҜrP©P?p괰2da=\rȪþө뽲6P̃4¨qԐ߰Й`N*ø>JsKwC&¼۩8'S³´✢½/i­[-ѯͷۧ9xz7㔾PA朲þs蓴pŪ8>º��걌h樵ôFT\rX54އJل\"䑃Tq'\$\$ ГrP'鍪¥pj\\KÁɰ& ȕ	i* Bti˦N桇cjS	C@+쫂þCN±}霣b֐ٗ\$笣\$­аATRzQY,%¨ᨮL.=¨Ě[SC#̨¢݌h:޻9h,̜0нR P?𜉵^M¡4ú(²𔡂 e5R*¥؟¡R%񅳡ũ0s~諒«7I¬t2Hc܂М"䭔7 p\\3)ƈӐȌ\0P	AˆGR∓\r¥­n\n()\$§p9>򮹉ª	ĭ憐욋y,¨D١	P¡N茥bJA崀,IjIB+\"¤͋欓A&¥¤¨D䜄3,ښ\"McÁvͪη aL)b\\rp QDj{˱+¬8=>IA*r§8·ÆI¤ùҜ"ݝSwBᰡYW\$ؔ鬓}%@ĶKHb*-n䎌^5&Ȱ¼L	7G P T¨䊃Nɭ=¬¹7cݝ¢	-!¤VĔ㜢r¨ڹ8\"ۋ!֬p'ÀÀ[2VᜣĂOTÀ@¤ĸ44¶pM_¬H\0·P])x&¥´ý\0¨\"a!IT Á8P T¶쐄@-*̓ͣú𡎅º繢FÁՉ¸ND++3¦{֝,'ۆAi».QɅ幋,۟K顐\r�ٜn³úϚk\"¿¤m¨8C	䤃䐭­뒠ىk䕬 AӽS\nьl.ݐº5엔L2QNݔ}¦E]ۄ䣔¡2!搒Rb񯷽?δ%{ûG9a2άWΛ«Ƞ®	&'¸짉:µ\$4µ¾C¹ۑ¸ÀÁ´ ܚK¸tİþªf\$Y¡°©h¤9<9a԰¥󹑵��0ʞ^&WE¤1ÀUt	e:Ɨp΂о/C@¯ Ӕ򩜮º>ƒ6CCq\nªxǠ,öh	\nÁ½üFB)ód¬\np*񸡐 0u-ΪN:휮ª#H¸2Z㢔¶Á-Á䅪О6©2ª³m㜢vrЕMD«Lªѭn\r§&7*ܻt˦ג¼&¬}¤#Y\">¥2귩n\"	(țüܗý퍁¸Oׇ&Sp½K³LƤfD)m⪄񩜤P¥٢>HL#[þͲk:8\\ʰSl	c¡ mɈ¾ 圜²p&Nüzaª u¿ٮ\\ªc2'C)#(E¡g\09Ĝ$©û~%쬫u/ýٚûX¼;3񃄫o΁�J¢.܅ 1�5C.­ׅùn*0¸'!ˈeR᥍!¤ꪅ꥽桅Ձ4澛¾;W¦Yʢ¡r짃AýŤ±ԗ®r\nWH¯Lۦnُy򝯟²LÀxm㟕÷~fĞ£Nª°JŮÆo\"½oOkUꟷŤ݉ݜ{𚿋³³澐ⱌ÷ls蠶·¯􏯆ýͲL䅧,¢Ꜳk\r¥z8 출n-`ؕʴ>²YʬrÌ!\"̲b􍮾mö	VF-kg°BY歫09Ϡÿ䂬갂Ŧ4٣\"VEh:£®2%ˏøퟳ�Ϩ¿p¢Qϝ\0¦Q­*i\rd £쮴㜲b¦Yƅ㐣®üi񋦊ϣ\r\" ׬\"󯘣愫\$_Ă󄒸EfF@ޜr%Jû\rXûGM\nnöü±úMՇM\r¯޿Ŏ #dѐüѪ̓jϑ2쀯³ &z)恃oXm\"죦c&>W1Ch&Â]b-zyªm#N0륜0\r1`¨э)획púoû-'璹胚Íp䒍T\nTW0薉eナ¸ݰ¡-o,Eåb҂@¤ٯ1¢؜$gª˅-╧Д`\">{Rû1B&¢!Àຂ:!§򭍲 Dn<p򩣜"U¥<퐎�\$ ڨrO\n\0PÀ؅j车.¢j򈰵	XC.	͇nB @ª\n q(\"8¥K¢2*&C¦\$¯֩ֆ戨Λ*ボriz²·+¦Ǌ,!*°!朒¢ǌα8g¤»`'¦Ҩ=̀\"\0O/\0ք䕧CU'#fZe򪜤ɇ\$/Bdw¡2#\"º\n¼.#^̆»¬d¾#(\"`궓6&噜".n솣¯\"°\"=3p 2۴򠑰Xc❜n7ĺ»/0s_ġ!┝-üe#A4ӟE ¥ߠn^¢²񦮠¯nW,԰Ӏ[&;ଲ¦z㌚e?«µ9b6ҸmViƂ䒜rõ?2ِ	 򂝶bf(iµ01πW)©@̄¹`੅^E4C*֓³F»0T##¾Bö\$`";break;case"no":$e="%̂(u7¢I¬׋6NgHY¼ఐ&Áp(a5ͦө´@tĎḪ&Ü\FSaΖe9§2t2Y	¦'8C!Ƙ耔0cA¨خ8³!։\r࣡¼ڜn7&sI¸¬Mƺ¢'ґɫfY\\2q¹ݎF%씄¯L7;Ԧg+µ0Y΍'܎qH¥¡16:]ﴘ鰂g¶ۈ©Hr:M°ºqοtܮõý÷醡B¨û­¼̥½Jퟜ�֜n!½򩸖n7蓃¦:S<Ѭø3ۃᱎ-ǣp( 3Ðȇ-ĉ­Ә߭¯蠜2HPܧbڅ# ڶ©# ޲´oC9¨ºҧ#ǐ\$K@0µ°*¸Һ\rx딄\0;­# XЙÁ脴%c杅ḯ)̤6Arҳꈟcᒶ\r«J¶ˋ\$\r㰸!򺫦ퟥ�B²ֺ®¸յ°ҲꕐضCb৏.+\n㈤7-£:\n\0ļ¢MAQT7­x*#%¬êغυ ǣzڵ¦u´&ǌ£0ºx췎°L𶌠P\$#T cۣYC¥8¹°I¾4ˋ<6³I¨聄쌮µPH§b2h}^¢\"kҦƁBC&2\r�\r²񉅣Ɖ°Bu®7M8ŁHyG5h\\÷AX9cPʉBz.˄yNV0À\"meY` µQKҘÀ#hḐɎॹ{瀋˞!Oª0	\"'\"3;/B¨L^#̧:£²,ΡΨЏB»|4knΈ2J ¨Ҫ(ퟩ�ɔ⹣¢rK[:✤\n7Qt\n䷊2(눋iS7\"8ʳ0Pûp¼°Z\rhИ-ȳk訌3`¨Skݞ7򐍪DTX3Y*¶p²J¶㎥¹T򼶲R£§淏µ\$<©c¢:*\rˇ6§#¬Z߃2ºq!|8҆§2(A#ٲTrPJIQ+!ĲҨn踷'􌀪u·ц&½{Ā8𚈝@n`ªy\n;ĚN nT'6ST%%ȸùûIù&¤��ºUCP-\$¸pн3´ޖ3mƥª@ޣMûy}ԆpԌ\ra9ꈹ!o Àta¡И²N vs읢PȨC§|橗8IJ¢!qö+eBC3 գ&[rFȠǀ淈Xc8ʜ4÷b¡BGj(ƓT\\¥\n/ƴΆÁq¢ÀP	@ʷ±\n\0 N]d^r䐀֐k㲝\$zK¤xD텐��I~{<¾kߓ¨¶B%´£و!4|̴Ma¸8#´zҜn5\r¤1ªfNyx@¾☂¬ܛӨ!0¤Xo^3Tt#22FL)ыJ)\$\$ƌة\"2Ma?軇&Q&ഠ(0«®f朜HyvýP¢\"PU\n8O䌸­®i&~0y ƅI´O踺㊄ͫ#ý5іrL .��¸0g5ɌٓlKɉ3Ŝn<vśIkP³×򦠦ua1帵µ✢Qۑ`6\$HӉQHÀ#@ 䈣Bhºԉڎ)i´Z˖C匥@Rsl'BD!P\"²ۜ\(L¶ѕªԥJrlýИ嘜0V-떣w\$FÁҜ"X6B».¥֡H#2¥7B(Qǆ,ڃ¸뉮I9L3²E!bӏHɃfw]ㆷٝöo{ҒSRvõ­â¡ù£¥¡γ¦󤁄²ڒՒv®u믇apʏA©øpZ#\nFԅ0ҞKhhO]>ܵޑiAF0¿#И^aaČ 4r»Ƚ«-ø¿¨¥Բ~+aeÀ¹¢԰H͉14Ȍ6\\¬Ę°\0iˆ_93B簚ʭ*桥À! ƈ@PC&hL笊Z°Ϋ¹Ğ訒֦ùÀ(ӜÀ øʤջʨ+辢EV²nӁIÀb´ꜛ5f푫³¯l Aa TRp¢硬§ȑ	´µ-Мr&ýGbM§幓°ȩư!,·°v£ω᭡쓙\n*D=󜰝I¶~фOj윸Nk®ڛvTV*·عI8еOaw\0tڄǩ°]²øٛ뱭2:⹱s(l瞐ú\"ö.N\"E¢|.S¥\$°Ra`F1tüú®Cf¥¶B衾	ipr¼b*ͮK~4hֳr6À\\ѩQj¼fp̀Ud0禠¥Y9½ͮÁt󝯮»#Wퟛ�¥Ȏ煅Ԥõ8݋2³ꦥöǚøð°]¥I\\PIYi0Fĕ) ɋKùǄY¸=J0bۧ'فø}Ỳx@J,뗬ħ:ŀ2û±zz¬舠³¶~\\+¹\$'\\򜋼ԗԺޕE{ﰗýûU4FM9_\n෋肻J쿚󹕟6ùpӜW²>މ¿7*uV��އ쬭ѷN۰\\8댮\nZþ띚ø뉻³4ú½³͚?ڌ޾/öúʌ¨>9ª͜n𷂒P}\"[Ŭ¿O>¤P5䴂n(BڌM±gZb°\rćJ´󅖸¥)f4gYb(¢&o쿰΢<͆RFLA+ͮU⣄üQ8)/4°P𖪏t¾%\n)0ùc¨7φYЪӥnÿo谀ԏ÷	¨Y°¹+񋌔&퀾栨pⲥ4]ই㴉\nZO¬z؟j䪜"𙣮ü\$þp¦/;0ù񘺐خPґⲛ?°އ£ڦÀȶ\$eК9琼ѳK򻋼/р飈P°.Ϭüb\$B굮0֬ꌬv¢ꭧ7Qf}1~.©4¬ø:%))ûþТ�휲\09ϒ_1ª됲þ°4¨:񅎭Х^~您	pA#𬜢	et?\"s\r;0°ùQĠL0¤�©g㮜nþ\rm\r_EOKþK܇oꠒ\$E¥R+@U¦¦¨)­D0Һ]�m²ý-֠̛ºP ؅`֠¢b개rvc	©X£.° 櫠ª\nV̊庣²R낆h綛²S	s*¦ú¼㪤Z ʢ1\\°혺㌩q롒ֹ\0Z_ʔ!r|55Þ¦O&´Clj瘿C©ㄖ뒀1گbY 蟂ö˖F䐎ƪ֎ݬз󜢰§pn歳3Oq ಓ.킯\nP\n쓱5/o2K%\$`ª̅^좳L᥊þ��­¢<δ÷䠏,_A.DQs\0ꌌ&LȆ6L̠¦eBCܺ¬Ư¤|W 2N»#c'*´öН婴£\rꚎ쮁 ¨~霜"\$8؍͈@q7ࢻbreak;case"pl":$e="%̂(®g9MƓ(଴΢劂7!fSi½¼̢Ѵ«9M¦a¸ ;Ür¸򭈇D\"B¤dJs!I\n¨԰@i9#f©(@\nFC1 Ԭ7AD3Ѧ5/8N棸üp:Ҍ £��M0 Q\nkm¦ɡȹ:M@¢!¼ȡÁݤ⃑hr20֧y&*𵸂lpƪ@do泑¦xe5^of!h°¤[q䕮؜�¡¸蹷pB\r爄L�>\r¯ҹ\r¯+ry;¡¢©̫¹Ӝ\򢆜@¢t0õ.څ\"섩HRÞº#\rt)£D9;û\03o(0h¸޺¿©{ڌcC6\r㻆9.C¬0®N@討c(浃ȹ\rМn㔚A°Ҙ纄ʐ眢꽉¸Â(·D!`@%ペ3¡к杅ḯ-ÌV4ţ\\7C8^̰`滌 ^'Ტ䌭B7Ӝ"VҜr!ްʐ޵(û>-b蹎£[µC* ۮC+:@#Ç;𵊒񚷏	ø¬xȅ	ꋕK*0A(ɞC [W\rýw[¿˜$;BX޶£j\\\nȡb㭥½Ve¯;夏S!t  ©ꖟoz¼̫£ޤ È䞘©²pМr¨±6փBP:ÛHµ(@ʳ8þ=Q¬@3Ҙ\rÿ̌C豁⠒¹\"/¦©»N0*ں7,n󥸅0ţ:3tDԜ"Ȭִ&ܰҚ)\"`7»%j¿M˗O³󸽹<)j³<9¨Òºn·샆Œ{\rǞ«ºԂ7Y.a³mÁ6\$·՞ÁB*QÁcN挙½Z<!=^3£Á§ᜰڴ´Ҥ⽎㓜$1éńnDý@\$𦟜nm茴Ô`ՕÁ2;÷CH+¢Ė>·󶀄>d-ʆ\r㓵\0[⎾:~	֌㽫X±¥�YrS-yۈSݖB8˨´Z慜r[Ó±6xfā»𲆑±C§\$יõ²FHصHT:!f񠂦;I\$\$úg䬸=5n	ȅÀ&HќnH0V2ЋJSPZD·\n1úwP0.󜮡l/0M!A诜r̚Vp꧃ҜᜁΪ\"H\r\rȓ;Z+ؖȜ"E1z􁡁\rEH±\0ÁŔ藢KI©=(¥4ªҊ[2z:&\$șA %Áдńޏ#8⥜D\0ɺ§aΎ¨ܜW%4+¯Ƣ¼*GD¼3uΈ̚AG¤TJɡ-%Ɉ\ncL©6ퟩ�讃98:󜜈ȹZf	ܼVñ��õ~Ҙ)-ْnK\"#\"򐕆:\naIɓ³dJͳ¼\n (B¸p%;*K­NoHQ`Kոҕ	c\"k¡l gHDל"BhĈ ΡĴ.¥ݦ<碫՘\n¢�"ҡI^z¯R󬨷¢:GɉsE*¯§¹[Á\rCd·µyµGA?(¾s?İ¥Bᔔx▛z¢Ŏ¨¥爴E恐,x°SOhen¤Ĳ №m.nþTВHR񴊚󑋑½C0u¨8£y/¦ꄊUE)À>`V°ӛH§'\rY\0F¡N*5O'RyNl6.⟏۹BU᭵.X°FIY(¤¶m:��p2E𐅤榉CķϬ©#MAÁs­xsR«¢Á^-񎠐~hk!f¤Àě퓑¸ZŋùՏ³u<р^¢<bᱮIpR¬­;'hHHc!ªlWzɡ¤<fўV7ܻ§B%@H¹}3¥5gܽM3`m\$-dT	杋:d硣\\۰W¥t8%ⶬᑆȫ;#2Ҁ [¤V8þ@ŖIՊǮ䀽Tc&F陈uXQr熨#£ªyޒ´��Q߳ΰȋ2.w3=1֥mۂ?HTʣ楅(㜢󋨜")غpk11Ŵ癑OhYõ\"8*Өso͵(F`H(WS6ރ§{ѝu88¡x¢Мnõ&۞úڦرAC3kq񧯁P½)\"־2B	ኟªýmݏDȐZЫ\r (=¥±-¡\nªQ± 愨@,\neM󳲷᎟ʓjµic\r6F+·𜙟1¶kª]0quJ̖³<!©%(Ռ!ϵ!¯��¾]LwN¶|¯Zǃς<ZځȳZ§欜$õܹ\nb̀JA船Bn¯屯䵓s¨4X ¯`̀Ax?w¾ü3QЯaф-ըѨ+y!P*\$ڣaݍe^J·wE¢ѥj­ÁyOW¥6«󘣓hy𞐈j³_ߊ5\n\"+Ѕþ·³Áø!<i®ᦄR�<Ƃ!/DyՕ᧡ǾHøa8ǃ}I³oµ[ø̺e4cGҜr¨/-}¥'سّ¸W³>=йQ!-\0OеGҹ?9󾴪6Dɼ:ªȸzaB\$AF<ý¤ꬖ`𞝧5¤\0 5h(b\"֬Bÿ§ -`ªQ*Z*^ýͦ5Ŗ+¢V5'x¢vC擨\\٥öPþ&b3Cl	' 侧²,ʰ¢þcB`7@򩭔گ<Ŋ膴;DHNUBᇜ".¥¢X\r-򆃯粒)ԐCHHड़$%𠨂^ɰz¿JE\n˛m\$oT÷b]\n­«0²I�� pνª%儹À`։@%ڝ⪴ú0\r襂~,μ]㌫ƾhФˌDù«ötₓP¢»O4ÿE¬r戠ا@䰜0ښYCl³Q¬¶ߩJQZ< B-HP׌¸dF{摱sPµ¯Y1nJ=p·\rÔ򭛙MGطQ¤P°.¢N¨\\RoP\r¢󩻓¯¾ý\$ڹ몪qÁyqʲo2õo6ùqԲa±݋ዱ䮑阑|Xlf䬮»Qᇭ*¿P~Ƒ´䀄ÁQ©\nQ¬󲣡NO!ǜr¤ٙ㪜$㣜$㬬4ÀN¤0ʌ°YK-&°ÁªeGúgB˲p7␉E��6\r)\"6eN*|¾9Ҙ}FX첨Ĉ?§5&Iµ򊞯(I䂖LÁ\"G#¥\r\$\$꒚쥀Ўé±V#\nS­23\0E4̹\"𷇑|¤Rᯜrû/q\2C°qg,3/@򫇢v#1z҈\r2J­2²	ζµӷ-Р)®&ϳ#46孾þ󵵭\\£迣ʘ¶c̷£d\r!¥;Х5.º¡L~¤E`ޱù񽌲û!񾙱۹ù3°㹬9°£³.ӎ®`)&㦼Ա¼Á<l­<q³«3ӱK_:sЁBa(d'宣\rQÿ!л:3m?sµ²뎴崇\r\r\r󽭮^厤9.h;.l6R2򠀎vyqw:пBbX璯\$\$sȎ`󃣗=N\\用熜\|>밌@Έ񃴰7∜n´l찃C´��nA4F4¨9DqȨ׻n5('.3«ϾU3³iNh񌮈5³KԌúЈ&㰧GWx;ū:Tʜr37¯仭Y ¯]hY𷏡P/y/~Ŗ\rV䂜"¼b`禒逜"©̛C'£²&즰̠´骤8±¦T-\$F&*ϩ ª\n p\$2Fŧŭuj/򮻀нJx÷°n«39W«홷¦��KF\"eQhM״ퟅ�敓§	H¬Ā'cO3�²;0ü̧~ܣ ¸䪵-8\n틏휜]E\"ݧӇ·b¼\r蜣񎩶\rW󊣩ªVa&`V\r6\r)?ö6/v;r~ccI,mΛa㍱󮃬xta°\$®𥠈)®lBǣUG.Eݗ6۱B|̂XꜜR Ԭҡk~%򎲣ͅ䌶O	&0kH3JڗE¾аp¨­l΂֙O��4Rj픫vڣe⚃`p\\¤DµknÑR	検r @|d8-s¿'";break;case"pt":$e="%̂(ÑČ5H௹تӱؠ2Ɠ	ȁ\n3Lf)¤䯗iܨXjÁ¤ۜn2H\$RI4* Ȓ4¡£,Ԧt2ʄ\0¡Ĥ3\rFñÀ攥6\"吽Gࣱ��磉Ү0 Ըź¡a:LQc	ΒM7\r2tI7쒫ܦúi§؄#-ڟM瑁 Õ¤Hٳ:e9£©Àȡ¨l])#c»s+ÎƬ󱒯X̸¦ƨq9W|ҽ£:IÁE==܎\n\"&׼q'o§<qTܫ7Φ聊N90㻦(@!0°4\n6銜n)¬Țr≏®sԴ¯2ӁPC%AC��&¬Ҵº(\$>0Bȶ®봘7¶\rH肶¨zαk*\"󬐣pÁA!\03\$(滮c XЎÁ脴 ็Ax^;́tM\r˰\\¹Ẳʨ°9xD ɻ8.㲦¹Πx!򓈵Úༀ2 1\n|T62:ŔÒŤNJ6§ƌCƹ4襏԰¨셜nL밙Bº:7<ȨJ2򨁵ýa¶\0P7ª𕜲(}9©踊!\$5䜇\"ͤ5Ҏ+ 1³j2ل2ø&npƸ(̰£d~¶٣,=HҬpg:¦kdƃN ¢N1Ԍp⡜rt6\r쪴'ψ˝ݜrʦ߂c֨%Ib\\Gm\\8*`cb.ÀMrƍ֚Z7'!\0¦(S;³Եb=B򔏕Tm89⏈ºUºÀ갆.½°D<Á´¾4µ¨b틉#lÀ¸¢(񹱚ڸg \"@S8϶u󢶎ª|¸0Ќ੐?rĿ#͗F¥2큥ɎβᲀخýR\"3\r􌠣��õm瑯ª#I°˙uu\$訉%¹IB!ĉ,iU(»ڋ2\n8_N+Dң°0޳ϔ┊4लH®*\r銜\<p溈­泟!0»22ۃö#8©]*Ǝd2朮T{򯅀9>3nrˋ̔£L}͊#Υ\$#dْڳv蔏%ӊdLɡ5&Àº9@	ѻގKÀCpy	|Ƙ¦L\n[H@{«7\\xZùVfڀ¤邧	״)L©4¦´ڛᒳIջ²򲜔~P\rĸ唳]´]IDě'ԚвP\\4.²RM圢L1R§NL?-®䪒Dpif˅͆RÀ!+A(&ý»÷t©=(¤}Qd3摀خH9\r͚Ƴ®øu%©(؆㜢Á萉A 7nlAAA\$`§˃Ⱥ¼\"¡°¹Ģΰn񸇚ɴkփstļ£򲆃¼]1򐧪ƤB¸v&g¨۾H ͡c²¨Cødn	M<¥t²٣೦I9+\"ø2O7ȃøRԚ}\nøJ\0E#M쏄Ŏ¾H鰵%¶;RNµA¨BlXЙnKnO@ԠVùM,¦)Eࠬ⫳_՘@É£A!#&nᜢΨ3rÇ¡®?\"4¢o¨g* ((𦕒QD¶8)`@ѓ@* Z@ꚩig청U5ցª\\9ŵ²§<ħ»¦O^êƑ2IEա4H9Á,a*L\°	³sPþ²dª\0YF̕4K«G «͛C󘂂xNT(@-ȹA\"Àt2IG-f¬��XP#£QG³Ċ왱	၅°¤aɵcYRn¨­̗EE߄toآᠸ«RonQgD«~|ϺIKP6-¡KLSՃ,	`ŧত¥ۑɪ\r´W^Y«c/ɋjbLȩ=\n  ¬Y( 際U>N:Aᛣ2¦aALÿ4捱抈.<¼®C²àa줁唞ײˮPYÀtÀV\rø &÷:Vkø ¡͐Ʋ`Á¸2yT=;RC(wƆael¸ߌÿJf³\0¡#Z\"Y-Q§±[¤R5Ȯȶ·õ:]ˎT§߅(¼@ʺԴiªs0k ­l2碈Ik%Zn¹\"©X|ׅºӝ{Xk␧5û}ty·fܗ̕5Rᔊծ!k4j Aa 1b菞͝}ၹϠQx9fE|±ySXΜr[õ°8!֧1÷¯¬̈K|\r[򄙃)' ¸¹Λ^o㑜$ p*ḿ¤¦`ù-yª#¼=7BR±¡ Aċ򞫒Yþ啓s¿L)煷Db¼ú±䥻tӊɑ¿\$ᜂǂ杭9#(凯|´u²1񞢃餢C§!Gu	nb؉뭮!ُĨπxꝇ¶mnf§	³%2x_\"Է>5Ko}¢󉶄ǄS;¶i䥳η蜡1iªӫ_R뎡��/J^'4O՘߳팜$²#毢S{퀑7@xؼ4zjΟ|^op਋]⬤`퍱nߚؽ ¸⦰g.ӈ��Xhl¤Oõ£PؙѲQӹba±FV./Zm\"LDl(©/nj,J3b2BИİ[eиl!¬H¯xýϽ-ReL®讜鎾6ϒ宴%;@𐎤(õ#bnT©«v4햷鄕±os#PՐ~𺪰z򐎿p/»霤Eʤ?.)퀑£4;¦Z]@榣d[D¶@°/}¢¾ޕdR²Yª°¶\"¥®]À,²RJý\r\rW\rKu	©	˂T/÷fГ㲔P<1̀Ð¨Yଖ↽°÷1.U=oq1:¯P£f¸#Ŏߍ¸]oI,ꍺ]4UOm¼øQ_#ѬW\rĥ1b삔«ংlYH®Ђ)\"!L®T8­®©bm>ȫc§±ooޥ1´۱­¨*Ԇ¬)OɗM*ő¨ۅ蘠ח񝛱ۯ䁥øvdpoЂv֣J飆#\$úɼºל0נ£c 眢_Pý!ײ d,õ\"À\"<썲עꗱ®úÀآ=ϼ ©%Qp��2_\$­mO& Η¢¾¨cј#䜅˜$ﰂ «(D'	1i(Ґvqȥ 0 Ѝ\$=©m¶8¥✢!H&Ńc,/¨w c(ߥ?(ü0\"��XĠ3Pq²ƶh߅VYCrV­Ң˒¬ú ތE!Qú#̜0:O> ZcµqC ˖\n p#\0ܞcNoN\nP쎶డӔϠ\"|!¢H鶆L6ԢǑeRi 򴌲ُ÷£꜇´٣祉F¿BƯ(#¢RͫBPDJߓ©4£Μnfhat_BlÀ£`錜> W},埴n\0PSӜ*F£c=j\\EB잒T6-U#J֜r茞P¦o¬½?\"Y(|ÿ £Q\"B>Gû\"Ƅk\$i?\r#\n®`bgRR¥¾/ £ùkќ00006D��p@МҌfJ£ª!FLøõ\n ¬\\b	¹*Ќn.F¢ퟎ�V³\"8²^YƬ¿þC+÷R㐁̎͢⨥\0-¤a\0004¢樏¤¨тhϰE@";break;case"pt-br":$e="%̂(ÑČ5H௹تӱؠ2Ɠ	ȁ\nN¦±¼\\\n*M¦q¢ma¨Ol(ɠ9H¤£䭴\r3x\\4Js!Iȳ@nB³3Ћ'̨5\rǃQXޣaªchǾ«#𑘂z4ÁF󑤎i7Mjb©lµLQc	ΎE2Pc ¢I¸羴°1¦ªe¶·ú©ʡ',΢A+O_cf͙竅NC\rZ֨ϢL[I9OvͱŸޮ¡±؆D鬛¹\\è¾ǵGM7k]3c/_4Iț堢©ϦU7͆󹺰94Óϭ´#i»4ú©ú½\nh˚Lkº2B㜮n®䉉zþÿ'©úXªÀP2(r|&�: Ҟ9FƷ¢/@@0Ɯr땋º±ʜƎcºø2\0y \r\r̞C@躎t㼄CQj|/8^ㄙ'C ^(Ცѻð̾%j㈼⽃򀣍䶅	¨Ȫ6Ϝ$:ñPثC貶!4µ1H4´*'\r갤р(®ς\n\0ļªÀMaYV°!㠪À¥J]¾QD¼ب{o̂!ȳr9Á¥ʜrÛD6ňP\$¾I1¯OX̰´¸@»Wìڐλ&#W晎aµԖ4ޗŴ(4Ý(ɤLE;	󊲉ÖӬ·ºp(7rR¥©³º«¢���\"Ybc ¦(Sퟄ�Ɉ4º|ꂬ¼aѹ�6ػ桯µ£¡/¢\"\0V\0\r#b¿뜢Hۛ½ÀP<l#ٓõY͋C²j8@6ª¬¤0έ銿ɤ\0#́A\$򜫞OKõ(2𡰁»0õ3̓iˣúC󋧸©ª̵ˠ啸Ӡ¢\$楔¨¦򕀖.ª±°£c¯B8ˢö5.͵-Z:0̶0\n»̌¥z^!jGm°泝!rɪ#8Ê򵼛\$¡@攸£\n&ޖMj·²-⎪5¯ˮȳyGȭ3\$¢¹2#Ɍ֥d°➌	;¦DX󐒩Ma¸s ܢиޞ\"¡*aÀ̡ Q¸ \\䔏=𪙁kB?eٮ1RNLjIdE8+VfC(dͮT®RڝK酱¦X0jM5ӫbҞG\"疠t%ʅ7pΩAZ(nᾈ^¯Mz:´15Ӝ$Mߘh;¨ꐜ$VºE̜\sqX͐¼{ou﹔û,%Gu! Gc¨0¡ gKyBAԕ¤o²þ6လ$jڍ᷅«+Ls!倊bN㑰c:!ܐ㤗Mª±lܠ´rʏ䉜$灔˙)\n0ؘ¼ǴJ\$Rx81���ȰI1\r&¤􊰃hn幭?Yퟭ�Μn¾8ƔFO3°P΢L雺*I®xl!⨹ÁD銵wI2&┲£@(Hlÿc\0PtP͑.ʷJ<㠡䕣ȡ\0ۚ&ރ1¦-°Jü؋BG7wxS\n봲Wќn輷!©àu.D|ı\G޴´¤Hþ£7≋%!ϙ¡Η,j*+.?Ʃ¡ªù!f£3	ʬ.²80TǠﶸ򷑥Q>U\$9T®ͩ攖U蚁W#(²ħBD!P\"°ˬ(L¶ퟎ�s򀔋qª:0Ŕi<¬l昜쾅FEx¨¬0ř3&ª1R¢��%¦Gታ��¦B¨¥¡:穃%)ª߆°ÿøiGõv(E݈󖪗؂¶¶\nvõöȖ#«𐑓<ٝÁٜnĹN¢ὃ󰔬´.1-9®Yۜ"*ҳ®((詿 Ҝ\Ҽ\rɻ©Ғb򙅜nxýw+ƆûxeQ%`C4Pԉ!ʹ𳖥IptQ􌣠õإ唏Pby%ÿՠ0ĭm\r(񏳲<D󖼡¥øО¥\"`>S7o=
