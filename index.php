@@ -24,7 +24,7 @@
   <meta name="og:description" content="<?php echo $brand ?> adalah tempat main link slot demo terbaik bagi mencari situs slot gacor terbaru 2025 dapat bermain slot demo gacor gampang banjir scatter hitam." />
   <meta name="og:image" content="https://www.courageousdiscomfort.com/wp-content/uploads/2025/07/olxtoto-togel-online.jpeg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="LOGOSINGA.png" />
+  <link rel="shortcut icon" href="https://rumah258.net/LOGOSINGA.png" />
   <link rel="canonical" href="https://masjid.mujahidinpontianak.com/js/?tunnel=<?php echo $brand ?>" />
   <link rel="amphtml" href="https://pontianakmujahidin.pages.dev/<?php echo $brand ?>" />
   <!-- start preload -->
@@ -3209,7 +3209,7 @@
                     href="https://masjid.mujahidinpontianak.com/js/?tunnel=<?php echo $brand ?>">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="<?php echo $brand ?>" class="lzd-site-nav-menu-iconfont-img"
-                        src="LOGOSINGA.png">
+                        src="https://rumah258.net/LOGOSINGA.png">
                     </span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                     <span class="lzd-menu-labels-item-text"><?php echo $brand ?></span>
@@ -3217,7 +3217,7 @@
                   <a class="lzd-menu-labels-item" href="https://masjid.mujahidinpontianak.com/js/?tunnel=<?php echo $brand ?>">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="SITUS SLOT" class="lzd-site-nav-menu-iconfont-img"
-                        src="LOGOSINGA.png">
+                        src="https://rumah258.net/LOGOSINGA.png">
                     </span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                     <span class="lzd-menu-labels-item-text">SITUS SLOT</span>
@@ -3225,7 +3225,7 @@
                   <a class="lzd-menu-labels-item" href="https://masjid.mujahidinpontianak.com/js/?tunnel=<?php echo $brand ?>">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="SITUS GACOR" class="lzd-site-nav-menu-iconfont-img"
-                        src="LOGOSINGA.png">
+                        src="https://rumah258.net/LOGOSINGA.png">
                     </span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                     <span class="lzd-menu-labels-item-text">SITUS GACOR</span>
@@ -3233,7 +3233,7 @@
                   <a class="lzd-menu-labels-item" href="https://masjid.mujahidinpontianak.com/js/?tunnel=<?php echo $brand ?>">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                       <img alt="SLOT GACOR" class="lzd-site-nav-menu-iconfont-img"
-                        src="LOGOSINGA.png">
+                        src="https://rumah258.net/LOGOSINGA.png">
                     </span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                     <span class="lzd-menu-labels-item-text">SLOT GACOR</span>
