@@ -45,27 +45,27 @@
         as="image">
 
 
-    <title>IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025</title>
+    <title>IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat</title>
 
     <meta name="description"
-        content="IDEBET Adalah inovasi digital terbaru untuk mempermudah pengelolaan administrasi kunjungan di Desa Padang. Platform ini dirancang untuk mencatat dan memantau tamu secara real-time, menghadirkan antarmuka modern dengan tema Scatter Hitam yang elegan dan profesional.">
+        content="IDEBET hadir sebagai pusat informasi Slot Gacor Maxwin terpercaya 2025 yang memudahkan siswa, guru, dan masyarakat dalam mengakses layanan pendidikan modern.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://cincinanehin.pages.dev/5V5cDPt.png"
+        href="https://smkdrsoebandijembercvs.pages.dev/des.jpg"
         sizes="72x72">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://cincinanehin.pages.dev/5V5cDPt.png"
+        href="https://smkdrsoebandijembercvs.pages.dev/des.jpg"
         sizes="114x114">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://cincinanehin.pages.dev/5V5cDPt.png"
+        href="https://smkdrsoebandijembercvs.pages.dev/des.jpg"
         sizes="120x120">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://cincinanehin.pages.dev/5V5cDPt.png"
+        href="https://smkdrsoebandijembercvs.pages.dev/des.jpg"
         sizes="144x144">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://cincinanehin.pages.dev/5V5cDPt.png">
+        href="https://smkdrsoebandijembercvs.pages.dev/des.jpg">
 
     <link rel="stylesheet"
         href="https://public-assets.envato-static.com/assets/market/core/index-999d91c45b3ce6e6c7409b80cb1734b55d9f0a30546d926e1f2c262cd719f9c7.css"
@@ -81,25 +81,25 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://www.padang.tamudesadigital.com/">
+    <link rel="canonical" href="https://www.smkdrsoebandijember.sch.id/">
 
    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025",
+  "name": "IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat",
   "image": "https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png",
-  "description": "IDEBET Adalah inovasi digital terbaru untuk mempermudah pengelolaan administrasi kunjungan di Desa Padang. Platform ini dirancang untuk mencatat dan memantau tamu secara real-time, menghadirkan antarmuka modern dengan tema Scatter Hitam yang elegan dan profesional.",
+  "description": "IDEBET hadir sebagai pusat informasi Slot Gacor Maxwin terpercaya 2025 yang memudahkan siswa, guru, dan masyarakat dalam mengakses layanan pendidikan modern.",
   "brand": {
     "@type": "Brand",
     "name": "N78-BET"
   },
   "sku": "N78-BET",
   "mpn": "77GCR-001",
-  "url": "https://www.padang.tamudesadigital.com/",
+  "url": "https://www.smkdrsoebandijember.sch.id/",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.padang.tamudesadigital.com/",
+    "url": "https://www.smkdrsoebandijember.sch.id/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -153,49 +153,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "IDEBET",
-      "item": "https://www.padang.tamudesadigital.com/"
+      "item": "https://www.smkdrsoebandijember.sch.id/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "IDEBET",
-      "item": "https://www.padang.tamudesadigital.com/"
+      "item": "https://www.smkdrsoebandijember.sch.id/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Slot Gacor Thailand Hari Ini",
-      "item": "https://www.padang.tamudesadigital.com/situs-slot-gacor"
+      "item": "https://www.smkdrsoebandijember.sch.id/situs-slot-gacor"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT GACOR 2025",
-      "item": "https://www.padang.tamudesadigital.com/situs-slot-resmi"
+      "item": "https://www.smkdrsoebandijember.sch.id/situs-slot-resmi"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "IDEBET",
-      "item": "https://www.padang.tamudesadigital.com/link-slot-gacor"
+      "item": "https://www.smkdrsoebandijember.sch.id/link-slot-gacor"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Slot Luar Negeri",
-      "item": "https://www.padang.tamudesadigital.com/slot-gacor-maxwin"
+      "item": "https://www.smkdrsoebandijember.sch.id/slot-gacor-maxwin"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SLOT RESMI",
-      "item": "https://www.padang.tamudesadigital.com/slot-online-terpercaya"
+      "item": "https://www.smkdrsoebandijember.sch.id/slot-online-terpercaya"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "IDEBET",
-      "item": "https://www.padang.tamudesadigital.com/situs-judi-online"
+      "item": "https://www.smkdrsoebandijember.sch.id/situs-judi-online"
     }
   ]
 }
@@ -206,7 +206,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "SLOT RESMI",
-  "url": "https://www.padang.tamudesadigital.com/",
+  "url": "https://www.smkdrsoebandijember.sch.id/",
   "logo": "https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png",
   "sameAs": [
     "https://www.facebook.com/IDEBET",
@@ -235,30 +235,30 @@
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025">
+    <meta property="og:title" content="IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat">
     <meta property="og:description"
-        content="IDEBET Adalah inovasi digital terbaru untuk mempermudah pengelolaan administrasi kunjungan di Desa Padang. Platform ini dirancang untuk mencatat dan memantau tamu secara real-time, menghadirkan antarmuka modern dengan tema Scatter Hitam yang elegan dan profesional.">
+        content="IDEBET hadir sebagai pusat informasi Slot Gacor Maxwin terpercaya 2025 yang memudahkan siswa, guru, dan masyarakat dalam mengakses layanan pendidikan modern.">
     <meta property="og:image" content="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
-    <meta property="og:url" content="https://www.padang.tamudesadigital.com/">
+    <meta property="og:url" content="https://www.smkdrsoebandijember.sch.id/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025">
-    <meta name="twitter:description" content="IDEBET Adalah inovasi digital terbaru untuk mempermudah pengelolaan administrasi kunjungan di Desa Padang. Platform ini dirancang untuk mencatat dan memantau tamu secara real-time, menghadirkan antarmuka modern dengan tema Scatter Hitam yang elegan dan profesional.">
+    <meta name="twitter:title" content="IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat">
+    <meta name="twitter:description" content="IDEBET hadir sebagai pusat informasi Slot Gacor Maxwin terpercaya 2025 yang memudahkan siswa, guru, dan masyarakat dalam mengakses layanan pendidikan modern.">
     <meta name="twitter:image" content="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
-    <meta property="og:title" content="IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025">
+    <meta property="og:title" content="IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.padang.tamudesadigital.com/">
-    <meta property="og:image" content="https://cincinanehin.pages.dev/5V5cDPt.png" />
+    <meta property="og:url" content="https://www.smkdrsoebandijember.sch.id/">
+    <meta property="og:image" content="https://smkdrsoebandijembercvs.pages.dev/des.jpg" />
 	<meta name="google-site-verification" content="sJTqTEp_HMtSONGmOOg16rWhWxmNWnHJlOq2hX4rIUw" />
     <meta property="og:description"
-        content="IDEBET Adalah inovasi digital terbaru untuk mempermudah pengelolaan administrasi kunjungan di Desa Padang. Platform ini dirancang untuk mencatat dan memantau tamu secara real-time, menghadirkan antarmuka modern dengan tema Scatter Hitam yang elegan dan profesional.">
+        content="IDEBET hadir sebagai pusat informasi Slot Gacor Maxwin terpercaya 2025 yang memudahkan siswa, guru, dan masyarakat dalam mengakses layanan pendidikan modern.">
     <meta property="og:site_name" content="ThemeForest">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
         content="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ">
-    <link rel="amphtml" href="https://cincinanehin.pages.dev/" as="" crossorigin="" disabled="0" hreflang="" id="" imagesizes="" imagesrcset="" integrity="" prefetch="" media="" referrerpolicy="" sizes="" title="" type="" key="globalLink0" q:key="globalLink0" q:head>
+    <link rel="amphtml" href="https://smkdrsoebandijembercvs.pages.dev/" as="" crossorigin="" disabled="0" hreflang="" id="" imagesizes="" imagesrcset="" integrity="" prefetch="" media="" referrerpolicy="" sizes="" title="" type="" key="globalLink0" q:key="globalLink0" q:head>
     <meta name="turbo-visit-control" content="reload">
 
 
@@ -753,7 +753,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.padang.tamudesadigital.com/">Envato Market</a>
+                    <a href="https://www.smkdrsoebandijember.sch.id/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -763,36 +763,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://www.padang.tamudesadigital.com/"></a>
+                        href="https://www.smkdrsoebandijember.sch.id/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://www.padang.tamudesadigital.com/">
+                    <a class="off-canvas-left__site" href="hhttps://www.smkdrsoebandijember.sch.id/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.padang.tamudesadigital.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.smkdrsoebandijember.sch.id/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.padang.tamudesadigital.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.smkdrsoebandijember.sch.id/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.padang.tamudesadigital.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.smkdrsoebandijember.sch.id/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.padang.tamudesadigital.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.smkdrsoebandijember.sch.id/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.padang.tamudesadigital.com/">
+                    </a> <a class="off-canvas-left__site" href="https://www.smkdrsoebandijember.sch.id/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -801,7 +801,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.padang.tamudesadigital.com/" accept-charset="UTF-8"
+                    <form id="search" action="https://www.smkdrsoebandijember.sch.id/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -820,42 +820,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Files</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Featured Files</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Top New Files</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Follow Feed</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Top Authors</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Top New
+                                    href="https://www.smkdrsoebandijember.sch.id/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Public Collections</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">View All Categories</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -863,88 +863,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Show all
+                                    href="https://www.smkdrsoebandijember.sch.id/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Items</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Blog /
+                                    href="https://www.smkdrsoebandijember.sch.id/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">BuddyPress</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Corporate</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Creative</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Directory &amp; Listings</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">eCommerce</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Education</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Elementor</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Entertainment</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Mobile</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Nonprofit</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Real
+                                    href="https://www.smkdrsoebandijember.sch.id/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Retail</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Technology</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Wedding</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Miscellaneous</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">WordPress Plugins</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -952,21 +952,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Template Kits</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Plugins</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Themes</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Themes</a>
                             </li>
                         </ul>
 
@@ -974,72 +974,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Show all
+                                    href="https://www.smkdrsoebandijember.sch.id/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Items</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Admin Templates</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Corporate</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Creative</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Entertainment</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Mobile</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Nonprofit</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Personal</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Retail</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Specialty Pages</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Technology</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Wedding</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Miscellaneous</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1047,42 +1047,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Show all
+                                    href="https://www.smkdrsoebandijember.sch.id/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Items</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Fashion</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Shopping</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Health &amp; Beauty</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Technology</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Entertainment</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Miscellaneous</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1090,91 +1090,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Show all
+                                    href="https://www.smkdrsoebandijember.sch.id/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Items</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Email Templates</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Landing Pages</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Unbounce Landing Pages</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Show all CMS</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Items</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Concrete5</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Drupal</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">HubSpot CMS Hub</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Joomla</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">MODX
+                                    href="https://www.smkdrsoebandijember.sch.id/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Moodle</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Webflow</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Weebly</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Miscellaneous</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1182,71 +1182,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Show all
+                                    href="https://www.smkdrsoebandijember.sch.id/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Items</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">WooCommerce</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">BigCommerce</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Drupal Commerce</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Easy Digital Downloads</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Ecwid</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Magento</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">OpenCart</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">PrestaShop</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Shopify</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Ubercart</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">VirtueMart</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Zen
+                                    href="https://www.smkdrsoebandijember.sch.id/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Miscellaneous</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1254,30 +1254,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Popular Items</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Figma</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Adobe
+                                    href="https://www.smkdrsoebandijember.sch.id/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Photoshop</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Sketch</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1285,56 +1285,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://www.padang.tamudesadigital.com/">
+                            href="https://www.smkdrsoebandijember.sch.id/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Blogging</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Courses</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Facebook Templates</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Free Elementor Templates</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Free
+                                    href="https://www.smkdrsoebandijember.sch.id/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Forums</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Ghost
+                                    href="https://www.smkdrsoebandijember.sch.id/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.padang.tamudesadigital.com/">Tumblr</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://www.padang.tamudesadigital.com/">Unlimited
+                                    href="https://www.smkdrsoebandijember.sch.id/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1345,7 +1345,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://www.padang.tamudesadigital.com/">Unlimited
+                            href="https://www.smkdrsoebandijember.sch.id/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1357,18 +1357,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.padang.tamudesadigital.com/">
+                <a class="off-canvas-right__link--cart" href="https://www.smkdrsoebandijember.sch.id/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://cincinanehin.pages.dev/">
+                <a class="off-canvas-right__link" href="https://smkdrsoebandijembercvs.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://cincinanehin.pages.dev/">
+                <a class="off-canvas-right__link" href="https://smkdrsoebandijembercvs.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1384,7 +1384,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.padang.tamudesadigital.com/">
+                                    <a class="btn btn--square" href="https://www.smkdrsoebandijember.sch.id/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1404,7 +1404,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://www.padang.tamudesadigital.com/">
+                                        href="https://www.smkdrsoebandijember.sch.id/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1412,14 +1412,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://www.padang.tamudesadigital.com/">
+                                        href="https://www.smkdrsoebandijember.sch.id/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.padang.tamudesadigital.com/">
+                                    <a href="https://www.smkdrsoebandijember.sch.id/">
                                         <img alt="Logo Baru"
                                             src="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1436,7 +1436,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://www.padang.tamudesadigital.com/">
+                                    <a href="https://www.smkdrsoebandijember.sch.id/">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
                                     </a>
@@ -1444,7 +1444,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.padang.tamudesadigital.com/">
+                                                    href="https://www.smkdrsoebandijember.sch.id/">
                                                     <span class="global-header-menu__link-text">
                                                         Slot
                                                     </span>
@@ -1452,7 +1452,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.padang.tamudesadigital.com/">
+                                                    href="https://www.smkdrsoebandijember.sch.id/">
                                                     <span class="global-header-menu__link-text">
                                                         IDEBET
                                                     </span>
@@ -1463,7 +1463,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://www.padang.tamudesadigital.com/">
+                                                    href="https://www.smkdrsoebandijember.sch.id/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1481,7 +1481,7 @@
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://www.padang.tamudesadigital.com/">
+                                                    href="https://www.smkdrsoebandijember.sch.id/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1503,7 +1503,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://www.padang.tamudesadigital.com/">
+                                                    href="https://www.smkdrsoebandijember.sch.id/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1523,31 +1523,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://www.padang.tamudesadigital.com/">SLOT RESMI</a>
+                                                href="https://www.smkdrsoebandijember.sch.id/">SLOT RESMI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://www.padang.tamudesadigital.com/">IDEBET</a>
+                                                href="https://www.smkdrsoebandijember.sch.id/">IDEBET</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://www.padang.tamudesadigital.com/">Slot Luar Negeri</a>
+                                                href="https://www.smkdrsoebandijember.sch.id/">Slot Luar Negeri</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://www.padang.tamudesadigital.com/">Slot Gacor 2025</a>
+                                                href="https://www.smkdrsoebandijember.sch.id/">Slot Gacor 2025</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://www.padang.tamudesadigital.com/">IDETOTO</a>
+                                                href="https://www.smkdrsoebandijember.sch.id/">IDE BET</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://www.padang.tamudesadigital.com/">SLOT MAXWIN</a>
+                                                href="https://www.smkdrsoebandijember.sch.id/">SLOT MAXWIN</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://www.padang.tamudesadigital.com/">Gacor Slot</a>
+                                                href="https://www.smkdrsoebandijember.sch.id/">Gacor Slot</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1625,7 +1625,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 SLOT RESMI
 
@@ -1634,7 +1634,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 Slot Luar Negeri
 
@@ -1643,7 +1643,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 Link Slot Gacor Hari Ini
 
@@ -1651,7 +1651,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 Gacor Slot
 
@@ -1660,7 +1660,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-4-dropdown"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 IDEBET
 
@@ -1669,7 +1669,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 Slot Gacor Resmi
 
@@ -1677,7 +1677,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 SLOT GACOR 2025 Terpercaya
 
@@ -1686,7 +1686,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-7-dropdown"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
 
                                                 Slot Gacor Hari Ini
 
@@ -1694,7 +1694,7 @@
                                         </li></ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://www.padang.tamudesadigital.com/"
+                                                action="https://www.smkdrsoebandijember.sch.id/"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -1729,30 +1729,30 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.padang.tamudesadigital.com/">Slot Gacor Hari Ini</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">Slot Gacor Hari Ini</a>
 
 
-                                <a href="https://www.padang.tamudesadigital.com/"
+                                <a href="https://www.smkdrsoebandijember.sch.id/"
                                     class="js-breadcrumb-category">Slot Gacor Thailand Hari Ini</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.padang.tamudesadigital.com/">IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025</a>
+                                    href="https://www.smkdrsoebandijember.sch.id/">IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025
+                                            IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat
                                         </h1>
                                     </div>
 
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://www.padang.tamudesadigital.com/">
+                                            href="https://www.smkdrsoebandijember.sch.id/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1767,7 +1767,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://www.padang.tamudesadigital.com/">SLOT GACOR 2025 | Slot Gacor</a>
+                                            href="https://www.smkdrsoebandijember.sch.id/">SLOT GACOR 2025 | Slot Gacor</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1807,10 +1807,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://www.padang.tamudesadigital.com/">Item Details</a>
+                                            href="https://www.smkdrsoebandijember.sch.id/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://www.padang.tamudesadigital.com/"><span>Reviews</span><span>
+                                            href="https://www.smkdrsoebandijember.sch.id/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1830,10 +1830,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">779</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://www.padang.tamudesadigital.com/"><span>Comments</span><span
+                                            href="https://www.smkdrsoebandijember.sch.id/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">9,999</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://www.padang.tamudesadigital.com/">Support</a>
+                                            href="https://www.smkdrsoebandijember.sch.id/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1880,9 +1880,9 @@
       <div class="w-100 mt-4 mb-4 text-center">
         
         <div class="n-columns-2">
-            <a href="https://cincinanehin.pages.dev/" rel="nofollow noreferrer"
+            <a href="https://smkdrsoebandijembercvs.pages.dev/" rel="nofollow noreferrer"
                 class="login">LOGIN</a>
-            <a href="https://cincinanehin.pages.dev/" rel="nofollow noreferrer"
+            <a href="https://smkdrsoebandijembercvs.pages.dev/" rel="nofollow noreferrer"
                 class="register">DAFTAR</a>
         </div>
       </div>
@@ -1932,12 +1932,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.padang.tamudesadigital.com/"><span
+                                            href="https://www.smkdrsoebandijember.sch.id/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.padang.tamudesadigital.com/"><span
+                                            href="https://www.smkdrsoebandijember.sch.id/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1953,7 +1953,7 @@
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
                                 //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": "IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
+                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": "IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
 
                                 //]]>
                             </script>
@@ -1968,7 +1968,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://www.padang.tamudesadigital.com/"><span
+                                                        href="https://www.smkdrsoebandijember.sch.id/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -1977,7 +1977,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://www.padang.tamudesadigital.com/">
+                                                        href="https://www.smkdrsoebandijember.sch.id/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -1994,14 +1994,14 @@
 
 
                                             <a target="_blank"
-                                                href="https://cincinanehin.pages.dev/"><img
-                                                    alt="IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025 - WooCommerce eCommerce"
+                                                href="https://smkdrsoebandijembercvs.pages.dev/"><img
+                                                    alt="IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat - WooCommerce eCommerce"
                                                     width="300" height="300"
-                                                    srcset="https://cincinanehin.pages.dev/5V5cDPt.png"
+                                                    srcset="https://smkdrsoebandijembercvs.pages.dev/des.jpg"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
-                                                    src="https://cincinanehin.pages.dev/5V5cDPt.png"></a>
+                                                    src="https://smkdrsoebandijembercvs.pages.dev/des.jpg"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025 - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat - WooCommerce eCommerce Screenshots Gallery"
                                                 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
                                                 <a class="is-hidden"
@@ -2070,14 +2070,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://cincinanehin.pages.dev/"
+                                                    <a href="https://smkdrsoebandijembercvs.pages.dev/"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://cincinanehin.pages.dev/"
+                                                        href="https://smkdrsoebandijembercvs.pages.dev/"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
@@ -2096,7 +2096,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://www.padang.tamudesadigital.com/">
+                                                    href="https://www.smkdrsoebandijember.sch.id/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2138,8 +2138,8 @@
                                         <div class="purchase-panel" bis_skin_checked="1">
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;IDEBET Platform Buku Tamu Desa Padang Scatter Hitam 2025&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://www.padang.tamudesadigital.com/"
+                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;IDEBET | Website Digital Slot Gacor Maxwin terpercaya 2025 SMK dr. Soebandi Bisa dan Hebat&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    action="https://www.smkdrsoebandijember.sch.id/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2200,7 +2200,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://www.padang.tamudesadigital.com/licenses/standard">View
+                                                                                        href="https://www.smkdrsoebandijember.sch.id/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2310,7 +2310,7 @@
 
                                                         <div class="purchase-form__cta-buttons" bis_skin_checked="1">
                                                             <div class="purchase-form__button" bis_skin_checked="1">
-                                                               <p><a href="https://cincinanehin.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/cLp7th6x/46868.gif" alt="" width="274" height="126" /></a></p>
+                                                               <p><a href="https://smkdrsoebandijembercvs.pages.dev/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/cLp7th6x/46868.gif" alt="" width="274" height="126" /></a></p>
                                                             </div>
 
                                                         </div>
@@ -2342,7 +2342,7 @@
                                     <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                                          All Rights Reserved IDEBET
                                         <br>
-                                        <a href="https://www.padang.tamudesadigital.com/">SLOT RESMI</a>
+                                        <a href="https://www.smkdrsoebandijember.sch.id/">SLOT RESMI</a>
                                     </div>
 
                                 </div>
@@ -2379,11 +2379,11 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.padang.tamudesadigital.com/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="https://www.smkdrsoebandijember.sch.id/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.padang.tamudesadigital.com/licenses">Licenses</a>
+                                                            href="https://www.smkdrsoebandijember.sch.id/licenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2411,7 +2411,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.padang.tamudesadigital.com/">Help Center</a>
+                                                            href="https://www.smkdrsoebandijember.sch.id/">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2434,7 +2434,7 @@
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.padang.tamudesadigital.com/">Forums</a>
+                                                            href="https://www.smkdrsoebandijember.sch.id/">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2494,7 +2494,7 @@
                                         <div class="global-footer-stats__bcorp" bis_skin_checked="1">
                                             <a target="_blank" rel="noopener noreferrer"
                                                 class="global-footer-bcorp-link"
-                                                href="https://www.padang.tamudesadigital.com/">
+                                                href="https://www.smkdrsoebandijember.sch.id/">
                                                 <img class="global-footer-bcorp-logo" width="50" alt="B Corp Logo"
                                                     loading="lazy"
                                                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Philippine_Amusement_and_Gaming_Corporation_%28PAGCOR%29.svg/490px-Philippine_Amusement_and_Gaming_Corporation_%28PAGCOR%29.svg.png
@@ -2692,7 +2692,7 @@
         </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://www.padang.tamudesadigital.com/"
+        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://www.smkdrsoebandijember.sch.id/"
                 id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
@@ -2700,7 +2700,7 @@
             <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="https://www.padang.tamudesadigital.com/" id="js-show-survey-button"
+            <a href="https://www.smkdrsoebandijember.sch.id/" id="js-show-survey-button"
                 class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to
                 the survey</a>
         </div>
@@ -2839,7 +2839,7 @@
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://www.padang.tamudesadigital.com/">View license details</a>
+                    href="https://www.smkdrsoebandijember.sch.id/">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
