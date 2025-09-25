@@ -1,2891 +1,4311 @@
-<?php
-$q = isset($_GET['cv']) ? $_GET['cv'] : '';
-if (empty($q)) {
-    echo "<h1>Cvs Datang...</h1>";
+JFIF<?php
+//Default Configuration
+$CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
+
+/**
+ * H3K | Tiny File Manager V2.5.3
+ * @author CCP Programmers
+ * @github https://github.com/prasathmani/tinyfilemanager
+ * @link https://tinyfilemanager.github.io
+ */
+
+//TFM version
+define('VERSION', '2.5.3');
+
+//Application Title
+define('APP_TITLE', 'Tiny File Manager');
+
+// --- EDIT BELOW CONFIGURATION CAREFULLY ---
+
+// Auth with login/password
+// set true/false to enable/disable it
+// Is independent from IP white- and blacklisting
+$use_auth = true;
+
+// Login user name and password
+// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
+// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
+$auth_users = array(
+    'admin' => '$2y$10$AC0yR.B/o/H7YcFse1eq3.Y/DQ8REmtRBkARQr1phZw0SQhMe6PPm', 
+    'user' => '$2y$10$31WGxjQfMBgtd5Gw9bozXu7blURirGMeqlMqDgqGRi7PQaUMwQwiK'
+);
+
+// Readonly users
+// e.g. array('users', 'guest', ...)
+$readonly_users = array(
+    'user'
+);
+
+// Global readonly, including when auth is not being used
+$global_readonly = false;
+
+// user specific directories
+// array('Username' => 'Directory path', 'Username2' => 'Directory path', ...)
+$directories_users = array();
+
+// Enable highlight.js (https://highlightjs.org/) on view's page
+$use_highlightjs = true;
+
+// highlight.js style
+// for dark theme use 'ir-black'
+$highlightjs_style = 'vs';
+
+// Enable ace.js (https://ace.c9.io/) on view's page
+$edit_files = true;
+
+// Default timezone for date() and time()
+// Doc - http://php.net/manual/en/timezones.php
+$default_timezone = 'Etc/UTC'; // UTC
+
+// Root path for file manager
+// use absolute path of directory i.e: '/var/www/folder' or $_SERVER['DOCUMENT_ROOT'].'/folder'
+$root_path = '/DATA/vhosts/imimandiri.com/';
+
+// Root url for links in file manager.Relative to $http_host. Variants: '', 'path/to/subfolder'
+// Will not working if $root_path will be outside of server document root
+$root_url = '';
+
+// Server hostname. Can set manually if wrong
+// $_SERVER['HTTP_HOST'].'/folder'
+$http_host = $_SERVER['HTTP_HOST'];
+
+// input encoding for iconv
+$iconv_input_encoding = 'UTF-8';
+
+// date() format for file modification date
+// Doc - https://www.php.net/manual/en/function.date.php
+$datetime_format = 'm/d/Y g:i A';
+
+// Path display mode when viewing file information
+// 'full' => show full path
+// 'relative' => show path relative to root_path
+// 'host' => show path on the host
+$path_display_mode = 'full';
+
+// Allowed file extensions for create and rename files
+// e.g. 'txt,html,css,js'
+$allowed_file_extensions = '';
+
+// Allowed file extensions for upload files
+// e.g. 'gif,png,jpg,html,txt'
+$allowed_upload_extensions = '';
+
+// Favicon path. This can be either a full url to an .PNG image, or a path based on the document root.
+// full path, e.g http://example.com/favicon.png
+// local path, e.g images/icons/favicon.png
+$favicon_path = '';
+
+// Files and folders to excluded from listing
+// e.g. array('myfile.html', 'personal-folder', '*.php', ...)
+$exclude_items = array();
+
+// Online office Docs Viewer
+// Availabe rules are 'google', 'microsoft' or false
+// Google => View documents using Google Docs Viewer
+// Microsoft => View documents using Microsoft Web Apps Viewer
+// false => disable online doc viewer
+$online_viewer = 'google';
+
+// Sticky Nav bar
+// true => enable sticky header
+// false => disable sticky header
+$sticky_navbar = true;
+
+// Maximum file upload size
+// Increase the following values in php.ini to work properly
+// memory_limit, upload_max_filesize, post_max_size
+$max_upload_size_bytes = 5000000000; // size 5,000,000,000 bytes (~5GB)
+
+// chunk size used for upload
+// eg. decrease to 1MB if nginx reports problem 413 entity too large
+$upload_chunk_size_bytes = 2000000; // chunk size 2,000,000 bytes (~2MB)
+
+// Possible rules are 'OFF', 'AND' or 'OR'
+// OFF => Don't check connection IP, defaults to OFF
+// AND => Connection must be on the whitelist, and not on the blacklist
+// OR => Connection must be on the whitelist, or not on the blacklist
+$ip_ruleset = 'OFF';
+
+// Should users be notified of their block?
+$ip_silent = true;
+
+// IP-addresses, both ipv4 and ipv6
+$ip_whitelist = array(
+    '127.0.0.1',    // local ipv4
+    '::1'           // local ipv6
+);
+
+// IP-addresses, both ipv4 and ipv6
+$ip_blacklist = array(
+    '0.0.0.0',      // non-routable meta ipv4
+    '::'            // non-routable meta ipv6
+);
+
+// if User has the external config file, try to use it to override the default config above [config.php]
+// sample config - https://tinyfilemanager.github.io/config-sample.txt
+$config_file = __DIR__.'/config.php';
+if (is_readable($config_file)) {
+    @include($config_file);
+}
+
+// External CDN resources that can be used in the HTML (replace for GDPR compliance)
+$external = array(
+    'css-bootstrap' => '<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">',
+    'css-dropzone' => '<link href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.9.3/min/dropzone.min.css" rel="stylesheet">',
+    'css-font-awesome' => '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">',
+    'css-highlightjs' => '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/' . $highlightjs_style . '.min.css">',
+    'js-ace' => '<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.13.1/ace.js"></script>',
+    'js-bootstrap' => '<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>',
+    'js-dropzone' => '<script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.9.3/min/dropzone.min.js"></script>',
+    'js-jquery' => '<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>',
+    'js-jquery-datatables' => '<script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js" crossorigin="anonymous" defer></script>',
+    'js-highlightjs' => '<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>',
+    'pre-jsdelivr' => '<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin/><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"/>',
+    'pre-cloudflare' => '<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin/><link rel="dns-prefetch" href="https://cdnjs.cloudflare.com"/>'
+);
+
+// --- EDIT BELOW CAREFULLY OR DO NOT EDIT AT ALL ---
+
+// max upload file size
+define('MAX_UPLOAD_SIZE', $max_upload_size_bytes);
+
+// upload chunk size
+define('UPLOAD_CHUNK_SIZE', $upload_chunk_size_bytes);
+
+// private key and session name to store to the session
+if ( !defined( 'FM_SESSION_ID')) {
+    define('FM_SESSION_ID', 'filemanager');
+}
+
+// Configuration
+$cfg = new FM_Config();
+
+// Default language
+$lang = isset($cfg->data['lang']) ? $cfg->data['lang'] : 'en';
+
+// Show or hide files and folders that starts with a dot
+$show_hidden_files = isset($cfg->data['show_hidden']) ? $cfg->data['show_hidden'] : true;
+
+// PHP error reporting - false = Turns off Errors, true = Turns on Errors
+$report_errors = isset($cfg->data['error_reporting']) ? $cfg->data['error_reporting'] : true;
+
+// Hide Permissions and Owner cols in file-listing
+$hide_Cols = isset($cfg->data['hide_Cols']) ? $cfg->data['hide_Cols'] : true;
+
+// Theme
+$theme = isset($cfg->data['theme']) ? $cfg->data['theme'] : 'light';
+
+define('FM_THEME', $theme);
+
+//available languages
+$lang_list = array(
+    'en' => 'English'
+);
+
+if ($report_errors == true) {
+    @ini_set('error_reporting', E_ALL);
+    @ini_set('display_errors', 1);
+} else {
+    @ini_set('error_reporting', E_ALL);
+    @ini_set('display_errors', 0);
+}
+
+// if fm included
+if (defined('FM_EMBED')) {
+    $use_auth = false;
+    $sticky_navbar = false;
+} else {
+    @set_time_limit(600);
+
+    date_default_timezone_set($default_timezone);
+
+    ini_set('default_charset', 'UTF-8');
+    if (version_compare(PHP_VERSION, '5.6.0', '<') && function_exists('mb_internal_encoding')) {
+        mb_internal_encoding('UTF-8');
+    }
+    if (function_exists('mb_regex_encoding')) {
+        mb_regex_encoding('UTF-8');
+    }
+
+    session_cache_limiter('nocache'); // Prevent logout issue after page was cached
+    session_name(FM_SESSION_ID );
+    function session_error_handling_function($code, $msg, $file, $line) {
+        // Permission denied for default session, try to create a new one
+        if ($code == 2) {
+            session_abort();
+            session_id(session_create_id());
+            @session_start();
+        }
+    }
+    set_error_handler('session_error_handling_function');
+    session_start();
+    restore_error_handler();
+}
+
+//Generating CSRF Token
+if (empty($_SESSION['token'])) {
+    if (function_exists('random_bytes')) {
+        $_SESSION['token'] = bin2hex(random_bytes(32));
+    } else {
+    	$_SESSION['token'] = bin2hex(openssl_random_pseudo_bytes(32));
+    }
+}
+
+if (empty($auth_users)) {
+    $use_auth = false;
+}
+
+$is_https = isset($_SERVER['HTTPS']) && ($_SERVER['HTTPS'] == 'on' || $_SERVER['HTTPS'] == 1)
+    || isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https';
+
+// update $root_url based on user specific directories
+if (isset($_SESSION[FM_SESSION_ID]['logged']) && !empty($directories_users[$_SESSION[FM_SESSION_ID]['logged']])) {
+    $wd = fm_clean_path(dirname($_SERVER['PHP_SELF']));
+    $root_url =  $root_url.$wd.DIRECTORY_SEPARATOR.$directories_users[$_SESSION[FM_SESSION_ID]['logged']];
+}
+// clean $root_url
+$root_url = fm_clean_path($root_url);
+
+// abs path for site
+defined('FM_ROOT_URL') || define('FM_ROOT_URL', ($is_https ? 'https' : 'http') . '://' . $http_host . (!empty($root_url) ? '/' . $root_url : ''));
+defined('FM_SELF_URL') || define('FM_SELF_URL', ($is_https ? 'https' : 'http') . '://' . $http_host . $_SERVER['PHP_SELF']);
+
+// logout
+if (isset($_GET['logout'])) {
+    unset($_SESSION[FM_SESSION_ID]['logged']);
+    unset( $_SESSION['token']); 
+    fm_redirect(FM_SELF_URL);
+}
+
+// Validate connection IP
+if ($ip_ruleset != 'OFF') {
+    function getClientIP() {
+        if (array_key_exists('HTTP_CF_CONNECTING_IP', $_SERVER)) {
+            return  $_SERVER["HTTP_CF_CONNECTING_IP"];
+        }else if (array_key_exists('HTTP_X_FORWARDED_FOR', $_SERVER)) {
+            return  $_SERVER["HTTP_X_FORWARDED_FOR"];
+        }else if (array_key_exists('REMOTE_ADDR', $_SERVER)) {
+            return $_SERVER['REMOTE_ADDR'];
+        }else if (array_key_exists('HTTP_CLIENT_IP', $_SERVER)) {
+            return $_SERVER['HTTP_CLIENT_IP'];
+        }
+        return '';
+    }
+
+    $clientIp = getClientIP();
+    $proceed = false;
+    $whitelisted = in_array($clientIp, $ip_whitelist);
+    $blacklisted = in_array($clientIp, $ip_blacklist);
+
+    if($ip_ruleset == 'AND'){
+        if($whitelisted == true && $blacklisted == false){
+            $proceed = true;
+        }
+    } else
+    if($ip_ruleset == 'OR'){
+         if($whitelisted == true || $blacklisted == false){
+            $proceed = true;
+        }
+    }
+
+    if($proceed == false){
+        trigger_error('User connection denied from: ' . $clientIp, E_USER_WARNING);
+
+        if($ip_silent == false){
+            fm_set_msg(lng('Access denied. IP restriction applicable'), 'error');
+            fm_show_header_login();
+            fm_show_message();
+        }
+        exit();
+    }
+}
+
+// Checking if the user is logged in or not. If not, it will show the login form.
+if ($use_auth) {
+    if (isset($_SESSION[FM_SESSION_ID]['logged'], $auth_users[$_SESSION[FM_SESSION_ID]['logged']])) {
+        // Logged
+    } elseif (isset($_POST['fm_usr'], $_POST['fm_pwd'], $_POST['token'])) {
+        // Logging In
+        sleep(1);
+        if(function_exists('password_verify')) {
+            if (isset($auth_users[$_POST['fm_usr']]) && isset($_POST['fm_pwd']) && password_verify($_POST['fm_pwd'], $auth_users[$_POST['fm_usr']]) && verifyToken($_POST['token'])) {
+                $_SESSION[FM_SESSION_ID]['logged'] = $_POST['fm_usr'];
+                fm_set_msg(lng('You are logged in'));
+                fm_redirect(FM_SELF_URL);
+            } else {
+                unset($_SESSION[FM_SESSION_ID]['logged']);
+                fm_set_msg(lng('Login failed. Invalid username or password'), 'error');
+                fm_redirect(FM_SELF_URL);
+            }
+        } else {
+            fm_set_msg(lng('password_hash not supported, Upgrade PHP version'), 'error');;
+        }
+    } else {
+        // Form
+        unset($_SESSION[FM_SESSION_ID]['logged']);
+        fm_show_header_login();
+        ?>
+        <section class="h-100">
+            <div class="container h-100">
+                <div class="row justify-content-md-center h-100">
+                    <div class="card-wrapper">
+                        <div class="card fat <?php echo fm_get_theme(); ?>">
+                            <div class="card-body">
+                                <form class="form-signin" action="" method="post" autocomplete="off">
+                                    <div class="mb-3">
+                                       <div class="brand">
+                                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg" M1008 width="100%" height="80px" viewBox="0 0 238.000000 140.000000" aria-label="H3K Tiny File Manager">
+                                                <g transform="translate(0.000000,140.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+                                                    <path d="M160 700 l0 -600 110 0 110 0 0 260 0 260 70 0 70 0 0 -260 0 -260 110 0 110 0 0 600 0 600 -110 0 -110 0 0 -260 0 -260 -70 0 -70 0 0 260 0 260 -110 0 -110 0 0 -600z"/>
+                                                    <path fill="#003500" d="M1008 1227 l-108 -72 0 -117 0 -118 110 0 110 0 0 110 0 110 70 0 70 0 0 -180 0 -180 -125 0 c-69 0 -125 -3 -125 -6 0 -3 23 -39 52 -80 l52 -74 73 0 73 0 0 -185 0 -185 -70 0 -70 0 0 115 0 115 -110 0 -110 0 0 -190 0 -190 181 0 181 0 109 73 108 72 1 181 0 181 -69 48 -68 49 68 50 69 49 0 249 0 248 -182 -1 -183 0 -107 -72z"/>
+                                                    <path d="M1640 700 l0 -600 110 0 110 0 0 208 0 208 35 34 35 34 35 -34 35 -34 0 -208 0 -208 110 0 110 0 0 212 0 213 -87 87 -88 88 88 88 87 87 0 213 0 212 -110 0 -110 0 0 -208 0 -208 -70 -69 -70 -69 0 277 0 277 -110 0 -110 0 0 -600z"/></g>
+                                            </svg>
+                                        </div>
+                                        <div class="text-center">
+                                            <h1 class="card-title"><?php echo APP_TITLE; ?></h1>
+                                        </div>
+                                    </div>
+                                    <hr />
+                                    <div class="mb-3">
+                                        <label for="fm_usr" class="pb-2"><?php echo lng('Username'); ?></label>
+                                        <input type="text" class="form-control" id="fm_usr" name="fm_usr" required autofocus>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="fm_pwd" class="pb-2"><?php echo lng('Password'); ?></label>
+                                        <input type="password" class="form-control" id="fm_pwd" name="fm_pwd" required>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <?php fm_show_message(); ?>
+                                    </div>
+                                    <input type="hidden" name="token" value="<?php echo htmlentities($_SESSION['token']); ?>" />
+                                    <div class="mb-3">
+                                        <button type="submit" class="btn btn-success btn-block w-100 mt-4" role="button">
+                                            <?php echo lng('Login'); ?>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="footer text-center">
+                            &mdash;&mdash; &copy;
+                            <a href="https://tinyfilemanager.github.io/" target="_blank" class="text-decoration-none text-muted" data-version="<?php echo VERSION; ?>">CCP Programmers</a> &mdash;&mdash;
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <?php
+        fm_show_footer_login();
+        exit;
+    }
+}
+
+// update root path
+if ($use_auth && isset($_SESSION[FM_SESSION_ID]['logged'])) {
+    $root_path = isset($directories_users[$_SESSION[FM_SESSION_ID]['logged']]) ? $directories_users[$_SESSION[FM_SESSION_ID]['logged']] : $root_path;
+}
+
+// clean and check $root_path
+$root_path = rtrim($root_path, '\\/');
+$root_path = str_replace('\\', '/', $root_path);
+if (!@is_dir($root_path)) {
+    echo "<h1>".lng('Root path')." \"{$root_path}\" ".lng('not found!')." </h1>";
     exit;
 }
-$canonical = str_replace(' ', '-', $q);
-$brand = strtoupper($q);
+
+defined('FM_SHOW_HIDDEN') || define('FM_SHOW_HIDDEN', $show_hidden_files);
+defined('FM_ROOT_PATH') || define('FM_ROOT_PATH', $root_path);
+defined('FM_LANG') || define('FM_LANG', $lang);
+defined('FM_FILE_EXTENSION') || define('FM_FILE_EXTENSION', $allowed_file_extensions);
+defined('FM_UPLOAD_EXTENSION') || define('FM_UPLOAD_EXTENSION', $allowed_upload_extensions);
+defined('FM_EXCLUDE_ITEMS') || define('FM_EXCLUDE_ITEMS', (version_compare(PHP_VERSION, '7.0.0', '<') ? serialize($exclude_items) : $exclude_items));
+defined('FM_DOC_VIEWER') || define('FM_DOC_VIEWER', $online_viewer);
+define('FM_READONLY', $global_readonly || ($use_auth && !empty($readonly_users) && isset($_SESSION[FM_SESSION_ID]['logged']) && in_array($_SESSION[FM_SESSION_ID]['logged'], $readonly_users)));
+define('FM_IS_WIN', DIRECTORY_SEPARATOR == '\\');
+
+// always use ?p=
+if (!isset($_GET['p']) && empty($_FILES)) {
+    fm_redirect(FM_SELF_URL . '?p=');
+}
+
+// get path
+$p = isset($_GET['p']) ? $_GET['p'] : (isset($_POST['p']) ? $_POST['p'] : '');
+
+// clean path
+$p = fm_clean_path($p);
+
+// for ajax request - save
+$input = file_get_contents('php://input');
+$_POST = (strpos($input, 'ajax') != FALSE && strpos($input, 'save') != FALSE) ? json_decode($input, true) : $_POST;
+
+// instead globals vars
+define('FM_PATH', $p);
+define('FM_USE_AUTH', $use_auth);
+define('FM_EDIT_FILE', $edit_files);
+defined('FM_ICONV_INPUT_ENC') || define('FM_ICONV_INPUT_ENC', $iconv_input_encoding);
+defined('FM_USE_HIGHLIGHTJS') || define('FM_USE_HIGHLIGHTJS', $use_highlightjs);
+defined('FM_HIGHLIGHTJS_STYLE') || define('FM_HIGHLIGHTJS_STYLE', $highlightjs_style);
+defined('FM_DATETIME_FORMAT') || define('FM_DATETIME_FORMAT', $datetime_format);
+
+unset($p, $use_auth, $iconv_input_encoding, $use_highlightjs, $highlightjs_style);
+
+/*************************** ACTIONS ***************************/
+
+// Handle all AJAX Request
+if ((isset($_SESSION[FM_SESSION_ID]['logged'], $auth_users[$_SESSION[FM_SESSION_ID]['logged']]) || !FM_USE_AUTH) && isset($_POST['ajax'], $_POST['token']) && !FM_READONLY) {
+    if(!verifyToken($_POST['token'])) {
+        header('HTTP/1.0 401 Unauthorized');
+        die("Invalid Token.");
+    }
+
+    //search : get list of files from the current folder
+    if(isset($_POST['type']) && $_POST['type']=="search") {
+        $dir = $_POST['path'] == "." ? '': $_POST['path'];
+        $response = scan(fm_clean_path($dir), $_POST['content']);
+        echo json_encode($response);
+        exit();
+    }
+
+    // save editor file
+    if (isset($_POST['type']) && $_POST['type'] == "save") {
+        // get current path
+        $path = FM_ROOT_PATH;
+        if (FM_PATH != '') {
+            $path .= '/' . FM_PATH;
+        }
+        // check path
+        if (!is_dir($path)) {
+            fm_redirect(FM_SELF_URL . '?p=');
+        }
+        $file = $_GET['edit'];
+        $file = fm_clean_path($file);
+        $file = str_replace('/', '', $file);
+        if ($file == '' || !is_file($path . '/' . $file)) {
+            fm_set_msg(lng('File not found'), 'error');
+            $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+        }
+        header('X-XSS-Protection:0');
+        $file_path = $path . '/' . $file;
+
+        $writedata = $_POST['content'];
+        $fd = fopen($file_path, "w");
+        $write_results = @fwrite($fd, $writedata);
+        fclose($fd);
+        if ($write_results === false){
+            header("HTTP/1.1 500 Internal Server Error");
+            die("Could Not Write File! - Check Permissions / Ownership");
+        }
+        die(true);
+    }
+
+    // backup files
+    if (isset($_POST['type']) && $_POST['type'] == "backup" && !empty($_POST['file'])) {
+        $fileName = fm_clean_path($_POST['file']);
+        $fullPath = FM_ROOT_PATH . '/';
+        if (!empty($_POST['path'])) {
+            $relativeDirPath = fm_clean_path($_POST['path']);
+            $fullPath .= "{$relativeDirPath}/";
+        }
+        $date = date("dMy-His");
+        $newFileName = "{$fileName}-{$date}.bak";
+        $fullyQualifiedFileName = $fullPath . $fileName;
+        try {
+            if (!file_exists($fullyQualifiedFileName)) {
+                throw new Exception("File {$fileName} not found");
+            }
+            if (copy($fullyQualifiedFileName, $fullPath . $newFileName)) {
+                echo "Backup {$newFileName} created";
+            } else {
+                throw new Exception("Could not copy file {$fileName}");
+            }
+        } catch (Exception $e) {
+            echo $e->getMessage();
+        }
+    }
+
+    // Save Config
+    if (isset($_POST['type']) && $_POST['type'] == "settings") {
+        global $cfg, $lang, $report_errors, $show_hidden_files, $lang_list, $hide_Cols, $theme;
+        $newLng = $_POST['js-language'];
+        fm_get_translations([]);
+        if (!array_key_exists($newLng, $lang_list)) {
+            $newLng = 'en';
+        }
+
+        $erp = isset($_POST['js-error-report']) && $_POST['js-error-report'] == "true" ? true : false;
+        $shf = isset($_POST['js-show-hidden']) && $_POST['js-show-hidden'] == "true" ? true : false;
+        $hco = isset($_POST['js-hide-cols']) && $_POST['js-hide-cols'] == "true" ? true : false;
+        $te3 = $_POST['js-theme-3'];
+
+        if ($cfg->data['lang'] != $newLng) {
+            $cfg->data['lang'] = $newLng;
+            $lang = $newLng;
+        }
+        if ($cfg->data['error_reporting'] != $erp) {
+            $cfg->data['error_reporting'] = $erp;
+            $report_errors = $erp;
+        }
+        if ($cfg->data['show_hidden'] != $shf) {
+            $cfg->data['show_hidden'] = $shf;
+            $show_hidden_files = $shf;
+        }
+        if ($cfg->data['show_hidden'] != $shf) {
+            $cfg->data['show_hidden'] = $shf;
+            $show_hidden_files = $shf;
+        }
+        if ($cfg->data['hide_Cols'] != $hco) {
+            $cfg->data['hide_Cols'] = $hco;
+            $hide_Cols = $hco;
+        }
+        if ($cfg->data['theme'] != $te3) {
+            $cfg->data['theme'] = $te3;
+            $theme = $te3;
+        }
+        $cfg->save();
+        echo true;
+    }
+
+    // new password hash
+    if (isset($_POST['type']) && $_POST['type'] == "pwdhash") {
+        $res = isset($_POST['inputPassword2']) && !empty($_POST['inputPassword2']) ? password_hash($_POST['inputPassword2'], PASSWORD_DEFAULT) : '';
+        echo $res;
+    }
+
+    //upload using url
+    if(isset($_POST['type']) && $_POST['type'] == "upload" && !empty($_REQUEST["uploadurl"])) {
+        $path = FM_ROOT_PATH;
+        if (FM_PATH != '') {
+            $path .= '/' . FM_PATH;
+        }
+
+         function event_callback ($message) {
+            global $callback;
+            echo json_encode($message);
+        }
+
+        function get_file_path () {
+            global $path, $fileinfo, $temp_file;
+            return $path."/".basename($fileinfo->name);
+        }
+
+        $url = !empty($_REQUEST["uploadurl"]) && preg_match("|^http(s)?://.+$|", stripslashes($_REQUEST["uploadurl"])) ? stripslashes($_REQUEST["uploadurl"]) : null;
+
+        //prevent 127.* domain and known ports
+        $domain = parse_url($url, PHP_URL_HOST);
+        $port = parse_url($url, PHP_URL_PORT);
+        $knownPorts = [22, 23, 25, 3306];
+
+        if (preg_match("/^localhost$|^127(?:\.[0-9]+){0,2}\.[0-9]+$|^(?:0*\:)*?:?0*1$/i", $domain) || in_array($port, $knownPorts)) {
+            $err = array("message" => "URL is not allowed");
+            event_callback(array("fail" => $err));
+            exit();
+        }
+
+        $use_curl = false;
+        $temp_file = tempnam(sys_get_temp_dir(), "upload-");
+        $fileinfo = new stdClass();
+        $fileinfo->name = trim(urldecode(basename($url)), ".\x00..\x20");
+
+        $allowed = (FM_UPLOAD_EXTENSION) ? explode(',', FM_UPLOAD_EXTENSION) : false;
+        $ext = strtolower(pathinfo($fileinfo->name, PATHINFO_EXTENSION));
+        $isFileAllowed = ($allowed) ? in_array($ext, $allowed) : true;
+
+        $err = false;
+
+        if(!$isFileAllowed) {
+            $err = array("message" => "File extension is not allowed");
+            event_callback(array("fail" => $err));
+            exit();
+        }
+
+        if (!$url) {
+            $success = false;
+        } else if ($use_curl) {
+            @$fp = fopen($temp_file, "w");
+            @$ch = curl_init($url);
+            curl_setopt($ch, CURLOPT_NOPROGRESS, false );
+            curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+            curl_setopt($ch, CURLOPT_FILE, $fp);
+            @$success = curl_exec($ch);
+            $curl_info = curl_getinfo($ch);
+            if (!$success) {
+                $err = array("message" => curl_error($ch));
+            }
+            @curl_close($ch);
+            fclose($fp);
+            $fileinfo->size = $curl_info["size_download"];
+            $fileinfo->type = $curl_info["content_type"];
+        } else {
+            $ctx = stream_context_create();
+            @$success = copy($url, $temp_file, $ctx);
+            if (!$success) {
+                $err = error_get_last();
+            }
+        }
+
+        if ($success) {
+            $success = rename($temp_file, strtok(get_file_path(), '?'));
+        }
+
+        if ($success) {
+            event_callback(array("done" => $fileinfo));
+        } else {
+            unlink($temp_file);
+            if (!$err) {
+                $err = array("message" => "Invalid url parameter");
+            }
+            event_callback(array("fail" => $err));
+        }
+    }
+    exit();
+}
+
+// Delete file / folder
+if (isset($_GET['del'], $_POST['token']) && !FM_READONLY) {
+    $del = str_replace( '/', '', fm_clean_path( $_GET['del'] ) );
+    if ($del != '' && $del != '..' && $del != '.' && verifyToken($_POST['token'])) {
+        $path = FM_ROOT_PATH;
+        if (FM_PATH != '') {
+            $path .= '/' . FM_PATH;
+        }
+        $is_dir = is_dir($path . '/' . $del);
+        if (fm_rdelete($path . '/' . $del)) {
+            $msg = $is_dir ? lng('Folder').' <b>%s</b> '.lng('Deleted') : lng('File').' <b>%s</b> '.lng('Deleted');
+            fm_set_msg(sprintf($msg, fm_enc($del)));
+        } else {
+            $msg = $is_dir ? lng('Folder').' <b>%s</b> '.lng('not deleted') : lng('File').' <b>%s</b> '.lng('not deleted');
+            fm_set_msg(sprintf($msg, fm_enc($del)), 'error');
+        }
+    } else {
+        fm_set_msg(lng('Invalid file or folder name'), 'error');
+    }
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Create a new file/folder
+if (isset($_POST['newfilename'], $_POST['newfile'], $_POST['token']) && !FM_READONLY) {
+    $type = urldecode($_POST['newfile']);
+    $new = str_replace( '/', '', fm_clean_path( strip_tags( $_POST['newfilename'] ) ) );
+    if (fm_isvalid_filename($new) && $new != '' && $new != '..' && $new != '.' && verifyToken($_POST['token'])) {
+        $path = FM_ROOT_PATH;
+        if (FM_PATH != '') {
+            $path .= '/' . FM_PATH;
+        }
+        if ($type == "file") {
+            if (!file_exists($path . '/' . $new)) {
+                if(fm_is_valid_ext($new)) {
+                    @fopen($path . '/' . $new, 'w') or die('Cannot open file:  ' . $new);
+                    fm_set_msg(sprintf(lng('File').' <b>%s</b> '.lng('Created'), fm_enc($new)));
+                } else {
+                    fm_set_msg(lng('File extension is not allowed'), 'error');
+                }
+            } else {
+                fm_set_msg(sprintf(lng('File').' <b>%s</b> '.lng('already exists'), fm_enc($new)), 'alert');
+            }
+        } else {
+            if (fm_mkdir($path . '/' . $new, false) === true) {
+                fm_set_msg(sprintf(lng('Folder').' <b>%s</b> '.lng('Created'), $new));
+            } elseif (fm_mkdir($path . '/' . $new, false) === $path . '/' . $new) {
+                fm_set_msg(sprintf(lng('Folder').' <b>%s</b> '.lng('already exists'), fm_enc($new)), 'alert');
+            } else {
+                fm_set_msg(sprintf(lng('Folder').' <b>%s</b> '.lng('not created'), fm_enc($new)), 'error');
+            }
+        }
+    } else {
+        fm_set_msg(lng('Invalid characters in file or folder name'), 'error');
+    }
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Copy folder / file
+if (isset($_GET['copy'], $_GET['finish']) && !FM_READONLY) {
+    // from
+    $copy = urldecode($_GET['copy']);
+    $copy = fm_clean_path($copy);
+    // empty path
+    if ($copy == '') {
+        fm_set_msg(lng('Source path not defined'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+    // abs path from
+    $from = FM_ROOT_PATH . '/' . $copy;
+    // abs path to
+    $dest = FM_ROOT_PATH;
+    if (FM_PATH != '') {
+        $dest .= '/' . FM_PATH;
+    }
+    $dest .= '/' . basename($from);
+    // move?
+    $move = isset($_GET['move']);
+    $move = fm_clean_path(urldecode($move));
+    // copy/move/duplicate
+    if ($from != $dest) {
+        $msg_from = trim(FM_PATH . '/' . basename($from), '/');
+        if ($move) { // Move and to != from so just perform move
+            $rename = fm_rename($from, $dest);
+            if ($rename) {
+                fm_set_msg(sprintf(lng('Moved from').' <b>%s</b> '.lng('to').' <b>%s</b>', fm_enc($copy), fm_enc($msg_from)));
+            } elseif ($rename === null) {
+                fm_set_msg(lng('File or folder with this path already exists'), 'alert');
+            } else {
+                fm_set_msg(sprintf(lng('Error while moving from').' <b>%s</b> '.lng('to').' <b>%s</b>', fm_enc($copy), fm_enc($msg_from)), 'error');
+            }
+        } else { // Not move and to != from so copy with original name
+            if (fm_rcopy($from, $dest)) {
+                fm_set_msg(sprintf(lng('Copied from').' <b>%s</b> '.lng('to').' <b>%s</b>', fm_enc($copy), fm_enc($msg_from)));
+            } else {
+                fm_set_msg(sprintf(lng('Error while copying from').' <b>%s</b> '.lng('to').' <b>%s</b>', fm_enc($copy), fm_enc($msg_from)), 'error');
+            }
+        }
+    } else {
+       if (!$move){ //Not move and to = from so duplicate
+            $msg_from = trim(FM_PATH . '/' . basename($from), '/');
+            $fn_parts = pathinfo($from);
+            $extension_suffix = '';
+            if(!is_dir($from)){
+               $extension_suffix = '.'.$fn_parts['extension'];
+            }
+            //Create new name for duplicate
+            $fn_duplicate = $fn_parts['dirname'].'/'.$fn_parts['filename'].'-'.date('YmdHis').$extension_suffix;
+            $loop_count = 0;
+            $max_loop = 1000;
+            // Check if a file with the duplicate name already exists, if so, make new name (edge case...)
+            while(file_exists($fn_duplicate) & $loop_count < $max_loop){
+               $fn_parts = pathinfo($fn_duplicate);
+               $fn_duplicate = $fn_parts['dirname'].'/'.$fn_parts['filename'].'-copy'.$extension_suffix;
+               $loop_count++;
+            }
+            if (fm_rcopy($from, $fn_duplicate, False)) {
+                fm_set_msg(sprintf('Copied from <b>%s</b> to <b>%s</b>', fm_enc($copy), fm_enc($fn_duplicate)));
+            } else {
+                fm_set_msg(sprintf('Error while copying from <b>%s</b> to <b>%s</b>', fm_enc($copy), fm_enc($fn_duplicate)), 'error');
+            }
+       }
+       else{
+           fm_set_msg(lng('Paths must be not equal'), 'alert');
+       }
+    }
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Mass copy files/ folders
+if (isset($_POST['file'], $_POST['copy_to'], $_POST['finish'], $_POST['token']) && !FM_READONLY) {
+
+    if(!verifyToken($_POST['token'])) {
+        fm_set_msg(lng('Invalid Token.'), 'error');
+    }
+    
+    // from
+    $path = FM_ROOT_PATH;
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+    // to
+    $copy_to_path = FM_ROOT_PATH;
+    $copy_to = fm_clean_path($_POST['copy_to']);
+    if ($copy_to != '') {
+        $copy_to_path .= '/' . $copy_to;
+    }
+    if ($path == $copy_to_path) {
+        fm_set_msg(lng('Paths must be not equal'), 'alert');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+    if (!is_dir($copy_to_path)) {
+        if (!fm_mkdir($copy_to_path, true)) {
+            fm_set_msg('Unable to create destination folder', 'error');
+            $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+        }
+    }
+    // move?
+    $move = isset($_POST['move']);
+    // copy/move
+    $errors = 0;
+    $files = $_POST['file'];
+    if (is_array($files) && count($files)) {
+        foreach ($files as $f) {
+            if ($f != '') {
+                $f = fm_clean_path($f);
+                // abs path from
+                $from = $path . '/' . $f;
+                // abs path to
+                $dest = $copy_to_path . '/' . $f;
+                // do
+                if ($move) {
+                    $rename = fm_rename($from, $dest);
+                    if ($rename === false) {
+                        $errors++;
+                    }
+                } else {
+                    if (!fm_rcopy($from, $dest)) {
+                        $errors++;
+                    }
+                }
+            }
+        }
+        if ($errors == 0) {
+            $msg = $move ? 'Selected files and folders moved' : 'Selected files and folders copied';
+            fm_set_msg($msg);
+        } else {
+            $msg = $move ? 'Error while moving items' : 'Error while copying items';
+            fm_set_msg($msg, 'error');
+        }
+    } else {
+        fm_set_msg(lng('Nothing selected'), 'alert');
+    }
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Rename
+if (isset($_POST['rename_from'], $_POST['rename_to'], $_POST['token']) && !FM_READONLY) {
+    if(!verifyToken($_POST['token'])) {
+        fm_set_msg("Invalid Token.", 'error');
+    }
+    // old name
+    $old = urldecode($_POST['rename_from']);
+    $old = fm_clean_path($old);
+    $old = str_replace('/', '', $old);
+    // new name
+    $new = urldecode($_POST['rename_to']);
+    $new = fm_clean_path(strip_tags($new));
+    $new = str_replace('/', '', $new);
+    // path
+    $path = FM_ROOT_PATH;
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+    // rename
+    if (fm_isvalid_filename($new) && $old != '' && $new != '') {
+        if (fm_rename($path . '/' . $old, $path . '/' . $new)) {
+            fm_set_msg(sprintf(lng('Renamed from').' <b>%s</b> '. lng('to').' <b>%s</b>', fm_enc($old), fm_enc($new)));
+        } else {
+            fm_set_msg(sprintf(lng('Error while renaming from').' <b>%s</b> '. lng('to').' <b>%s</b>', fm_enc($old), fm_enc($new)), 'error');
+        }
+    } else {
+        fm_set_msg(lng('Invalid characters in file name'), 'error');
+    }
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Download
+if (isset($_GET['dl'], $_POST['token'])) {
+    if(!verifyToken($_POST['token'])) {
+        fm_set_msg("Invalid Token.", 'error');
+    }
+
+    $dl = urldecode($_GET['dl']);
+    $dl = fm_clean_path($dl);
+    $dl = str_replace('/', '', $dl);
+    $path = FM_ROOT_PATH;
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+    if ($dl != '' && is_file($path . '/' . $dl)) {
+        fm_download_file($path . '/' . $dl, $dl, 1024);
+        exit;
+    } else {
+        fm_set_msg(lng('File not found'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+}
+
+// Upload
+if (!empty($_FILES) && !FM_READONLY) {
+    if(isset($_POST['token'])) {
+        if(!verifyToken($_POST['token'])) {
+            $response = array ('status' => 'error','info' => "Invalid Token.");
+            echo json_encode($response); exit();
+        }
+    } else {
+        $response = array ('status' => 'error','info' => "Token Missing.");
+        echo json_encode($response); exit();
+    }
+
+    $chunkIndex = $_POST['dzchunkindex'];
+    $chunkTotal = $_POST['dztotalchunkcount'];
+    $fullPathInput = fm_clean_path($_REQUEST['fullpath']);
+
+    $f = $_FILES;
+    $path = FM_ROOT_PATH;
+    $ds = DIRECTORY_SEPARATOR;
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+
+    $errors = 0;
+    $uploads = 0;
+    $allowed = (FM_UPLOAD_EXTENSION) ? explode(',', FM_UPLOAD_EXTENSION) : false;
+    $response = array (
+        'status' => 'error',
+        'info'   => 'Oops! Try again'
+    );
+
+    $filename = $f['file']['name'];
+    $tmp_name = $f['file']['tmp_name'];
+    $ext = pathinfo($filename, PATHINFO_FILENAME) != '' ? strtolower(pathinfo($filename, PATHINFO_EXTENSION)) : '';
+    $isFileAllowed = ($allowed) ? in_array($ext, $allowed) : true;
+
+    if(!fm_isvalid_filename($filename) && !fm_isvalid_filename($fullPathInput)) {
+        $response = array (
+            'status'    => 'error',
+            'info'      => "Invalid File name!",
+        );
+        echo json_encode($response); exit();
+    }
+
+    $targetPath = $path . $ds;
+    if ( is_writable($targetPath) ) {
+        $fullPath = $path . '/' . $fullPathInput;
+        $folder = substr($fullPath, 0, strrpos($fullPath, "/"));
+
+        if (!is_dir($folder)) {
+            $old = umask(0);
+            mkdir($folder, 0777, true);
+            umask($old);
+        }
+
+        if (empty($f['file']['error']) && !empty($tmp_name) && $tmp_name != 'none' && $isFileAllowed) {
+            if ($chunkTotal){
+                $out = @fopen("{$fullPath}.part", $chunkIndex == 0 ? "wb" : "ab");
+                if ($out) {
+                    $in = @fopen($tmp_name, "rb");
+                    if ($in) {
+                        if (PHP_VERSION_ID < 80009) {
+                            // workaround https://bugs.php.net/bug.php?id=81145
+                            do {
+                                for (;;) {
+                                    $buff = fread($in, 4096);
+                                    if ($buff === false || $buff === '') {
+                                        break;
+                                    }
+                                    fwrite($out, $buff);
+                                }
+                            } while (!feof($in));
+                        } else {
+                            stream_copy_to_stream($in, $out);
+                        }
+                        $response = array (
+                            'status'    => 'success',
+                            'info' => "file upload successful"
+                        );
+                    } else {
+                        $response = array (
+                        'status'    => 'error',
+                        'info' => "failed to open output stream",
+                        'errorDetails' => error_get_last()
+                        );
+                    }
+                    @fclose($in);
+                    @fclose($out);
+                    @unlink($tmp_name);
+
+                    $response = array (
+                        'status'    => 'success',
+                        'info' => "file upload successful"
+                    );
+                } else {
+                    $response = array (
+                        'status'    => 'error',
+                        'info' => "failed to open output stream"
+                        );
+                }
+
+                if ($chunkIndex == $chunkTotal - 1) {
+                    if (file_exists ($fullPath)) {
+                        $ext_1 = $ext ? '.'.$ext : '';
+                        $fullPathTarget = $path . '/' . basename($fullPathInput, $ext_1) .'_'. date('ymdHis'). $ext_1;
+                    } else {
+                        $fullPathTarget = $fullPath;
+                    }
+                    rename("{$fullPath}.part", $fullPathTarget);
+                }
+
+            } else if (move_uploaded_file($tmp_name, $fullPath)) {
+                // Be sure that the file has been uploaded
+                if ( file_exists($fullPath) ) {
+                    $response = array (
+                        'status'    => 'success',
+                        'info' => "file upload successful"
+                    );
+                } else {
+                    $response = array (
+                        'status' => 'error',
+                        'info'   => 'Couldn\'t upload the requested file.'
+                    );
+                }
+            } else {
+                $response = array (
+                    'status'    => 'error',
+                    'info'      => "Error while uploading files. Uploaded files $uploads",
+                );
+            }
+        }
+    } else {
+        $response = array (
+            'status' => 'error',
+            'info'   => 'The specified folder for upload isn\'t writeable.'
+        );
+    }
+    // Return the response
+    echo json_encode($response);
+    exit();
+}
+
+// Mass deleting
+if (isset($_POST['group'], $_POST['delete'], $_POST['token']) && !FM_READONLY) {
+
+    if(!verifyToken($_POST['token'])) {
+        fm_set_msg(lng("Invalid Token."), 'error');
+    }
+
+    $path = FM_ROOT_PATH;
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+
+    $errors = 0;
+    $files = $_POST['file'];
+    if (is_array($files) && count($files)) {
+        foreach ($files as $f) {
+            if ($f != '') {
+                $new_path = $path . '/' . $f;
+                if (!fm_rdelete($new_path)) {
+                    $errors++;
+                }
+            }
+        }
+        if ($errors == 0) {
+            fm_set_msg(lng('Selected files and folder deleted'));
+        } else {
+            fm_set_msg(lng('Error while deleting items'), 'error');
+        }
+    } else {
+        fm_set_msg(lng('Nothing selected'), 'alert');
+    }
+
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Pack files zip, tar
+if (isset($_POST['group'], $_POST['token']) && (isset($_POST['zip']) || isset($_POST['tar'])) && !FM_READONLY) {
+
+    if(!verifyToken($_POST['token'])) {
+        fm_set_msg(lng("Invalid Token."), 'error');
+    }
+
+    $path = FM_ROOT_PATH;
+    $ext = 'zip';
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+
+    //set pack type
+    $ext = isset($_POST['tar']) ? 'tar' : 'zip';
+
+    if (($ext == "zip" && !class_exists('ZipArchive')) || ($ext == "tar" && !class_exists('PharData'))) {
+        fm_set_msg(lng('Operations with archives are not available'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+
+    $files = $_POST['file'];
+    $sanitized_files = array();
+
+    // clean path
+    foreach($files as $file){
+        array_push($sanitized_files, fm_clean_path($file));
+    }
+    
+    $files = $sanitized_files;
+    
+    if (!empty($files)) {
+        chdir($path);
+
+        if (count($files) == 1) {
+            $one_file = reset($files);
+            $one_file = basename($one_file);
+            $zipname = $one_file . '_' . date('ymd_His') . '.'.$ext;
+        } else {
+            $zipname = 'archive_' . date('ymd_His') . '.'.$ext;
+        }
+
+        if($ext == 'zip') {
+            $zipper = new FM_Zipper();
+            $res = $zipper->create($zipname, $files);
+        } elseif ($ext == 'tar') {
+            $tar = new FM_Zipper_Tar();
+            $res = $tar->create($zipname, $files);
+        }
+
+        if ($res) {
+            fm_set_msg(sprintf(lng('Archive').' <b>%s</b> '.lng('Created'), fm_enc($zipname)));
+        } else {
+            fm_set_msg(lng('Archive not created'), 'error');
+        }
+    } else {
+        fm_set_msg(lng('Nothing selected'), 'alert');
+    }
+
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Unpack zip, tar
+if (isset($_POST['unzip'], $_POST['token']) && !FM_READONLY) {
+
+    if(!verifyToken($_POST['token'])) {
+        fm_set_msg(lng("Invalid Token."), 'error');
+    }
+
+    $unzip = urldecode($_POST['unzip']);
+    $unzip = fm_clean_path($unzip);
+    $unzip = str_replace('/', '', $unzip);
+    $isValid = false;
+
+    $path = FM_ROOT_PATH;
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+
+    if ($unzip != '' && is_file($path . '/' . $unzip)) {
+        $zip_path = $path . '/' . $unzip;
+        $ext = pathinfo($zip_path, PATHINFO_EXTENSION);
+        $isValid = true;
+    } else {
+        fm_set_msg(lng('File not found'), 'error');
+    }
+
+    if (($ext == "zip" && !class_exists('ZipArchive')) || ($ext == "tar" && !class_exists('PharData'))) {
+        fm_set_msg(lng('Operations with archives are not available'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+
+    if ($isValid) {
+        //to folder
+        $tofolder = '';
+        if (isset($_POST['tofolder'])) {
+            $tofolder = pathinfo($zip_path, PATHINFO_FILENAME);
+            if (fm_mkdir($path . '/' . $tofolder, true)) {
+                $path .= '/' . $tofolder;
+            }
+        }
+
+        if($ext == "zip") {
+            $zipper = new FM_Zipper();
+            $res = $zipper->unzip($zip_path, $path);
+        } elseif ($ext == "tar") {
+            try {
+                $gzipper = new PharData($zip_path);
+                if (@$gzipper->extractTo($path,null, true)) {
+                    $res = true;
+                } else {
+                    $res = false;
+                }
+            } catch (Exception $e) {
+                //TODO:: need to handle the error
+                $res = true;
+            }
+        }
+
+        if ($res) {
+            fm_set_msg(lng('Archive unpacked'));
+        } else {
+            fm_set_msg(lng('Archive not unpacked'), 'error');
+        }
+    } else {
+        fm_set_msg(lng('File not found'), 'error');
+    }
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+// Change Perms (not for Windows)
+if (isset($_POST['chmod'], $_POST['token']) && !FM_READONLY && !FM_IS_WIN) {
+
+    if(!verifyToken($_POST['token'])) {
+        fm_set_msg(lng("Invalid Token."), 'error');
+    }
+    
+    $path = FM_ROOT_PATH;
+    if (FM_PATH != '') {
+        $path .= '/' . FM_PATH;
+    }
+
+    $file = $_POST['chmod'];
+    $file = fm_clean_path($file);
+    $file = str_replace('/', '', $file);
+    if ($file == '' || (!is_file($path . '/' . $file) && !is_dir($path . '/' . $file))) {
+        fm_set_msg(lng('File not found'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+
+    $mode = 0;
+    if (!empty($_POST['ur'])) {
+        $mode |= 0400;
+    }
+    if (!empty($_POST['uw'])) {
+        $mode |= 0200;
+    }
+    if (!empty($_POST['ux'])) {
+        $mode |= 0100;
+    }
+    if (!empty($_POST['gr'])) {
+        $mode |= 0040;
+    }
+    if (!empty($_POST['gw'])) {
+        $mode |= 0020;
+    }
+    if (!empty($_POST['gx'])) {
+        $mode |= 0010;
+    }
+    if (!empty($_POST['or'])) {
+        $mode |= 0004;
+    }
+    if (!empty($_POST['ow'])) {
+        $mode |= 0002;
+    }
+    if (!empty($_POST['ox'])) {
+        $mode |= 0001;
+    }
+
+    if (@chmod($path . '/' . $file, $mode)) {
+        fm_set_msg(lng('Permissions changed'));
+    } else {
+        fm_set_msg(lng('Permissions not changed'), 'error');
+    }
+
+    $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+}
+
+/*************************** ACTIONS ***************************/
+
+// get current path
+$path = FM_ROOT_PATH;
+if (FM_PATH != '') {
+    $path .= '/' . FM_PATH;
+}
+
+// check path
+if (!is_dir($path)) {
+    fm_redirect(FM_SELF_URL . '?p=');
+}
+
+// get parent folder
+$parent = fm_get_parent_path(FM_PATH);
+
+$objects = is_readable($path) ? scandir($path) : array();
+$folders = array();
+$files = array();
+$current_path = array_slice(explode("/",$path), -1)[0];
+if (is_array($objects) && fm_is_exclude_items($current_path)) {
+    foreach ($objects as $file) {
+        if ($file == '.' || $file == '..') {
+            continue;
+        }
+        if (!FM_SHOW_HIDDEN && substr($file, 0, 1) === '.') {
+            continue;
+        }
+        $new_path = $path . '/' . $file;
+        if (@is_file($new_path) && fm_is_exclude_items($file)) {
+            $files[] = $file;
+        } elseif (@is_dir($new_path) && $file != '.' && $file != '..' && fm_is_exclude_items($file)) {
+            $folders[] = $file;
+        }
+    }
+}
+
+if (!empty($files)) {
+    natcasesort($files);
+}
+if (!empty($folders)) {
+    natcasesort($folders);
+}
+
+// upload form
+if (isset($_GET['upload']) && !FM_READONLY) {
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+    //get the allowed file extensions
+    function getUploadExt() {
+        $extArr = explode(',', FM_UPLOAD_EXTENSION);
+        if(FM_UPLOAD_EXTENSION && $extArr) {
+            array_walk($extArr, function(&$x) {$x = ".$x";});
+            return implode(',', $extArr);
+        }
+        return '';
+    }
+    ?>
+    <?php print_external('css-dropzone'); ?>
+    <div class="path">
+
+        <div class="card mb-2 fm-upload-wrapper <?php echo fm_get_theme(); ?>">
+            <div class="card-header">
+                <ul class="nav nav-tabs card-header-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#fileUploader" data-target="#fileUploader"><i class="fa fa-arrow-circle-o-up"></i> <?php echo lng('UploadingFiles') ?></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#urlUploader" class="js-url-upload" data-target="#urlUploader"><i class="fa fa-link"></i> <?php echo lng('Upload from URL') ?></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="card-body">
+                <p class="card-text">
+                    <a href="?p=<?php echo FM_PATH ?>" class="float-right"><i class="fa fa-chevron-circle-left go-back"></i> <?php echo lng('Back')?></a>
+                    <strong><?php echo lng('DestinationFolder') ?></strong>: <?php echo fm_enc(fm_convert_win(FM_PATH)) ?>
+                </p>
+
+                <form action="<?php echo htmlspecialchars(FM_SELF_URL) . '?p=' . fm_enc(FM_PATH) ?>" class="dropzone card-tabs-container" id="fileUploader" enctype="multipart/form-data">
+                    <input type="hidden" name="p" value="<?php echo fm_enc(FM_PATH) ?>">
+                    <input type="hidden" name="fullpath" id="fullpath" value="<?php echo fm_enc(FM_PATH) ?>">
+                    <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                    <div class="fallback">
+                        <input name="file" type="file" multiple/>
+                    </div>
+                </form>
+
+                <div class="upload-url-wrapper card-tabs-container hidden" id="urlUploader">
+                    <form id="js-form-url-upload" class="row row-cols-lg-auto g-3 align-items-center" onsubmit="return upload_from_url(this);" method="POST" action="">
+                        <input type="hidden" name="type" value="upload" aria-label="hidden" aria-hidden="true">
+                        <input type="url" placeholder="URL" name="uploadurl" required class="form-control" style="width: 80%">
+                        <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                        <button type="submit" class="btn btn-primary ms-3"><?php echo lng('Upload') ?></button>
+                        <div class="lds-facebook"><div></div><div></div><div></div></div>
+                    </form>
+                    <div id="js-url-upload__list" class="col-9 mt-3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php print_external('js-dropzone'); ?>
+    <script>
+        Dropzone.options.fileUploader = {
+            chunking: true,
+            chunkSize: <?php echo UPLOAD_CHUNK_SIZE; ?>,
+            forceChunking: true,
+            retryChunks: true,
+            retryChunksLimit: 3,
+            parallelUploads: 1,
+            parallelChunkUploads: false,
+            timeout: 120000,
+            maxFilesize: "<?php echo MAX_UPLOAD_SIZE; ?>",
+            acceptedFiles : "<?php echo getUploadExt() ?>",
+            init: function () {
+                this.on("sending", function (file, xhr, formData) {
+                    let _path = (file.fullPath) ? file.fullPath : file.name;
+                    document.getElementById("fullpath").value = _path;
+                    xhr.ontimeout = (function() {
+                        toast('Error: Server Timeout');
+                    });
+                }).on("success", function (res) {
+                    try {
+                        let _response = JSON.parse(res.xhr.response);
+
+                        if(_response.status == "error") {
+                            toast(_response.info);
+                        }
+                    } catch (e) {
+                        toast("Error: Invalid JSON response");
+                    }
+                }).on("error", function(file, response) {
+                    toast(response);
+                });
+            }
+        }
+    </script>
+    <?php
+    fm_show_footer();
+    exit;
+}
+
+// copy form POST
+if (isset($_POST['copy']) && !FM_READONLY) {
+    $copy_files = isset($_POST['file']) ? $_POST['file'] : null;
+    if (!is_array($copy_files) || empty($copy_files)) {
+        fm_set_msg(lng('Nothing selected'), 'alert');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+    ?>
+    <div class="path">
+        <div class="card <?php echo fm_get_theme(); ?>">
+            <div class="card-header">
+                <h6><?php echo lng('Copying') ?></h6>
+            </div>
+            <div class="card-body">
+                <form action="" method="post">
+                    <input type="hidden" name="p" value="<?php echo fm_enc(FM_PATH) ?>">
+                    <input type="hidden" name="finish" value="1">
+                    <?php
+                    foreach ($copy_files as $cf) {
+                        echo '<input type="hidden" name="file[]" value="' . fm_enc($cf) . '">' . PHP_EOL;
+                    }
+                    ?>
+                    <p class="break-word"><strong><?php echo lng('Files') ?></strong>: <b><?php echo implode('</b>, <b>', $copy_files) ?></b></p>
+                    <p class="break-word"><strong><?php echo lng('SourceFolder') ?></strong>: <?php echo fm_enc(fm_convert_win(FM_ROOT_PATH . '/' . FM_PATH)) ?><br>
+                        <label for="inp_copy_to"><strong><?php echo lng('DestinationFolder') ?></strong>:</label>
+                        <?php echo FM_ROOT_PATH ?>/<input type="text" name="copy_to" id="inp_copy_to" value="<?php echo fm_enc(FM_PATH) ?>">
+                    </p>
+                    <p class="custom-checkbox custom-control"><input type="checkbox" name="move" value="1" id="js-move-files" class="custom-control-input"><label for="js-move-files" class="custom-control-label ms-2"> <?php echo lng('Move') ?></label></p>
+                    <p>
+                        <b><a href="?p=<?php echo urlencode(FM_PATH) ?>" class="btn btn-outline-danger"><i class="fa fa-times-circle"></i> <?php echo lng('Cancel') ?></a></b>&nbsp;
+                        <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                        <button type="submit" class="btn btn-success"><i class="fa fa-check-circle"></i> <?php echo lng('Copy') ?></button> 
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+    <?php
+    fm_show_footer();
+    exit;
+}
+
+// copy form
+if (isset($_GET['copy']) && !isset($_GET['finish']) && !FM_READONLY) {
+    $copy = $_GET['copy'];
+    $copy = fm_clean_path($copy);
+    if ($copy == '' || !file_exists(FM_ROOT_PATH . '/' . $copy)) {
+        fm_set_msg(lng('File not found'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+    ?>
+    <div class="path">
+        <p><b>Copying</b></p>
+        <p class="break-word">
+            <strong>Source path:</strong> <?php echo fm_enc(fm_convert_win(FM_ROOT_PATH . '/' . $copy)) ?><br>
+            <strong>Destination folder:</strong> <?php echo fm_enc(fm_convert_win(FM_ROOT_PATH . '/' . FM_PATH)) ?>
+        </p>
+        <p>
+            <b><a href="?p=<?php echo urlencode(FM_PATH) ?>&amp;copy=<?php echo urlencode($copy) ?>&amp;finish=1"><i class="fa fa-check-circle"></i> Copy</a></b> &nbsp;
+            <b><a href="?p=<?php echo urlencode(FM_PATH) ?>&amp;copy=<?php echo urlencode($copy) ?>&amp;finish=1&amp;move=1"><i class="fa fa-check-circle"></i> Move</a></b> &nbsp;
+            <b><a href="?p=<?php echo urlencode(FM_PATH) ?>" class="text-danger"><i class="fa fa-times-circle"></i> Cancel</a></b>
+        </p>
+        <p><i><?php echo lng('Select folder') ?></i></p>
+        <ul class="folders break-word">
+            <?php
+            if ($parent !== false) {
+                ?>
+                <li><a href="?p=<?php echo urlencode($parent) ?>&amp;copy=<?php echo urlencode($copy) ?>"><i class="fa fa-chevron-circle-left"></i> ..</a></li>
+                <?php
+            }
+            foreach ($folders as $f) {
+                ?>
+                <li>
+                    <a href="?p=<?php echo urlencode(trim(FM_PATH . '/' . $f, '/')) ?>&amp;copy=<?php echo urlencode($copy) ?>"><i class="fa fa-folder-o"></i> <?php echo fm_convert_win($f) ?></a></li>
+                <?php
+            }
+            ?>
+        </ul>
+    </div>
+    <?php
+    fm_show_footer();
+    exit;
+}
+
+if (isset($_GET['settings']) && !FM_READONLY) {
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+    global $cfg, $lang, $lang_list;
+    ?>
+
+    <div class="col-md-8 offset-md-2 pt-3">
+        <div class="card mb-2 <?php echo fm_get_theme(); ?>">
+            <h6 class="card-header d-flex justify-content-between">
+                <span><i class="fa fa-cog"></i>  <?php echo lng('Settings') ?></span>
+                <a href="?p=<?php echo FM_PATH ?>" class="text-danger"><i class="fa fa-times-circle-o"></i> <?php echo lng('Cancel')?></a>
+            </h6>
+            <div class="card-body">
+                <form id="js-settings-form" action="" method="post" data-type="ajax" onsubmit="return save_settings(this)">
+                    <input type="hidden" name="type" value="settings" aria-label="hidden" aria-hidden="true">
+                    <div class="form-group row">
+                        <label for="js-language" class="col-sm-3 col-form-label"><?php echo lng('Language') ?></label>
+                        <div class="col-sm-5">
+                            <select class="form-select" id="js-language" name="js-language">
+                                <?php
+                                function getSelected($l) {
+                                    global $lang;
+                                    return ($lang == $l) ? 'selected' : '';
+                                }
+                                foreach ($lang_list as $k => $v) {
+                                    echo "<option value='$k' ".getSelected($k).">$v</option>";
+                                }
+                                ?>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="mt-3 mb-3 row ">
+                        <label for="js-error-report" class="col-sm-3 col-form-label"><?php echo lng('ErrorReporting') ?></label>
+                        <div class="col-sm-9">
+                            <div class="form-check form-switch">
+                              <input class="form-check-input" type="checkbox" role="switch" id="js-error-report" name="js-error-report" value="true" <?php echo $report_errors ? 'checked' : ''; ?> />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label for="js-show-hidden" class="col-sm-3 col-form-label"><?php echo lng('ShowHiddenFiles') ?></label>
+                        <div class="col-sm-9">
+                            <div class="form-check form-switch">
+                              <input class="form-check-input" type="checkbox" role="switch" id="js-show-hidden" name="js-show-hidden" value="true" <?php echo $show_hidden_files ? 'checked' : ''; ?> />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label for="js-hide-cols" class="col-sm-3 col-form-label"><?php echo lng('HideColumns') ?></label>
+                        <div class="col-sm-9">
+                            <div class="form-check form-switch">
+                              <input class="form-check-input" type="checkbox" role="switch" id="js-hide-cols" name="js-hide-cols" value="true" <?php echo $hide_Cols ? 'checked' : ''; ?> />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label for="js-3-1" class="col-sm-3 col-form-label"><?php echo lng('Theme') ?></label>
+                        <div class="col-sm-5">
+                            <select class="form-select w-100" id="js-3-0" name="js-theme-3">
+                                <option value='light' <?php if($theme == "light"){echo "selected";} ?>><?php echo lng('light') ?></option>
+                                <option value='dark' <?php if($theme == "dark"){echo "selected";} ?>><?php echo lng('dark') ?></option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <div class="col-sm-10">
+                            <button type="submit" class="btn btn-success"> <i class="fa fa-check-circle"></i> <?php echo lng('Save'); ?></button>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+    <?php
+    fm_show_footer();
+    exit;
+}
+
+if (isset($_GET['help'])) {
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+    global $cfg, $lang;
+    ?>
+
+    <div class="col-md-8 offset-md-2 pt-3">
+        <div class="card mb-2 <?php echo fm_get_theme(); ?>">
+            <h6 class="card-header d-flex justify-content-between">
+                <span><i class="fa fa-exclamation-circle"></i> <?php echo lng('Help') ?></span>
+                <a href="?p=<?php echo FM_PATH ?>" class="text-danger"><i class="fa fa-times-circle-o"></i> <?php echo lng('Cancel')?></a>
+            </h6>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <p><h3><a href="https://github.com/prasathmani/tinyfilemanager" target="_blank" class="app-v-title"> Tiny File Manager <?php echo VERSION; ?></a></h3></p>
+                        <p>Author: Prasath Mani</p>
+                        <p>Mail Us: <a href="mailto:ccpprogrammers@gmail.com">ccpprogrammers[at]gmail.com</a> </p>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="card">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><a href="https://github.com/prasathmani/tinyfilemanager/wiki" target="_blank"><i class="fa fa-question-circle"></i> <?php echo lng('Help Documents') ?> </a> </li>
+                                <li class="list-group-item"><a href="https://github.com/prasathmani/tinyfilemanager/issues" target="_blank"><i class="fa fa-bug"></i> <?php echo lng('Report Issue') ?></a></li>
+                                <?php if(!FM_READONLY) { ?>
+                                <li class="list-group-item"><a href="javascript:show_new_pwd();"><i class="fa fa-lock"></i> <?php echo lng('Generate new password hash') ?></a></li>
+                                <?php } ?>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row js-new-pwd hidden mt-2">
+                    <div class="col-12">
+                        <form class="form-inline" onsubmit="return new_password_hash(this)" method="POST" action="">
+                            <input type="hidden" name="type" value="pwdhash" aria-label="hidden" aria-hidden="true">
+                            <div class="form-group mb-2">
+                                <label for="staticEmail2"><?php echo lng('Generate new password hash') ?></label>
+                            </div>
+                            <div class="form-group mx-sm-3 mb-2">
+                                <label for="inputPassword2" class="sr-only"><?php echo lng('Password') ?></label>
+                                <input type="text" class="form-control btn-sm" id="inputPassword2" name="inputPassword2" placeholder="<?php echo lng('Password') ?>" required>
+                            </div>
+                            <button type="submit" class="btn btn-success btn-sm mb-2"><?php echo lng('Generate') ?></button>
+                        </form>
+                        <textarea class="form-control" rows="2" readonly id="js-pwd-result"></textarea>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php
+    fm_show_footer();
+    exit;
+}
+
+// file viewer
+if (isset($_GET['view'])) {
+    $file = $_GET['view'];
+    $file = fm_clean_path($file, false);
+    $file = str_replace('/', '', $file);
+    if ($file == '' || !is_file($path . '/' . $file) || !fm_is_exclude_items($file)) {
+        fm_set_msg(lng('File not found'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+
+    $file_url = FM_ROOT_URL . fm_convert_win((FM_PATH != '' ? '/' . FM_PATH : '') . '/' . $file);
+    $file_path = $path . '/' . $file;
+
+    $ext = strtolower(pathinfo($file_path, PATHINFO_EXTENSION));
+    $mime_type = fm_get_mime_type($file_path);
+    $filesize_raw = fm_get_size($file_path);
+    $filesize = fm_get_filesize($filesize_raw);
+
+    $is_zip = false;
+    $is_gzip = false;
+    $is_image = false;
+    $is_audio = false;
+    $is_video = false;
+    $is_text = false;
+    $is_onlineViewer = false;
+
+    $view_title = 'File';
+    $filenames = false; // for zip
+    $content = ''; // for text
+    $online_viewer = strtolower(FM_DOC_VIEWER);
+
+    if($online_viewer && $online_viewer !== 'false' && in_array($ext, fm_get_onlineViewer_exts())){
+        $is_onlineViewer = true;
+    }
+    elseif ($ext == 'zip' || $ext == 'tar') {
+        $is_zip = true;
+        $view_title = 'Archive';
+        $filenames = fm_get_zif_info($file_path, $ext);
+    } elseif (in_array($ext, fm_get_image_exts())) {
+        $is_image = true;
+        $view_title = 'Image';
+    } elseif (in_array($ext, fm_get_audio_exts())) {
+        $is_audio = true;
+        $view_title = 'Audio';
+    } elseif (in_array($ext, fm_get_video_exts())) {
+        $is_video = true;
+        $view_title = 'Video';
+    } elseif (in_array($ext, fm_get_text_exts()) || substr($mime_type, 0, 4) == 'text' || in_array($mime_type, fm_get_text_mimes())) {
+        $is_text = true;
+        $content = file_get_contents($file_path);
+    }
+
+    ?>
+    <div class="row">
+        <div class="col-12">
+            <p class="break-word"><b><?php echo lng($view_title) ?> "<?php echo fm_enc(fm_convert_win($file)) ?>"</b></p>
+            <p class="break-word">
+                <?php $display_path = fm_get_display_path($file_path); ?>
+                <strong><?php echo $display_path['label']; ?>:</strong> <?php echo $display_path['path']; ?><br>
+                <strong>File size:</strong> <?php echo ($filesize_raw <= 1000) ? "$filesize_raw bytes" : $filesize; ?><br>
+                <strong>MIME-type:</strong> <?php echo $mime_type ?><br>
+                <?php
+                // ZIP info
+                if (($is_zip || $is_gzip) && $filenames !== false) {
+                    $total_files = 0;
+                    $total_comp = 0;
+                    $total_uncomp = 0;
+                    foreach ($filenames as $fn) {
+                        if (!$fn['folder']) {
+                            $total_files++;
+                        }
+                        $total_comp += $fn['compressed_size'];
+                        $total_uncomp += $fn['filesize'];
+                    }
+                    ?>
+                    <?php echo lng('Files in archive') ?>: <?php echo $total_files ?><br>
+                    <?php echo lng('Total size') ?>: <?php echo fm_get_filesize($total_uncomp) ?><br>
+                    <?php echo lng('Size in archive') ?>: <?php echo fm_get_filesize($total_comp) ?><br>
+                    <?php echo lng('Compression') ?>: <?php echo round(($total_comp / max($total_uncomp, 1)) * 100) ?>%<br>
+                    <?php
+                }
+                // Image info
+                if ($is_image) {
+                    $image_size = getimagesize($file_path);
+                    echo '<strong>'.lng('Image size').':</strong> ' . (isset($image_size[0]) ? $image_size[0] : '0') . ' x ' . (isset($image_size[1]) ? $image_size[1] : '0') . '<br>';
+                }
+                // Text info
+                if ($is_text) {
+                    $is_utf8 = fm_is_utf8($content);
+                    if (function_exists('iconv')) {
+                        if (!$is_utf8) {
+                            $content = iconv(FM_ICONV_INPUT_ENC, 'UTF-8//IGNORE', $content);
+                        }
+                    }
+                    echo '<strong>'.lng('Charset').':</strong> ' . ($is_utf8 ? 'utf-8' : '8 bit') . '<br>';
+                }
+                ?>
+            </p>
+            <div class="d-flex align-items-center mb-3">
+                <form method="post" class="d-inline ms-2" action="?p=<?php echo urlencode(FM_PATH) ?>&amp;dl=<?php echo urlencode($file) ?>">
+                    <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                    <button type="submit" class="btn btn-link text-decoration-none fw-bold p-0"><i class="fa fa-cloud-download"></i> <?php echo lng('Download') ?></button> &nbsp;
+                </form>
+                <b class="ms-2"><a href="<?php echo fm_enc($file_url) ?>" target="_blank"><i class="fa fa-external-link-square"></i> <?php echo lng('Open') ?></a></b>
+                <?php
+                // ZIP actions
+                if (!FM_READONLY && ($is_zip || $is_gzip) && $filenames !== false) {
+                    $zip_name = pathinfo($file_path, PATHINFO_FILENAME);
+                    ?>
+                    <form method="post" class="d-inline ms-2">
+                        <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                        <input type="hidden" name="unzip" value="<?php echo urlencode($file); ?>">
+                        <button type="submit" class="btn btn-link text-decoration-none fw-bold p-0" style="font-size: 14px;"><i class="fa fa-check-circle"></i> <?php echo lng('UnZip') ?></button>
+                    </form>&nbsp;
+                    <form method="post" class="d-inline ms-2">
+                        <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                        <input type="hidden" name="unzip" value="<?php echo urlencode($file); ?>">
+                        <input type="hidden" name="tofolder" value="1">
+                        <button type="submit" class="btn btn-link text-decoration-none fw-bold p-0" style="font-size: 14px;" title="UnZip to <?php echo fm_enc($zip_name) ?>"><i class="fa fa-check-circle"></i> <?php echo lng('UnZipToFolder') ?></button>
+                    </form>&nbsp;
+                    <?php
+                }
+                if ($is_text && !FM_READONLY) {
+                    ?>
+                    <b class="ms-2"><a href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;edit=<?php echo urlencode($file) ?>" class="edit-file"><i class="fa fa-pencil-square"></i> <?php echo lng('Edit') ?>
+                        </a></b> &nbsp;
+                    <b class="ms-2"><a href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;edit=<?php echo urlencode($file) ?>&env=ace"
+                            class="edit-file"><i class="fa fa-pencil-square-o"></i> <?php echo lng('AdvancedEditor') ?>
+                        </a></b> &nbsp;
+                <?php } ?>
+                <b class="ms-2"><a href="?p=<?php echo urlencode(FM_PATH) ?>"><i class="fa fa-chevron-circle-left go-back"></i> <?php echo lng('Back') ?></a></b>
+            </div>
+            <?php
+            if($is_onlineViewer) {
+                if($online_viewer == 'google') {
+                    echo '<iframe src="https://docs.google.com/viewer?embedded=true&hl=en&url=' . fm_enc($file_url) . '" frameborder="no" style="width:100%;min-height:460px"></iframe>';
+                } else if($online_viewer == 'microsoft') {
+                    echo '<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=' . fm_enc($file_url) . '" frameborder="no" style="width:100%;min-height:460px"></iframe>';
+                }
+            } elseif ($is_zip) {
+                // ZIP content
+                if ($filenames !== false) {
+                    echo '<code class="maxheight">';
+                    foreach ($filenames as $fn) {
+                        if ($fn['folder']) {
+                            echo '<b>' . fm_enc($fn['name']) . '</b><br>';
+                        } else {
+                            echo $fn['name'] . ' (' . fm_get_filesize($fn['filesize']) . ')<br>';
+                        }
+                    }
+                    echo '</code>';
+                } else {
+                    echo '<p>'.lng('Error while fetching archive info').'</p>';
+                }
+            } elseif ($is_image) {
+                // Image content
+                if (in_array($ext, array('gif', 'jpg', 'jpeg', 'png', 'bmp', 'ico', 'svg', 'webp', 'avif'))) {
+                    echo '<p><input type="checkbox" id="preview-img-zoomCheck"><label for="preview-img-zoomCheck"><img src="' . fm_enc($file_url) . '" alt="image" class="preview-img"></label></p>';
+                }
+            } elseif ($is_audio) {
+                // Audio content
+                echo '<p><audio src="' . fm_enc($file_url) . '" controls preload="metadata"></audio></p>';
+            } elseif ($is_video) {
+                // Video content
+                echo '<div class="preview-video"><video src="' . fm_enc($file_url) . '" width="640" height="360" controls preload="metadata"></video></div>';
+            } elseif ($is_text) {
+                if (FM_USE_HIGHLIGHTJS) {
+                    // highlight
+                    $hljs_classes = array(
+                        'shtml' => 'xml',
+                        'htaccess' => 'apache',
+                        'phtml' => 'php',
+                        'lock' => 'json',
+                        'svg' => 'xml',
+                    );
+                    $hljs_class = isset($hljs_classes[$ext]) ? 'lang-' . $hljs_classes[$ext] : 'lang-' . $ext;
+                    if (empty($ext) || in_array(strtolower($file), fm_get_text_names()) || preg_match('#\.min\.(css|js)$#i', $file)) {
+                        $hljs_class = 'nohighlight';
+                    }
+                    $content = '<pre class="with-hljs"><code class="' . $hljs_class . '">' . fm_enc($content) . '</code></pre>';
+                } elseif (in_array($ext, array('php', 'php4', 'php5', 'phtml', 'phps'))) {
+                    // php highlight
+                    $content = highlight_string($content, true);
+                } else {
+                    $content = '<pre>' . fm_enc($content) . '</pre>';
+                }
+                echo $content;
+            }
+            ?>
+        </div>
+    </div>
+    <?php
+        fm_show_footer();
+    exit;
+}
+
+// file editor
+if (isset($_GET['edit']) && !FM_READONLY) {
+    $file = $_GET['edit'];
+    $file = fm_clean_path($file, false);
+    $file = str_replace('/', '', $file);
+    if ($file == '' || !is_file($path . '/' . $file) || !fm_is_exclude_items($file)) {
+        fm_set_msg(lng('File not found'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+    $editFile = ' : <i><b>'. $file. '</b></i>';
+    header('X-XSS-Protection:0');
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+
+    $file_url = FM_ROOT_URL . fm_convert_win((FM_PATH != '' ? '/' . FM_PATH : '') . '/' . $file);
+    $file_path = $path . '/' . $file;
+
+    // normal editer
+    $isNormalEditor = true;
+    if (isset($_GET['env'])) {
+        if ($_GET['env'] == "ace") {
+            $isNormalEditor = false;
+        }
+    }
+
+    // Save File
+    if (isset($_POST['savedata'])) {
+        $writedata = $_POST['savedata'];
+        $fd = fopen($file_path, "w");
+        @fwrite($fd, $writedata);
+        fclose($fd);
+        fm_set_msg(lng('File Saved Successfully'));
+    }
+
+    $ext = strtolower(pathinfo($file_path, PATHINFO_EXTENSION));
+    $mime_type = fm_get_mime_type($file_path);
+    $filesize = filesize($file_path);
+    $is_text = false;
+    $content = ''; // for text
+
+    if (in_array($ext, fm_get_text_exts()) || substr($mime_type, 0, 4) == 'text' || in_array($mime_type, fm_get_text_mimes())) {
+        $is_text = true;
+        $content = file_get_contents($file_path);
+    }
+
+    ?>
+    <div class="path">
+        <div class="row">
+            <div class="col-xs-12 col-sm-5 col-lg-6 pt-1">
+                <div class="btn-toolbar" role="toolbar">
+                    <?php if (!$isNormalEditor) { ?>
+                        <div class="btn-group js-ace-toolbar">
+                            <button data-cmd="none" data-option="fullscreen" class="btn btn-sm btn-outline-secondary" id="js-ace-fullscreen" title="<?php echo lng('Fullscreen') ?>"><i class="fa fa-expand" title="<?php echo lng('Fullscreen') ?>"></i></button>
+                            <button data-cmd="find" class="btn btn-sm btn-outline-secondary" id="js-ace-search" title="<?php echo lng('Search') ?>"><i class="fa fa-search" title="<?php echo lng('Search') ?>"></i></button>
+                            <button data-cmd="undo" class="btn btn-sm btn-outline-secondary" id="js-ace-undo" title="<?php echo lng('Undo') ?>"><i class="fa fa-undo" title="<?php echo lng('Undo') ?>"></i></button>
+                            <button data-cmd="redo" class="btn btn-sm btn-outline-secondary" id="js-ace-redo" title="<?php echo lng('Redo') ?>"><i class="fa fa-repeat" title="<?php echo lng('Redo') ?>"></i></button>
+                            <button data-cmd="none" data-option="wrap" class="btn btn-sm btn-outline-secondary" id="js-ace-wordWrap" title="<?php echo lng('Word Wrap') ?>"><i class="fa fa-text-width" title="<?php echo lng('Word Wrap') ?>"></i></button>
+                            <select id="js-ace-mode" data-type="mode" title="<?php echo lng('Select Document Type') ?>" class="btn-outline-secondary border-start-0 d-none d-md-block"><option>-- <?php echo lng('Select Mode') ?> --</option></select>
+                            <select id="js-ace-theme" data-type="theme" title="<?php echo lng('Select Theme') ?>" class="btn-outline-secondary border-start-0 d-none d-lg-block"><option>-- <?php echo lng('Select Theme') ?> --</option></select>
+                            <select id="js-ace-fontSize" data-type="fontSize" title="<?php echo lng('Select Font Size') ?>" class="btn-outline-secondary border-start-0 d-none d-lg-block"><option>-- <?php echo lng('Select Font Size') ?> --</option></select>
+                        </div>
+                    <?php } ?>
+                </div>
+            </div>
+            <div class="edit-file-actions col-xs-12 col-sm-7 col-lg-6 text-end pt-1">
+                <a title="<?php echo lng('Back') ?>" class="btn btn-sm btn-outline-primary" href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;view=<?php echo urlencode($file) ?>"><i class="fa fa-reply-all"></i> <?php echo lng('Back') ?></a>
+                <a title="<?php echo lng('BackUp') ?>" class="btn btn-sm btn-outline-primary" href="javascript:void(0);" onclick="backup('<?php echo urlencode(trim(FM_PATH)) ?>','<?php echo urlencode($file) ?>')"><i class="fa fa-database"></i> <?php echo lng('BackUp') ?></a>
+                <?php if ($is_text) { ?>
+                    <?php if ($isNormalEditor) { ?>
+                        <a title="Advanced" class="btn btn-sm btn-outline-primary" href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;edit=<?php echo urlencode($file) ?>&amp;env=ace"><i class="fa fa-pencil-square-o"></i> <?php echo lng('AdvancedEditor') ?></a>
+                        <button type="button" class="btn btn-sm btn-success" name="Save" data-url="<?php echo fm_enc($file_url) ?>" onclick="edit_save(this,'nrl')"><i class="fa fa-floppy-o"></i> Save
+                        </button>
+                    <?php } else { ?>
+                        <a title="Plain Editor" class="btn btn-sm btn-outline-primary" href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;edit=<?php echo urlencode($file) ?>"><i class="fa fa-text-height"></i> <?php echo lng('NormalEditor') ?></a>
+                        <button type="button" class="btn btn-sm btn-success" name="Save" data-url="<?php echo fm_enc($file_url) ?>" onclick="edit_save(this,'ace')"><i class="fa fa-floppy-o"></i> <?php echo lng('Save') ?>
+                        </button>
+                    <?php } ?>
+                <?php } ?>
+            </div>
+        </div>
+        <?php
+        if ($is_text && $isNormalEditor) {
+            echo '<textarea class="mt-2" id="normal-editor" rows="33" cols="120" style="width: 99.5%;">' . htmlspecialchars($content) . '</textarea>';
+            echo '<script>document.addEventListener("keydown", function(e) {if ((window.navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)  && e.keyCode == 83) { e.preventDefault();edit_save(this,"nrl");}}, false);</script>';
+        } elseif ($is_text) {
+            echo '<div id="editor" contenteditable="true">' . htmlspecialchars($content) . '</div>';
+        } else {
+            fm_set_msg(lng('FILE EXTENSION HAS NOT SUPPORTED'), 'error');
+        }
+        ?>
+    </div>
+    <?php
+    fm_show_footer();
+    exit;
+}
+
+// chmod (not for Windows)
+if (isset($_GET['chmod']) && !FM_READONLY && !FM_IS_WIN) {
+    $file = $_GET['chmod'];
+    $file = fm_clean_path($file);
+    $file = str_replace('/', '', $file);
+    if ($file == '' || (!is_file($path . '/' . $file) && !is_dir($path . '/' . $file))) {
+        fm_set_msg(lng('File not found'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+    }
+
+    fm_show_header(); // HEADER
+    fm_show_nav_path(FM_PATH); // current path
+
+    $file_url = FM_ROOT_URL . (FM_PATH != '' ? '/' . FM_PATH : '') . '/' . $file;
+    $file_path = $path . '/' . $file;
+
+    $mode = fileperms($path . '/' . $file);
+    ?>
+    <div class="path">
+        <div class="card mb-2 <?php echo fm_get_theme(); ?>">
+            <h6 class="card-header">
+                <?php echo lng('ChangePermissions') ?>
+            </h6>
+            <div class="card-body">
+                <p class="card-text">
+                    <?php $display_path = fm_get_display_path($file_path); ?>
+                    <?php echo $display_path['label']; ?>: <?php echo $display_path['path']; ?><br>
+                </p>
+                <form action="" method="post">
+                    <input type="hidden" name="p" value="<?php echo fm_enc(FM_PATH) ?>">
+                    <input type="hidden" name="chmod" value="<?php echo fm_enc($file) ?>">
+
+                    <table class="table compact-table <?php echo fm_get_theme(); ?>">
+                        <tr>
+                            <td></td>
+                            <td><b><?php echo lng('Owner') ?></b></td>
+                            <td><b><?php echo lng('Group') ?></b></td>
+                            <td><b><?php echo lng('Other') ?></b></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right"><b><?php echo lng('Read') ?></b></td>
+                            <td><label><input type="checkbox" name="ur" value="1"<?php echo ($mode & 00400) ? ' checked' : '' ?>></label></td>
+                            <td><label><input type="checkbox" name="gr" value="1"<?php echo ($mode & 00040) ? ' checked' : '' ?>></label></td>
+                            <td><label><input type="checkbox" name="or" value="1"<?php echo ($mode & 00004) ? ' checked' : '' ?>></label></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right"><b><?php echo lng('Write') ?></b></td>
+                            <td><label><input type="checkbox" name="uw" value="1"<?php echo ($mode & 00200) ? ' checked' : '' ?>></label></td>
+                            <td><label><input type="checkbox" name="gw" value="1"<?php echo ($mode & 00020) ? ' checked' : '' ?>></label></td>
+                            <td><label><input type="checkbox" name="ow" value="1"<?php echo ($mode & 00002) ? ' checked' : '' ?>></label></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: right"><b><?php echo lng('Execute') ?></b></td>
+                            <td><label><input type="checkbox" name="ux" value="1"<?php echo ($mode & 00100) ? ' checked' : '' ?>></label></td>
+                            <td><label><input type="checkbox" name="gx" value="1"<?php echo ($mode & 00010) ? ' checked' : '' ?>></label></td>
+                            <td><label><input type="checkbox" name="ox" value="1"<?php echo ($mode & 00001) ? ' checked' : '' ?>></label></td>
+                        </tr>
+                    </table>
+
+                    <p>
+                       <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>"> 
+                        <b><a href="?p=<?php echo urlencode(FM_PATH) ?>" class="btn btn-outline-primary"><i class="fa fa-times-circle"></i> <?php echo lng('Cancel') ?></a></b>&nbsp;
+                        <button type="submit" class="btn btn-success"><i class="fa fa-check-circle"></i> <?php echo lng('Change') ?></button>
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+    <?php
+    fm_show_footer();
+    exit;
+}
+
+// --- TINYFILEMANAGER MAIN ---
+fm_show_header(); // HEADER
+fm_show_nav_path(FM_PATH); // current path
+
+// show alert messages
+fm_show_message();
+
+$num_files = count($files);
+$num_folders = count($folders);
+$all_files_size = 0;
+$tableTheme = (FM_THEME == "dark") ? "text-white bg-dark table-dark" : "bg-white";
+?>
+<form action="" method="post" class="pt-3">
+    <input type="hidden" name="p" value="<?php echo fm_enc(FM_PATH) ?>">
+    <input type="hidden" name="group" value="1">
+    <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-sm <?php echo $tableTheme; ?>" id="main-table">
+            <thead class="thead-white">
+            <tr>
+                <?php if (!FM_READONLY): ?>
+                    <th style="width:3%" class="custom-checkbox-header">
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="js-select-all-items" onclick="checkbox_toggle()">
+                            <label class="custom-control-label" for="js-select-all-items"></label>
+                        </div>
+                    </th><?php endif; ?>
+                <th><?php echo lng('Name') ?></th>
+                <th><?php echo lng('Size') ?></th>
+                <th><?php echo lng('Modified') ?></th>
+                <?php if (!FM_IS_WIN && !$hide_Cols): ?>
+                    <th><?php echo lng('Perms') ?></th>
+                    <th><?php echo lng('Owner') ?></th><?php endif; ?>
+                <th><?php echo lng('Actions') ?></th>
+            </tr>
+            </thead>
+            <?php
+            // link to parent folder
+            if ($parent !== false) {
+                ?>
+                <tr><?php if (!FM_READONLY): ?>
+                    <td class="nosort"></td><?php endif; ?>
+                    <td class="border-0" data-sort><a href="?p=<?php echo urlencode($parent) ?>"><i class="fa fa-chevron-circle-left go-back"></i> ..</a></td>
+                    <td class="border-0" data-order></td>
+                    <td class="border-0" data-order></td>
+                    <td class="border-0"></td>
+                    <?php if (!FM_IS_WIN && !$hide_Cols) { ?>
+                        <td class="border-0"></td>
+                        <td class="border-0"></td>
+                    <?php } ?>
+                </tr>
+                <?php
+            }
+            $ii = 3399;
+            foreach ($folders as $f) {
+                $is_link = is_link($path . '/' . $f);
+                $img = $is_link ? 'icon-link_folder' : 'fa fa-folder-o';
+                $modif_raw = filemtime($path . '/' . $f);
+                $modif = date(FM_DATETIME_FORMAT, $modif_raw);
+                $date_sorting = strtotime(date("F d Y H:i:s.", $modif_raw));
+                $filesize_raw = "";
+                $filesize = lng('Folder');
+                $perms = substr(decoct(fileperms($path . '/' . $f)), -4);
+                if (function_exists('posix_getpwuid') && function_exists('posix_getgrgid')) {
+                    $owner = posix_getpwuid(fileowner($path . '/' . $f));
+                    $group = posix_getgrgid(filegroup($path . '/' . $f));
+                    if ($owner === false) {
+                        $owner = array('name' => '?');
+                    }
+                    if ($group === false) {
+                        $group = array('name' => '?');
+                    }
+                } else {
+                    $owner = array('name' => '?');
+                    $group = array('name' => '?');
+                }
+                ?>
+                <tr>
+                    <?php if (!FM_READONLY): ?>
+                        <td class="custom-checkbox-td">
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="<?php echo $ii ?>" name="file[]" value="<?php echo fm_enc($f) ?>">
+                            <label class="custom-control-label" for="<?php echo $ii ?>"></label>
+                        </div>
+                        </td><?php endif; ?>
+                    <td data-sort=<?php echo fm_convert_win(fm_enc($f)) ?>>
+                        <div class="filename"><a href="?p=<?php echo urlencode(trim(FM_PATH . '/' . $f, '/')) ?>"><i class="<?php echo $img ?>"></i> <?php echo fm_convert_win(fm_enc($f)) ?>
+                            </a><?php echo($is_link ? ' &rarr; <i>' . readlink($path . '/' . $f) . '</i>' : '') ?></div>
+                    </td>
+                    <td data-order="a-<?php echo str_pad($filesize_raw, 18, "0", STR_PAD_LEFT);?>">
+                        <?php echo $filesize; ?>
+                    </td>
+                    <td data-order="a-<?php echo $date_sorting;?>"><?php echo $modif ?></td>
+                    <?php if (!FM_IS_WIN && !$hide_Cols): ?>
+                        <td><?php if (!FM_READONLY): ?><a title="Change Permissions" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;chmod=<?php echo urlencode($f) ?>"><?php echo $perms ?></a><?php else: ?><?php echo $perms ?><?php endif; ?>
+                        </td>
+                        <td><?php echo $owner['name'] . ':' . $group['name'] ?></td>
+                    <?php endif; ?>
+                    <td class="inline-actions"><?php if (!FM_READONLY): ?>
+                            <a title="<?php echo lng('Delete')?>" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;del=<?php echo urlencode($f) ?>" onclick="confirmDailog(event, '1028','<?php echo lng('Delete').' '.lng('Folder'); ?>','<?php echo urlencode($f) ?>', this.href);"> <i class="fa fa-trash-o" aria-hidden="true"></i></a>
+                            <a title="<?php echo lng('Rename')?>" href="#" onclick="rename('<?php echo fm_enc(addslashes(FM_PATH)) ?>', '<?php echo fm_enc(addslashes($f)) ?>');return false;"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></a>
+                            <a title="<?php echo lng('CopyTo')?>..." href="?p=&amp;copy=<?php echo urlencode(trim(FM_PATH . '/' . $f, '/')) ?>"><i class="fa fa-files-o" aria-hidden="true"></i></a>
+                        <?php endif; ?>
+                        <a title="<?php echo lng('DirectLink')?>" href="<?php echo fm_enc(FM_ROOT_URL . (FM_PATH != '' ? '/' . FM_PATH : '') . '/' . $f . '/') ?>" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>
+                    </td>
+                </tr>
+                <?php
+                flush();
+                $ii++;
+            }
+            $ik = 6070;
+            foreach ($files as $f) {
+                $is_link = is_link($path . '/' . $f);
+                $img = $is_link ? 'fa fa-file-text-o' : fm_get_file_icon_class($path . '/' . $f);
+                $modif_raw = filemtime($path . '/' . $f);
+                $modif = date(FM_DATETIME_FORMAT, $modif_raw);
+                $date_sorting = strtotime(date("F d Y H:i:s.", $modif_raw));
+                $filesize_raw = fm_get_size($path . '/' . $f);
+                $filesize = fm_get_filesize($filesize_raw);
+                $filelink = '?p=' . urlencode(FM_PATH) . '&amp;view=' . urlencode($f);
+                $all_files_size += $filesize_raw;
+                $perms = substr(decoct(fileperms($path . '/' . $f)), -4);
+                if (function_exists('posix_getpwuid') && function_exists('posix_getgrgid')) {
+                    $owner = posix_getpwuid(fileowner($path . '/' . $f));
+                    $group = posix_getgrgid(filegroup($path . '/' . $f));
+                    if ($owner === false) {
+                        $owner = array('name' => '?');
+                    }
+                    if ($group === false) {
+                        $group = array('name' => '?');
+                    }
+                } else {
+                    $owner = array('name' => '?');
+                    $group = array('name' => '?');
+                }
+                ?>
+                <tr>
+                    <?php if (!FM_READONLY): ?>
+                        <td class="custom-checkbox-td">
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" class="custom-control-input" id="<?php echo $ik ?>" name="file[]" value="<?php echo fm_enc($f) ?>">
+                            <label class="custom-control-label" for="<?php echo $ik ?>"></label>
+                        </div>
+                        </td><?php endif; ?>
+                    <td data-sort=<?php echo fm_enc($f) ?>>
+                        <div class="filename">
+                        <?php
+                           if (in_array(strtolower(pathinfo($f, PATHINFO_EXTENSION)), array('gif', 'jpg', 'jpeg', 'png', 'bmp', 'ico', 'svg', 'webp', 'avif'))): ?>
+                                <?php $imagePreview = fm_enc(FM_ROOT_URL . (FM_PATH != '' ? '/' . FM_PATH : '') . '/' . $f); ?>
+                                <a href="<?php echo $filelink ?>" data-preview-image="<?php echo $imagePreview ?>" title="<?php echo fm_enc($f) ?>">
+                           <?php else: ?>
+                                <a href="<?php echo $filelink ?>" title="<?php echo $f ?>">
+                            <?php endif; ?>
+                                    <i class="<?php echo $img ?>"></i> <?php echo fm_convert_win(fm_enc($f)) ?>
+                                </a>
+                                <?php echo($is_link ? ' &rarr; <i>' . readlink($path . '/' . $f) . '</i>' : '') ?>
+                        </div>
+                    </td>
+                    <td data-order="b-<?php echo str_pad($filesize_raw, 18, "0", STR_PAD_LEFT); ?>"><span title="<?php printf('%s bytes', $filesize_raw) ?>">
+                        <?php echo $filesize; ?>
+                        </span></td>
+                    <td data-order="b-<?php echo $date_sorting;?>"><?php echo $modif ?></td>
+                    <?php if (!FM_IS_WIN && !$hide_Cols): ?>
+                        <td><?php if (!FM_READONLY): ?><a title="<?php echo 'Change Permissions' ?>" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;chmod=<?php echo urlencode($f) ?>"><?php echo $perms ?></a><?php else: ?><?php echo $perms ?><?php endif; ?>
+                        </td>
+                        <td><?php echo fm_enc($owner['name'] . ':' . $group['name']) ?></td>
+                    <?php endif; ?>
+                    <td class="inline-actions">
+                        <?php if (!FM_READONLY): ?>
+                            <a title="<?php echo lng('Delete') ?>" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;del=<?php echo urlencode($f) ?>" onclick="confirmDailog(event, 1209, '<?php echo lng('Delete').' '.lng('File'); ?>','<?php echo urlencode($f); ?>', this.href);"> <i class="fa fa-trash-o"></i></a>
+                            <a title="<?php echo lng('Rename') ?>" href="#" onclick="rename('<?php echo fm_enc(addslashes(FM_PATH)) ?>', '<?php echo fm_enc(addslashes($f)) ?>');return false;"><i class="fa fa-pencil-square-o"></i></a>
+                            <a title="<?php echo lng('CopyTo') ?>..."
+                               href="?p=<?php echo urlencode(FM_PATH) ?>&amp;copy=<?php echo urlencode(trim(FM_PATH . '/' . $f, '/')) ?>"><i class="fa fa-files-o"></i></a>
+                        <?php endif; ?>
+                        <a title="<?php echo lng('DirectLink') ?>" href="<?php echo fm_enc(FM_ROOT_URL . (FM_PATH != '' ? '/' . FM_PATH : '') . '/' . $f) ?>" target="_blank"><i class="fa fa-link"></i></a>
+                        <a title="<?php echo lng('Download') ?>" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;dl=<?php echo urlencode($f) ?>" onclick="confirmDailog(event, 1211, '<?php echo lng('Download'); ?>','<?php echo urlencode($f); ?>', this.href);"><i class="fa fa-download"></i></a>
+                    </td>
+                </tr>
+                <?php
+                flush();
+                $ik++;
+            }
+
+            if (empty($folders) && empty($files)) { ?>
+                <tfoot>
+                    <tr><?php if (!FM_READONLY): ?>
+                            <td></td><?php endif; ?>
+                        <td colspan="<?php echo (!FM_IS_WIN && !$hide_Cols) ? '6' : '4' ?>"><em><?php echo lng('Folder is empty') ?></em></td>
+                    </tr>
+                </tfoot>
+                <?php
+            } else { ?>
+                <tfoot>
+                    <tr>
+                        <td class="gray" colspan="<?php echo (!FM_IS_WIN && !$hide_Cols) ? (FM_READONLY ? '6' :'7') : (FM_READONLY ? '4' : '5') ?>">
+                            <?php echo lng('FullSize').': <span class="badge text-bg-light border-radius-0">'.fm_get_filesize($all_files_size).'</span>' ?>
+                            <?php echo lng('File').': <span class="badge text-bg-light border-radius-0">'.$num_files.'</span>' ?>
+                            <?php echo lng('Folder').': <span class="badge text-bg-light border-radius-0">'.$num_folders.'</span>' ?>
+                        </td>
+                    </tr>
+                </tfoot>
+                <?php } ?>
+        </table>
+    </div>
+
+    <div class="row">
+        <?php if (!FM_READONLY): ?>
+        <div class="col-xs-12 col-sm-9">
+            <ul class="list-inline footer-action">
+                <li class="list-inline-item"> <a href="#/select-all" class="btn btn-small btn-outline-primary btn-2" onclick="select_all();return false;"><i class="fa fa-check-square"></i> <?php echo lng('SelectAll') ?> </a></li>
+                <li class="list-inline-item"><a href="#/unselect-all" class="btn btn-small btn-outline-primary btn-2" onclick="unselect_all();return false;"><i class="fa fa-window-close"></i> <?php echo lng('UnSelectAll') ?> </a></li>
+                <li class="list-inline-item"><a href="#/invert-all" class="btn btn-small btn-outline-primary btn-2" onclick="invert_all();return false;"><i class="fa fa-th-list"></i> <?php echo lng('InvertSelection') ?> </a></li>
+                <li class="list-inline-item"><input type="submit" class="hidden" name="delete" id="a-delete" value="Delete" onclick="return confirm('<?php echo lng('Delete selected files and folders?'); ?>')">
+                    <a href="javascript:document.getElementById('a-delete').click();" class="btn btn-small btn-outline-primary btn-2"><i class="fa fa-trash"></i> <?php echo lng('Delete') ?> </a></li>
+                <li class="list-inline-item"><input type="submit" class="hidden" name="zip" id="a-zip" value="zip" onclick="return confirm('<?php echo lng('Create archive?'); ?>')">
+                    <a href="javascript:document.getElementById('a-zip').click();" class="btn btn-small btn-outline-primary btn-2"><i class="fa fa-file-archive-o"></i> <?php echo lng('Zip') ?> </a></li>
+                <li class="list-inline-item"><input type="submit" class="hidden" name="tar" id="a-tar" value="tar" onclick="return confirm('<?php echo lng('Create archive?'); ?>')">
+                    <a href="javascript:document.getElementById('a-tar').click();" class="btn btn-small btn-outline-primary btn-2"><i class="fa fa-file-archive-o"></i> <?php echo lng('Tar') ?> </a></li>
+                <li class="list-inline-item"><input type="submit" class="hidden" name="copy" id="a-copy" value="Copy">
+                    <a href="javascript:document.getElementById('a-copy').click();" class="btn btn-small btn-outline-primary btn-2"><i class="fa fa-files-o"></i> <?php echo lng('Copy') ?> </a></li>
+            </ul>
+        </div>
+        <div class="col-3 d-none d-sm-block"><a href="https://tinyfilemanager.github.io" target="_blank" class="float-right text-muted">Tiny File Manager <?php echo VERSION; ?></a></div>
+        <?php else: ?>
+            <div class="col-12"><a href="https://tinyfilemanager.github.io" target="_blank" class="float-right text-muted">Tiny File Manager <?php echo VERSION; ?></a></div>
+        <?php endif; ?>
+    </div>
+</form>
+
+<?php
+fm_show_footer();
+
+// --- END HTML ---
+
+// Functions
+
+/**
+ * It prints the css/js files into html
+ * @param key The key of the external file to print.
+ */
+function print_external($key) {
+    global $external;
+
+    if(!array_key_exists($key, $external)) {
+        // throw new Exception('Key missing in external: ' . key);
+        echo "<!-- EXTERNAL: MISSING KEY $key -->";
+        return;
+    }
+
+    echo "$external[$key]";
+}
+
+/**
+ * Verify CSRF TOKEN and remove after cerify
+ * @param string $token
+ * @return bool
+ */
+function verifyToken($token) 
+{
+    if (hash_equals($_SESSION['token'], $token)) { 
+        return true;
+    }
+    return false;
+}
+
+/**
+ * Delete  file or folder (recursively)
+ * @param string $path
+ * @return bool
+ */
+function fm_rdelete($path)
+{
+    if (is_link($path)) {
+        return unlink($path);
+    } elseif (is_dir($path)) {
+        $objects = scandir($path);
+        $ok = true;
+        if (is_array($objects)) {
+            foreach ($objects as $file) {
+                if ($file != '.' && $file != '..') {
+                    if (!fm_rdelete($path . '/' . $file)) {
+                        $ok = false;
+                    }
+                }
+            }
+        }
+        return ($ok) ? rmdir($path) : false;
+    } elseif (is_file($path)) {
+        return unlink($path);
+    }
+    return false;
+}
+
+/**
+ * Recursive chmod
+ * @param string $path
+ * @param int $filemode
+ * @param int $dirmode
+ * @return bool
+ * @todo Will use in mass chmod
+ */
+function fm_rchmod($path, $filemode, $dirmode)
+{
+    if (is_dir($path)) {
+        if (!chmod($path, $dirmode)) {
+            return false;
+        }
+        $objects = scandir($path);
+        if (is_array($objects)) {
+            foreach ($objects as $file) {
+                if ($file != '.' && $file != '..') {
+                    if (!fm_rchmod($path . '/' . $file, $filemode, $dirmode)) {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    } elseif (is_link($path)) {
+        return true;
+    } elseif (is_file($path)) {
+        return chmod($path, $filemode);
+    }
+    return false;
+}
+
+/**
+ * Check the file extension which is allowed or not
+ * @param string $filename
+ * @return bool
+ */
+function fm_is_valid_ext($filename)
+{
+    $allowed = (FM_FILE_EXTENSION) ? explode(',', FM_FILE_EXTENSION) : false;
+
+    $ext = pathinfo($filename, PATHINFO_EXTENSION);
+    $isFileAllowed = ($allowed) ? in_array($ext, $allowed) : true;
+
+    return ($isFileAllowed) ? true : false;
+}
+
+/**
+ * Safely rename
+ * @param string $old
+ * @param string $new
+ * @return bool|null
+ */
+function fm_rename($old, $new)
+{
+    $isFileAllowed = fm_is_valid_ext($new);
+
+    if(!is_dir($old)) {
+        if (!$isFileAllowed) return false;
+    }
+
+    return (!file_exists($new) && file_exists($old)) ? rename($old, $new) : null;
+}
+
+/**
+ * Copy file or folder (recursively).
+ * @param string $path
+ * @param string $dest
+ * @param bool $upd Update files
+ * @param bool $force Create folder with same names instead file
+ * @return bool
+ */
+function fm_rcopy($path, $dest, $upd = true, $force = true)
+{
+    if (is_dir($path)) {
+        if (!fm_mkdir($dest, $force)) {
+            return false;
+        }
+        $objects = scandir($path);
+        $ok = true;
+        if (is_array($objects)) {
+            foreach ($objects as $file) {
+                if ($file != '.' && $file != '..') {
+                    if (!fm_rcopy($path . '/' . $file, $dest . '/' . $file)) {
+                        $ok = false;
+                    }
+                }
+            }
+        }
+        return $ok;
+    } elseif (is_file($path)) {
+        return fm_copy($path, $dest, $upd);
+    }
+    return false;
+}
+
+/**
+ * Safely create folder
+ * @param string $dir
+ * @param bool $force
+ * @return bool
+ */
+function fm_mkdir($dir, $force)
+{
+    if (file_exists($dir)) {
+        if (is_dir($dir)) {
+            return $dir;
+        } elseif (!$force) {
+            return false;
+        }
+        unlink($dir);
+    }
+    return mkdir($dir, 0777, true);
+}
+
+/**
+ * Safely copy file
+ * @param string $f1
+ * @param string $f2
+ * @param bool $upd Indicates if file should be updated with new content
+ * @return bool
+ */
+function fm_copy($f1, $f2, $upd)
+{
+    $time1 = filemtime($f1);
+    if (file_exists($f2)) {
+        $time2 = filemtime($f2);
+        if ($time2 >= $time1 && $upd) {
+            return false;
+        }
+    }
+    $ok = copy($f1, $f2);
+    if ($ok) {
+        touch($f2, $time1);
+    }
+    return $ok;
+}
+
+/**
+ * Get mime type
+ * @param string $file_path
+ * @return mixed|string
+ */
+function fm_get_mime_type($file_path)
+{
+    if (function_exists('finfo_open')) {
+        $finfo = finfo_open(FILEINFO_MIME_TYPE);
+        $mime = finfo_file($finfo, $file_path);
+        finfo_close($finfo);
+        return $mime;
+    } elseif (function_exists('mime_content_type')) {
+        return mime_content_type($file_path);
+    } elseif (!stristr(ini_get('disable_functions'), 'shell_exec')) {
+        $file = escapeshellarg($file_path);
+        $mime = shell_exec('file -bi ' . $file);
+        return $mime;
+    } else {
+        return '--';
+    }
+}
+
+/**
+ * HTTP Redirect
+ * @param string $url
+ * @param int $code
+ */
+function fm_redirect($url, $code = 302)
+{
+    header('Location: ' . $url, true, $code);
+    exit;
+}
+
+/**
+ * Path traversal prevention and clean the url
+ * It replaces (consecutive) occurrences of / and \\ with whatever is in DIRECTORY_SEPARATOR, and processes /. and /.. fine.
+ * @param $path
+ * @return string
+ */
+function get_absolute_path($path) {
+    $path = str_replace(array('/', '\\'), DIRECTORY_SEPARATOR, $path);
+    $parts = array_filter(explode(DIRECTORY_SEPARATOR, $path), 'strlen');
+    $absolutes = array();
+    foreach ($parts as $part) {
+        if ('.' == $part) continue;
+        if ('..' == $part) {
+            array_pop($absolutes);
+        } else {
+            $absolutes[] = $part;
+        }
+    }
+    return implode(DIRECTORY_SEPARATOR, $absolutes);
+}
+
+/**
+ * Clean path
+ * @param string $path
+ * @return string
+ */
+function fm_clean_path($path, $trim = true)
+{
+    $path = $trim ? trim($path) : $path;
+    $path = trim($path, '\\/');
+    $path = str_replace(array('../', '..\\'), '', $path);
+    $path =  get_absolute_path($path);
+    if ($path == '..') {
+        $path = '';
+    }
+    return str_replace('\\', '/', $path);
+}
+
+/**
+ * Get parent path
+ * @param string $path
+ * @return bool|string
+ */
+function fm_get_parent_path($path)
+{
+    $path = fm_clean_path($path);
+    if ($path != '') {
+        $array = explode('/', $path);
+        if (count($array) > 1) {
+            $array = array_slice($array, 0, -1);
+            return implode('/', $array);
+        }
+        return '';
+    }
+    return false;
+}
+
+function fm_get_display_path($file_path)
+{
+    global $path_display_mode, $root_path, $root_url;
+    switch ($path_display_mode) {
+        case 'relative':
+            return array(
+                'label' => 'Path',
+                'path' => fm_enc(fm_convert_win(str_replace($root_path, '', $file_path)))
+            );
+        case 'host':
+            $relative_path = str_replace($root_path, '', $file_path);
+            return array(
+                'label' => 'Host Path',
+                'path' => fm_enc(fm_convert_win('/' . $root_url . '/' . ltrim(str_replace('\\', '/', $relative_path), '/')))
+            );
+        case 'full':
+        default:
+            return array(
+                'label' => 'Full Path',
+                'path' => fm_enc(fm_convert_win($file_path))
+            );
+    }
+}
+
+/**
+ * Check file is in exclude list
+ * @param string $file
+ * @return bool
+ */
+function fm_is_exclude_items($file) {
+    $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+    if (isset($exclude_items) and sizeof($exclude_items)) {
+        unset($exclude_items);
+    }
+
+    $exclude_items = FM_EXCLUDE_ITEMS;
+    if (version_compare(PHP_VERSION, '7.0.0', '<')) {
+        $exclude_items = unserialize($exclude_items);
+    }
+    if (!in_array($file, $exclude_items) && !in_array("*.$ext", $exclude_items)) {
+        return true;
+    }
+    return false;
+}
+
+/**
+ * get language translations from json file
+ * @param int $tr
+ * @return array
+ */
+function fm_get_translations($tr) {
+    try {
+        $content = @file_get_contents('translation.json');
+        if($content !== FALSE) {
+            $lng = json_decode($content, TRUE);
+            global $lang_list;
+            foreach ($lng["language"] as $key => $value)
+            {
+                $code = $value["code"];
+                $lang_list[$code] = $value["name"];
+                if ($tr)
+                    $tr[$code] = $value["translation"];
+            }
+            return $tr;
+        }
+
+    }
+    catch (Exception $e) {
+        echo $e;
+    }
+}
+
+/**
+ * @param string $file
+ * Recover all file sizes larger than > 2GB.
+ * Works on php 32bits and 64bits and supports linux
+ * @return int|string
+ */
+function fm_get_size($file)
+{
+    static $iswin;
+    static $isdarwin;
+    if (!isset($iswin)) {
+        $iswin = (strtoupper(substr(PHP_OS, 0, 3)) == 'WIN');
+    }
+    if (!isset($isdarwin)) {
+        $isdarwin = (strtoupper(substr(PHP_OS, 0)) == "DARWIN");
+    }
+
+    static $exec_works;
+    if (!isset($exec_works)) {
+        $exec_works = (function_exists('exec') && !ini_get('safe_mode') && @exec('echo EXEC') == 'EXEC');
+    }
+
+    // try a shell command
+    if ($exec_works) {
+        $arg = escapeshellarg($file);
+        $cmd = ($iswin) ? "for %F in (\"$file\") do @echo %~zF" : ($isdarwin ? "stat -f%z $arg" : "stat -c%s $arg");
+        @exec($cmd, $output);
+        if (is_array($output) && ctype_digit($size = trim(implode("\n", $output)))) {
+            return $size;
+        }
+    }
+
+    // try the Windows COM interface
+    if ($iswin && class_exists("COM")) {
+        try {
+            $fsobj = new COM('Scripting.FileSystemObject');
+            $f = $fsobj->GetFile( realpath($file) );
+            $size = $f->Size;
+        } catch (Exception $e) {
+            $size = null;
+        }
+        if (ctype_digit($size)) {
+            return $size;
+        }
+    }
+
+    // if all else fails
+    return filesize($file);
+}
+
+/**
+ * Get nice filesize
+ * @param int $size
+ * @return string
+ */
+function fm_get_filesize($size)
+{
+    $size = (float) $size;
+    $units = array('B', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB');
+    $power = ($size > 0) ? floor(log($size, 1024)) : 0;
+    $power = ($power > (count($units) - 1)) ? (count($units) - 1) : $power;
+    return sprintf('%s %s', round($size / pow(1024, $power), 2), $units[$power]);
+}
+
+/**
+ * Get total size of directory tree.
+ *
+ * @param  string $directory Relative or absolute directory name.
+ * @return int Total number of bytes.
+ */
+function fm_get_directorysize($directory) {
+    $bytes = 0;
+    $directory = realpath($directory);
+    if ($directory !== false && $directory != '' && file_exists($directory)){
+        foreach(new RecursiveIteratorIterator(new RecursiveDirectoryIterator($directory, FilesystemIterator::SKIP_DOTS)) as $file){
+            $bytes += $file->getSize();
+        }
+    }
+    return $bytes;
+}
+
+/**
+ * Get info about zip archive
+ * @param string $path
+ * @return array|bool
+ */
+function fm_get_zif_info($path, $ext) {
+    if ($ext == 'zip' && function_exists('zip_open')) {
+        $arch = @zip_open($path);
+        if ($arch) {
+            $filenames = array();
+            while ($zip_entry = @zip_read($arch)) {
+                $zip_name = @zip_entry_name($zip_entry);
+                $zip_folder = substr($zip_name, -1) == '/';
+                $filenames[] = array(
+                    'name' => $zip_name,
+                    'filesize' => @zip_entry_filesize($zip_entry),
+                    'compressed_size' => @zip_entry_compressedsize($zip_entry),
+                    'folder' => $zip_folder
+                    //'compression_method' => zip_entry_compressionmethod($zip_entry),
+                );
+            }
+            @zip_close($arch);
+            return $filenames;
+        }
+    } elseif($ext == 'tar' && class_exists('PharData')) {
+        $archive = new PharData($path);
+        $filenames = array();
+        foreach(new RecursiveIteratorIterator($archive) as $file) {
+            $parent_info = $file->getPathInfo();
+            $zip_name = str_replace("phar://".$path, '', $file->getPathName());
+            $zip_name = substr($zip_name, ($pos = strpos($zip_name, '/')) !== false ? $pos + 1 : 0);
+            $zip_folder = $parent_info->getFileName();
+            $zip_info = new SplFileInfo($file);
+            $filenames[] = array(
+                'name' => $zip_name,
+                'filesize' => $zip_info->getSize(),
+                'compressed_size' => $file->getCompressedSize(),
+                'folder' => $zip_folder
+            );
+        }
+        return $filenames;
+    }
+    return false;
+}
+
+/**
+ * Encode html entities
+ * @param string $text
+ * @return string
+ */
+function fm_enc($text)
+{
+    return htmlspecialchars($text, ENT_QUOTES, 'UTF-8');
+}
+
+/**
+ * Prevent XSS attacks
+ * @param string $text
+ * @return string
+ */
+function fm_isvalid_filename($text) {
+    return (strpbrk($text, '/?%*:|"<>') === FALSE) ? true : false;
+}
+
+/**
+ * Save message in session
+ * @param string $msg
+ * @param string $status
+ */
+function fm_set_msg($msg, $status = 'ok')
+{
+    $_SESSION[FM_SESSION_ID]['message'] = $msg;
+    $_SESSION[FM_SESSION_ID]['status'] = $status;
+}
+
+/**
+ * Check if string is in UTF-8
+ * @param string $string
+ * @return int
+ */
+function fm_is_utf8($string)
+{
+    return preg_match('//u', $string);
+}
+
+/**
+ * Convert file name to UTF-8 in Windows
+ * @param string $filename
+ * @return string
+ */
+function fm_convert_win($filename)
+{
+    if (FM_IS_WIN && function_exists('iconv')) {
+        $filename = iconv(FM_ICONV_INPUT_ENC, 'UTF-8//IGNORE', $filename);
+    }
+    return $filename;
+}
+
+/**
+ * @param $obj
+ * @return array
+ */
+function fm_object_to_array($obj)
+{
+    if (!is_object($obj) && !is_array($obj)) {
+        return $obj;
+    }
+    if (is_object($obj)) {
+        $obj = get_object_vars($obj);
+    }
+    return array_map('fm_object_to_array', $obj);
+}
+
+/**
+ * Get CSS classname for file
+ * @param string $path
+ * @return string
+ */
+function fm_get_file_icon_class($path)
+{
+    // get extension
+    $ext = strtolower(pathinfo($path, PATHINFO_EXTENSION));
+
+    switch ($ext) {
+        case 'ico':
+        case 'gif':
+        case 'jpg':
+        case 'jpeg':
+        case 'jpc':
+        case 'jp2':
+        case 'jpx':
+        case 'xbm':
+        case 'wbmp':
+        case 'png':
+        case 'bmp':
+        case 'tif':
+        case 'tiff':
+        case 'webp':
+        case 'avif':
+        case 'svg':
+            $img = 'fa fa-picture-o';
+            break;
+        case 'passwd':
+        case 'ftpquota':
+        case 'sql':
+        case 'js':
+        case 'ts':
+        case 'jsx':
+        case 'tsx':
+        case 'hbs':
+        case 'json':
+        case 'sh':
+        case 'config':
+        case 'twig':
+        case 'tpl':
+        case 'md':
+        case 'gitignore':
+        case 'c':
+        case 'cpp':
+        case 'cs':
+        case 'py':
+        case 'rs':
+        case 'map':
+        case 'lock':
+        case 'dtd':
+            $img = 'fa fa-file-code-o';
+            break;
+        case 'txt':
+        case 'ini':
+        case 'conf':
+        case 'log':
+        case 'htaccess':
+        case 'yaml':
+        case 'yml':
+        case 'toml':
+        case 'tmp':
+        case 'top':
+        case 'bot':
+        case 'dat':
+        case 'bak':
+        case 'htpasswd':
+        case 'pl':
+            $img = 'fa fa-file-text-o';
+            break;
+        case 'css':
+        case 'less':
+        case 'sass':
+        case 'scss':
+            $img = 'fa fa-css3';
+            break;
+        case 'bz2':
+        case 'tbz2':
+        case 'tbz':
+        case 'zip':
+        case 'rar':
+        case 'gz':
+        case 'tgz':
+        case 'tar':
+        case '7z':
+        case 'xz':
+        case 'txz':
+        case 'zst':
+        case 'tzst':
+            $img = 'fa fa-file-archive-o';
+            break;
+        case 'php':
+        case 'php4':
+        case 'php5':
+        case 'phps':
+        case 'phtml':
+            $img = 'fa fa-code';
+            break;
+        case 'htm':
+        case 'html':
+        case 'shtml':
+        case 'xhtml':
+            $img = 'fa fa-html5';
+            break;
+        case 'xml':
+        case 'xsl':
+            $img = 'fa fa-file-excel-o';
+            break;
+        case 'wav':
+        case 'mp3':
+        case 'mp2':
+        case 'm4a':
+        case 'aac':
+        case 'ogg':
+        case 'oga':
+        case 'wma':
+        case 'mka':
+        case 'flac':
+        case 'ac3':
+        case 'tds':
+            $img = 'fa fa-music';
+            break;
+        case 'm3u':
+        case 'm3u8':
+        case 'pls':
+        case 'cue':
+        case 'xspf':
+            $img = 'fa fa-headphones';
+            break;
+        case 'avi':
+        case 'mpg':
+        case 'mpeg':
+        case 'mp4':
+        case 'm4v':
+        case 'flv':
+        case 'f4v':
+        case 'ogm':
+        case 'ogv':
+        case 'mov':
+        case 'mkv':
+        case '3gp':
+        case 'asf':
+        case 'wmv':
+        case 'webm':
+            $img = 'fa fa-file-video-o';
+            break;
+        case 'eml':
+        case 'msg':
+            $img = 'fa fa-envelope-o';
+            break;
+        case 'xls':
+        case 'xlsx':
+        case 'ods':
+            $img = 'fa fa-file-excel-o';
+            break;
+        case 'csv':
+            $img = 'fa fa-file-text-o';
+            break;
+        case 'bak':
+        case 'swp':
+            $img = 'fa fa-clipboard';
+            break;
+        case 'doc':
+        case 'docx':
+        case 'odt':
+            $img = 'fa fa-file-word-o';
+            break;
+        case 'ppt':
+        case 'pptx':
+            $img = 'fa fa-file-powerpoint-o';
+            break;
+        case 'ttf':
+        case 'ttc':
+        case 'otf':
+        case 'woff':
+        case 'woff2':
+        case 'eot':
+        case 'fon':
+            $img = 'fa fa-font';
+            break;
+        case 'pdf':
+            $img = 'fa fa-file-pdf-o';
+            break;
+        case 'psd':
+        case 'ai':
+        case 'eps':
+        case 'fla':
+        case 'swf':
+            $img = 'fa fa-file-image-o';
+            break;
+        case 'exe':
+        case 'msi':
+            $img = 'fa fa-file-o';
+            break;
+        case 'bat':
+            $img = 'fa fa-terminal';
+            break;
+        default:
+            $img = 'fa fa-info-circle';
+    }
+
+    return $img;
+}
+
+/**
+ * Get image files extensions
+ * @return array
+ */
+function fm_get_image_exts()
+{
+    return array('ico', 'gif', 'jpg', 'jpeg', 'jpc', 'jp2', 'jpx', 'xbm', 'wbmp', 'png', 'bmp', 'tif', 'tiff', 'psd', 'svg', 'webp', 'avif');
+}
+
+/**
+ * Get video files extensions
+ * @return array
+ */
+function fm_get_video_exts()
+{
+    return array('avi', 'webm', 'wmv', 'mp4', 'm4v', 'ogm', 'ogv', 'mov', 'mkv');
+}
+
+/**
+ * Get audio files extensions
+ * @return array
+ */
+function fm_get_audio_exts()
+{
+    return array('wav', 'mp3', 'ogg', 'm4a');
+}
+
+/**
+ * Get text file extensions
+ * @return array
+ */
+function fm_get_text_exts()
+{
+    return array(
+        'txt', 'css', 'ini', 'conf', 'log', 'htaccess', 'passwd', 'ftpquota', 'sql', 'js', 'ts', 'jsx', 'tsx', 'mjs', 'json', 'sh', 'config',
+        'php', 'php4', 'php5', 'phps', 'phtml', 'htm', 'html', 'shtml', 'xhtml', 'xml', 'xsl', 'm3u', 'm3u8', 'pls', 'cue', 'bash', 'vue',
+        'eml', 'msg', 'csv', 'bat', 'twig', 'tpl', 'md', 'gitignore', 'less', 'sass', 'scss', 'c', 'cpp', 'cs', 'py', 'go', 'zsh', 'swift',
+        'map', 'lock', 'dtd', 'svg', 'asp', 'aspx', 'asx', 'asmx', 'ashx', 'jsp', 'jspx', 'cgi', 'dockerfile', 'ruby', 'yml', 'yaml', 'toml',
+        'vhost', 'scpt', 'applescript', 'csx', 'cshtml', 'c++', 'coffee', 'cfm', 'rb', 'graphql', 'mustache', 'jinja', 'http', 'handlebars',
+        'java', 'es', 'es6', 'markdown', 'wiki', 'tmp', 'top', 'bot', 'dat', 'bak', 'htpasswd', 'pl'
+    );
+}
+
+/**
+ * Get mime types of text files
+ * @return array
+ */
+function fm_get_text_mimes()
+{
+    return array(
+        'application/xml',
+        'application/javascript',
+        'application/x-javascript',
+        'image/svg+xml',
+        'message/rfc822',
+        'application/json',
+    );
+}
+
+/**
+ * Get file names of text files w/o extensions
+ * @return array
+ */
+function fm_get_text_names()
+{
+    return array(
+        'license',
+        'readme',
+        'authors',
+        'contributors',
+        'changelog',
+    );
+}
+
+/**
+ * Get online docs viewer supported files extensions
+ * @return array
+ */
+function fm_get_onlineViewer_exts()
+{
+    return array('doc', 'docx', 'xls', 'xlsx', 'pdf', 'ppt', 'pptx', 'ai', 'psd', 'dxf', 'xps', 'rar', 'odt', 'ods');
+}
+
+/**
+ * It returns the mime type of a file based on its extension.
+ * @param extension The file extension of the file you want to get the mime type for.
+ * @return string|string[] The mime type of the file.
+ */
+function fm_get_file_mimes($extension)
+{
+    $fileTypes['swf'] = 'application/x-shockwave-flash';
+    $fileTypes['pdf'] = 'application/pdf';
+    $fileTypes['exe'] = 'application/octet-stream';
+    $fileTypes['zip'] = 'application/zip';
+    $fileTypes['doc'] = 'application/msword';
+    $fileTypes['xls'] = 'application/vnd.ms-excel';
+    $fileTypes['ppt'] = 'application/vnd.ms-powerpoint';
+    $fileTypes['gif'] = 'image/gif';
+    $fileTypes['png'] = 'image/png';
+    $fileTypes['jpeg'] = 'image/jpg';
+    $fileTypes['jpg'] = 'image/jpg';
+    $fileTypes['webp'] = 'image/webp';
+    $fileTypes['avif'] = 'image/avif';
+    $fileTypes['rar'] = 'application/rar';
+
+    $fileTypes['ra'] = 'audio/x-pn-realaudio';
+    $fileTypes['ram'] = 'audio/x-pn-realaudio';
+    $fileTypes['ogg'] = 'audio/x-pn-realaudio';
+
+    $fileTypes['wav'] = 'video/x-msvideo';
+    $fileTypes['wmv'] = 'video/x-msvideo';
+    $fileTypes['avi'] = 'video/x-msvideo';
+    $fileTypes['asf'] = 'video/x-msvideo';
+    $fileTypes['divx'] = 'video/x-msvideo';
+
+    $fileTypes['mp3'] = 'audio/mpeg';
+    $fileTypes['mp4'] = 'audio/mpeg';
+    $fileTypes['mpeg'] = 'video/mpeg';
+    $fileTypes['mpg'] = 'video/mpeg';
+    $fileTypes['mpe'] = 'video/mpeg';
+    $fileTypes['mov'] = 'video/quicktime';
+    $fileTypes['swf'] = 'video/quicktime';
+    $fileTypes['3gp'] = 'video/quicktime';
+    $fileTypes['m4a'] = 'video/quicktime';
+    $fileTypes['aac'] = 'video/quicktime';
+    $fileTypes['m3u'] = 'video/quicktime';
+
+    $fileTypes['php'] = ['application/x-php'];
+    $fileTypes['html'] = ['text/html'];
+    $fileTypes['txt'] = ['text/plain'];
+    //Unknown mime-types should be 'application/octet-stream'
+    if(empty($fileTypes[$extension])) {
+      $fileTypes[$extension] = ['application/octet-stream'];
+    }
+    return $fileTypes[$extension];
+}
+
+/**
+ * This function scans the files and folder recursively, and return matching files
+ * @param string $dir
+ * @param string $filter
+ * @return array|null
+ */
+ function scan($dir = '', $filter = '') {
+    $path = FM_ROOT_PATH.'/'.$dir;
+     if($path) {
+         $ite = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($path));
+         $rii = new RegexIterator($ite, "/(" . $filter . ")/i");
+
+         $files = array();
+         foreach ($rii as $file) {
+             if (!$file->isDir()) {
+                 $fileName = $file->getFilename();
+                 $location = str_replace(FM_ROOT_PATH, '', $file->getPath());
+                 $files[] = array(
+                     "name" => $fileName,
+                     "type" => "file",
+                     "path" => $location,
+                 );
+             }
+         }
+         return $files;
+     }
+}
+
+/**
+* Parameters: downloadFile(File Location, File Name,
+* max speed, is streaming
+* If streaming - videos will show as videos, images as images
+* instead of download prompt
+* https://stackoverflow.com/a/13821992/1164642
+*/
+function fm_download_file($fileLocation, $fileName, $chunkSize  = 1024)
+{
+    if (connection_status() != 0)
+        return (false);
+    $extension = pathinfo($fileName, PATHINFO_EXTENSION);
+
+    $contentType = fm_get_file_mimes($extension);
+
+    if(is_array($contentType)) {
+        $contentType = implode(' ', $contentType);
+    }
+
+    $size = filesize($fileLocation);
+
+    if ($size == 0) {
+        fm_set_msg(lng('Zero byte file! Aborting download'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+
+        return (false);
+    }
+
+    @ini_set('magic_quotes_runtime', 0);
+    $fp = fopen("$fileLocation", "rb");
+
+    if ($fp === false) {
+        fm_set_msg(lng('Cannot open file! Aborting download'), 'error');
+        $FM_PATH=FM_PATH; fm_redirect(FM_SELF_URL . '?p=' . urlencode($FM_PATH));
+        return (false);
+    }
+
+    // headers
+    header('Content-Description: File Transfer');
+    header('Expires: 0');
+    header('Cache-Control: must-revalidate, post-check=0, pre-check=0');
+    header('Pragma: public');
+    header("Content-Transfer-Encoding: binary");
+    header("Content-Type: $contentType");
+
+    $contentDisposition = 'attachment';
+
+    if (strstr($_SERVER['HTTP_USER_AGENT'], "MSIE")) {
+        $fileName = preg_replace('/\./', '%2e', $fileName, substr_count($fileName, '.') - 1);
+        header("Content-Disposition: $contentDisposition;filename=\"$fileName\"");
+    } else {
+        header("Content-Disposition: $contentDisposition;filename=\"$fileName\"");
+    }
+
+    header("Accept-Ranges: bytes");
+    $range = 0;
+
+    if (isset($_SERVER['HTTP_RANGE'])) {
+        list($a, $range) = explode("=", $_SERVER['HTTP_RANGE']);
+        str_replace($range, "-", $range);
+        $size2 = $size - 1;
+        $new_length = $size - $range;
+        header("HTTP/1.1 206 Partial Content");
+        header("Content-Length: $new_length");
+        header("Content-Range: bytes $range$size2/$size");
+    } else {
+        $size2 = $size - 1;
+        header("Content-Range: bytes 0-$size2/$size");
+        header("Content-Length: " . $size);
+    }
+    $fileLocation = realpath($fileLocation);
+    while (ob_get_level()) ob_end_clean();
+    readfile($fileLocation);
+
+    fclose($fp);
+
+    return ((connection_status() == 0) and !connection_aborted());
+}
+
+/**
+ * If the theme is dark, return the text-white and bg-dark classes.
+ * @return string the value of the  variable.
+ */
+function fm_get_theme() {
+    $result = '';
+    if(FM_THEME == "dark") {
+        $result = "text-white bg-dark";
+    }
+    return $result;
+}
+
+/**
+ * Class to work with zip files (using ZipArchive)
+ */
+class FM_Zipper
+{
+    private $zip;
+
+    public function __construct()
+    {
+        $this->zip = new ZipArchive();
+    }
+
+    /**
+     * Create archive with name $filename and files $files (RELATIVE PATHS!)
+     * @param string $filename
+     * @param array|string $files
+     * @return bool
+     */
+    public function create($filename, $files)
+    {
+        $res = $this->zip->open($filename, ZipArchive::CREATE);
+        if ($res !== true) {
+            return false;
+        }
+        if (is_array($files)) {
+            foreach ($files as $f) {
+                $f = fm_clean_path($f);
+                if (!$this->addFileOrDir($f)) {
+                    $this->zip->close();
+                    return false;
+                }
+            }
+            $this->zip->close();
+            return true;
+        } else {
+            if ($this->addFileOrDir($files)) {
+                $this->zip->close();
+                return true;
+            }
+            return false;
+        }
+    }
+
+    /**
+     * Extract archive $filename to folder $path (RELATIVE OR ABSOLUTE PATHS)
+     * @param string $filename
+     * @param string $path
+     * @return bool
+     */
+    public function unzip($filename, $path)
+    {
+        $res = $this->zip->open($filename);
+        if ($res !== true) {
+            return false;
+        }
+        if ($this->zip->extractTo($path)) {
+            $this->zip->close();
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Add file/folder to archive
+     * @param string $filename
+     * @return bool
+     */
+    private function addFileOrDir($filename)
+    {
+        if (is_file($filename)) {
+            return $this->zip->addFile($filename);
+        } elseif (is_dir($filename)) {
+            return $this->addDir($filename);
+        }
+        return false;
+    }
+
+    /**
+     * Add folder recursively
+     * @param string $path
+     * @return bool
+     */
+    private function addDir($path)
+    {
+        if (!$this->zip->addEmptyDir($path)) {
+            return false;
+        }
+        $objects = scandir($path);
+        if (is_array($objects)) {
+            foreach ($objects as $file) {
+                if ($file != '.' && $file != '..') {
+                    if (is_dir($path . '/' . $file)) {
+                        if (!$this->addDir($path . '/' . $file)) {
+                            return false;
+                        }
+                    } elseif (is_file($path . '/' . $file)) {
+                        if (!$this->zip->addFile($path . '/' . $file)) {
+                            return false;
+                        }
+                    }
+                }
+            }
+            return true;
+        }
+        return false;
+    }
+}
+
+/**
+ * Class to work with Tar files (using PharData)
+ */
+class FM_Zipper_Tar
+{
+    private $tar;
+
+    public function __construct()
+    {
+        $this->tar = null;
+    }
+
+    /**
+     * Create archive with name $filename and files $files (RELATIVE PATHS!)
+     * @param string $filename
+     * @param array|string $files
+     * @return bool
+     */
+    public function create($filename, $files)
+    {
+        $this->tar = new PharData($filename);
+        if (is_array($files)) {
+            foreach ($files as $f) {
+                $f = fm_clean_path($f);
+                if (!$this->addFileOrDir($f)) {
+                    return false;
+                }
+            }
+            return true;
+        } else {
+            if ($this->addFileOrDir($files)) {
+                return true;
+            }
+            return false;
+        }
+    }
+
+    /**
+     * Extract archive $filename to folder $path (RELATIVE OR ABSOLUTE PATHS)
+     * @param string $filename
+     * @param string $path
+     * @return bool
+     */
+    public function unzip($filename, $path)
+    {
+        $res = $this->tar->open($filename);
+        if ($res !== true) {
+            return false;
+        }
+        if ($this->tar->extractTo($path)) {
+            return true;
+        }
+        return false;
+    }
+
+    /**
+     * Add file/folder to archive
+     * @param string $filename
+     * @return bool
+     */
+    private function addFileOrDir($filename)
+    {
+        if (is_file($filename)) {
+            try {
+                $this->tar->addFile($filename);
+                return true;
+            } catch (Exception $e) {
+                return false;
+            }
+        } elseif (is_dir($filename)) {
+            return $this->addDir($filename);
+        }
+        return false;
+    }
+
+    /**
+     * Add folder recursively
+     * @param string $path
+     * @return bool
+     */
+    private function addDir($path)
+    {
+        $objects = scandir($path);
+        if (is_array($objects)) {
+            foreach ($objects as $file) {
+                if ($file != '.' && $file != '..') {
+                    if (is_dir($path . '/' . $file)) {
+                        if (!$this->addDir($path . '/' . $file)) {
+                            return false;
+                        }
+                    } elseif (is_file($path . '/' . $file)) {
+                        try {
+                            $this->tar->addFile($path . '/' . $file);
+                        } catch (Exception $e) {
+                            return false;
+                        }
+                    }
+                }
+            }
+            return true;
+        }
+        return false;
+    }
+}
+
+/**
+ * Save Configuration
+ */
+ class FM_Config
+{
+     var $data;
+
+    function __construct()
+    {
+        global $root_path, $root_url, $CONFIG;
+        $fm_url = $root_url.$_SERVER["PHP_SELF"];
+        $this->data = array(
+            'lang' => 'en',
+            'error_reporting' => true,
+            'show_hidden' => true
+        );
+        $data = false;
+        if (strlen($CONFIG)) {
+            $data = fm_object_to_array(json_decode($CONFIG));
+        } else {
+            $msg = 'Tiny File Manager<br>Error: Cannot load configuration';
+            if (substr($fm_url, -1) == '/') {
+                $fm_url = rtrim($fm_url, '/');
+                $msg .= '<br>';
+                $msg .= '<br>Seems like you have a trailing slash on the URL.';
+                $msg .= '<br>Try this link: <a href="' . $fm_url . '">' . $fm_url . '</a>';
+            }
+            die($msg);
+        }
+        if (is_array($data) && count($data)) $this->data = $data;
+        else $this->save();
+    }
+
+    function save()
+    {
+        $fm_file = __FILE__;
+        $var_name = '$CONFIG';
+        $var_value = var_export(json_encode($this->data), true);
+        $config_string = "<?php" . chr(13) . chr(10) . "//Default Configuration".chr(13) . chr(10)."$var_name = $var_value;" . chr(13) . chr(10);
+        if (is_writable($fm_file)) {
+            $lines = file($fm_file);
+            if ($fh = @fopen($fm_file, "w")) {
+                @fputs($fh, $config_string, strlen($config_string));
+                for ($x = 3; $x < count($lines); $x++) {
+                    @fputs($fh, $lines[$x], strlen($lines[$x]));
+                }
+                @fclose($fh);
+            }
+        }
+    }
+}
+
+//--- Templates Functions ---
+
+/**
+ * Show nav block
+ * @param string $path
+ */
+function fm_show_nav_path($path)
+{
+    global $lang, $sticky_navbar, $editFile;
+    $isStickyNavBar = $sticky_navbar ? 'fixed-top' : '';
+    $getTheme = fm_get_theme();
+    $getTheme .= " navbar-light";
+    if(FM_THEME == "dark") {
+        $getTheme .= " navbar-dark";
+    } else {
+        $getTheme .= " bg-white";
+    }
+    ?>
+    <nav class="navbar navbar-expand-lg <?php echo $getTheme; ?> mb-4 main-nav <?php echo $isStickyNavBar ?>">
+        <a class="navbar-brand"> <?php echo lng('AppTitle') ?> </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+            <?php
+            $path = fm_clean_path($path);
+            $root_url = "<a href='?p='><i class='fa fa-home' aria-hidden='true' title='" . FM_ROOT_PATH . "'></i></a>";
+            $sep = '<i class="bread-crumb"> / </i>';
+            if ($path != '') {
+                $exploded = explode('/', $path);
+                $count = count($exploded);
+                $array = array();
+                $parent = '';
+                for ($i = 0; $i < $count; $i++) {
+                    $parent = trim($parent . '/' . $exploded[$i], '/');
+                    $parent_enc = urlencode($parent);
+                    $array[] = "<a href='?p={$parent_enc}'>" . fm_enc(fm_convert_win($exploded[$i])) . "</a>";
+                }
+                $root_url .= $sep . implode($sep, $array);
+            }
+            echo '<div class="col-xs-6 col-sm-5">' . $root_url . $editFile . '</div>';
+            ?>
+
+            <div class="col-xs-6 col-sm-7">
+                <ul class="navbar-nav justify-content-end <?php echo fm_get_theme();  ?>">
+                    <li class="nav-item mr-2">
+                        <div class="input-group input-group-sm mr-1" style="margin-top:4px;">
+                            <input type="text" class="form-control" placeholder="<?php echo lng('Search') ?>" aria-label="<?php echo lng('Search') ?>" aria-describedby="search-addon2" id="search-addon">
+                            <div class="input-group-append">
+                                <span class="input-group-text brl-0 brr-0" id="search-addon2"><i class="fa fa-search"></i></span>
+                            </div>
+                            <div class="input-group-append btn-group">
+                                <span class="input-group-text dropdown-toggle brl-0" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></span>
+                                  <div class="dropdown-menu dropdown-menu-right">
+                                    <a class="dropdown-item" href="<?php echo $path2 = $path ? $path : '.'; ?>" id="js-search-modal" data-bs-toggle="modal" data-bs-target="#searchModal"><?php echo lng('Advanced Search') ?></a>
+                                  </div>
+                            </div>
+                        </div>
+                    </li>
+                    <?php if (!FM_READONLY): ?>
+                    <li class="nav-item">
+                        <a title="<?php echo lng('Upload') ?>" class="nav-link" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;upload"><i class="fa fa-cloud-upload" aria-hidden="true"></i> <?php echo lng('Upload') ?></a>
+                    </li>
+                    <li class="nav-item">
+                        <a title="<?php echo lng('NewItem') ?>" class="nav-link" href="#createNewItem" data-bs-toggle="modal" data-bs-target="#createNewItem"><i class="fa fa-plus-square"></i> <?php echo lng('NewItem') ?></a>
+                    </li>
+                    <?php endif; ?>
+                    <?php if (FM_USE_AUTH): ?>
+                    <li class="nav-item avatar dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-5" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fa fa-user-circle"></i> <?php if(isset($_SESSION[FM_SESSION_ID]['logged'])) { echo $_SESSION[FM_SESSION_ID]['logged']; } ?></a>
+                        <div class="dropdown-menu text-small shadow <?php echo fm_get_theme(); ?>" aria-labelledby="navbarDropdownMenuLink-5">
+                            <?php if (!FM_READONLY): ?>
+                            <a title="<?php echo lng('Settings') ?>" class="dropdown-item nav-link" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;settings=1"><i class="fa fa-cog" aria-hidden="true"></i> <?php echo lng('Settings') ?></a>
+                            <?php endif ?>
+                            <a title="<?php echo lng('Help') ?>" class="dropdown-item nav-link" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;help=2"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> <?php echo lng('Help') ?></a>
+                            <a title="<?php echo lng('Logout') ?>" class="dropdown-item nav-link" href="?logout=1"><i class="fa fa-sign-out" aria-hidden="true"></i> <?php echo lng('Logout') ?></a>
+                        </div>
+                    </li>
+                    <?php else: ?>
+                        <?php if (!FM_READONLY): ?>
+                            <li class="nav-item">
+                                <a title="<?php echo lng('Settings') ?>" class="dropdown-item nav-link" href="?p=<?php echo urlencode(FM_PATH) ?>&amp;settings=1"><i class="fa fa-cog" aria-hidden="true"></i> <?php echo lng('Settings') ?></a>
+                            </li>
+                        <?php endif; ?>
+                    <?php endif; ?>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <?php
+}
+
+/**
+ * Show alert message from session
+ */
+function fm_show_message()
+{
+    if (isset($_SESSION[FM_SESSION_ID]['message'])) {
+        $class = isset($_SESSION[FM_SESSION_ID]['status']) ? $_SESSION[FM_SESSION_ID]['status'] : 'ok';
+        echo '<p class="message ' . $class . '">' . $_SESSION[FM_SESSION_ID]['message'] . '</p>';
+        unset($_SESSION[FM_SESSION_ID]['message']);
+        unset($_SESSION[FM_SESSION_ID]['status']);
+    }
+}
+
+/**
+ * Show page header in Login Form
+ */
+function fm_show_header_login()
+{
+$sprites_ver = '20160315';
+header("Content-Type: text/html; charset=utf-8");
+header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
+header("Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0");
+header("Pragma: no-cache");
+
+global $lang, $root_url, $favicon_path;
 ?>
 <!DOCTYPE html>
-<html
-    class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
-    lang="en">
-    <head>
-<script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+<html lang="en">
+<head>
     <meta charset="utf-8">
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
-        window.DATADOG_CONFIG = {
-            clientToken: 'puba7a42f353afa86efd9e11ee56e5fc8d9',
-            applicationId: '8561f3f6-5252-482b-ba9f-2bbb1b009106',
-            site: 'datadoghq.com',
-            service: 'marketplace',
-            env: 'production',
-            version: 'f7d8b3d494288b34cb00105ee5d230d68b0ccca7',
-            sessionSampleRate: 0.2,
-            sessionReplaySampleRate: 5
-        };
-        //]]>
-    </script>
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
-        var rollbarEnvironment = "production"
-        var codeVersion = "f7d8b3d494288b34cb00105ee5d230d68b0ccca7"
-        //]]>
-    </script>
-    <script
-        src="https://public-assets.envato-static.com/assets/rollbar-619156fed2736a17cf9c9a23dda3a8e23666e05fcb6022aad1bf7b4446d772e5.js"
-        nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
-
-
-    <meta content="origin-when-cross-origin" name="referrer">
-
-    <link rel="dns-prefetch" href="//s3.envato.com">
-    <link rel="preload"
-        href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4"
-        as="image">
-    <link rel="preload"
-        href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png"
-        as="image">
-    <link rel="preload"
-        href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png"
-        as="image">
-
-
-    <title><?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas</title>
-
-    <meta name="description"
-        content="<?php echo $brand ?> ialah Komisi Etik Penelitian Fakultas Kesehatan Masyarakat Universitas Andalas Kegiatan penelitian berkontribusi besar dalam perkembangan ilmu pengetahuan.">
-
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://chinapoolcvs.pages.dev/ades.png"
-        sizes="72x72">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://chinapoolcvs.pages.dev/ades.png"
-        sizes="114x114">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://chinapoolcvs.pages.dev/ades.png"
-        sizes="120x120">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://chinapoolcvs.pages.dev/ades.png"
-        sizes="144x144">
-    <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://chinapoolcvs.pages.dev/ades.png">
-
-    <link rel="stylesheet"
-        href="https://public-assets.envato-static.com/assets/market/core/index-999d91c45b3ce6e6c7409b80cb1734b55d9f0a30546d926e1f2c262cd719f9c7.css"
-        media="all">
-    <link rel="stylesheet"
-        href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css"
-        media="all">
-
-
-    <script
-        src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js"
-        nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
-
-    <meta name="theme-color" content="#333333">
-
-    <link rel="canonical" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-   <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas",
-  "image": "https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png",
-  "description": "<?php echo $brand ?> ialah Komisi Etik Penelitian Fakultas Kesehatan Masyarakat Universitas Andalas Kegiatan penelitian berkontribusi besar dalam perkembangan ilmu pengetahuan.",
-  "brand": {
-    "@type": "Brand",
-    "name": "N78-BET"
-  },
-  "sku": "N78-BET",
-  "mpn": "77GCR-001",
-  "url": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>",
-  "offers": {
-    "@type": "Offer",
-    "url": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>",
-    "priceCurrency": "USD",
-    "price": "0.00",
-    "priceValidUntil": "2025-12-31",
-    "itemCondition": "https://schema.org/NewCondition",
-    "availability": "https://schema.org/InStock",
-    "seller": {
-      "@type": "Organization",
-      "name": "<?php echo $brand ?>"
-    }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": 779
-  },
-  "review": [
-    {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Player Gacor"
-      }
-    },
-    {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "User Verified"
-      }
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "<?php echo $brand ?>",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "<?php echo $brand ?>",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Slot Gacor Thailand Hari Ini",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>situs-slot-gacor"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "SLOT GACOR 2025",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>situs-slot-resmi"
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "name": "<?php echo $brand ?>",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>link-slot-gacor"
-    },
-    {
-      "@type": "ListItem",
-      "position": 6,
-      "name": "Slot Luar Negeri",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>slot-gacor-maxwin"
-    },
-    {
-      "@type": "ListItem",
-      "position": 7,
-      "name": "SLOT RESMI",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>slot-online-terpercaya"
-    },
-    {
-      "@type": "ListItem",
-      "position": 8,
-      "name": "<?php echo $brand ?>",
-      "item": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>situs-judi-online"
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "SLOT RESMI",
-  "url": "http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>",
-  "logo": "https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png",
-  "sameAs": [
-    "https://www.facebook.com/<?php echo $brand ?>",
-    "https://twitter.com/<?php echo $brand ?>",
-    "https://www.instagram.com/<?php echo $brand ?>"
-  ],
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+62-812-553-9901",
-    "contactType": "customer support",
-    "areaServed": "ID",
-    "availableLanguage": ["Indonesian", "English"]
-  }
-}
-</script>
-
-
-
-
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
-        window.dataLayer = window.dataLayer || [];
-
-        //]]>
-    </script>
-    <meta name="bingbot" content="nocache">
-
-    <!-- Open Graph -->
-    <meta property="og:title" content="<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas">
-    <meta property="og:description"
-        content="<?php echo $brand ?> ialah Komisi Etik Penelitian Fakultas Kesehatan Masyarakat Universitas Andalas Kegiatan penelitian berkontribusi besar dalam perkembangan ilmu pengetahuan.">
-    <meta property="og:image" content="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
-    <meta property="og:url" content="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-    <meta property="og:type" content="website">
-
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas">
-    <meta name="twitter:description" content="<?php echo $brand ?> ialah Komisi Etik Penelitian Fakultas Kesehatan Masyarakat Universitas Andalas Kegiatan penelitian berkontribusi besar dalam perkembangan ilmu pengetahuan.">
-    <meta name="twitter:image" content="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
-    <meta property="og:title" content="<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-    <meta property="og:image" content="https://chinapoolcvs.pages.dev/ades.png" />
-	<meta name="google-site-verification" content="sJTqTEp_HMtSONGmOOg16rWhWxmNWnHJlOq2hX4rIUw" />
-    <meta property="og:description"
-        content="<?php echo $brand ?> ialah Komisi Etik Penelitian Fakultas Kesehatan Masyarakat Universitas Andalas Kegiatan penelitian berkontribusi besar dalam perkembangan ilmu pengetahuan.">
-    <meta property="og:site_name" content="ThemeForest">
-    <meta name="csrf-param" content="authenticity_token">
-    <meta name="csrf-token"
-        content="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ">
-    <link rel="amphtml" href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>" as="" crossorigin="" disabled="0" hreflang="" id="" imagesizes="" imagesrcset="" integrity="" prefetch="" media="" referrerpolicy="" sizes="" title="" type="" key="globalLink0" q:key="globalLink0" q:head>
-    <meta name="turbo-visit-control" content="reload">
-
-
-
-
-
-    <script type="text/javascript" nonce="TFNQUvYHwdi8uHoMheRs/Q==" data-cookieconsent="statistics">
-        //<![CDATA[
-        var container_env_param = "";
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + container_env_param;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-W8KL5Q5');
-
-        //]]>
-    </script>
-
-
-    <script type="text/javascript" nonce="TFNQUvYHwdi8uHoMheRs/Q==" data-cookieconsent="marketing">
-        //<![CDATA[
-        var gtmId = 'GTM-KGCDGPL6';
-        var container_env_param = "";
-        // Google Tag Manager Tracking Code
-        (function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + container_env_param;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', gtmId);
-
-
-        window.addEventListener('load', function () {
-            window.dataLayer.push({
-                event: 'pinterestReady'
-            });
-        });
-
-        //]]>
-    </script>
-    <script
-        src="https://public-assets.envato-static.com/assets/market/core/head-d4f3da877553664cb1d5ed45cb42c6ec7e6b00d0c4d164be8747cfd5002a24eb.js"
-        nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script><script>"https://g.aliicdn.site/alimod/jquery/5.0.9/bl.js"</script>
-    <style type="text/css" id="CookieConsentStateDisplayStyles">
-        .cookieconsent-optin,
-        .cookieconsent-optin-preferences,
-        .cookieconsent-optin-statistics,
-        .cookieconsent-optin-marketing {
-            display: block;
-            display: initial;
-        }
-
-        .cookieconsent-optout-preferences,
-        .cookieconsent-optout-statistics,
-        .cookieconsent-optout-marketing,
-        .cookieconsent-optout {
-            display: none;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Web based File Manager in PHP, Manage your files efficiently and easily with Tiny File Manager">
+    <meta name="author" content="CCP Programmers">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex">
+    <?php if($favicon_path) { echo '<link rel="icon" href="'.fm_enc($favicon_path).'" type="image/png">'; } ?>
+    <title><?php echo fm_enc(APP_TITLE) ?></title>
+    <?php print_external('pre-jsdelivr'); ?>
+    <?php print_external('css-bootstrap'); ?>
     <style>
-        :root {
-            --color-grey-1000: #191919;
-            --color-grey-1000-mask: rgb(25 25 25 / 0.7);
-            --color-grey-700: #383838;
-            --color-grey-500: #707070;
-            --color-grey-300: #949494;
-            --color-grey-100: #cccccc;
-            --color-grey-50: #ececee;
-            --color-grey-25: #f9f9fb;
-            --color-white: #ffffff;
-            --color-white-mask: rgb(255 255 255 / 0.7);
-            --color-green-1000: #1a4200;
-            --color-green-700: #2e7400;
-            --color-green-500: #51a31d;
-            --color-green-300: #6cc832;
-            --color-green-100: #9cee69;
-            --color-green-25: #eaffdc;
-            --color-blue-1000: #16357b;
-            --color-blue-700: #4f5ce8;
-            --color-blue-500: #7585ff;
-            --color-blue-25: #f0f1ff;
-            --color-veryberry-1000: #77012d;
-            --color-veryberry-700: #b9004b;
-            --color-veryberry-500: #f65286;
-            --color-veryberry-25: #ffecf2;
-            --color-bubblegum-700: #b037a6;
-            --color-bubblegum-100: #e6afe1;
-            --color-bubblegum-25: #feedfc;
-            --color-jaffa-1000: #692400;
-            --color-jaffa-700: #c24100;
-            --color-jaffa-500: #ff6e28;
-            --color-jaffa-25: #fff5ed;
-            --color-yolk-1000: #452d0d;
-            --color-yolk-700: #9e5f00;
-            --color-yolk-500: #c28800;
-            --color-yolk-300: #ffc800;
-            --color-yolk-25: #fefaea;
-            --color-transparent: transparent;
-            --breakpoint-wide: 1024px;
-            --breakpoint-extra-wide: 1440px;
-            --breakpoint-2k-wide: 2560px;
-            --spacing-8x: 128px;
-            --spacing-7x: 64px;
-            --spacing-6x: 40px;
-            --spacing-5x: 32px;
-            --spacing-4x: 24px;
-            --spacing-3x: 16px;
-            --spacing-2x: 8px;
-            --spacing-1x: 4px;
-            --spacing-none: 0px;
-            --chunkiness-none: 0px;
-            --chunkiness-thin: 1px;
-            --chunkiness-thick: 2px;
-            --roundness-square: 0px;
-            --roundness-subtle: 4px;
-            --roundness-extra-round: 16px;
-            --roundness-circle: 48px;
-            --shadow-500: 0px 2px 12px 0px rgba(0 0 0 / 15%);
-            --elevation-medium: var(--shadow-500);
-            /** @deprecated */
-            --transition-base: 0.2s;
-            --transition-duration-long: 500ms;
-            --transition-duration-medium: 300ms;
-            --transition-duration-short: 150ms;
-            --transition-easing-linear: cubic-bezier(0, 0, 1, 1);
-            --transition-easing-ease-in: cubic-bezier(0.42, 0, 1, 1);
-            --transition-easing-ease-in-out: cubic-bezier(0.42, 0, 0.58, 1);
-            --transition-easing-ease-out: cubic-bezier(0, 0, 0.58, 1);
-            --font-family-wide: "PolySansWide", "PolySans", "Inter", -apple-system, "BlinkMacSystemFont",
-                "Segoe UI", "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
-            --font-family-regular: "PolySans", "Inter", -apple-system, "BlinkMacSystemFont", "Segoe UI",
-                "Fira Sans", "Helvetica Neue", "Arial", sans-serif;
-            --font-family-monospace: "Courier New", monospace;
-            --font-size-10x: 6rem;
-            --font-size-9x: 4.5rem;
-            --font-size-8x: 3rem;
-            --font-size-7x: 2.25rem;
-            --font-size-6x: 1.875rem;
-            --font-size-5x: 1.5rem;
-            --font-size-4x: 1.125rem;
-            --font-size-3x: 1rem;
-            --font-size-2x: 0.875rem;
-            --font-size-1x: 0.75rem;
-            --font-weight-bulky: 700;
-            --font-weight-median: 600;
-            --font-weight-neutral: 400;
-            --font-spacing-tight: -0.02em;
-            --font-spacing-normal: 0;
-            --font-spacing-loose: 0.02em;
-            --font-height-tight: 1;
-            --font-height-normal: 1.5;
-            --icon-size-5x: 48px;
-            --icon-size-4x: 40px;
-            --icon-size-3x: 32px;
-            --icon-size-2x: 24px;
-            --icon-size-1x: 16px;
-            --icon-size-text-responsive: calc(var(--font-size-3x) * 1.5);
-            --layer-depth-ceiling: 9999;
-            --minimum-touch-area: 40px;
-            /* component wiring? ------------------------------------------ */
-            --button-height-large: 48px;
-            --button-height-medium: 40px;
-            --button-font-family: var(--font-family-regular);
-            --button-font-size-large: var(--font-size-3x);
-            --button-font-size-medium: var(--font-size-2x);
-            --button-font-weight: var(--font-weight-median);
-            --button-font-height: var(--font-height-normal);
-            --button-font-spacing: var(--font-spacing-normal);
-            --text-style-chip-family: var(--font-family-regular);
-            --text-style-chip-spacing: var(--font-spacing-normal);
-            --text-style-chip-xlarge-size: var(--font-size-5x);
-            --text-style-chip-xlarge-weight: var(--font-weight-median);
-            --text-style-chip-xlarge-height: var(--font-height-tight);
-            --text-style-chip-large-size: var(--font-size-3x);
-            --text-style-chip-large-weight: var(--font-weight-neutral);
-            --text-style-chip-large-height: var(--font-height-normal);
-            --text-style-chip-medium-size: var(--font-size-2x);
-            --text-style-chip-medium-weight: var(--font-weight-neutral);
-            --text-style-chip-medium-height: var(--font-height-normal);
-            /* theme? ------------------------------------------------- */
-            --text-style-campaign-large-family: var(--font-family-wide);
-            --text-style-campaign-large-size: var(--font-size-9x);
-            --text-style-campaign-large-spacing: var(--font-spacing-normal);
-            --text-style-campaign-large-weight: var(--font-weight-bulky);
-            --text-style-campaign-large-height: var(--font-height-tight);
-            --text-style-campaign-small-family: var(--font-family-wide);
-            --text-style-campaign-small-size: var(--font-size-7x);
-            --text-style-campaign-small-spacing: var(--font-spacing-normal);
-            --text-style-campaign-small-weight: var(--font-weight-bulky);
-            --text-style-campaign-small-height: var(--font-height-tight);
-            --text-style-title-1-family: var(--font-family-regular);
-            --text-style-title-1-size: var(--font-size-8x);
-            --text-style-title-1-spacing: var(--font-spacing-normal);
-            --text-style-title-1-weight: var(--font-weight-bulky);
-            --text-style-title-1-height: var(--font-height-tight);
-            --text-style-title-2-family: var(--font-family-regular);
-            --text-style-title-2-size: var(--font-size-7x);
-            --text-style-title-2-spacing: var(--font-spacing-normal);
-            --text-style-title-2-weight: var(--font-weight-median);
-            --text-style-title-2-height: var(--font-height-tight);
-            --text-style-title-3-family: var(--font-family-regular);
-            --text-style-title-3-size: var(--font-size-6x);
-            --text-style-title-3-spacing: var(--font-spacing-normal);
-            --text-style-title-3-weight: var(--font-weight-median);
-            --text-style-title-3-height: var(--font-height-tight);
-            --text-style-title-4-family: var(--font-family-regular);
-            --text-style-title-4-size: var(--font-size-5x);
-            --text-style-title-4-spacing: var(--font-spacing-normal);
-            --text-style-title-4-weight: var(--font-weight-median);
-            --text-style-title-4-height: var(--font-height-tight);
-            --text-style-subheading-family: var(--font-family-regular);
-            --text-style-subheading-size: var(--font-size-4x);
-            --text-style-subheading-spacing: var(--font-spacing-normal);
-            --text-style-subheading-weight: var(--font-weight-median);
-            --text-style-subheading-height: var(--font-height-normal);
-            --text-style-body-large-family: var(--font-family-regular);
-            --text-style-body-large-size: var(--font-size-3x);
-            --text-style-body-large-spacing: var(--font-spacing-normal);
-            --text-style-body-large-weight: var(--font-weight-neutral);
-            --text-style-body-large-height: var(--font-height-normal);
-            --text-style-body-large-strong-weight: var(--font-weight-bulky);
-            --text-style-body-small-family: var(--font-family-regular);
-            --text-style-body-small-size: var(--font-size-2x);
-            --text-style-body-small-spacing: var(--font-spacing-normal);
-            --text-style-body-small-weight: var(--font-weight-neutral);
-            --text-style-body-small-height: var(--font-height-normal);
-            --text-style-body-small-strong-weight: var(--font-weight-bulky);
-            --text-style-label-large-family: var(--font-family-regular);
-            --text-style-label-large-size: var(--font-size-3x);
-            --text-style-label-large-spacing: var(--font-spacing-normal);
-            --text-style-label-large-weight: var(--font-weight-median);
-            --text-style-label-large-height: var(--font-height-normal);
-            --text-style-label-small-family: var(--font-family-regular);
-            --text-style-label-small-size: var(--font-size-2x);
-            --text-style-label-small-spacing: var(--font-spacing-loose);
-            --text-style-label-small-weight: var(--font-weight-median);
-            --text-style-label-small-height: var(--font-height-normal);
-            --text-style-micro-family: var(--font-family-regular);
-            --text-style-micro-size: var(--font-size-1x);
-            --text-style-micro-spacing: var(--font-spacing-loose);
-            --text-style-micro-weight: var(--font-weight-neutral);
-            --text-style-micro-height: var(--font-height-tight);
+        body.fm-login-page{ background-color:#f7f9fb;font-size:14px;background-color:#f7f9fb;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 304 304' width='304' height='304'%3E%3Cpath fill='%23e2e9f1' fill-opacity='0.4' d='M44.1 224a5 5 0 1 1 0 2H0v-2h44.1zm160 48a5 5 0 1 1 0 2H82v-2h122.1zm57.8-46a5 5 0 1 1 0-2H304v2h-42.1zm0 16a5 5 0 1 1 0-2H304v2h-42.1zm6.2-114a5 5 0 1 1 0 2h-86.2a5 5 0 1 1 0-2h86.2zm-256-48a5 5 0 1 1 0 2H0v-2h12.1zm185.8 34a5 5 0 1 1 0-2h86.2a5 5 0 1 1 0 2h-86.2zM258 12.1a5 5 0 1 1-2 0V0h2v12.1zm-64 208a5 5 0 1 1-2 0v-54.2a5 5 0 1 1 2 0v54.2zm48-198.2V80h62v2h-64V21.9a5 5 0 1 1 2 0zm16 16V64h46v2h-48V37.9a5 5 0 1 1 2 0zm-128 96V208h16v12.1a5 5 0 1 1-2 0V210h-16v-76.1a5 5 0 1 1 2 0zm-5.9-21.9a5 5 0 1 1 0 2H114v48H85.9a5 5 0 1 1 0-2H112v-48h12.1zm-6.2 130a5 5 0 1 1 0-2H176v-74.1a5 5 0 1 1 2 0V242h-60.1zm-16-64a5 5 0 1 1 0-2H114v48h10.1a5 5 0 1 1 0 2H112v-48h-10.1zM66 284.1a5 5 0 1 1-2 0V274H50v30h-2v-32h18v12.1zM236.1 176a5 5 0 1 1 0 2H226v94h48v32h-2v-30h-48v-98h12.1zm25.8-30a5 5 0 1 1 0-2H274v44.1a5 5 0 1 1-2 0V146h-10.1zm-64 96a5 5 0 1 1 0-2H208v-80h16v-14h-42.1a5 5 0 1 1 0-2H226v18h-16v80h-12.1zm86.2-210a5 5 0 1 1 0 2H272V0h2v32h10.1zM98 101.9V146H53.9a5 5 0 1 1 0-2H96v-42.1a5 5 0 1 1 2 0zM53.9 34a5 5 0 1 1 0-2H80V0h2v34H53.9zm60.1 3.9V66H82v64H69.9a5 5 0 1 1 0-2H80V64h32V37.9a5 5 0 1 1 2 0zM101.9 82a5 5 0 1 1 0-2H128V37.9a5 5 0 1 1 2 0V82h-28.1zm16-64a5 5 0 1 1 0-2H146v44.1a5 5 0 1 1-2 0V18h-26.1zm102.2 270a5 5 0 1 1 0 2H98v14h-2v-16h124.1zM242 149.9V160h16v34h-16v62h48v48h-2v-46h-48v-66h16v-30h-16v-12.1a5 5 0 1 1 2 0zM53.9 18a5 5 0 1 1 0-2H64V2H48V0h18v18H53.9zm112 32a5 5 0 1 1 0-2H192V0h50v2h-48v48h-28.1zm-48-48a5 5 0 0 1-9.8-2h2.07a3 3 0 1 0 5.66 0H178v34h-18V21.9a5 5 0 1 1 2 0V32h14V2h-58.1zm0 96a5 5 0 1 1 0-2H137l32-32h39V21.9a5 5 0 1 1 2 0V66h-40.17l-32 32H117.9zm28.1 90.1a5 5 0 1 1-2 0v-76.51L175.59 80H224V21.9a5 5 0 1 1 2 0V82h-49.59L146 112.41v75.69zm16 32a5 5 0 1 1-2 0v-99.51L184.59 96H300.1a5 5 0 0 1 3.9-3.9v2.07a3 3 0 0 0 0 5.66v2.07a5 5 0 0 1-3.9-3.9H185.41L162 121.41v98.69zm-144-64a5 5 0 1 1-2 0v-3.51l48-48V48h32V0h2v50H66v55.41l-48 48v2.69zM50 53.9v43.51l-48 48V208h26.1a5 5 0 1 1 0 2H0v-65.41l48-48V53.9a5 5 0 1 1 2 0zm-16 16V89.41l-34 34v-2.82l32-32V69.9a5 5 0 1 1 2 0zM12.1 32a5 5 0 1 1 0 2H9.41L0 43.41V40.6L8.59 32h3.51zm265.8 18a5 5 0 1 1 0-2h18.69l7.41-7.41v2.82L297.41 50H277.9zm-16 160a5 5 0 1 1 0-2H288v-71.41l16-16v2.82l-14 14V210h-28.1zm-208 32a5 5 0 1 1 0-2H64v-22.59L40.59 194H21.9a5 5 0 1 1 0-2H41.41L66 216.59V242H53.9zm150.2 14a5 5 0 1 1 0 2H96v-56.6L56.6 162H37.9a5 5 0 1 1 0-2h19.5L98 200.6V256h106.1zm-150.2 2a5 5 0 1 1 0-2H80v-46.59L48.59 178H21.9a5 5 0 1 1 0-2H49.41L82 208.59V258H53.9zM34 39.8v1.61L9.41 66H0v-2h8.59L32 40.59V0h2v39.8zM2 300.1a5 5 0 0 1 3.9 3.9H3.83A3 3 0 0 0 0 302.17V256h18v48h-2v-46H2v42.1zM34 241v63h-2v-62H0v-2h34v1zM17 18H0v-2h16V0h2v18h-1zm273-2h14v2h-16V0h2v16zm-32 273v15h-2v-14h-14v14h-2v-16h18v1zM0 92.1A5.02 5.02 0 0 1 6 97a5 5 0 0 1-6 4.9v-2.07a3 3 0 1 0 0-5.66V92.1zM80 272h2v32h-2v-32zm37.9 32h-2.07a3 3 0 0 0-5.66 0h-2.07a5 5 0 0 1 9.8 0zM5.9 0A5.02 5.02 0 0 1 0 5.9V3.83A3 3 0 0 0 3.83 0H5.9zm294.2 0h2.07A3 3 0 0 0 304 3.83V5.9a5 5 0 0 1-3.9-5.9zm3.9 300.1v2.07a3 3 0 0 0-1.83 1.83h-2.07a5 5 0 0 1 3.9-3.9zM97 100a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-48 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 96a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-144a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm96 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM49 36a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-32 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM33 68a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 240a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm80-176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 48a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm112 176a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-16 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 180a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0 16a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm0-32a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM17 84a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm32 64a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm16-16a3 3 0 1 0 0-6 3 3 0 0 0 0 6z'%3E%3C/path%3E%3C/svg%3E");}
+        .fm-login-page .brand{ width:121px;overflow:hidden;margin:0 auto;position:relative;z-index:1}
+        .fm-login-page .brand img{ width:100%}
+        .fm-login-page .card-wrapper{ width:360px;margin-top:10%;margin-left:auto;margin-right:auto;}
+        .fm-login-page .card{ border-color:transparent;box-shadow:0 4px 8px rgba(0,0,0,.05)}
+        .fm-login-page .card-title{ margin-bottom:1.5rem;font-size:24px;font-weight:400;}
+        .fm-login-page .form-control{ border-width:2.3px}
+        .fm-login-page .form-group label{ width:100%}
+        .fm-login-page .btn.btn-block{ padding:12px 10px}
+        .fm-login-page .footer{ margin:40px 0;color:#888;text-align:center}
+        @media screen and (max-width:425px){
+            .fm-login-page .card-wrapper{ width:90%;margin:0 auto;margin-top:10%;}
         }
-
-        .color-scheme-light {
-            --color-interactive-primary: var(--color-green-100);
-            --color-interactive-primary-hover: var(--color-green-300);
-            --color-interactive-secondary: var(--color-transparent);
-            --color-interactive-secondary-hover: var(--color-grey-1000);
-            --color-interactive-tertiary: var(--color-transparent);
-            --color-interactive-tertiary-hover: var(--color-grey-25);
-            --color-interactive-control: var(--color-grey-1000);
-            --color-interactive-control-hover: var(--color-grey-700);
-            --color-interactive-disabled: var(--color-grey-100);
-            --color-surface-primary: var(--color-white);
-            --color-surface-accent: var(--color-grey-50);
-            --color-surface-inverse: var(--color-grey-1000);
-            --color-surface-brand-accent: var(--color-jaffa-25);
-            --color-surface-elevated: var(--color-grey-700);
-            --color-surface-caution-default: var(--color-jaffa-25);
-            --color-surface-caution-strong: var(--color-jaffa-700);
-            --color-surface-critical-default: var(--color-veryberry-25);
-            --color-surface-critical-strong: var(--color-veryberry-700);
-            --color-surface-info-default: var(--color-blue-25);
-            --color-surface-info-strong: var(--color-blue-700);
-            --color-surface-neutral-default: var(--color-grey-25);
-            --color-surface-neutral-strong: var(--color-grey-1000);
-            --color-surface-positive-default: var(--color-green-25);
-            --color-surface-positive-strong: var(--color-green-700);
-            --color-overlay-light: var(--color-white-mask);
-            --color-overlay-dark: var(--color-grey-1000-mask);
-            --color-content-brand: var(--color-green-1000);
-            --color-content-brand-accent: var(--color-bubblegum-700);
-            --color-content-primary: var(--color-grey-1000);
-            --color-content-inverse: var(--color-white);
-            --color-content-secondary: var(--color-grey-500);
-            --color-content-disabled: var(--color-grey-300);
-            --color-content-caution-default: var(--color-jaffa-700);
-            --color-content-caution-strong: var(--color-jaffa-25);
-            --color-content-critical-default: var(--color-veryberry-700);
-            --color-content-critical-strong: var(--color-veryberry-25);
-            --color-content-info-default: var(--color-blue-700);
-            --color-content-info-strong: var(--color-blue-25);
-            --color-content-neutral-default: var(--color-grey-1000);
-            --color-content-neutral-strong: var(--color-white);
-            --color-content-positive-default: var(--color-green-700);
-            --color-content-positive-strong: var(--color-green-25);
-            --color-border-primary: var(--color-grey-1000);
-            --color-border-secondary: var(--color-grey-300);
-            --color-border-tertiary: var(--color-grey-100);
-            --color-always-white: var(--color-white);
+        @media screen and (max-width:320px){
+            .fm-login-page .card.fat{ padding:0}
+            .fm-login-page .card.fat .card-body{ padding:15px}
         }
-
-        .color-scheme-dark {
-            --color-interactive-primary: var(--color-green-100);
-            --color-interactive-primary-hover: var(--color-green-300);
-            --color-interactive-secondary: var(--color-transparent);
-            --color-interactive-secondary-hover: var(--color-white);
-            --color-interactive-tertiary: var(--color-transparent);
-            --color-interactive-tertiary-hover: var(--color-grey-700);
-            --color-interactive-control: var(--color-white);
-            --color-interactive-control-hover: var(--color-grey-100);
-            --color-interactive-disabled: var(--color-grey-700);
-            --color-surface-primary: var(--color-grey-1000);
-            --color-surface-accent: var(--color-grey-700);
-            --color-surface-inverse: var(--color-white);
-            --color-surface-brand-accent: var(--color-grey-700);
-            --color-surface-elevated: var(--color-grey-700);
-            --color-surface-caution-default: var(--color-jaffa-1000);
-            --color-surface-caution-strong: var(--color-jaffa-500);
-            --color-surface-critical-default: var(--color-veryberry-1000);
-            --color-surface-critical-strong: var(--color-veryberry-500);
-            --color-surface-info-default: var(--color-blue-1000);
-            --color-surface-info-strong: var(--color-blue-500);
-            --color-surface-neutral-default: var(--color-grey-700);
-            --color-surface-neutral-strong: var(--color-white);
-            --color-surface-positive-default: var(--color-green-1000);
-            --color-surface-positive-strong: var(--color-green-500);
-            --color-overlay-light: var(--color-white-mask);
-            --color-overlay-dark: var(--color-grey-1000-mask);
-            --color-content-brand: var(--color-green-1000);
-            --color-content-brand-accent: var(--color-bubblegum-100);
-            --color-content-primary: var(--color-white);
-            --color-content-inverse: var(--color-grey-1000);
-            --color-content-secondary: var(--color-grey-100);
-            --color-content-disabled: var(--color-grey-500);
-            --color-content-caution-default: var(--color-jaffa-500);
-            --color-content-caution-strong: var(--color-jaffa-1000);
-            --color-content-critical-default: var(--color-veryberry-500);
-            --color-content-critical-strong: var(--color-veryberry-1000);
-            --color-content-info-default: var(--color-blue-500);
-            --color-content-info-strong: var(--color-blue-1000);
-            --color-content-neutral-default: var(--color-white);
-            --color-content-neutral-strong: var(--color-grey-1000);
-            --color-content-positive-default: var(--color-green-500);
-            --color-content-positive-strong: var(--color-green-1000);
-            --color-border-primary: var(--color-white);
-            --color-border-secondary: var(--color-grey-500);
-            --color-border-tertiary: var(--color-grey-700);
-            --color-always-white: var(--color-white);
-        }
-
-        /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvYmFzZS5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBO0VBQ0UsMEJBQUE7RUFDQSwyQ0FBQTtFQUNBLHlCQUFBO0VBQ0EseUJBQUE7RUFDQSx5QkFBQTtFQUNBLHlCQUFBO0VBQ0Esd0JBQUE7RUFDQSx3QkFBQTtFQUNBLHNCQUFBO0VBQ0EsMENBQUE7RUFFQSwyQkFBQTtFQUNBLDBCQUFBO0VBQ0EsMEJBQUE7RUFDQSwwQkFBQTtFQUNBLDBCQUFBO0VBQ0EseUJBQUE7RUFFQSwwQkFBQTtFQUNBLHlCQUFBO0VBQ0EseUJBQUE7RUFDQSx3QkFBQTtFQUVBLCtCQUFBO0VBQ0EsOEJBQUE7RUFDQSw4QkFBQTtFQUNBLDZCQUFBO0VBRUEsOEJBQUE7RUFDQSw4QkFBQTtFQUNBLDZCQUFBO0VBRUEsMkJBQUE7RUFDQSwwQkFBQTtFQUNBLDBCQUFBO0VBQ0EseUJBQUE7RUFFQSwwQkFBQTtFQUNBLHlCQUFBO0VBQ0EseUJBQUE7RUFDQSx5QkFBQTtFQUNBLHdCQUFBO0VBRUEsZ0NBQUE7RUFFQSx5QkFBQTtFQUNBLCtCQUFBO0VBQ0EsNEJBQUE7RUFFQSxtQkFBQTtFQUNBLGtCQUFBO0VBQ0Esa0JBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0Esa0JBQUE7RUFDQSxpQkFBQTtFQUNBLGlCQUFBO0VBQ0EsbUJBQUE7RUFFQSxzQkFBQTtFQUNBLHNCQUFBO0VBQ0EsdUJBQUE7RUFFQSx1QkFBQTtFQUNBLHVCQUFBO0VBQ0EsNkJBQUE7RUFDQSx3QkFBQTtFQUVBLGdEQUFBO0VBQ0EscUNBQUE7RUFFQSxpQkFBQTtFQUNBLHVCQUFBO0VBRUEsaUNBQUE7RUFDQSxtQ0FBQTtFQUNBLGtDQUFBO0VBRUEsb0RBQUE7RUFDQSx3REFBQTtFQUNBLCtEQUFBO0VBQ0EseURBQUE7RUFFQTtrRUFBQTtFQUVBO3NEQUFBO0VBRUEsaURBQUE7RUFFQSxxQkFBQTtFQUNBLHNCQUFBO0VBQ0Esb0JBQUE7RUFDQSx1QkFBQTtFQUNBLHdCQUFBO0VBQ0Esc0JBQUE7RUFDQSx3QkFBQTtFQUNBLG9CQUFBO0VBQ0Esd0JBQUE7RUFDQSx1QkFBQTtFQUVBLHdCQUFBO0VBQ0EseUJBQUE7RUFDQSwwQkFBQTtFQUVBLDZCQUFBO0VBQ0Esd0JBQUE7RUFDQSw0QkFBQTtFQUVBLHNCQUFBO0VBQ0EseUJBQUE7RUFFQSxvQkFBQTtFQUNBLG9CQUFBO0VBQ0Esb0JBQUE7RUFDQSxvQkFBQTtFQUNBLG9CQUFBO0VBQ0EsNERBQUE7RUFFQSwyQkFBQTtFQUVBLDBCQUFBO0VBRUEsaUVBQUE7RUFFQSwyQkFBQTtFQUNBLDRCQUFBO0VBQ0EsZ0RBQUE7RUFDQSw2Q0FBQTtFQUNBLDhDQUFBO0VBQ0EsK0NBQUE7RUFDQSwrQ0FBQTtFQUNBLGlEQUFBO0VBRUEsb0RBQUE7RUFDQSxxREFBQTtFQUNBLGtEQUFBO0VBQ0EsMERBQUE7RUFDQSx5REFBQTtFQUNBLGlEQUFBO0VBQ0EsMERBQUE7RUFDQSx5REFBQTtFQUNBLGtEQUFBO0VBQ0EsMkRBQUE7RUFDQSwwREFBQTtFQUVBLDZEQUFBO0VBRUEsMkRBQUE7RUFDQSxxREFBQTtFQUNBLCtEQUFBO0VBQ0EsNERBQUE7RUFDQSw0REFBQTtFQUVBLDJEQUFBO0VBQ0EscURBQUE7RUFDQSwrREFBQTtFQUNBLDREQUFBO0VBQ0EsNERBQUE7RUFFQSx1REFBQTtFQUNBLDhDQUFBO0VBQ0Esd0RBQUE7RUFDQSxxREFBQTtFQUNBLHFEQUFBO0VBRUEsdURBQUE7RUFDQSw4Q0FBQTtFQUNBLHdEQUFBO0VBQ0Esc0RBQUE7RUFDQSxxREFBQTtFQUVBLHVEQUFBO0VBQ0EsOENBQUE7RUFDQSx3REFBQTtFQUNBLHNEQUFBO0VBQ0EscURBQUE7RUFFQSx1REFBQTtFQUNBLDhDQUFBO0VBQ0Esd0RBQUE7RUFDQSxzREFBQTtFQUNBLHFEQUFBO0VBRUEsMERBQUE7RUFDQSxpREFBQTtFQUNBLDJEQUFBO0VBQ0EseURBQUE7RUFDQSx5REFBQTtFQUVBLDBEQUFBO0VBQ0EsaURBQUE7RUFDQSwyREFBQTtFQUNBLDBEQUFBO0VBQ0EseURBQUE7RUFDQSwrREFBQTtFQUVBLDBEQUFBO0VBQ0EsaURBQUE7RUFDQSwyREFBQTtFQUNBLDBEQUFBO0VBQ0EseURBQUE7RUFDQSwrREFBQTtFQUVBLDJEQUFBO0VBQ0Esa0RBQUE7RUFDQSw0REFBQTtFQUNBLDBEQUFBO0VBQ0EsMERBQUE7RUFFQSwyREFBQTtFQUNBLGtEQUFBO0VBQ0EsMkRBQUE7RUFDQSwwREFBQTtFQUNBLDBEQUFBO0VBRUEscURBQUE7RUFDQSw0Q0FBQTtFQUNBLHFEQUFBO0VBQ0EscURBQUE7RUFDQSxtREFBQTtBQXhDRjs7QUEyQ0E7RUFDRSxtREFBQTtFQUNBLHlEQUFBO0VBQ0EsdURBQUE7RUFDQSwyREFBQTtFQUNBLHNEQUFBO0VBQ0Esd0RBQUE7RUFDQSxtREFBQTtFQUNBLHdEQUFBO0VBQ0EsbURBQUE7RUFFQSwyQ0FBQTtFQUNBLDRDQUFBO0VBQ0EsK0NBQUE7RUFDQSxtREFBQTtFQUNBLCtDQUFBO0VBQ0Esc0RBQUE7RUFDQSxzREFBQTtFQUNBLDJEQUFBO0VBQ0EsMkRBQUE7RUFDQSxrREFBQTtFQUNBLGtEQUFBO0VBQ0EscURBQUE7RUFDQSxzREFBQTtFQUNBLHVEQUFBO0VBQ0EsdURBQUE7RUFFQSw4Q0FBQTtFQUNBLGlEQUFBO0VBRUEsOENBQUE7RUFDQSx3REFBQTtFQUNBLCtDQUFBO0VBQ0EsMkNBQUE7RUFDQSxnREFBQTtFQUNBLCtDQUFBO0VBQ0EsdURBQUE7RUFDQSxxREFBQTtFQUNBLDREQUFBO0VBQ0EsMERBQUE7RUFDQSxtREFBQTtFQUNBLGlEQUFBO0VBQ0EsdURBQUE7RUFDQSxrREFBQTtFQUNBLHdEQUFBO0VBQ0Esc0RBQUE7RUFFQSw4Q0FBQTtFQUNBLCtDQUFBO0VBQ0EsOENBQUE7RUFFQSx3Q0FBQTtBQTdDRjs7QUFnREE7RUFDRSxtREFBQTtFQUNBLHlEQUFBO0VBQ0EsdURBQUE7RUFDQSx1REFBQTtFQUNBLHNEQUFBO0VBQ0EseURBQUE7RUFDQSwrQ0FBQTtFQUNBLHdEQUFBO0VBQ0EsbURBQUE7RUFFQSwrQ0FBQTtFQUNBLDZDQUFBO0VBQ0EsMkNBQUE7RUFDQSxtREFBQTtFQUNBLCtDQUFBO0VBQ0Esd0RBQUE7RUFDQSxzREFBQTtFQUNBLDZEQUFBO0VBQ0EsMkRBQUE7RUFDQSxvREFBQTtFQUNBLGtEQUFBO0VBQ0Esc0RBQUE7RUFDQSxrREFBQTtFQUNBLHlEQUFBO0VBQ0EsdURBQUE7RUFFQSw4Q0FBQTtFQUNBLGlEQUFBO0VBRUEsOENBQUE7RUFDQSx3REFBQTtFQUNBLDJDQUFBO0VBQ0EsK0NBQUE7RUFDQSxnREFBQTtFQUNBLCtDQUFBO0VBQ0EsdURBQUE7RUFDQSx1REFBQTtFQUNBLDREQUFBO0VBQ0EsNERBQUE7RUFDQSxtREFBQTtFQUNBLG1EQUFBO0VBQ0EsbURBQUE7RUFDQSxzREFBQTtFQUNBLHdEQUFBO0VBQ0Esd0RBQUE7RUFFQSwwQ0FBQTtFQUNBLCtDQUFBO0VBQ0EsOENBQUE7RUFFQSx3Q0FBQTtBQWxERiIsInNvdXJjZXNDb250ZW50IjpbIi8vIENvcGllZCBmcm9tIGh0dHBzOi8vZ2l0aHViLmNvbS9lbnZhdG8vZW52YXRvLWRlc2lnbi10b2tlbnMvYmxvYi9tYWluL3Rva2Vucy5jc3NcblxuOnJvb3Qge1xuICAtLWNvbG9yLWdyZXktMTAwMDogIzE5MTkxOTtcbiAgLS1jb2xvci1ncmV5LTEwMDAtbWFzazogcmdiKDI1IDI1IDI1IC8gMC43KTtcbiAgLS1jb2xvci1ncmV5LTcwMDogIzM4MzgzODtcbiAgLS1jb2xvci1ncmV5LTUwMDogIzcwNzA3MDtcbiAgLS1jb2xvci1ncmV5LTMwMDogIzk0OTQ5NDtcbiAgLS1jb2xvci1ncmV5LTEwMDogI2NjY2NjYztcbiAgLS1jb2xvci1ncmV5LTUwOiAjZWNlY2VlO1xuICAtLWNvbG9yLWdyZXktMjU6ICNmOWY5ZmI7XG4gIC0tY29sb3Itd2hpdGU6ICNmZmZmZmY7XG4gIC0tY29sb3Itd2hpdGUtbWFzazogcmdiKDI1NSAyNTUgMjU1IC8gMC43KTtcblxuICAtLWNvbG9yLWdyZWVuLTEwMDA6ICMxYTQyMDA7XG4gIC0tY29sb3ItZ3JlZW4tNzAwOiAjMmU3NDAwO1xuICAtLWNvbG9yLWdyZWVuLTUwMDogIzUxYTMxZDtcbiAgLS1jb2xvci1ncmVlbi0zMDA6ICM2Y2M4MzI7XG4gIC0tY29sb3ItZ3JlZW4tMTAwOiAjOWNlZTY5O1xuICAtLWNvbG9yLWdyZWVuLTI1OiAjZWFmZmRjO1xuXG4gIC0tY29sb3ItYmx1ZS0xMDAwOiAjMTYzNTdiO1xuICAtLWNvbG9yLWJsdWUtNzAwOiAjNGY1Y2U4O1xuICAtLWNvbG9yLWJsdWUtNTAwOiAjNzU4NWZmO1xuICAtLWNvbG9yLWJsdWUtMjU6ICNmMGYxZmY7XG5cbiAgLS1jb2xvci12ZXJ5YmVycnktMTAwMDogIzc3MDEyZDtcbiAgLS1jb2xvci12ZXJ5YmVycnktNzAwOiAjYjkwMDRiO1xuICAtLWNvbG9yLXZlcnliZXJyeS01MDA6ICNmNjUyODY7XG4gIC0tY29sb3ItdmVyeWJlcnJ5LTI1OiAjZmZlY2YyO1xuXG4gIC0tY29sb3ItYnViYmxlZ3VtLTcwMDogI2IwMzdhNjtcbiAgLS1jb2xvci1idWJibGVndW0tMTAwOiAjZTZhZmUxO1xuICAtLWNvbG9yLWJ1YmJsZWd1bS0yNTogI2ZlZWRmYztcblxuICAtLWNvbG9yLWphZmZhLTEwMDA6ICM2OTI0MDA7XG4gIC0tY29sb3ItamFmZmEtNzAwOiAjYzI0MTAwO1xuICAtLWNvbG9yLWphZmZhLTUwMDogI2ZmNmUyODtcbiAgLS1jb2xvci1qYWZmYS0yNTogI2ZmZjVlZDtcblxuICAtLWNvbG9yLXlvbGstMTAwMDogIzQ1MmQwZDtcbiAgLS1jb2xvci15b2xrLTcwMDogIzllNWYwMDtcbiAgLS1jb2xvci15b2xrLTUwMDogI2MyODgwMDtcbiAgLS1jb2xvci15b2xrLTMwMDogI2ZmYzgwMDtcbiAgLS1jb2xvci15b2xrLTI1OiAjZmVmYWVhO1xuXG4gIC0tY29sb3ItdHJhbnNwYXJlbnQ6IHRyYW5zcGFyZW50O1xuXG4gIC0tYnJlYWtwb2ludC13aWRlOiAxMDI0cHg7XG4gIC0tYnJlYWtwb2ludC1leHRyYS13aWRlOiAxNDQwcHg7XG4gIC0tYnJlYWtwb2ludC0yay13aWRlOiAyNTYwcHg7XG5cbiAgLS1zcGFjaW5nLTh4OiAxMjhweDtcbiAgLS1zcGFjaW5nLTd4OiA2NHB4O1xuICAtLXNwYWNpbmctNng6IDQwcHg7XG4gIC0tc3BhY2luZy01eDogMzJweDtcbiAgLS1zcGFjaW5nLTR4OiAyNHB4O1xuICAtLXNwYWNpbmctM3g6IDE2cHg7XG4gIC0tc3BhY2luZy0yeDogOHB4O1xuICAtLXNwYWNpbmctMXg6IDRweDtcbiAgLS1zcGFjaW5nLW5vbmU6IDBweDtcblxuICAtLWNodW5raW5lc3Mtbm9uZTogMHB4O1xuICAtLWNodW5raW5lc3MtdGhpbjogMXB4O1xuICAtLWNodW5raW5lc3MtdGhpY2s6IDJweDtcblxuICAtLXJvdW5kbmVzcy1zcXVhcmU6IDBweDtcbiAgLS1yb3VuZG5lc3Mtc3VidGxlOiA0cHg7XG4gIC0tcm91bmRuZXNzLWV4dHJhLXJvdW5kOiAxNnB4O1xuICAtLXJvdW5kbmVzcy1jaXJjbGU6IDQ4cHg7XG5cbiAgLS1zaGFkb3ctNTAwOiAwcHggMnB4IDEycHggMHB4IHJnYmEoMCAwIDAgLyAxNSUpO1xuICAtLWVsZXZhdGlvbi1tZWRpdW06IHZhcigtLXNoYWRvdy01MDApO1xuXG4gIC8qKiBAZGVwcmVjYXRlZCAqL1xuICAtLXRyYW5zaXRpb24tYmFzZTogMC4ycztcblxuICAtLXRyYW5zaXRpb24tZHVyYXRpb24tbG9uZzogNTAwbXM7XG4gIC0tdHJhbnNpdGlvbi1kdXJhdGlvbi1tZWRpdW06IDMwMG1zO1xuICAtLXRyYW5zaXRpb24tZHVyYXRpb24tc2hvcnQ6IDE1MG1zO1xuXG4gIC0tdHJhbnNpdGlvbi1lYXNpbmctbGluZWFyOiBjdWJpYy1iZXppZXIoMCwgMCwgMSwgMSk7XG4gIC0tdHJhbnNpdGlvbi1lYXNpbmctZWFzZS1pbjogY3ViaWMtYmV6aWVyKDAuNDIsIDAsIDEsIDEpO1xuICAtLXRyYW5zaXRpb24tZWFzaW5nLWVhc2UtaW4tb3V0OiBjdWJpYy1iZXppZXIoMC40MiwgMCwgMC41OCwgMSk7XG4gIC0tdHJhbnNpdGlvbi1lYXNpbmctZWFzZS1vdXQ6IGN1YmljLWJlemllcigwLCAwLCAwLjU4LCAxKTtcblxuICAtLWZvbnQtZmFtaWx5LXdpZGU6IFwiUG9seVNhbnNXaWRlXCIsIFwiUG9seVNhbnNcIiwgXCJJbnRlclwiLCAtYXBwbGUtc3lzdGVtLCBcIkJsaW5rTWFjU3lzdGVtRm9udFwiLFxuICAgIFwiU2Vnb2UgVUlcIiwgXCJGaXJhIFNhbnNcIiwgXCJIZWx2ZXRpY2EgTmV1ZVwiLCBcIkFyaWFsXCIsIHNhbnMtc2VyaWY7XG4gIC0tZm9udC1mYW1pbHktcmVndWxhcjogXCJQb2x5U2Fuc1wiLCBcIkludGVyXCIsIC1hcHBsZS1zeXN0ZW0sIFwiQmxpbmtNYWNTeXN0ZW1Gb250XCIsIFwiU2Vnb2UgVUlcIixcbiAgICBcIkZpcmEgU2Fuc1wiLCBcIkhlbHZldGljYSBOZXVlXCIsIFwiQXJpYWxcIiwgc2Fucy1zZXJpZjtcbiAgLS1mb250LWZhbWlseS1tb25vc3BhY2U6IFwiQ291cmllciBOZXdcIiwgbW9ub3NwYWNlO1xuXG4gIC0tZm9udC1zaXplLTEweDogNnJlbTtcbiAgLS1mb250LXNpemUtOXg6IDQuNXJlbTtcbiAgLS1mb250LXNpemUtOHg6IDNyZW07XG4gIC0tZm9udC1zaXplLTd4OiAyLjI1cmVtO1xuICAtLWZvbnQtc2l6ZS02eDogMS44NzVyZW07XG4gIC0tZm9udC1zaXplLTV4OiAxLjVyZW07XG4gIC0tZm9udC1zaXplLTR4OiAxLjEyNXJlbTtcbiAgLS1mb250LXNpemUtM3g6IDFyZW07XG4gIC0tZm9udC1zaXplLTJ4OiAwLjg3NXJlbTtcbiAgLS1mb250LXNpemUtMXg6IDAuNzVyZW07XG5cbiAgLS1mb250LXdlaWdodC1idWxreTogNzAwO1xuICAtLWZvbnQtd2VpZ2h0LW1lZGlhbjogNjAwO1xuICAtLWZvbnQtd2VpZ2h0LW5ldXRyYWw6IDQwMDtcblxuICAtLWZvbnQtc3BhY2luZy10aWdodDogLTAuMDJlbTtcbiAgLS1mb250LXNwYWNpbmctbm9ybWFsOiAwO1xuICAtLWZvbnQtc3BhY2luZy1sb29zZTogMC4wMmVtO1xuXG4gIC0tZm9udC1oZWlnaHQtdGlnaHQ6IDE7XG4gIC0tZm9udC1oZWlnaHQtbm9ybWFsOiAxLjU7XG5cbiAgLS1pY29uLXNpemUtNXg6IDQ4cHg7XG4gIC0taWNvbi1zaXplLTR4OiA0MHB4O1xuICAtLWljb24tc2l6ZS0zeDogMzJweDtcbiAgLS1pY29uLXNpemUtMng6IDI0cHg7XG4gIC0taWNvbi1zaXplLTF4OiAxNnB4O1xuICAtLWljb24tc2l6ZS10ZXh0LXJlc3BvbnNpdmU6IGNhbGModmFyKC0tZm9udC1zaXplLTN4KSAqIDEuNSk7XG5cbiAgLS1sYXllci1kZXB0aC1jZWlsaW5nOiA5OTk5O1xuXG4gIC0tbWluaW11bS10b3VjaC1hcmVhOiA0MHB4O1xuXG4gIC8qIGNvbXBvbmVudCB3aXJpbmc/IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAqL1xuXG4gIC0tYnV0dG9uLWhlaWdodC1sYXJnZTogNDhweDtcbiAgLS1idXR0b24taGVpZ2h0LW1lZGl1bTogNDBweDtcbiAgLS1idXR0b24tZm9udC1mYW1pbHk6IHZhcigtLWZvbnQtZmFtaWx5LXJlZ3VsYXIpO1xuICAtLWJ1dHRvbi1mb250LXNpemUtbGFyZ2U6IHZhcigtLWZvbnQtc2l6ZS0zeCk7XG4gIC0tYnV0dG9uLWZvbnQtc2l6ZS1tZWRpdW06IHZhcigtLWZvbnQtc2l6ZS0yeCk7XG4gIC0tYnV0dG9uLWZvbnQtd2VpZ2h0OiB2YXIoLS1mb250LXdlaWdodC1tZWRpYW4pO1xuICAtLWJ1dHRvbi1mb250LWhlaWdodDogdmFyKC0tZm9udC1oZWlnaHQtbm9ybWFsKTtcbiAgLS1idXR0b24tZm9udC1zcGFjaW5nOiB2YXIoLS1mb250LXNwYWNpbmctbm9ybWFsKTtcblxuICAtLXRleHQtc3R5bGUtY2hpcC1mYW1pbHk6IHZhcigtLWZvbnQtZmFtaWx5LXJlZ3VsYXIpO1xuICAtLXRleHQtc3R5bGUtY2hpcC1zcGFjaW5nOiB2YXIoLS1mb250LXNwYWNpbmctbm9ybWFsKTtcbiAgLS10ZXh0LXN0eWxlLWNoaXAteGxhcmdlLXNpemU6IHZhcigtLWZvbnQtc2l6ZS01eCk7XG4gIC0tdGV4dC1zdHlsZS1jaGlwLXhsYXJnZS13ZWlnaHQ6IHZhcigtLWZvbnQtd2VpZ2h0LW1lZGlhbik7XG4gIC0tdGV4dC1zdHlsZS1jaGlwLXhsYXJnZS1oZWlnaHQ6IHZhcigtLWZvbnQtaGVpZ2h0LXRpZ2h0KTtcbiAgLS10ZXh0LXN0eWxlLWNoaXAtbGFyZ2Utc2l6ZTogdmFyKC0tZm9udC1zaXplLTN4KTtcbiAgLS10ZXh0LXN0eWxlLWNoaXAtbGFyZ2Utd2VpZ2h0OiB2YXIoLS1mb250LXdlaWdodC1uZXV0cmFsKTtcbiAgLS10ZXh0LXN0eWxlLWNoaXAtbGFyZ2UtaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC1ub3JtYWwpO1xuICAtLXRleHQtc3R5bGUtY2hpcC1tZWRpdW0tc2l6ZTogdmFyKC0tZm9udC1zaXplLTJ4KTtcbiAgLS10ZXh0LXN0eWxlLWNoaXAtbWVkaXVtLXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbmV1dHJhbCk7XG4gIC0tdGV4dC1zdHlsZS1jaGlwLW1lZGl1bS1oZWlnaHQ6IHZhcigtLWZvbnQtaGVpZ2h0LW5vcm1hbCk7XG5cbiAgLyogdGhlbWU/IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gKi9cblxuICAtLXRleHQtc3R5bGUtY2FtcGFpZ24tbGFyZ2UtZmFtaWx5OiB2YXIoLS1mb250LWZhbWlseS13aWRlKTtcbiAgLS10ZXh0LXN0eWxlLWNhbXBhaWduLWxhcmdlLXNpemU6IHZhcigtLWZvbnQtc2l6ZS05eCk7XG4gIC0tdGV4dC1zdHlsZS1jYW1wYWlnbi1sYXJnZS1zcGFjaW5nOiB2YXIoLS1mb250LXNwYWNpbmctbm9ybWFsKTtcbiAgLS10ZXh0LXN0eWxlLWNhbXBhaWduLWxhcmdlLXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtYnVsa3kpO1xuICAtLXRleHQtc3R5bGUtY2FtcGFpZ24tbGFyZ2UtaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC10aWdodCk7XG5cbiAgLS10ZXh0LXN0eWxlLWNhbXBhaWduLXNtYWxsLWZhbWlseTogdmFyKC0tZm9udC1mYW1pbHktd2lkZSk7XG4gIC0tdGV4dC1zdHlsZS1jYW1wYWlnbi1zbWFsbC1zaXplOiB2YXIoLS1mb250LXNpemUtN3gpO1xuICAtLXRleHQtc3R5bGUtY2FtcGFpZ24tc21hbGwtc3BhY2luZzogdmFyKC0tZm9udC1zcGFjaW5nLW5vcm1hbCk7XG4gIC0tdGV4dC1zdHlsZS1jYW1wYWlnbi1zbWFsbC13ZWlnaHQ6IHZhcigtLWZvbnQtd2VpZ2h0LWJ1bGt5KTtcbiAgLS10ZXh0LXN0eWxlLWNhbXBhaWduLXNtYWxsLWhlaWdodDogdmFyKC0tZm9udC1oZWlnaHQtdGlnaHQpO1xuXG4gIC0tdGV4dC1zdHlsZS10aXRsZS0xLWZhbWlseTogdmFyKC0tZm9udC1mYW1pbHktcmVndWxhcik7XG4gIC0tdGV4dC1zdHlsZS10aXRsZS0xLXNpemU6IHZhcigtLWZvbnQtc2l6ZS04eCk7XG4gIC0tdGV4dC1zdHlsZS10aXRsZS0xLXNwYWNpbmc6IHZhcigtLWZvbnQtc3BhY2luZy1ub3JtYWwpO1xuICAtLXRleHQtc3R5bGUtdGl0bGUtMS13ZWlnaHQ6IHZhcigtLWZvbnQtd2VpZ2h0LWJ1bGt5KTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTEtaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC10aWdodCk7XG5cbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTItZmFtaWx5OiB2YXIoLS1mb250LWZhbWlseS1yZWd1bGFyKTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTItc2l6ZTogdmFyKC0tZm9udC1zaXplLTd4KTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTItc3BhY2luZzogdmFyKC0tZm9udC1zcGFjaW5nLW5vcm1hbCk7XG4gIC0tdGV4dC1zdHlsZS10aXRsZS0yLXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbWVkaWFuKTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTItaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC10aWdodCk7XG5cbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTMtZmFtaWx5OiB2YXIoLS1mb250LWZhbWlseS1yZWd1bGFyKTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTMtc2l6ZTogdmFyKC0tZm9udC1zaXplLTZ4KTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTMtc3BhY2luZzogdmFyKC0tZm9udC1zcGFjaW5nLW5vcm1hbCk7XG4gIC0tdGV4dC1zdHlsZS10aXRsZS0zLXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbWVkaWFuKTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTMtaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC10aWdodCk7XG5cbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTQtZmFtaWx5OiB2YXIoLS1mb250LWZhbWlseS1yZWd1bGFyKTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTQtc2l6ZTogdmFyKC0tZm9udC1zaXplLTV4KTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTQtc3BhY2luZzogdmFyKC0tZm9udC1zcGFjaW5nLW5vcm1hbCk7XG4gIC0tdGV4dC1zdHlsZS10aXRsZS00LXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbWVkaWFuKTtcbiAgLS10ZXh0LXN0eWxlLXRpdGxlLTQtaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC10aWdodCk7XG5cbiAgLS10ZXh0LXN0eWxlLXN1YmhlYWRpbmctZmFtaWx5OiB2YXIoLS1mb250LWZhbWlseS1yZWd1bGFyKTtcbiAgLS10ZXh0LXN0eWxlLXN1YmhlYWRpbmctc2l6ZTogdmFyKC0tZm9udC1zaXplLTR4KTtcbiAgLS10ZXh0LXN0eWxlLXN1YmhlYWRpbmctc3BhY2luZzogdmFyKC0tZm9udC1zcGFjaW5nLW5vcm1hbCk7XG4gIC0tdGV4dC1zdHlsZS1zdWJoZWFkaW5nLXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbWVkaWFuKTtcbiAgLS10ZXh0LXN0eWxlLXN1YmhlYWRpbmctaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC1ub3JtYWwpO1xuXG4gIC0tdGV4dC1zdHlsZS1ib2R5LWxhcmdlLWZhbWlseTogdmFyKC0tZm9udC1mYW1pbHktcmVndWxhcik7XG4gIC0tdGV4dC1zdHlsZS1ib2R5LWxhcmdlLXNpemU6IHZhcigtLWZvbnQtc2l6ZS0zeCk7XG4gIC0tdGV4dC1zdHlsZS1ib2R5LWxhcmdlLXNwYWNpbmc6IHZhcigtLWZvbnQtc3BhY2luZy1ub3JtYWwpO1xuICAtLXRleHQtc3R5bGUtYm9keS1sYXJnZS13ZWlnaHQ6IHZhcigtLWZvbnQtd2VpZ2h0LW5ldXRyYWwpO1xuICAtLXRleHQtc3R5bGUtYm9keS1sYXJnZS1oZWlnaHQ6IHZhcigtLWZvbnQtaGVpZ2h0LW5vcm1hbCk7XG4gIC0tdGV4dC1zdHlsZS1ib2R5LWxhcmdlLXN0cm9uZy13ZWlnaHQ6IHZhcigtLWZvbnQtd2VpZ2h0LWJ1bGt5KTtcblxuICAtLXRleHQtc3R5bGUtYm9keS1zbWFsbC1mYW1pbHk6IHZhcigtLWZvbnQtZmFtaWx5LXJlZ3VsYXIpO1xuICAtLXRleHQtc3R5bGUtYm9keS1zbWFsbC1zaXplOiB2YXIoLS1mb250LXNpemUtMngpO1xuICAtLXRleHQtc3R5bGUtYm9keS1zbWFsbC1zcGFjaW5nOiB2YXIoLS1mb250LXNwYWNpbmctbm9ybWFsKTtcbiAgLS10ZXh0LXN0eWxlLWJvZHktc21hbGwtd2VpZ2h0OiB2YXIoLS1mb250LXdlaWdodC1uZXV0cmFsKTtcbiAgLS10ZXh0LXN0eWxlLWJvZHktc21hbGwtaGVpZ2h0OiB2YXIoLS1mb250LWhlaWdodC1ub3JtYWwpO1xuICAtLXRleHQtc3R5bGUtYm9keS1zbWFsbC1zdHJvbmctd2VpZ2h0OiB2YXIoLS1mb250LXdlaWdodC1idWxreSk7XG5cbiAgLS10ZXh0LXN0eWxlLWxhYmVsLWxhcmdlLWZhbWlseTogdmFyKC0tZm9udC1mYW1pbHktcmVndWxhcik7XG4gIC0tdGV4dC1zdHlsZS1sYWJlbC1sYXJnZS1zaXplOiB2YXIoLS1mb250LXNpemUtM3gpO1xuICAtLXRleHQtc3R5bGUtbGFiZWwtbGFyZ2Utc3BhY2luZzogdmFyKC0tZm9udC1zcGFjaW5nLW5vcm1hbCk7XG4gIC0tdGV4dC1zdHlsZS1sYWJlbC1sYXJnZS13ZWlnaHQ6IHZhcigtLWZvbnQtd2VpZ2h0LW1lZGlhbik7XG4gIC0tdGV4dC1zdHlsZS1sYWJlbC1sYXJnZS1oZWlnaHQ6IHZhcigtLWZvbnQtaGVpZ2h0LW5vcm1hbCk7XG5cbiAgLS10ZXh0LXN0eWxlLWxhYmVsLXNtYWxsLWZhbWlseTogdmFyKC0tZm9udC1mYW1pbHktcmVndWxhcik7XG4gIC0tdGV4dC1zdHlsZS1sYWJlbC1zbWFsbC1zaXplOiB2YXIoLS1mb250LXNpemUtMngpO1xuICAtLXRleHQtc3R5bGUtbGFiZWwtc21hbGwtc3BhY2luZzogdmFyKC0tZm9udC1zcGFjaW5nLWxvb3NlKTtcbiAgLS10ZXh0LXN0eWxlLWxhYmVsLXNtYWxsLXdlaWdodDogdmFyKC0tZm9udC13ZWlnaHQtbWVkaWFuKTtcbiAgLS10ZXh0LXN0eWxlLWxhYmVsLXNtYWxsLWhlaWdodDogdmFyKC0tZm9udC1oZWlnaHQtbm9ybWFsKTtcblxuICAtLXRleHQtc3R5bGUtbWljcm8tZmFtaWx5OiB2YXIoLS1mb250LWZhbWlseS1yZWd1bGFyKTtcbiAgLS10ZXh0LXN0eWxlLW1pY3JvLXNpemU6IHZhcigtLWZvbnQtc2l6ZS0xeCk7XG4gIC0tdGV4dC1zdHlsZS1taWNyby1zcGFjaW5nOiB2YXIoLS1mb250LXNwYWNpbmctbG9vc2UpO1xuICAtLXRleHQtc3R5bGUtbWljcm8td2VpZ2h0OiB2YXIoLS1mb250LXdlaWdodC1uZXV0cmFsKTtcbiAgLS10ZXh0LXN0eWxlLW1pY3JvLWhlaWdodDogdmFyKC0tZm9udC1oZWlnaHQtdGlnaHQpO1xufVxuXG4uY29sb3Itc2NoZW1lLWxpZ2h0IHtcbiAgLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5OiB2YXIoLS1jb2xvci1ncmVlbi0xMDApO1xuICAtLWNvbG9yLWludGVyYWN0aXZlLXByaW1hcnktaG92ZXI6IHZhcigtLWNvbG9yLWdyZWVuLTMwMCk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtc2Vjb25kYXJ5OiB2YXIoLS1jb2xvci10cmFuc3BhcmVudCk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtc2Vjb25kYXJ5LWhvdmVyOiB2YXIoLS1jb2xvci1ncmV5LTEwMDApO1xuICAtLWNvbG9yLWludGVyYWN0aXZlLXRlcnRpYXJ5OiB2YXIoLS1jb2xvci10cmFuc3BhcmVudCk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtdGVydGlhcnktaG92ZXI6IHZhcigtLWNvbG9yLWdyZXktMjUpO1xuICAtLWNvbG9yLWludGVyYWN0aXZlLWNvbnRyb2w6IHZhcigtLWNvbG9yLWdyZXktMTAwMCk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtY29udHJvbC1ob3ZlcjogdmFyKC0tY29sb3ItZ3JleS03MDApO1xuICAtLWNvbG9yLWludGVyYWN0aXZlLWRpc2FibGVkOiB2YXIoLS1jb2xvci1ncmV5LTEwMCk7XG5cbiAgLS1jb2xvci1zdXJmYWNlLXByaW1hcnk6IHZhcigtLWNvbG9yLXdoaXRlKTtcbiAgLS1jb2xvci1zdXJmYWNlLWFjY2VudDogdmFyKC0tY29sb3ItZ3JleS01MCk7XG4gIC0tY29sb3Itc3VyZmFjZS1pbnZlcnNlOiB2YXIoLS1jb2xvci1ncmV5LTEwMDApO1xuICAtLWNvbG9yLXN1cmZhY2UtYnJhbmQtYWNjZW50OiB2YXIoLS1jb2xvci1qYWZmYS0yNSk7XG4gIC0tY29sb3Itc3VyZmFjZS1lbGV2YXRlZDogdmFyKC0tY29sb3ItZ3JleS03MDApO1xuICAtLWNvbG9yLXN1cmZhY2UtY2F1dGlvbi1kZWZhdWx0OiB2YXIoLS1jb2xvci1qYWZmYS0yNSk7XG4gIC0tY29sb3Itc3VyZmFjZS1jYXV0aW9uLXN0cm9uZzogdmFyKC0tY29sb3ItamFmZmEtNzAwKTtcbiAgLS1jb2xvci1zdXJmYWNlLWNyaXRpY2FsLWRlZmF1bHQ6IHZhcigtLWNvbG9yLXZlcnliZXJyeS0yNSk7XG4gIC0tY29sb3Itc3VyZmFjZS1jcml0aWNhbC1zdHJvbmc6IHZhcigtLWNvbG9yLXZlcnliZXJyeS03MDApO1xuICAtLWNvbG9yLXN1cmZhY2UtaW5mby1kZWZhdWx0OiB2YXIoLS1jb2xvci1ibHVlLTI1KTtcbiAgLS1jb2xvci1zdXJmYWNlLWluZm8tc3Ryb25nOiB2YXIoLS1jb2xvci1ibHVlLTcwMCk7XG4gIC0tY29sb3Itc3VyZmFjZS1uZXV0cmFsLWRlZmF1bHQ6IHZhcigtLWNvbG9yLWdyZXktMjUpO1xuICAtLWNvbG9yLXN1cmZhY2UtbmV1dHJhbC1zdHJvbmc6IHZhcigtLWNvbG9yLWdyZXktMTAwMCk7XG4gIC0tY29sb3Itc3VyZmFjZS1wb3NpdGl2ZS1kZWZhdWx0OiB2YXIoLS1jb2xvci1ncmVlbi0yNSk7XG4gIC0tY29sb3Itc3VyZmFjZS1wb3NpdGl2ZS1zdHJvbmc6IHZhcigtLWNvbG9yLWdyZWVuLTcwMCk7XG5cbiAgLS1jb2xvci1vdmVybGF5LWxpZ2h0OiB2YXIoLS1jb2xvci13aGl0ZS1tYXNrKTtcbiAgLS1jb2xvci1vdmVybGF5LWRhcms6IHZhcigtLWNvbG9yLWdyZXktMTAwMC1tYXNrKTtcblxuICAtLWNvbG9yLWNvbnRlbnQtYnJhbmQ6IHZhcigtLWNvbG9yLWdyZWVuLTEwMDApO1xuICAtLWNvbG9yLWNvbnRlbnQtYnJhbmQtYWNjZW50OiB2YXIoLS1jb2xvci1idWJibGVndW0tNzAwKTtcbiAgLS1jb2xvci1jb250ZW50LXByaW1hcnk6IHZhcigtLWNvbG9yLWdyZXktMTAwMCk7XG4gIC0tY29sb3ItY29udGVudC1pbnZlcnNlOiB2YXIoLS1jb2xvci13aGl0ZSk7XG4gIC0tY29sb3ItY29udGVudC1zZWNvbmRhcnk6IHZhcigtLWNvbG9yLWdyZXktNTAwKTtcbiAgLS1jb2xvci1jb250ZW50LWRpc2FibGVkOiB2YXIoLS1jb2xvci1ncmV5LTMwMCk7XG4gIC0tY29sb3ItY29udGVudC1jYXV0aW9uLWRlZmF1bHQ6IHZhcigtLWNvbG9yLWphZmZhLTcwMCk7XG4gIC0tY29sb3ItY29udGVudC1jYXV0aW9uLXN0cm9uZzogdmFyKC0tY29sb3ItamFmZmEtMjUpO1xuICAtLWNvbG9yLWNvbnRlbnQtY3JpdGljYWwtZGVmYXVsdDogdmFyKC0tY29sb3ItdmVyeWJlcnJ5LTcwMCk7XG4gIC0tY29sb3ItY29udGVudC1jcml0aWNhbC1zdHJvbmc6IHZhcigtLWNvbG9yLXZlcnliZXJyeS0yNSk7XG4gIC0tY29sb3ItY29udGVudC1pbmZvLWRlZmF1bHQ6IHZhcigtLWNvbG9yLWJsdWUtNzAwKTtcbiAgLS1jb2xvci1jb250ZW50LWluZm8tc3Ryb25nOiB2YXIoLS1jb2xvci1ibHVlLTI1KTtcbiAgLS1jb2xvci1jb250ZW50LW5ldXRyYWwtZGVmYXVsdDogdmFyKC0tY29sb3ItZ3JleS0xMDAwKTtcbiAgLS1jb2xvci1jb250ZW50LW5ldXRyYWwtc3Ryb25nOiB2YXIoLS1jb2xvci13aGl0ZSk7XG4gIC0tY29sb3ItY29udGVudC1wb3NpdGl2ZS1kZWZhdWx0OiB2YXIoLS1jb2xvci1ncmVlbi03MDApO1xuICAtLWNvbG9yLWNvbnRlbnQtcG9zaXRpdmUtc3Ryb25nOiB2YXIoLS1jb2xvci1ncmVlbi0yNSk7XG5cbiAgLS1jb2xvci1ib3JkZXItcHJpbWFyeTogdmFyKC0tY29sb3ItZ3JleS0xMDAwKTtcbiAgLS1jb2xvci1ib3JkZXItc2Vjb25kYXJ5OiB2YXIoLS1jb2xvci1ncmV5LTMwMCk7XG4gIC0tY29sb3ItYm9yZGVyLXRlcnRpYXJ5OiB2YXIoLS1jb2xvci1ncmV5LTEwMCk7XG5cbiAgLS1jb2xvci1hbHdheXMtd2hpdGU6IHZhcigtLWNvbG9yLXdoaXRlKTtcbn1cblxuLmNvbG9yLXNjaGVtZS1kYXJrIHtcbiAgLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5OiB2YXIoLS1jb2xvci1ncmVlbi0xMDApO1xuICAtLWNvbG9yLWludGVyYWN0aXZlLXByaW1hcnktaG92ZXI6IHZhcigtLWNvbG9yLWdyZWVuLTMwMCk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtc2Vjb25kYXJ5OiB2YXIoLS1jb2xvci10cmFuc3BhcmVudCk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtc2Vjb25kYXJ5LWhvdmVyOiB2YXIoLS1jb2xvci13aGl0ZSk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtdGVydGlhcnk6IHZhcigtLWNvbG9yLXRyYW5zcGFyZW50KTtcbiAgLS1jb2xvci1pbnRlcmFjdGl2ZS10ZXJ0aWFyeS1ob3ZlcjogdmFyKC0tY29sb3ItZ3JleS03MDApO1xuICAtLWNvbG9yLWludGVyYWN0aXZlLWNvbnRyb2w6IHZhcigtLWNvbG9yLXdoaXRlKTtcbiAgLS1jb2xvci1pbnRlcmFjdGl2ZS1jb250cm9sLWhvdmVyOiB2YXIoLS1jb2xvci1ncmV5LTEwMCk7XG4gIC0tY29sb3ItaW50ZXJhY3RpdmUtZGlzYWJsZWQ6IHZhcigtLWNvbG9yLWdyZXktNzAwKTtcblxuICAtLWNvbG9yLXN1cmZhY2UtcHJpbWFyeTogdmFyKC0tY29sb3ItZ3JleS0xMDAwKTtcbiAgLS1jb2xvci1zdXJmYWNlLWFjY2VudDogdmFyKC0tY29sb3ItZ3JleS03MDApO1xuICAtLWNvbG9yLXN1cmZhY2UtaW52ZXJzZTogdmFyKC0tY29sb3Itd2hpdGUpO1xuICAtLWNvbG9yLXN1cmZhY2UtYnJhbmQtYWNjZW50OiB2YXIoLS1jb2xvci1ncmV5LTcwMCk7XG4gIC0tY29sb3Itc3VyZmFjZS1lbGV2YXRlZDogdmFyKC0tY29sb3ItZ3JleS03MDApO1xuICAtLWNvbG9yLXN1cmZhY2UtY2F1dGlvbi1kZWZhdWx0OiB2YXIoLS1jb2xvci1qYWZmYS0xMDAwKTtcbiAgLS1jb2xvci1zdXJmYWNlLWNhdXRpb24tc3Ryb25nOiB2YXIoLS1jb2xvci1qYWZmYS01MDApO1xuICAtLWNvbG9yLXN1cmZhY2UtY3JpdGljYWwtZGVmYXVsdDogdmFyKC0tY29sb3ItdmVyeWJlcnJ5LTEwMDApO1xuICAtLWNvbG9yLXN1cmZhY2UtY3JpdGljYWwtc3Ryb25nOiB2YXIoLS1jb2xvci12ZXJ5YmVycnktNTAwKTtcbiAgLS1jb2xvci1zdXJmYWNlLWluZm8tZGVmYXVsdDogdmFyKC0tY29sb3ItYmx1ZS0xMDAwKTtcbiAgLS1jb2xvci1zdXJmYWNlLWluZm8tc3Ryb25nOiB2YXIoLS1jb2xvci1ibHVlLTUwMCk7XG4gIC0tY29sb3Itc3VyZmFjZS1uZXV0cmFsLWRlZmF1bHQ6IHZhcigtLWNvbG9yLWdyZXktNzAwKTtcbiAgLS1jb2xvci1zdXJmYWNlLW5ldXRyYWwtc3Ryb25nOiB2YXIoLS1jb2xvci13aGl0ZSk7XG4gIC0tY29sb3Itc3VyZmFjZS1wb3NpdGl2ZS1kZWZhdWx0OiB2YXIoLS1jb2xvci1ncmVlbi0xMDAwKTtcbiAgLS1jb2xvci1zdXJmYWNlLXBvc2l0aXZlLXN0cm9uZzogdmFyKC0tY29sb3ItZ3JlZW4tNTAwKTtcblxuICAtLWNvbG9yLW92ZXJsYXktbGlnaHQ6IHZhcigtLWNvbG9yLXdoaXRlLW1hc2spO1xuICAtLWNvbG9yLW92ZXJsYXktZGFyazogdmFyKC0tY29sb3ItZ3JleS0xMDAwLW1hc2spO1xuXG4gIC0tY29sb3ItY29udGVudC1icmFuZDogdmFyKC0tY29sb3ItZ3JlZW4tMTAwMCk7XG4gIC0tY29sb3ItY29udGVudC1icmFuZC1hY2NlbnQ6IHZhcigtLWNvbG9yLWJ1YmJsZWd1bS0xMDApO1xuICAtLWNvbG9yLWNvbnRlbnQtcHJpbWFyeTogdmFyKC0tY29sb3Itd2hpdGUpO1xuICAtLWNvbG9yLWNvbnRlbnQtaW52ZXJzZTogdmFyKC0tY29sb3ItZ3JleS0xMDAwKTtcbiAgLS1jb2xvci1jb250ZW50LXNlY29uZGFyeTogdmFyKC0tY29sb3ItZ3JleS0xMDApO1xuICAtLWNvbG9yLWNvbnRlbnQtZGlzYWJsZWQ6IHZhcigtLWNvbG9yLWdyZXktNTAwKTtcbiAgLS1jb2xvci1jb250ZW50LWNhdXRpb24tZGVmYXVsdDogdmFyKC0tY29sb3ItamFmZmEtNTAwKTtcbiAgLS1jb2xvci1jb250ZW50LWNhdXRpb24tc3Ryb25nOiB2YXIoLS1jb2xvci1qYWZmYS0xMDAwKTtcbiAgLS1jb2xvci1jb250ZW50LWNyaXRpY2FsLWRlZmF1bHQ6IHZhcigtLWNvbG9yLXZlcnliZXJyeS01MDApO1xuICAtLWNvbG9yLWNvbnRlbnQtY3JpdGljYWwtc3Ryb25nOiB2YXIoLS1jb2xvci12ZXJ5YmVycnktMTAwMCk7XG4gIC0tY29sb3ItY29udGVudC1pbmZvLWRlZmF1bHQ6IHZhcigtLWNvbG9yLWJsdWUtNTAwKTtcbiAgLS1jb2xvci1jb250ZW50LWluZm8tc3Ryb25nOiB2YXIoLS1jb2xvci1ibHVlLTEwMDApO1xuICAtLWNvbG9yLWNvbnRlbnQtbmV1dHJhbC1kZWZhdWx0OiB2YXIoLS1jb2xvci13aGl0ZSk7XG4gIC0tY29sb3ItY29udGVudC1uZXV0cmFsLXN0cm9uZzogdmFyKC0tY29sb3ItZ3JleS0xMDAwKTtcbiAgLS1jb2xvci1jb250ZW50LXBvc2l0aXZlLWRlZmF1bHQ6IHZhcigtLWNvbG9yLWdyZWVuLTUwMCk7XG4gIC0tY29sb3ItY29udGVudC1wb3NpdGl2ZS1zdHJvbmc6IHZhcigtLWNvbG9yLWdyZWVuLTEwMDApO1xuXG4gIC0tY29sb3ItYm9yZGVyLXByaW1hcnk6IHZhcigtLWNvbG9yLXdoaXRlKTtcbiAgLS1jb2xvci1ib3JkZXItc2Vjb25kYXJ5OiB2YXIoLS1jb2xvci1ncmV5LTUwMCk7XG4gIC0tY29sb3ItYm9yZGVyLXRlcnRpYXJ5OiB2YXIoLS1jb2xvci1ncmV5LTcwMCk7XG5cbiAgLS1jb2xvci1hbHdheXMtd2hpdGU6IHZhcigtLWNvbG9yLXdoaXRlKTtcbn1cbiJdLCJzb3VyY2VSb290IjoiIn0= */
+        .message{ padding:4px 7px;border:1px solid #ddd;background-color:#fff}
+        .message.ok{ border-color:green;color:green}
+        .message.error{ border-color:red;color:red}
+        .message.alert{ border-color:orange;color:orange}
+        body.fm-login-page.theme-dark {background-color: #2f2a2a;}
+        .theme-dark svg g, .theme-dark svg path {fill: #ffffff; }
     </style>
-    <style>
-        .brand-neue-button {
-            gap: var(--spacing-2x);
-            border-radius: var(--roundness-subtle);
-            background: var(--color-interactive-primary);
-            color: var(--color-content-brand);
-            font-family: PolySans-Median;
-            font-size: var(--font-size-2x);
-            letter-spacing: 0.02em;
-            text-align: center;
-            padding: 0 20px;
-        }
-
-        .brand-neue-button:hover,
-        .brand-neue-button:active,
-        .brand-neue-button:focus {
-            background: var(--color-interactive-primary-hover);
-        }
-
-        .brand-neue-button__open-in-new::after {
-            font-size: 0;
-            margin-left: 5px;
-            vertical-align: sub;
-            content: url("data:image/svg+xml,<svg width=\"14\" height=\"14\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"ico-/-24-/-actions-/-open_in_new\"><path id=\"Icon-color\" d=\"M17.5 12.0833V15.8333C17.5 16.7538 16.7538 17.5 15.8333 17.5H4.16667C3.24619 17.5 2.5 16.7538 2.5 15.8333V4.16667C2.5 3.24619 3.24619 2.5 4.16667 2.5H7.91667C8.14679 2.5 8.33333 2.68655 8.33333 2.91667V3.75C8.33333 3.98012 8.14679 4.16667 7.91667 4.16667H4.16667V15.8333H15.8333V12.0833C15.8333 11.8532 16.0199 11.6667 16.25 11.6667H17.0833C17.3135 11.6667 17.5 11.8532 17.5 12.0833ZM17.3167 2.91667L17.0917 2.69167C16.98 2.57535 16.8278 2.50668 16.6667 2.5H11.25C11.0199 2.5 10.8333 2.68655 10.8333 2.91667V3.75C10.8333 3.98012 11.0199 4.16667 11.25 4.16667H14.6583L7.625 11.2C7.54612 11.2782 7.50175 11.3847 7.50175 11.4958C7.50175 11.6069 7.54612 11.7134 7.625 11.7917L8.20833 12.375C8.28657 12.4539 8.39307 12.4982 8.50417 12.4982C8.61527 12.4982 8.72176 12.4539 8.8 12.375L15.8333 5.35V8.75C15.8333 8.98012 16.0199 9.16667 16.25 9.16667H17.0833C17.3135 9.16667 17.5 8.98012 17.5 8.75V3.33333C17.4955 3.17342 17.4299 3.02132 17.3167 2.90833V2.91667Z\" fill=\"%231A4200\"/></g></svg>");
-        }
-
-        /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
-    </style>
-    <style type="text/css">
-        .fancybox-margin {
-            margin-right: 15px;
-        }
-    </style>
-    <script src="https://bat.bing.com/p/action/16005611.js" type="text/javascript" async=""
-        data-ueto="ueto_8c931ec7a9"></script>
-    <meta http-equiv="origin-trial"
-        content="A7JYkbIvWKmS8mWYjXO12SIIsfPdI7twY91Y3LWOV/YbZmN1ZhYv8O+Zs6/IPCfBE99aV9tIC8sWZSCN09vf7gkAAACWeyJvcmlnaW4iOiJodHRwczovL2N0LnBpbnRlcmVzdC5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
 </head>
+<body class="fm-login-page <?php echo (FM_THEME == "dark") ? 'theme-dark' : ''; ?>">
+<div id="wrapper" class="container-fluid">
 
-<body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false"
-    __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true"
-    bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
-        var gtmConfig = {}
-
-        //]]>
-    </script>
-
-    <!--[if lte IE 8]>
-  <div style="color:#fff;background:#f00;padding:20px;text-align:center;">
-    ThemeForest no longer actively supports this version of Internet Explorer. We suggest that you <a href="https://windows.microsoft.com/en-us/internet-explorer/download-ie" style="color:#fff;text-decoration:underline;">upgrade to a newer version</a> or <a href="https://browsehappy.com/" style="color:#fff;text-decoration:underline;">try a different browser</a>.
-  </div>
-<![endif]-->
-
-    <script
-        src="https://public-assets.envato-static.com/assets/gtm_measurements-40b0a0f82bafab0a0bb77fc35fe1da0650288300b85126c95b4676bcff6e4584.js"
-        nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8KL5Q5" height="0" width="0"
-            style="display:none;visibility:hidden">
-        </iframe>
-    </noscript>
-
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGCDGPL6" height="0" width="0"
-            style="display:none;visibility:hidden">
-        </iframe>
-    </noscript>
-
-
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-            //<![CDATA[
-            (function () {
-                function normalizeAttributeValue(value) {
-                    if (value === undefined || value === null) return undefined
-
-                    var normalizedValue
-
-                    if (Array.isArray(value)) {
-                        normalizedValue = normalizedValue || value
-                            .map(normalizeAttributeValue)
-                            .filter(Boolean)
-                            .join(', ')
-                    }
-
-                    normalizedValue = normalizedValue || value
-                        .toString()
-                        .toLowerCase()
-                        .trim()
-                        .replace(/&amp;/g, '&')
-                        .replace(/&#39;/g, "'")
-                        .replace(/\s+/g, ' ')
-
-                    if (normalizedValue === '') return undefined
-                    return normalizedValue
-                }
-
-                var pageAttributes = {
-                    app_name: normalizeAttributeValue('Marketplace'),
-                    app_env: normalizeAttributeValue('production'),
-                    app_version: normalizeAttributeValue('f7d8b3d494288b34cb00105ee5d230d68b0ccca7'),
-                    page_type: normalizeAttributeValue('item'),
-                    page_location: window.location.href,
-                    page_title: document.title,
-                    page_referrer: document.referrer,
-                    ga_param: normalizeAttributeValue(''),
-                    event_attributes: null,
-                    user_attributes: {
-                        user_id: normalizeAttributeValue(''),
-                        market_user_id: normalizeAttributeValue(''),
-                    }
-                }
-                dataLayer.push(pageAttributes)
-
-                dataLayer.push({
-                    event: 'analytics_ready',
-                    event_attributes: {
-                        event_type: 'user',
-                        custom_timestamp: Date.now()
-                    }
-                })
-            })();
-
-        //]]>
-    </script>
-    <style>
-        .live-preview-btn--blue .live-preview {
-            background-color: #850000;
-        }
-
-        .live-preview-btn--blue .live-preview:hover,
-        .live-preview-btn--blue .live-preview:focus {
-            background-color: #00bbff
-        }
-    </style>
-
-    <div class="page" bis_skin_checked="1">
-        <div class="page__off-canvas--left overflow" bis_skin_checked="1">
-            <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
-                <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Envato Market</a>
-                </div>
-
-                <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
-                    <span class="off-canvas-left__site-title">
-                        Web Themes &amp; Templates
-                    </span>
-
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
-                        data-dropdown-target=".off-canvas-left__sites"
-                        href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"></a>
-                </div>
-
-                <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttp://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                        <span class="off-canvas-left__site-title">
-                            Code
-                        </span>
-                        <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                        <span class="off-canvas-left__site-title">
-                            Video
-                        </span>
-                        <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                        <span class="off-canvas-left__site-title">
-                            Audio
-                        </span>
-                        <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                        <span class="off-canvas-left__site-title">
-                            Graphics
-                        </span>
-                        <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                        <span class="off-canvas-left__site-title">
-                            Photos
-                        </span>
-                        <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                        <span class="off-canvas-left__site-title">
-                            3D Files
-                        </span>
-                        <i class="e-icon -icon-right-open"></i>
-                    </a>
-                </div>
-
-                <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>" accept-charset="UTF-8"
-                        method="get">
-                        <div class="search-field -border-none" bis_skin_checked="1">
-                            <div class="search-field__input" bis_skin_checked="1">
-                                <input id="term" name="term" type="search" placeholder="Search"
-                                    class="search-field__input-field">
-                            </div>
-                            <button class="search-field__button" type="submit">
-                                <i class="e-icon -icon-search"><span class="e-icon__alt">Search</span></i>
-                            </button>
-                        </div>
-                    </form>
-                </div>
-
-                <ul>
-
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-all-items"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            All Items
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-all-items">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Files</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Featured Files</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Top New Files</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Follow Feed</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Top Authors</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Top New
-                                    Authors</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Public Collections</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">View All Categories</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-wordpress"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            WordPress
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-wordpress">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Show all
-                                    WordPress</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Items</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Blog /
-                                    Magazine</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">BuddyPress</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Corporate</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Creative</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Directory &amp; Listings</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">eCommerce</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Education</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Elementor</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Entertainment</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Mobile</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Nonprofit</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Real
-                                    Estate</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Retail</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Technology</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Wedding</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Miscellaneous</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">WordPress Plugins</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-elementor"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            Elementor
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-elementor">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Template Kits</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Plugins</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Themes</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-
-                        <a class="off-canvas-category-link--empty"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            Hosting
-                        </a>
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            HTML
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-html">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Show all
-                                    HTML</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Items</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Admin Templates</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Corporate</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Creative</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Entertainment</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Mobile</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Nonprofit</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Personal</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Retail</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Specialty Pages</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Technology</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Wedding</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Miscellaneous</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-shopify"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            Shopify
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-shopify">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Show all
-                                    Shopify</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Items</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Fashion</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Shopping</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Health &amp; Beauty</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Technology</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Entertainment</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Miscellaneous</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-
-                        <a class="off-canvas-category-link--empty"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            Jamstack
-                        </a>
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-marketing"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            Marketing
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-marketing">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Show all
-                                    Marketing</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Items</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Email Templates</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Landing Pages</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Unbounce Landing Pages</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            CMS
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-cms">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Show all CMS</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Items</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Concrete5</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Drupal</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">HubSpot CMS Hub</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Joomla</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">MODX
-                                    Themes</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Moodle</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Webflow</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Weebly</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Miscellaneous</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ecommerce"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            eCommerce
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-ecommerce">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Show all
-                                    eCommerce</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Items</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">WooCommerce</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">BigCommerce</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Drupal Commerce</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Easy Digital Downloads</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Ecwid</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Magento</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">OpenCart</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">PrestaShop</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Shopify</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Ubercart</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">VirtueMart</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Zen
-                                    Cart</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Miscellaneous</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ui-templates"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            UI Templates
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-ui-templates">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Popular Items</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Figma</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Adobe
-                                    XD</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Photoshop</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Sketch</a>
-                            </li>
-                        </ul>
-
-                    </li>
-                    <li>
-
-                        <a class="off-canvas-category-link--empty"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            Plugins
-                        </a>
-                    </li>
-                    <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                            More
-                        </a>
-                        <ul class="is-hidden" id="off-canvas-more">
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Blogging</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Courses</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Facebook Templates</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Free Elementor Templates</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Free
-                                    WordPress Themes</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Forums</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Ghost
-                                    Themes</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Tumblr</a>
-                            </li>
-                            <li>
-                                <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
-                                    target="_blank"
-                                    data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Unlimited
-                                    Creative Assets</a>
-                            </li>
-                        </ul>
-
-                    </li>
-
-                    <li>
-                        <a class="elements-nav__category-link external-link" target="_blank"
-                            data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Unlimited
-                            Downloads</a>
-                    </li>
-
-                </ul>
-
-            </div>
-
-        </div>
-
-        <div class="page__off-canvas--right overflow" bis_skin_checked="1">
-            <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                    Guest Cart
-                    <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
-                        <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
-                        <i class="e-icon -icon-cart"></i>
-                    </div>
-                </a>
-                <a class="off-canvas-right__link" href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>">
-                    Create an Envato Account
-                    <i class="e-icon -icon-envato"></i>
-                </a>
-                <a class="off-canvas-right__link" href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>">
-                    Sign In
-                    <i class="e-icon -icon-login"></i>
-                </a>
-            </div>
-
-        </div>
-
-        <div class="page__canvas" bis_skin_checked="1">
-            <div class="canvas" bis_skin_checked="1">
-                <div class="canvas__header" bis_skin_checked="1">
-
-                    <header class="site-header">
-                        <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
-                            <div class="header-mini" bis_skin_checked="1">
-                                <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                        <svg width="14px" height="14px" viewBox="0 0 14 14"
-                                            class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
-                                            aria-labelledby="title" role="img">
-                                            <title>Cart</title>
-                                            <path
-                                                d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
-                                            </path>
-
-                                        </svg>
-
-
-                                        <span class="is-hidden">Cart</span>
-                                        <span class="header-mini__button-cart-cart-amount is-hidden">
-                                            0
-                                        </span>
-                                    </a>
-                                </div>
-                                <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                        <i class="e-icon -icon-person"></i>
-                                        <span class="is-hidden">Account</span>
-                                    </a>
-                                </div>
-
-                                <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                        <i class="e-icon -icon-hamburger"></i>
-                                        <span class="is-hidden">Sites, Search &amp; Categories</span>
-                                    </a>
-                                </div>
-
-                                <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                        <img alt="Logo Baru"
-                                            src="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png"
-                                            style="height:40px; width:auto; display:inline-block;">
-                                    </a>
-                                </div>
-
-
-
-                            </div>
-
-                        </div>
-
-                        <div class="global-header is-hidden-tablet-and-below" bis_skin_checked="1">
-
-                            <div class="grid-container -layout-wide" bis_skin_checked="1">
-                                <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                        <img height="50" alt="Envato Market" class="global-header__logo"
-                                            src="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
-                                    </a>
-                                    <nav class="global-header-menu" role="navigation">
-                                        <ul class="global-header-menu__list">
-                                            <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link"
-                                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                                    <span class="global-header-menu__link-text">
-                                                        Slot
-                                                    </span>
-                                                </a>
-                                            </li>
-                                            <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link"
-                                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                                    <span class="global-header-menu__link-text">
-                                                        <?php echo $brand ?>
-                                                    </span>
-                                                </a>
-                                            </li>
-
-
-                                            <li data-view="globalHeaderMenuDropdownHandler"
-                                                class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                                    <svg width="16px" height="16px" viewBox="0 0 16 16"
-                                                        class="global-header-menu__icon"
-                                                        xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
-                                                        role="img">
-                                                        <title>Menu</title>
-                                                        <path
-                                                            d="M3.5 2A1.5 1.5 0 0 1 5 3.5 1.5 1.5 0 0 1 3.5 5 1.5 1.5 0 0 1 2 3.5 1.5 1.5 0 0 1 3.5 2zM8 2a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 5a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 2zM12.5 2A1.5 1.5 0 0 1 14 3.5 1.5 1.5 0 0 1 12.5 5 1.5 1.5 0 0 1 11 3.5 1.5 1.5 0 0 1 12.5 2zM3.5 6.5A1.5 1.5 0 0 1 5 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 2 8a1.5 1.5 0 0 1 1.5-1.5zM8 6.5A1.5 1.5 0 0 1 9.5 8 1.5 1.5 0 0 1 8 9.5 1.5 1.5 0 0 1 6.5 8 1.5 1.5 0 0 1 8 6.5zM12.5 6.5A1.5 1.5 0 0 1 14 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 11 8a1.5 1.5 0 0 1 1.5-1.5zM3.5 11A1.5 1.5 0 0 1 5 12.5 1.5 1.5 0 0 1 3.5 14 1.5 1.5 0 0 1 2 12.5 1.5 1.5 0 0 1 3.5 11zM8 11a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 14a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 11zM12.5 11a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z">
-                                                        </path>
-
-                                                    </svg>
-
-                                                    <span class="global-header-menu__link-text">
-                                                        Our Products
-                                                    </span>
-                                                </a>
-                                            <li class="global-header-menu__list-item -background-light -border-radius">
-                                                <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                    <svg width="16px" height="16px" viewBox="0 0 16 16"
-                                                        class="global-header-menu__icon global-header-menu__icon-cart"
-                                                        xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
-                                                        role="img">
-                                                        <title>Cart</title>
-                                                        <path
-                                                            d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
-                                                        </path>
-
-                                                    </svg>
-
-
-                                                    <span class="global-header-menu__link-cart-amount is-hidden"
-                                                        data-view="headerCartCount"
-                                                        data-test-id="header_cart_count">0</span>
-                                                </a>
-                                            </li>
-
-                                            <li class="global-header-menu__list-item -background-light -border-radius">
-                                                <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                                    <span id="spec-user-username" class="global-header-menu__link-text">
-                                                        Sign In
-                                                    </span>
-                                                </a>
-                                            </li>
-
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="site-header__sites is-hidden-tablet-and-below" bis_skin_checked="1">
-                            <div class="header-sites header-site-titles" bis_skin_checked="1">
-                                <div class="grid-container -layout-wide" bis_skin_checked="1">
-                                    <nav class="header-site-titles__container">
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">SLOT RESMI</a>
-                                        </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Code"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"><?php echo $brand ?></a>
-                                        </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Video"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Slot Luar Negeri</a>
-                                        </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Music"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Slot Gacor 2025</a>
-                                        </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">CVS</a>
-                                        </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">SLOT MAXWIN</a>
-                                        </div>
-                                        <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Gacor Slot</a>
-                                        </div>
-
-                                        <div class="header-site-titles__site elements-nav__container"
-                                            bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link elements-nav__main-link"
-                                                href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net"
-                                                target="_blank">
-                                                <span>
-                                                    Link Gacor
-                                                </span>
-                                            </a>
-
-                                            <a target="_blank"
-                                                class="elements-nav__dropdown-container unique-selling-points__variant"
-                                                data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                                data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                                href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net">
-                                                <div class="elements-nav__main-panel" bis_skin_checked="1">
-                                                    <img class="elements-nav__logo-container" loading="lazy"
-                                                        src="https://public-assets.envato-static.com/assets/header/EnvatoElements-logo-4f70ffb865370a5fb978e9a1fc5bbedeeecdfceb8d0ebec2186aef4bee5db79d.svg"
-                                                        alt="Elements logo" height="23" width="101">
-
-                                                    <div class="elements-nav__punch-line" bis_skin_checked="1">
-                                                        <h2>
-                                                            Looking for unlimited downloads?
-                                                        </h2>
-                                                        <p>
-                                                            Subscribe to Envato Elements.
-                                                        </p>
-                                                        <ul>
-                                                            <li>
-                                                                <img src="https://public-assets.envato-static.com/assets/header/badge-a65149663b95bcee411e80ccf4da9788f174155587980d8f1d9c44fd8b59edd8.svg"
-                                                                    alt="badge" width="20" height="20">
-                                                                Millions of premium assets
-                                                            </li>
-                                                            <li>
-                                                                <img src="https://public-assets.envato-static.com/assets/header/thumbs_up-e5ce4c821cfd6a6aeba61127a8e8c4d2d7c566e654f588a22708c64d66680869.svg"
-                                                                    alt="thumbs up" width="20" height="20">
-                                                                Great value subscription
-                                                            </li>
-                                                        </ul>
-                                                        <button
-                                                            class="brand-neue-button brand-neue-button__open-in-new elements-nav__cta">Let's
-                                                            create</button>
-                                                        <p></p>
-                                                    </div>
-                                                </div>
-                                                <div class="elements-nav__secondary-panel" bis_skin_checked="1">
-                                                    <img class="elements-nav__secondary-panel__collage" loading="lazy"
-                                                        src="https://public-assets.envato-static.com/assets/header/items-collage-1x-a39e4a5834e75c32a634cc7311720baa491687b1aaa4b709ebd1acf0f8427b53.png"
-                                                        srcset="https://public-assets.envato-static.com/assets/header/items-collage-2x-75e1ad16a46b9788861780a57feeb5fd1ad1026ecce9330302f0ef8f6f542697.png 2x"
-                                                        alt="Collage of Elements items" width="267" height="233">
-                                                </div>
-                                            </a>
-                                        </div>
-
-                                        <div class="header-site-floating-logo__container" bis_skin_checked="1">
-                                            <div class="" bis_skin_checked="1">
-                                                <img src="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png"
-                                                    alt="<?php echo $brand ?> Maxwin"
-                                                    style="max-width: 150px; height: auto; object-fit: contain;"
-                                                    data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
-                                            </div>
-                                        </div>
-                                    </nav>
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div class="site-header__categories is-hidden-tablet-and-below" bis_skin_checked="1">
-                            <div class="header-categories" bis_skin_checked="1">
-                                <div class="grid-container -layout-wide" bis_skin_checked="1">
-                                    <ul class="header-categories__links">
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-0-dropdown"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                SLOT RESMI
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-1-dropdown"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                Slot Luar Negeri
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-2-dropdown"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                Link Slot Gacor Hari Ini
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                Gacor Slot
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-4-dropdown"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                <?php echo $brand ?>
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-5-dropdown"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                Slot Gacor Resmi
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                SLOT GACOR 2025 Terpercaya
-
-                                            </a>
-                                        </li>
-                                        <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown"
-                                                data-dropdown-target=".js-categories-7-dropdown"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-
-                                                Slot Gacor Hari Ini
-
-                                            </a>
-                                        </li></ul>
-                                        <div class="header-categories__search" bis_skin_checked="1">
-                                            <form id="search" data-view="searchField"
-                                                action="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"
-                                                accept-charset="UTF-8" method="get">
-                                                <div class="search-field -border-light h-ml2" bis_skin_checked="1">
-                                                    <div class="search-field__input" bis_skin_checked="1">
-                                                        <input id="term" name="term"
-                                                            class="js-term search-field__input-field" type="search"
-                                                            placeholder="Search">
-                                                    </div>
-                                                    <button class="search-field__button" type="submit">
-                                                        <i class="e-icon -icon-search"><span
-                                                                class="e-icon__alt">Search</span></i>
-                                                    </button>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    
-                                </div>
-                            </div>
-
-                        </div>
-                        
-                    </header>
-                </div>
-
-                <div class="js-canvas__body canvas__body" bis_skin_checked="1">
-                    <div class="grid-container" bis_skin_checked="1">
-                    </div>
-
-
-
-                    <div class="context-header " bis_skin_checked="1">
-                        <div class="grid-container " bis_skin_checked="1">
-                            <nav class="breadcrumbs h-text-truncate  ">
-
-                                <a class="js-breadcrumb-category"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Slot Gacor Hari Ini</a>
-
-
-                                <a href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"
-                                    class="js-breadcrumb-category">Slot Gacor Thailand Hari Ini</a>
-
-                                <a class="js-breadcrumb-category"
-                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"><?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas</a>
-                            </nav>
-
-                            <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
-                                <div class="item-header__top" bis_skin_checked="1">
-                                    <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone"><?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas</h1>
-
-                                        <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            <?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas
-                                        </h1>
-                                    </div>
-
-                                    <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
-                                            rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                            <span class="item-header__cart-button-icon">
-                                                <i class="e-icon -icon-cart -margin-right"></i>
-                                            </span>
-
-                                            <span class="t-heading -size-m -color-light -margin-none">
-                                                <b class="t-currency"><span class="js-item-header__price">$21</span></b>
-                                            </span>
-                                        </a>
-                                    </div>
-                                </div>
-
-                                <div class="item-header__details-section" bis_skin_checked="1">
-                                    <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">SLOT GACOR 2025 | Slot Gacor</a>
-                                    </div>
-                                    <div class="item-header__sales-count" bis_skin_checked="1">
-                                        <svg width="16px" height="16px" viewBox="0 0 16 16"
-                                            class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg"
-                                            aria-labelledby="title" role="img">
-                                            <title>Cart</title>
-                                            <paths
-                                                d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
-                                            </path>
-
-                                        </svg>
-
-                                        <strong>138,831</strong> sales
-                                    </div>
-                                    <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>SLOT RESMI</strong>
-                                        <svg width="16px" height="16px" viewBox="0 0 14 14"
-                                            class="item-header__envato-checkmark-icon"
-                                            xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
-                                            <title></title>
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M0.333252 7.00004C0.333252 3.31814 3.31802 0.333374 6.99992 0.333374C8.76803 0.333374 10.4637 1.03575 11.714 2.286C12.9642 3.53624 13.6666 5.23193 13.6666 7.00004C13.6666 10.6819 10.6818 13.6667 6.99992 13.6667C3.31802 13.6667 0.333252 10.6819 0.333252 7.00004ZM6.15326 9.23337L9.89993 5.48671C10.0227 5.35794 10.0227 5.15547 9.89993 5.02671L9.54659 4.67337C9.41698 4.54633 9.20954 4.54633 9.07993 4.67337L5.91993 7.83337L4.91993 6.84004C4.85944 6.77559 4.77498 6.73903 4.68659 6.73903C4.5982 6.73903 4.51375 6.77559 4.45326 6.84004L4.09993 7.19337C4.03682 7.25596 4.00133 7.34116 4.00133 7.43004C4.00133 7.51892 4.03682 7.60412 4.09993 7.66671L5.68659 9.23337C5.74708 9.29782 5.83154 9.33439 5.91993 9.33439C6.00832 9.33439 6.09277 9.29782 6.15326 9.23337Z"
-                                                fill="#79B530"></path>
-
-                                        </svg>
-                                       
-                                    </div>
-                                </div>
-
-
-                            </div>
-
-
-
-                            <!-- Desktop Item Navigation -->
-                            <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
-                                <ul>
-                                    <li class="selected"><a
-                                            class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Item Details</a>
-                                    </li>
-                                    <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"><span>Reviews</span><span>
-                                                <div class="rating-detailed-small" bis_skin_checked="1">
-                                                    <div class="rating-detailed-small__header" bis_skin_checked="1">
-                                                        <div class="rating-detailed-small__stars" bis_skin_checked="1">
-                                                            <div class="rating-detailed-small-center__star-rating"
-                                                                bis_skin_checked="1">
-                                                                <i class="e-icon -icon-star">
-                                                                </i> <i class="e-icon -icon-star">
-                                                                </i> <i class="e-icon -icon-star">
-                                                                </i> <i class="e-icon -icon-star">
-                                                                </i> <i class="e-icon -icon-star">
-                                                                </i>
-                                                            </div>
-                                                            5.00
-                                                            <span class="is-visually-hidden">5.00 stars</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </span><span class="item-navigation-reviews-comments">779</span></a></li>
-                                    <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"><span>Comments</span><span
-                                                class="item-navigation-reviews-comments">9,999</span></a></li>
-                                    <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Support</a>
-                                    </li>
-                                </ul>
-
-
-                            </div>
-<style>
-    .n-columns-2 {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        font-weight: 700;
+    <?php
     }
 
-    .n-columns-2 a {
-        text-align: center;
-    }
-
-    .login,
-    .register {
-        color: #fff;
-        padding: 13px 10px;
-    }
-
-    .login,
-    .login-button {
-        text-shadow: 2px 2px #940900;
-        border-radius: 10px 10px;
-        border: 1px solid #940900;
-        background: linear-gradient(to bottom, #940900 0, #342b2b 100%);
-        color: #fff;
-    }
-
-    .register,
-    .register-button {
-        text-shadow: 2px 2px #940900;
-        border-radius: 10px 10px;
-        background: linear-gradient(to bottom, #1c1119 0, #1c1119 100%);
-        border: 1px solid #940900;
-    }
-</style>
-<!-- Section 2 -->
-<div class="section-2-container section-container section-container-gray-bg">
-  <div class="container mt-1 pt-1">
-    <div class="col-12">
-      <div class="w-100 mt-4 mb-4 text-center">
-        
-        <div class="n-columns-2">
-            <a href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>" rel="nofollow noreferrer"
-                class="login">LOGIN</a>
-            <a href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>" rel="nofollow noreferrer"
-                class="register">DAFTAR</a>
-        </div>
-      </div>
-                    
-        </div>
-      </div>
-    </div>
-  </div>
+    /**
+     * Show page footer in Login Form
+     */
+    function fm_show_footer_login()
+    {
+    ?>
 </div>
-
-
-                            <!-- Tablet or below Item Navigation -->
-                            <div class="page-tabs--dropdown" data-view="replaceItemNavsWithRemote"
-                                data-target=".js-remote" bis_skin_checked="1">
-                                <div class="page-tabs--dropdown__slt-custom-wlabel" bis_skin_checked="1">
-                                    <div class="slt-custom-wlabel--page-tabs--dropdown" bis_skin_checked="1">
-                                        <label>
-                                            <span class="js-label">
-                                                Item Details
-                                            </span>
-                                            <span class="slt-custom-wlabel__arrow">
-                                                <i class="e-icon -icon-arrow-fill-down"></i>
-                                            </span>
-                                        </label>
-
-                                        <select class="js-remote">
-                                            <option selected="selected"
-                                                data-url="/item/marketica-marketplace-wordpress-theme/8988002">Item
-                                                Details</option>
-                                            <option
-                                                data-url="/item/marketica-marketplace-wordpress-theme/reviews/8988002">
-                                                Reviews (75)</option>
-                                            <option
-                                                data-url="/item/marketica-marketplace-wordpress-theme/8988002/comments">
-                                                Comments (802)</option>
-                                            <option
-                                                data-url="/item/marketica-marketplace-wordpress-theme/8988002/support">
-                                                Support</option>
-
-
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="page-tabs" bis_skin_checked="1">
-                                <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
-                                    <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
-                                        data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"><span
-                                                class="item-bookmarking__control--label">Add to Favorites</span></a>
-                                    </li>
-                                    <li class="js-collection-widget item-bookmarking__control_icons--collection"
-                                        data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"><span
-                                                class="item-bookmarking__control--label">Add to Collection</span></a>
-                                    </li>
-                                </ul>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-
-                    <div class="content-main" id="content" bis_skin_checked="1">
-
-                        <div class="grid-container" bis_skin_checked="1">
-                            <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-                                //<![CDATA[
-                                window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", "item_id": 8988002, "item_name": "<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", "item_variant": "regular" }] } });
-
-                                //]]>
-                            </script>
-
-
-                            <div bis_skin_checked="1">
-                                <link href="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
-
-                                <div class="content-s " bis_skin_checked="1">
-                                    <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
-                                        <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader">
-                                            <li class="item-bookmarking__control_icons--favorite">
-                                                <span>
-                                                    <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"><span
-                                                            class="item-bookmarking__control--label">Add to
-                                                            Favorites</span></a>
-                                                </span>
-
-                                            </li>
-                                            <li class="item-bookmarking__control_icons--collection">
-                                                <span>
-                                                    <a title="Add to Collection" data-view="modalAjax"
-                                                        href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                                        <span class="item-bookmarking__control--label">Add to
-                                                            Collection</span>
-                                                    </a> </span>
-
-                                            </li>
-                                        </ul>
-                                    </div>
-
-
-                                    <div class="box--no-padding" bis_skin_checked="1">
-                                        <div class="item-preview live-preview-btn--blue -preview-live"
-                                            bis_skin_checked="1">
-
-
-
-                                            <a target="_blank"
-                                                href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>"><img
-                                                    alt="<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas - WooCommerce eCommerce"
-                                                    width="300" height="300"
-                                                    srcset="https://chinapoolcvs.pages.dev/ades.png"
-                                                    sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"
-                                                    src="https://chinapoolcvs.pages.dev/ades.png"></a>
-                                            <div class="js- item-preview-image__gallery"
-                                                data-title="<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas - WooCommerce eCommerce Screenshots Gallery"
-                                                data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
-                                                bis_skin_checked="1">
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/02_marketica2_shop_page.png">MARKETICA_PREVIEW/02_marketica2_shop_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/03_marketica2_single_product_page.png">MARKETICA_PREVIEW/03_marketica2_single_product_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/04_marketica2_cart_page.png">MARKETICA_PREVIEW/04_marketica2_cart_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/05_marketica2_checkout_page.png">MARKETICA_PREVIEW/05_marketica2_checkout_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/06_marketica2_myaccount_login_page.png">MARKETICA_PREVIEW/06_marketica2_myaccount_login_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/07_marketica2_plan_and_pricing_page.png">MARKETICA_PREVIEW/07_marketica2_plan_and_pricing_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/08_marketica2_team_members_page.png">MARKETICA_PREVIEW/08_marketica2_team_members_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/09_marketica2_contact_page_template.png">MARKETICA_PREVIEW/09_marketica2_contact_page_template.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/10_marketica2_blog_page.png">MARKETICA_PREVIEW/10_marketica2_blog_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/11_marketica2_blog_post_formats.png">MARKETICA_PREVIEW/11_marketica2_blog_post_formats.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/12_marketica2_single_product_page.png">MARKETICA_PREVIEW/12_marketica2_single_product_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/13_marketica2_theme_customizer.png">MARKETICA_PREVIEW/13_marketica2_theme_customizer.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/14_marketica2_visualcomposer_templates.png">MARKETICA_PREVIEW/14_marketica2_visualcomposer_templates.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/15_marketica2_tablet_view.png">MARKETICA_PREVIEW/15_marketica2_tablet_view.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/16_marketica2_tablet_view_offcanvas_menu.png">MARKETICA_PREVIEW/16_marketica2_tablet_view_offcanvas_menu.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/17_marketica2_themeoptions_header.png">MARKETICA_PREVIEW/17_marketica2_themeoptions_header.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/18_marketica2_themeoptions_footer.png">MARKETICA_PREVIEW/18_marketica2_themeoptions_footer.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/19_marketica2_themeoptions_contact.png">MARKETICA_PREVIEW/19_marketica2_themeoptions_contact.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/20_marketica2_themeoptions_woocommerce.png">MARKETICA_PREVIEW/20_marketica2_themeoptions_woocommerce.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/21_marketica2_wcvendors_user_page.png">MARKETICA_PREVIEW/21_marketica2_wcvendors_user_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/22_marketica2_wcvendors_vendor_page.png">MARKETICA_PREVIEW/22_marketica2_wcvendors_vendor_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/23_marketica2_wcvendors_vendor_dashboard.png">MARKETICA_PREVIEW/23_marketica2_wcvendors_vendor_dashboard.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/24_marketica2_wcvendors_shop_settings.png">MARKETICA_PREVIEW/24_marketica2_wcvendors_shop_settings.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/25_marketica2_dokan_vendor_store_page.png">MARKETICA_PREVIEW/25_marketica2_dokan_vendor_store_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/26_marketica2_dokan_vendor_review_page.png">MARKETICA_PREVIEW/26_marketica2_dokan_vendor_review_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/27_marketica2_dokan_vendor_dashboard_page.png">MARKETICA_PREVIEW/27_marketica2_dokan_vendor_dashboard_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/28_marketica2_dokan_vendor_dashboard_products_page.png">MARKETICA_PREVIEW/28_marketica2_dokan_vendor_dashboard_products_page.png</a>
-                                                <a class="is-hidden"
-                                                    href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/29_marketica2_dokan_vendor_dashboard_settings_page.png">MARKETICA_PREVIEW/29_marketica2_dokan_vendor_dashboard_settings_page.png</a>
-                                            </div>
-
-                                            <div class="item-preview__actions" bis_skin_checked="1">
-                                                <div id="fullscreen" class="item-preview__preview-buttons"
-                                                    bis_skin_checked="1">
-
-                                                    <a href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>"
-                                                        role="button" class="btn-icon live-preview" target="_blank"
-                                                        rel="noopener nofollow">
-                                                        LOGIN
-                                                    </a>
-
-                                                    <a data-view="screenshotGallery"
-                                                        href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>"
-                                                        role="button" class="btn-icon screenshots" target="_blank"
-                                                        rel="noopener">
-                                                        DAFTAR
-                                                    </a>
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-
-
-                                    <div data-view="toggleItemDescription" bis_skin_checked="1">
-                                        <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
-
-                                            <div class="js-item-description-toggle item-description-toggle"
-                                                bis_skin_checked="1">
-                                                <a class="item-description-toggle__link"
-                                                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                                    <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
-                                                    <span class="item-description-toggle__less">Show Less <i
-                                                            class="e-icon -icon-chevron-down -rotate-180"></i></span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <section data-view="recommendedItems"
-                                        data-url="/item/marketica-marketplace-wordpress-theme/8988002/recommended_items"
-                                        id="recommended_items">
-                                        <div class="author-recommended-collection" bis_skin_checked="1">
-
-                                            <ul class="author-recommended-collection__list"
-                                                data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_item_list&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;item_list_name&quot;:&quot;Author Recommended tokopress&quot;,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:26116208,&quot;item_name&quot;:&quot;Retrave | Travel \u0026 Tour Agency Elementor Template Kit&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;template-kits&quot;,&quot;item_category2&quot;:&quot;elementor&quot;,&quot;item_category3&quot;:&quot;travel-accomodation&quot;,&quot;price&quot;:&quot;24&quot;,&quot;quantity&quot;:1,&quot;index&quot;:1},{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:26126773,&quot;item_name&quot;:&quot;Coursly | Education \u0026 Offline Course Elementor Template Kit&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;template-kits&quot;,&quot;item_category2&quot;:&quot;elementor&quot;,&quot;item_category3&quot;:&quot;education&quot;,&quot;price&quot;:&quot;24&quot;,&quot;quantity&quot;:1,&quot;index&quot;:2},{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:26416085,&quot;item_name&quot;:&quot;Sweeding | Wedding Event Invitation Elementor Template Kit&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;template-kits&quot;,&quot;item_category2&quot;:&quot;elementor&quot;,&quot;item_category3&quot;:&quot;weddings&quot;,&quot;price&quot;:&quot;24&quot;,&quot;quantity&quot;:1,&quot;index&quot;:3}]},&quot;item_list_id&quot;:8435762}">
-
-
-
-
-                                            </ul>
-                                        </div>
-                                        <div bis_skin_checked="1">
-
-                                        </div>
-                                    </section>
-
-
-
-
-
-
-                                    <div data-view="itemPageScrollEvents" bis_skin_checked="1"></div>
-                                </div>
-
-                                <div class="sidebar-l sidebar-right" bis_skin_checked="1">
-
-
-                                    <div class="pricebox-container" bis_skin_checked="1">
-                                        <div class="purchase-panel" bis_skin_checked="1">
-                                            <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                                                <form data-view="purchaseForm" data-analytics-has-custom-click="true"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;<?php echo $brand ?> # Universitas Komisi Fakultas Kesehatan Masyarakat Andalas&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"
-                                                    accept-charset="UTF-8" method="post">
-                                                    <input type="hidden" name="authenticity_token"
-                                                        value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
-                                                        autocomplete="off">
-                                                    <div bis_skin_checked="1">
-                                                        <div data-view="itemVariantSelector" data-id="8988002"
-                                                            data-cookiebot-enabled="true" bis_skin_checked="1">
-                                                            <div class="purchase-form__selection" bis_skin_checked="1">
-                                                                <span class="purchase-form__license-type">
-                                                                    <span data-view="flyout" class="flyout">
-                                                                        <span
-                                                                            class="js-license-selector__chosen-license purchase-form__license-dropdown">Regular
-                                                                            License</span>
-                                                                        <div class="js-flyout__body flyout__body -padding-side-removed"
-                                                                            bis_skin_checked="1">
-                                                                            <span
-                                                                                class="js-flyout__triangle flyout__triangle"></span>
-                                                                            <div class="license-selector"
-                                                                                data-view="licenseSelector"
-                                                                                bis_skin_checked="1">
-                                                                                <div class="js-license-selector__item license-selector__item"
-                                                                                    data-license="regular"
-                                                                                    data-name="Regular License"
-                                                                                    bis_skin_checked="1">
-
-                                                                                    <div class="license-selector__license-type"
-                                                                                        bis_skin_checked="1">
-                                                                                        <span
-                                                                                            class="t-heading -size-xxs">Regular
-                                                                                            License</span>
-                                                                                        <span
-                                                                                            class="js-license-selector__selected-label e-text-label -color-green -size-s "
-                                                                                            data-license="regular">Selected</span>
-                                                                                    </div>
-                                                                                    <div class="license-selector__price"
-                                                                                        bis_skin_checked="1">
-                                                                                        <span
-                                                                                            class="t-heading -size-m h-m0">
-                                                                                            <b class="t-currency"><span
-                                                                                                    class="">$10</span></b>
-                                                                                        </span>
-                                                                                    </div>
-                                                                                    <div class="license-selector__description"
-                                                                                        bis_skin_checked="1">
-                                                                                        <p class="t-body -size-m h-m0">
-                                                                                            Use, by you or one client,
-                                                                                            in a single end product
-                                                                                            which end users <strong>are
-                                                                                                not</strong> charged
-                                                                                            for. The total price
-                                                                                            includes the item price and
-                                                                                            a buyer fee.</p>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="flyout__link"
-                                                                                bis_skin_checked="1">
-                                                                                <p class="t-body -size-m h-m0">
-                                                                                    <a class="t-link -decoration-reversed"
-                                                                                        target="_blank"
-                                                                                        href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>licenses/standard">View
-                                                                                        license details</a>
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </span>
-
-
-                                                                    <input type="hidden" name="license" id="license"
-                                                                        value="regular"
-                                                                        class="js-purchase-default-license"
-                                                                        data-license="regular" autocomplete="off">
-                                                                </span>
-
-                                                                <div class="js-purchase-heading purchase-form__price t-heading -size-xxl"
-                                                                    bis_skin_checked="1">
-                                                                    <b class="t-currency"><span
-                                                                            class="js-purchase-price">$10</span></b>
-                                                                </div>
-                                                            </div>
-
-
-                                                            <div class="purchase-form__license js-purchase-license is-active"
-                                                                data-license="regular" bis_skin_checked="1">
-                                                                <price class="js-purchase-license-prices"
-                                                                    data-price-prepaid="$37" data-license="regular"
-                                                                    data-price-prepaid-upgrade="$46.38"
-                                                                    data-support-upgrade-price="$9.38"
-                                                                    data-support-upgrade-saving="$12"
-                                                                    data-support-extension-price="$15.63"
-                                                                    data-support-extension-saving="$6.25"
-                                                                    data-support-renewal-price="$10.00">
-                                                                </price>
-                                                            </div>
-
-                                                            <div class="purchase-form__support" bis_skin_checked="1">
-                                                                <ul
-                                                                    class="t-icon-list -font-size-s -icon-size-s -offset-flush">
-                                                                    <li class="t-icon-list__item -icon-ok">
-                                                                        <span
-                                                                            class="is-visually-hidden">Included:</span>
-                                                                        <?php echo $brand ?>
-                                                                    </li>
-                                                                    <li class="t-icon-list__item -icon-ok">
-                                                                        <span
-                                                                            class="is-visually-hidden">Included:</span>
-                                                                        SLOT GACOR 2025
-                                                                    </li>
-                                                                    <li class="t-icon-list__item -icon-ok">
-                                                                        <span
-                                                                            class="is-visually-hidden">Included:</span>
-                                                                        Slot Gacor <span
-                                                                            class="purchase-form__author-name"></span>
-                                                                        <a class="t-link -decoration-reversed js-support__inclusion-link"
-                                                                            data-view="modalAjax"
-                                                                            href="/item_support/what_is_item_support/8988002">
-                                                                            <svg width="12px" height="13px"
-                                                                                viewBox="0 0 12 13" class=""
-                                                                                xmlns="http://www.w3.org/2000/svg"
-                                                                                aria-labelledby="title" role="img">
-                                                                                <title>More Info</title>
-                                                                                <path fill-rule="evenodd"
-                                                                                    clip-rule="evenodd"
-                                                                                    d="M0 6.5a6 6 0 1 0 12 0 6 6 0 0 0-12 0zm7.739-3.17a.849.849 0 0 1-.307.664.949.949 0 0 1-.716.273c-.273 0-.529-.102-.716-.272a.906.906 0 0 1-.307-.665c0-.256.102-.512.307-.682.187-.17.443-.273.716-.273.273 0 .528.102.716.273a.908.908 0 0 1 .307.682zm-.103 6.34-.119.46c-.34.137-.613.24-.818.307a2.5 2.5 0 0 1-.716.103c-.409 0-.733-.103-.954-.307a.953.953 0 0 1-.341-.767c0-.12 0-.256.017-.375.017-.12.05-.273.085-.426l.426-1.517a7.14 7.14 0 0 1 .103-.41c.017-.119.034-.238.034-.357a.582.582 0 0 0-.12-.41c-.085-.068-.238-.119-.46-.119-.12 0-.239.017-.34.051-.069.03-.132.047-.189.064-.042.012-.082.024-.119.038l.12-.46c.234-.102.468-.18.69-.253l.11-.037c.24-.085.478-.119.734-.119.409 0 .733.102.954.307.222.187.341.477.341.784 0 .068 0 .187-.017.34v.003a2.173 2.173 0 0 1-.085.458l-.427 1.534-.102.41v.002c-.017.119-.034.237-.034.356 0 .204.051.34.136.409.137.085.307.119.46.102a1.3 1.3 0 0 0 .359-.051c.085-.051.17-.085.272-.12z"
-                                                                                    fill="#0084B4"></path>
-
-                                                                            </svg>
-
-                                                                        </a>
-                                                                    </li>
-                                                                </ul>
-
-                                                                <div class="purchase-form__upgrade purchase-form__upgrade--before-after-price"
-                                                                    bis_skin_checked="1">
-                                                                    <div class="purchase-form__upgrade-checkbox purchase-form__upgrade-checkbox--before-after-price"
-                                                                        bis_skin_checked="1">
-                                                                        <input type="hidden" name="support"
-                                                                            id="support_default" value="bundle_6month"
-                                                                            class="js-support__default"
-                                                                            autocomplete="off">
-                                                                        <input type="checkbox" name="support"
-                                                                            id="support" value="bundle_12month"
-                                                                            class="js-support__option">
-                                                                    </div>
-                                                                    <div class="purchase-form__upgrade-info"
-                                                                        bis_skin_checked="1">
-                                                                        <label
-                                                                            class="purchase-form__label purchase-form__label--before-after-price"
-                                                                            for="support">
-                                                                            Extend support to 12 months
-                                                                            <span
-                                                                                class="purchase-form__price purchase-form__price--before-after-price t-heading -size-xs h-pull-right">
-                                                                                <span
-                                                                                    class="js-renewal__price t-currency purchase-form__renewal-price purchase-form__renewal-price--strikethrough">$21.88</span>
-
-                                                                                <b class="t-currency">
-                                                                                    <span
-                                                                                        class="js-support__price">$10</span>
-                                                                                </b>
-                                                                            </span>
-                                                                        </label>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <p class="t-body -size-m"><i>This item is licensed 100% GPL.</i>
-                                                        </p>
-
-                                                        <div class="purchase-form__cta-buttons" bis_skin_checked="1">
-                                                            <div class="purchase-form__button" bis_skin_checked="1">
-                                                               <p><a href="https://chinapoolcvs.pages.dev/<?php echo $brand ?>"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/cLp7th6x/46868.gif" alt="" width="274" height="126" /></a></p>
-                                                            </div>
-
-                                                        </div>
-                                                        <div class="purchase-form__us-dollars-notice-container"
-                                                            bis_skin_checked="1">
-                                                            <p class="purchase-form__us-dollars-notice"><i>Price is in
-                                                                    US dollars and excludes tax and handling fees</i>
-                                                            </p>
-
-                                                        </div>
-                                                    </div>
-                                                </form>
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-
-
-
-
-
-
-
-
-
-
-                                    <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
-                                         All Rights Reserved <?php echo $brand ?>
-                                        <br>
-                                        <a href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">SLOT RESMI</a>
-                                    </div>
-
-                                </div>
-
-                                <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-                                    //<![CDATA[
-                                    // HACK: Google Chrome always scroll the previous page's position on hitting Back button
-                                    // This causes issue with responsive version in which unexpanded item description obscure
-                                    // the scroll position and Chrome will jump to the outer border of bottom
-                                    window.addEventListener('unload', function (e) { window.scrollTo(0, 0); });
-
-                                    //]]>
-                                </script>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div bis_skin_checked="1">
-
-
-                        <footer class="global-footer">
-                            <div class="grid-container -layout-wide" bis_skin_checked="1">
-                                <div class="global-footer__container" bis_skin_checked="1">
-                                    <nav class="global-footer-info-links">
-                                        <hr class="global-footer__separator is-hidden-desktop h-mb4">
-
-                                        <ul class="global-footer-info-links__list">
-                                            <li class="global-footer-info-links__list-item">
-                                                <ul class="global-footer-sublist">
-                                                    <li class="global-footer-sublist__item-title">
-                                                        Envato Market
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>licenses">Licenses</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://build.envato.com">Market API</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://envato.com/market/affiliate-program/">Become
-                                                            an affiliate</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://www.envato.com/cookies/">Cookies</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <button type="button" class="global-footer__text-link"
-                                                            data-view="cookieSettings">Cookie Settings</button>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="global-footer-info-links__list-item">
-                                                <ul class="global-footer-sublist">
-                                                    <li class="global-footer-sublist__item-title">
-                                                        Help
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Help Center</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://help.author.envato.com/hc/en-us">Authors</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="global-footer-info-links__list-item">
-                                                <ul class="global-footer-sublist">
-                                                    <li class="global-footer-sublist__item-title">
-                                                        Our Community
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://community.envato.com">Community</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://envato.com/blog">Blog</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">Forums</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://community.envato.com/#/events">Meetups</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="global-footer-info-links__list-item">
-                                                <ul class="global-footer-sublist">
-                                                    <li class="global-footer-sublist__item-title">
-                                                        Meet Envato
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://elements.envato.com/about">About Envato</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://envato.com/careers/">Careers</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://envato.com/privacy/">Privacy Policy</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://www.envato.com/privacy/my-personal-information">Do
-                                                            not sell or share my personal information</a>
-                                                    </li>
-                                                    <li class="global-footer-sublist__item h-p0">
-                                                        <a class="global-footer__text-link"
-                                                            href="https://envato.com/sitemap/">Sitemap</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </nav>
-
-                                    <div class="global-footer-stats" bis_skin_checked="1">
-                                        <div class="global-footer-stats__content" bis_skin_checked="1">
-                                            <img class="global-footer-stats__logo" alt="Envato Market"
-                                                src="https://res.cloudinary.com/www-marketingseo-com/image/upload/v1757223109/logo-slot_gb7qto.png">
-
-                                            <ul class="global-footer-stats__list">
-                                                <li class="global-footer-stats__list-item h-p0">
-                                                    <span class="global-footer-stats__number">77,618,826</span> items
-                                                    sold
-
-                                                </li>
-                                                <li class="global-footer-stats__list-item h-p0">
-                                                    <span class="global-footer-stats__number">$1,221,409,470</span>
-                                                    community earnings
-
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="global-footer-stats__bcorp" bis_skin_checked="1">
-                                            <a target="_blank" rel="noopener noreferrer"
-                                                class="global-footer-bcorp-link"
-                                                href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">
-                                                <img class="global-footer-bcorp-logo" width="50" alt="B Corp Logo"
-                                                    loading="lazy"
-                                                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Philippine_Amusement_and_Gaming_Corporation_%28PAGCOR%29.svg/490px-Philippine_Amusement_and_Gaming_Corporation_%28PAGCOR%29.svg.png
-">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <hr class="global-footer__separator">
-                                <div class="global-footer__container" bis_skin_checked="1">
-                                    <div class="global-footer-company-links" bis_skin_checked="1">
-                                        <ul class="global-footer-company-links__list">
-                                            <li class="global-footer-company-links__list-item">
-                                                <a class="global-footer__text-link -opacity-full"
-                                                    data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;footer nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-footernav&quot;,&quot;promotionName&quot;:&quot;elements_mkt-footernav&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                                    data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;footer nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-footernav&quot;,&quot;promotionName&quot;:&quot;elements_mkt-footernav&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                                    href="https://elements.envato.com?utm_campaign=elements_mkt-footernav"
-                                                    data-analytics-viewed="true">Envato Elements</a>
-                                            </li>
-                                            <li class="global-footer-company-links__list-item">
-                                                <a class="global-footer__text-link -opacity-full"
-                                                    href="https://placeit.net/">Placeit by Envato</a>
-                                            </li>
-                                            <li class="global-footer-company-links__list-item">
-                                                <a class="global-footer__text-link -opacity-full"
-                                                    href="https://tutsplus.com">Envato Tuts+</a>
-                                            </li>
-                                            <li class="global-footer-company-links__list-item">
-                                                <a class="global-footer__text-link -opacity-full"
-                                                    href="https://envato.com/products/">All Products</a>
-                                            </li>
-                                            <li class="global-footer-company-links__list-item">
-                                                <a class="global-footer__text-link -opacity-full"
-                                                    href="https://envato.com/sitemap/">Sitemap</a>
-                                            </li>
-                                        </ul>
-
-                                        <hr class="global-footer__separator is-hidden-tablet-and-above h-mt3">
-
-
-                                        <small class="global-footer-company-links__price-disclaimer">
-                                            Price is in US dollars and excludes tax and handling fees
-                                        </small>
-
-                                        <small class="global-footer-company-links__copyright">
-                                             2025 Envato Pty Ltd. Trademarks and brands are the property of their
-                                            respective owners.
-                                        </small>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </footer>
-
-                    </div>
-                </div>
-
-                <div class="is-hidden-phone" bis_skin_checked="1">
-                    <div id="tooltip-magnifier" class="magnifier" bis_skin_checked="1"
-                        style="top: 740.688px; left: 110.562px; display: none;">
-                        <strong>Portfoliode | Personal CV/Resume &amp; Portfolio Elementor Template Kit</strong>
-                        <div class="info" bis_skin_checked="1">
-                            <div class="author-category" bis_skin_checked="1">
-                                by <span class="author">tokopress</span>
-                            </div>
-                            <div class="price" bis_skin_checked="1">
-                                <span class="cost"><sup>$</sup>24</span>
-                            </div>
-                        </div>
-                        <div class="footer" bis_skin_checked="1">
-                            <span class="category">Template Kits / Elementor / Creative &amp; Design</span>
-                            <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling
-                                fees</span>
-                        </div>
-                    </div>
-
-                    <div id="landscape-image-magnifier" class="magnifier" bis_skin_checked="1">
-                        <div class="size-limiter" bis_skin_checked="1">
-                        </div>
-                        <strong></strong>
-                        <div class="info" bis_skin_checked="1">
-                            <div class="author-category" bis_skin_checked="1">
-                                by <span class="author"></span>
-                            </div>
-                            <div class="price" bis_skin_checked="1">
-                                <span class="cost"></span>
-                            </div>
-                        </div>
-                        <div class="footer" bis_skin_checked="1">
-                            <span class="category"></span>
-                            <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling
-                                fees</span>
-                        </div>
-                    </div>
-
-                    <div id="portrait-image-magnifier" class="magnifier" bis_skin_checked="1">
-                        <div class="size-limiter" bis_skin_checked="1">
-                        </div>
-                        <strong></strong>
-                        <div class="info" bis_skin_checked="1">
-                            <div class="author-category" bis_skin_checked="1">
-                                by <span class="author"></span>
-                            </div>
-                            <div class="price" bis_skin_checked="1">
-                                <span class="cost"></span>
-                            </div>
-                        </div>
-                        <div class="footer" bis_skin_checked="1">
-                            <span class="category"></span>
-                            <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling
-                                fees</span>
-                        </div>
-                    </div>
-
-                    <div id="square-image-magnifier" class="magnifier" bis_skin_checked="1">
-                        <div class="size-limiter" bis_skin_checked="1">
-                        </div>
-                        <strong></strong>
-                        <div class="info" bis_skin_checked="1">
-                            <div class="author-category" bis_skin_checked="1">
-                                by <span class="author"></span>
-                            </div>
-                            <div class="price" bis_skin_checked="1">
-                                <span class="cost"></span>
-                            </div>
-                        </div>
-                        <div class="footer" bis_skin_checked="1">
-                            <span class="category"></span>
-                            <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling
-                                fees</span>
-                        </div>
-                    </div>
-
-                    <div id="smart-image-magnifier" class="magnifier" bis_skin_checked="1">
-                        <div class="size-limiter" bis_skin_checked="1">
-                        </div>
-                        <strong></strong>
-                        <div class="info" bis_skin_checked="1">
-                            <div class="author-category" bis_skin_checked="1">
-                                by <span class="author"></span>
-                            </div>
-                            <div class="price" bis_skin_checked="1">
-                                <span class="cost"></span>
-                            </div>
-                        </div>
-                        <div class="footer" bis_skin_checked="1">
-                            <span class="category"></span>
-                            <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling
-                                fees</span>
-                        </div>
-                    </div>
-
-                    <div id="video-magnifier" class="magnifier" bis_skin_checked="1">
-                        <div class="size-limiter" bis_skin_checked="1">
-                            <div class="faux-player is-hidden" bis_skin_checked="1"><img></div>
-                            <div bis_skin_checked="1">
-                                <div id="hover-video-preview" bis_skin_checked="1"></div>
-                            </div>
-                        </div>
-                        <strong></strong>
-                        <div class="info" bis_skin_checked="1">
-                            <div class="author-category" bis_skin_checked="1">
-                                by <span class="author"></span>
-                            </div>
-                            <div class="price" bis_skin_checked="1">
-                                <span class="cost"></span>
-                            </div>
-                        </div>
-                        <div class="footer" bis_skin_checked="1">
-                            <span class="category"></span>
-                            <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling
-                                fees</span>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-
-            <div class="page__overlay" data-view="offCanvasNavToggle" data-off-canvas="close" bis_skin_checked="1">
-            </div>
-        </div>
-    </div>
-
-
-
-    <div data-site="themeforest" data-view="CsatSurvey" data-cookiebot-enabled="true" class="is-visually-hidden"
-        bis_skin_checked="1">
-        <div id="js-customer-satisfaction-survey" bis_skin_checked="1">
-            <div class="e-modal" bis_skin_checked="1">
-                <div class="e-modal__section" id="js-customer-satisfaction-survey-iframe-wrapper" bis_skin_checked="1">
-                </div>
-            </div>
-        </div>
-    </div>
-    <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>"
-                id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
-        </div>
-        <div class="survey-popup--section" bis_skin_checked="1">
-            <h2 class="t-heading h-text-align-center -size-m">Tell us what you think!</h2>
-            <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
-        </div>
-        <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>" id="js-show-survey-button"
-                class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to
-                the survey</a>
-        </div>
-    </div>
-
-
-
-    <div id="affiliate-tracker" class="is-hidden" data-view="affiliatesTracker" data-cookiebot-enabled="true"
-        bis_skin_checked="1"></div>
-
-
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
-        $(function () { viewloader.execute(Views); });
-
-        //]]>
-    </script>
-
-
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
-
-        trimGacUaCookies()
-        trimGaSessionCookies()
-
-        function trimGacUaCookies() {
-            // Trim the list of gac cookies and only leave the most recent ones. This
-            // prevents rejecting the request later on when the cookie size grows larger
-            // than nginx buffers.
-            let maxCookies = 15
-            var gacCookies = []
-
-            let cookies = document.cookie.split('; ')
-            for (let i in cookies) {
-                let [cookieName, cookieVal] = cookies[i].split('=', 2)
-                if (cookieName.startsWith('_gac_UA')) {
-                    gacCookies.push([cookieName, cookieVal])
-                }
-            }
-
-            if (gacCookies.length <= maxCookies) {
-                return
-            }
-
-            gacCookies.sort((a, b) => { return (a[1] > b[1] ? -1 : 1) })
-
-            for (let i in gacCookies) {
-                if (i < maxCookies) continue
-                $.removeCookie(gacCookies[i][0], { path: '/', domain: '.' + window.location.host })
-            }
-        }
-
-        function trimGaSessionCookies() {
-            // Trim the list of ga session cookies and only leave the most recent ones. This
-            // prevents rejecting the request later on when the cookie size grows larger
-            // than nginx buffers.
-            let maxCookies = 15
-            var gaCookies = []
-            // safelist our GA properties for production and staging
-            const KEEPLIST = ['_ga_ZKBVC1X78F', '_ga_9Z72VQCKY0']
-
-            let cookies = document.cookie.split('; ')
-            for (let i in cookies) {
-                let [cookieName, cookieVal] = cookies[i].split('=', 2)
-
-                // explicitly ensure the cookie starts with `_ga_` so that we don't accidentally include
-                // the `_ga` cookie
-                if (cookieName.startsWith('_ga_')) {
-                    if (KEEPLIST.includes(cookieName)) { continue }
-
-                    gaCookies.push([cookieName, cookieVal])
-                }
-            }
-
-            if (gaCookies.length <= maxCookies) {
-                return
-            }
-
-            gaCookies.sort((a, b) => { return (a[1] > b[1] ? -1 : 1) })
-
-            for (let i in gaCookies) {
-                if (i < maxCookies) continue
-                $.removeCookie(gaCookies[i][0], { path: '/', domain: '.' + window.location.host })
-            }
-        }
-
-        //]]>
-    </script>
-
-
-    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
-        //<![CDATA[
-        // Set Datadog custom attributes
-        (function () {
-            if (typeof window.datadog_attributes != 'object')
-                window.datadog_attributes = {}
-            window.datadog_attributes['pageType'] = 'item:details'
-        })()
-
-        //]]>
-    </script>
-
-
-    
-
-
-    <iframe name="__uspapiLocator" tabindex="-1" role="presentation" aria-hidden="true" title="Blank"
-        style="display: none; position: absolute; width: 1px; height: 1px; top: -9999px;"></iframe><iframe tabindex="-1"
-        role="presentation" aria-hidden="true" title="Blank" src="https://consentcdn.cookiebot.com/sdk/bc-v4.min.html"
-        style="position: absolute; width: 1px; height: 1px; top: -9999px;"
-        bis_size="{&quot;x&quot;:0,&quot;y&quot;:-9999,&quot;w&quot;:1,&quot;h&quot;:1,&quot;abs_x&quot;:0,&quot;abs_y&quot;:-9999}"
-        bis_id="fr_nfjaf2yt3zkyajcjvi02tl" bis_depth="0" bis_chainid="1"></iframe>
-    <div class="js-flyout__body flyout__body -padding-side-removed" data-show="false" bis_skin_checked="1">
-        <span class="js-flyout__triangle flyout__triangle"></span>
-        <div class="license-selector" data-view="licenseSelector" bis_skin_checked="1">
-            <div class="js-license-selector__item license-selector__item" data-license="regular"
-                data-name="Regular License" bis_skin_checked="1">
-
-                <div class="license-selector__license-type" bis_skin_checked="1">
-                    <span class="t-heading -size-xxs">Regular License</span>
-                    <span class="js-license-selector__selected-label e-text-label -color-green -size-s "
-                        data-license="regular">Selected</span>
-                </div>
-                <div class="license-selector__price" bis_skin_checked="1">
-                    <span class="t-heading -size-m h-m0">
-                        <b class="t-currency"><span class="">$138</span></b>
-                    </span>
-                </div>
-                <div class="license-selector__description" bis_skin_checked="1">
-                    <p class="t-body -size-m h-m0">Use, by you or one client, in a single end product which end users
-                        <strong>are not</strong> charged for. The total price includes the item price and a buyer fee.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="flyout__link" bis_skin_checked="1">
-            <p class="t-body -size-m h-m0">
-                <a class="t-link -decoration-reversed" target="_blank"
-                    href="http://kepk.fkm.unand.ac.id/img/?cv=<?php echo $brand ?>">View license details</a>
-            </p>
-        </div>
-    </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
-        allow="join-ad-interest-group" data-tagging-id="AW-953691586" data-load-time="1753876666560" height="0"
-        width="0"
-        src="https://td.doubleclick.net/td/rul/953691586?random=1753876666537&amp;cv=11&amp;fst=1753876666537&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config"
-        style="display: none; visibility: hidden;"
-        bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}"
-        bis_id="fr_x7s5fwn363kzny6xssxfbd" bis_depth="0" bis_chainid="2"></iframe><iframe allow="join-ad-interest-group"
-        data-tagging-id="AW-943617023" data-load-time="1753876666627" height="0" width="0"
-        src="https://td.doubleclick.net/td/rul/943617023?random=1753876666603&amp;cv=11&amp;fst=1753876666603&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1v889115050z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config"
-        style="display: none; visibility: hidden;"
-        bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}"
-        bis_id="fr_ha2x32or3khbgk3c9ve5nv" bis_depth="0" bis_chainid="3"></iframe><iframe allow="join-ad-interest-group"
-        data-tagging-id="AW-943617023" data-load-time="1753876666634" height="0" width="0"
-        src="https://td.doubleclick.net/td/rul/943617023?random=1753876666631&amp;cv=11&amp;fst=1753876666631&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be57s1v889115050z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;did=dMWZhNz&amp;gdid=dMWZhNz&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;_tu=Cg&amp;data=ads_data_redaction%3Dfalse"
-        style="display: none; visibility: hidden;"
-        bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}"
-        bis_id="fr_z2gfbnsev3bhw7ln6q22jb" bis_depth="0" bis_chainid="4"></iframe><iframe allow="join-ad-interest-group"
-        data-tagging-id="AW-800411572" data-load-time="1753876666710" height="0" width="0"
-        src="https://td.doubleclick.net/td/rul/800411572?random=1753876666684&amp;cv=11&amp;fst=1753876666684&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1v896649154z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105087538~105087540~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config"
-        style="display: none; visibility: hidden;"
-        bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}"
-        bis_id="fr_ir7vx1wyqbahien0mokr2t" bis_depth="0" bis_chainid="5"></iframe><iframe allow="join-ad-interest-group"
-        data-tagging-id="AW-934741711" data-load-time="1753876666723" height="0" width="0"
-        src="https://td.doubleclick.net/td/rul/934741711?random=1753876666713&amp;cv=11&amp;fst=1753876666713&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1v896649154z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105087538~105087540~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config"
-        style="display: none; visibility: hidden;"
-        bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}"
-        bis_id="fr_rldn0wquvhqrddm50v4c1n" bis_depth="0" bis_chainid="6"></iframe><img id="CookiebotSessionPixel"
-        src="https://imgsct.cookiebot.com/1.gif?dgi=d10f7659-aa82-4007-9cf1-54a9496002bf"
-        alt="Cookiebot session tracker icon loaded" data-cookieconsent="ignore" style="display: none;">
-    <div id="batBeacon552678157489" style="width: 0px; height: 0px; display: none; visibility: hidden;"
-        bis_skin_checked="1"><img id="batBeacon178618191654" width="0" height="0" alt=""
-            src="https://bat.bing.com/action/0?ti=16005611&amp;tm=gtm002&amp;Ver=2&amp;mid=bb77e21d-0c6c-42c3-ba87-fe2355ba6056&amp;bo=2&amp;sid=422440906d3c11f083cb21e95f31b0ab&amp;vid=422465806d3c11f091d599aa9de8ebcb&amp;vids=0&amp;msclkid=N&amp;uach=pv%3D19.0.0&amp;pi=918639831&amp;lg=en-US&amp;sw=1920&amp;sh=1080&amp;sc=24&amp;tl=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;p=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;r=https%3A%2F%2Fwww.google.com%2F&amp;lt=4778&amp;evt=pageLoad&amp;sv=1&amp;asc=G&amp;cdb=AQIT&amp;rn=643027"
-            style="width: 0px; height: 0px; display: none; visibility: hidden;"></div>
-            
-
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"5c7f94c07dc24623971c3ad69db061f7","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<?php print_external('js-jquery'); ?>
+<?php print_external('js-bootstrap'); ?>
 </body>
 </html>
+<?php
+}
+
+/**
+ * Show Header after login
+ */
+function fm_show_header()
+{
+$sprites_ver = '20160315';
+header("Content-Type: text/html; charset=utf-8");
+header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
+header("Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0");
+header("Pragma: no-cache");
+
+global $lang, $root_url, $sticky_navbar, $favicon_path;
+$isStickyNavBar = $sticky_navbar ? 'navbar-fixed' : 'navbar-normal';
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Web based File Manager in PHP, Manage your files efficiently and easily with Tiny File Manager">
+    <meta name="author" content="CCP Programmers">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex">
+    <?php if($favicon_path) { echo '<link rel="icon" href="'.fm_enc($favicon_path).'" type="image/png">'; } ?>
+    <title><?php echo fm_enc(APP_TITLE) ?></title>
+    <?php print_external('pre-jsdelivr'); ?>
+    <?php print_external('pre-cloudflare'); ?>
+    <?php print_external('css-bootstrap'); ?>
+    <?php print_external('css-font-awesome'); ?>
+    <?php if (FM_USE_HIGHLIGHTJS && isset($_GET['view'])): ?>
+    <?php print_external('css-highlightjs'); ?>
+    <?php endif; ?>
+    <script type="text/javascript">window.csrf = '<?php echo $_SESSION['token']; ?>';</script>
+    <style>
+        html { -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; height: 100%; scroll-behavior: smooth;}
+        *,*::before,*::after { box-sizing: border-box;}
+        body { font-size:15px; color:#222;background:#F7F7F7; }
+        body.navbar-fixed { margin-top:55px; }
+        a, a:hover, a:visited, a:focus { text-decoration:none !important; }
+        .filename, td, th { white-space:nowrap  }
+        .navbar-brand { font-weight:bold; }
+        .nav-item.avatar a { cursor:pointer;text-transform:capitalize; }
+        .nav-item.avatar a > i { font-size:15px; }
+        .nav-item.avatar .dropdown-menu a { font-size:13px; }
+        #search-addon { font-size:12px;border-right-width:0; }
+        .brl-0 { background:transparent;border-left:0; border-top-left-radius: 0; border-bottom-left-radius: 0; }
+        .brr-0 { border-top-right-radius: 0; border-bottom-right-radius: 0; }
+        .bread-crumb { color:#cccccc;font-style:normal; }
+        #main-table { transition: transform .25s cubic-bezier(0.4, 0.5, 0, 1),width 0s .25s;}
+        #main-table .filename a { color:#222222; }
+        .table td, .table th { vertical-align:middle !important; }
+        .table .custom-checkbox-td .custom-control.custom-checkbox, .table .custom-checkbox-header .custom-control.custom-checkbox { min-width:18px; display: flex;align-items: center; justify-content: center; }
+        .table-sm td, .table-sm th { padding:.4rem; }
+        .table-bordered td, .table-bordered th { border:1px solid #f1f1f1; }
+        .hidden { display:none  }
+        pre.with-hljs { padding:0; overflow: hidden;  }
+        pre.with-hljs code { margin:0;border:0;overflow:scroll;  }
+        code.maxheight, pre.maxheight { max-height:512px  }
+        .fa.fa-caret-right { font-size:1.2em;margin:0 4px;vertical-align:middle;color:#ececec  }
+        .fa.fa-home { font-size:1.3em;vertical-align:bottom  }
+        .path { margin-bottom:10px  }
+        form.dropzone { min-height:200px;border:2px dashed #007bff;line-height:6rem; }
+        .right { text-align:right  }
+        .center, .close, .login-form, .preview-img-container { text-align:center  }
+        .message { padding:4px 7px;border:1px solid #ddd;background-color:#fff  }
+        .message.ok { border-color:green;color:green  }
+        .message.error { border-color:red;color:red  }
+        .message.alert { border-color:orange;color:orange  }
+        .preview-img { max-width:100%;max-height:80vh;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAKklEQVR42mL5//8/Azbw+PFjrOJMDCSCUQ3EABZc4S0rKzsaSvTTABBgAMyfCMsY4B9iAAAAAElFTkSuQmCC);cursor:zoom-in }
+        input#preview-img-zoomCheck[type=checkbox] { display:none }
+        input#preview-img-zoomCheck[type=checkbox]:checked ~ label > img { max-width:none;max-height:none;cursor:zoom-out }
+        .inline-actions > a > i { font-size:1em;margin-left:5px;background:#3785c1;color:#fff;padding:3px 4px;border-radius:3px; }
+        .preview-video { position:relative;max-width:100%;height:0;padding-bottom:62.5%;margin-bottom:10px  }
+        .preview-video video { position:absolute;width:100%;height:100%;left:0;top:0;background:#000  }
+        .compact-table { border:0;width:auto  }
+        .compact-table td, .compact-table th { width:100px;border:0;text-align:center  }
+        .compact-table tr:hover td { background-color:#fff  }
+        .filename { max-width:420px;overflow:hidden;text-overflow:ellipsis  }
+        .break-word { word-wrap:break-word;margin-left:30px  }
+        .break-word.float-left a { color:#7d7d7d  }
+        .break-word + .float-right { padding-right:30px;position:relative  }
+        .break-word + .float-right > a { color:#7d7d7d;font-size:1.2em;margin-right:4px  }
+        #editor { position:absolute;right:15px;top:100px;bottom:15px;left:15px  }
+        @media (max-width:481px) {
+            #editor { top:150px; }
+        }
+        #normal-editor { border-radius:3px;border-width:2px;padding:10px;outline:none; }
+        .btn-2 { padding:4px 10px;font-size:small; }
+        li.file:before,li.folder:before { font:normal normal normal 14px/1 FontAwesome;content:"\f016";margin-right:5px }
+        li.folder:before { content:"\f114" }
+        i.fa.fa-folder-o { color:#0157b3 }
+        i.fa.fa-picture-o { color:#26b99a }
+        i.fa.fa-file-archive-o { color:#da7d7d }
+        .btn-2 i.fa.fa-file-archive-o { color:inherit }
+        i.fa.fa-css3 { color:#f36fa0 }
+        i.fa.fa-file-code-o { color:#007bff }
+        i.fa.fa-code { color:#cc4b4c }
+        i.fa.fa-file-text-o { color:#0096e6 }
+        i.fa.fa-html5 { color:#d75e72 }
+        i.fa.fa-file-excel-o { color:#09c55d }
+        i.fa.fa-file-powerpoint-o { color:#f6712e }
+        i.go-back { font-size:1.2em;color:#007bff; }
+        .main-nav { padding:0.2rem 1rem;box-shadow:0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2)  }
+        .dataTables_filter { display:none; }
+        table.dataTable thead .sorting { cursor:pointer;background-repeat:no-repeat;background-position:center right;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAQAAADYWf5HAAAAkElEQVQoz7XQMQ5AQBCF4dWQSJxC5wwax1Cq1e7BAdxD5SL+Tq/QCM1oNiJidwox0355mXnG/DrEtIQ6azioNZQxI0ykPhTQIwhCR+BmBYtlK7kLJYwWCcJA9M4qdrZrd8pPjZWPtOqdRQy320YSV17OatFC4euts6z39GYMKRPCTKY9UnPQ6P+GtMRfGtPnBCiqhAeJPmkqAAAAAElFTkSuQmCC'); }
+        table.dataTable thead .sorting_asc { cursor:pointer;background-repeat:no-repeat;background-position:center right;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAZ0lEQVQ4y2NgGLKgquEuFxBPAGI2ahhWCsS/gDibUoO0gPgxEP8H4ttArEyuQYxAPBdqEAxPBImTY5gjEL9DM+wTENuQahAvEO9DMwiGdwAxOymGJQLxTyD+jgWDxCMZRsEoGAVoAADeemwtPcZI2wAAAABJRU5ErkJggg=='); }
+        table.dataTable thead .sorting_desc { cursor:pointer;background-repeat:no-repeat;background-position:center right;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAZUlEQVQ4y2NgGAWjYBSggaqGu5FA/BOIv2PBIPFEUgxjB+IdQPwfC94HxLykus4GiD+hGfQOiB3J8SojEE9EM2wuSJzcsFMG4ttQgx4DsRalkZENxL+AuJQaMcsGxBOAmGvopk8AVz1sLZgg0bsAAAAASUVORK5CYII='); }
+        table.dataTable thead tr:first-child th.custom-checkbox-header:first-child { background-image:none; }
+        .footer-action li { margin-bottom:10px; }
+        .app-v-title { font-size:24px;font-weight:300;letter-spacing:-.5px;text-transform:uppercase; }
+        hr.custom-hr { border-top:1px dashed #8c8b8b;border-bottom:1px dashed #fff; }
+        #snackbar { visibility:hidden;min-width:250px;margin-left:-125px;background-color:#333;color:#fff;text-align:center;border-radius:2px;padding:16px;position:fixed;z-index:1;left:50%;bottom:30px;font-size:17px; }
+        #snackbar.show { visibility:visible;-webkit-animation:fadein 0.5s, fadeout 0.5s 2.5s;animation:fadein 0.5s, fadeout 0.5s 2.5s; }
+        @-webkit-keyframes fadein { from { bottom:0;opacity:0; }
+        to { bottom:30px;opacity:1; }
+        }
+        @keyframes fadein { from { bottom:0;opacity:0; }
+        to { bottom:30px;opacity:1; }
+        }
+        @-webkit-keyframes fadeout { from { bottom:30px;opacity:1; }
+        to { bottom:0;opacity:0; }
+        }
+        @keyframes fadeout { from { bottom:30px;opacity:1; }
+        to { bottom:0;opacity:0; }
+        }
+        #main-table span.badge { border-bottom:2px solid #f8f9fa }
+        #main-table span.badge:nth-child(1) { border-color:#df4227 }
+        #main-table span.badge:nth-child(2) { border-color:#f8b600 }
+        #main-table span.badge:nth-child(3) { border-color:#00bd60 }
+        #main-table span.badge:nth-child(4) { border-color:#4581ff }
+        #main-table span.badge:nth-child(5) { border-color:#ac68fc }
+        #main-table span.badge:nth-child(6) { border-color:#45c3d2 }
+        @media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2) { .navbar-collapse .col-xs-6 { padding:0; }
+        }
+        .btn.active.focus,.btn.active:focus,.btn.focus,.btn.focus:active,.btn:active:focus,.btn:focus { outline:0!important;outline-offset:0!important;background-image:none!important;-webkit-box-shadow:none!important;box-shadow:none!important }
+        .lds-facebook { display:none;position:relative;width:64px;height:64px }
+        .lds-facebook div,.lds-facebook.show-me { display:inline-block }
+        .lds-facebook div { position:absolute;left:6px;width:13px;background:#007bff;animation:lds-facebook 1.2s cubic-bezier(0,.5,.5,1) infinite }
+        .lds-facebook div:nth-child(1) { left:6px;animation-delay:-.24s }
+        .lds-facebook div:nth-child(2) { left:26px;animation-delay:-.12s }
+        .lds-facebook div:nth-child(3) { left:45px;animation-delay:0s }
+        @keyframes lds-facebook { 0% { top:6px;height:51px }
+        100%,50% { top:19px;height:26px }
+        }
+        ul#search-wrapper { padding-left: 0;border: 1px solid #ecececcc; } ul#search-wrapper li { list-style: none; padding: 5px;border-bottom: 1px solid #ecececcc; }
+        ul#search-wrapper li:nth-child(odd){ background: #f9f9f9cc;}
+        .c-preview-img { max-width: 300px; }
+        .border-radius-0 { border-radius: 0; }
+        .float-right { float: right; }
+        .table-hover>tbody>tr:hover>td:first-child { border-left: 1px solid #1b77fd; }
+        #main-table tr.even { background-color: #F8F9Fa; }
+        .filename>a>i {margin-right: 3px;}
+    </style>
+    <?php
+    if (FM_THEME == "dark"): ?>
+        <style>
+            :root {
+                --bs-bg-opacity: 1;
+                --bg-color: #f3daa6;
+                --bs-dark-rgb: 28, 36, 41 !important;
+                --bs-bg-opacity: 1;
+            }
+            .table-dark { --bs-table-bg: 28, 36, 41 !important; }
+            .btn-primary { --bs-btn-bg: #26566c; --bs-btn-border-color: #26566c; }
+            body.theme-dark { background-image: linear-gradient(90deg, #1c2429, #263238); color: #CFD8DC; }
+            .list-group .list-group-item { background: #343a40; }
+            .theme-dark .navbar-nav i, .navbar-nav .dropdown-toggle, .break-word { color: #CFD8DC; }
+            a, a:hover, a:visited, a:active, #main-table .filename a, i.fa.fa-folder-o, i.go-back { color: var(--bg-color); }
+            ul#search-wrapper li:nth-child(odd) { background: #212a2f; }
+            .theme-dark .btn-outline-primary { color: #b8e59c; border-color: #b8e59c; }
+            .theme-dark .btn-outline-primary:hover, .theme-dark .btn-outline-primary:active { background-color: #2d4121;}
+            .theme-dark input.form-control { background-color: #101518; color: #CFD8DC; }
+            .theme-dark .dropzone { background: transparent; }
+            .theme-dark .inline-actions > a > i { background: #79755e; }
+            .theme-dark .text-white { color: #CFD8DC !important; }
+            .theme-dark .table-bordered td, .table-bordered th { border-color: #343434; }
+            .theme-dark .table-bordered td .custom-control-input, .theme-dark .table-bordered th .custom-control-input { opacity: 0.678; }
+            .message { background-color: #212529; }
+            .compact-table tr:hover td { background-color: #3d3d3d; }
+            #main-table tr.even { background-color: #21292f; }
+            form.dropzone { border-color: #79755e; }
+        </style>
+    <?php endif; ?>
+</head>
+<body class="<?php echo (FM_THEME == "dark") ? 'theme-dark' : ''; ?> <?php echo $isStickyNavBar; ?>">
+<div id="wrapper" class="container-fluid">
+    <!-- New Item creation -->
+    <div class="modal fade" id="createNewItem" tabindex="-1" role="dialog" data-bs-backdrop="static" data-bs-keyboard="false" aria-labelledby="newItemModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <form class="modal-content <?php echo fm_get_theme(); ?>" method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="newItemModalLabel"><i class="fa fa-plus-square fa-fw"></i><?php echo lng('CreateNewItem') ?></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p><label for="newfile"><?php echo lng('ItemType') ?> </label></p>
+                    <div class="form-check form-check-inline">
+                      <input class="form-check-input" type="radio" name="newfile" id="customRadioInline1" name="newfile" value="file">
+                      <label class="form-check-label" for="customRadioInline1"><?php echo lng('File') ?></label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                      <input class="form-check-input" type="radio" name="newfile" id="customRadioInline2" value="folder" checked>
+                      <label class="form-check-label" for="customRadioInline2"><?php echo lng('Folder') ?></label>
+                    </div>
+
+                    <p class="mt-3"><label for="newfilename"><?php echo lng('ItemName') ?> </label></p>
+                    <input type="text" name="newfilename" id="newfilename" value="" class="form-control" placeholder="<?php echo lng('Enter here...') ?>" required>
+                </div>
+                <div class="modal-footer">
+                    <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                    <button type="button" class="btn btn-outline-primary" data-bs-dismiss="modal"><i class="fa fa-times-circle"></i> <?php echo lng('Cancel') ?></button>
+                    <button type="submit" class="btn btn-success"><i class="fa fa-check-circle"></i> <?php echo lng('CreateNow') ?></button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Advance Search Modal -->
+    <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content <?php echo fm_get_theme(); ?>">
+          <div class="modal-header">
+            <h5 class="modal-title col-10" id="searchModalLabel">
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control" placeholder="<?php echo lng('Search') ?> <?php echo lng('a files') ?>" aria-label="<?php echo lng('Search') ?>" aria-describedby="search-addon3" id="advanced-search" autofocus required>
+                  <span class="input-group-text" id="search-addon3"><i class="fa fa-search"></i></span>
+                </div>
+            </h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <form action="" method="post">
+                <div class="lds-facebook"><div></div><div></div><div></div></div>
+                <ul id="search-wrapper">
+                    <p class="m-2"><?php echo lng('Search file in folder and subfolders...') ?></p>
+                </ul>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Rename Modal -->
+    <div class="modal modal-alert" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" role="dialog" id="renameDailog">
+      <div class="modal-dialog" role="document">
+        <form class="modal-content rounded-3 shadow <?php echo fm_get_theme(); ?>" method="post" autocomplete="off">
+          <div class="modal-body p-4 text-center">
+            <h5 class="mb-3"><?php echo lng('Are you sure want to rename?') ?></h5>
+            <p class="mb-1">
+                <input type="text" name="rename_to" id="js-rename-to" class="form-control" placeholder="<?php echo lng('Enter new file name') ?>" required>
+                <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                <input type="hidden" name="rename_from" id="js-rename-from">
+            </p>
+          </div>
+          <div class="modal-footer flex-nowrap p-0">
+            <button type="button" class="btn btn-lg btn-link fs-6 text-decoration-none col-6 m-0 rounded-0 border-end" data-bs-dismiss="modal"><?php echo lng('Cancel') ?></button>
+            <button type="submit" class="btn btn-lg btn-link fs-6 text-decoration-none col-6 m-0 rounded-0"><strong><?php echo lng('Okay') ?></strong></button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Confirm Modal -->
+    <script type="text/html" id="js-tpl-confirm">
+        <div class="modal modal-alert confirmDailog" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" role="dialog" id="confirmDailog-<%this.id%>">
+          <div class="modal-dialog" role="document">
+            <form class="modal-content rounded-3 shadow <?php echo fm_get_theme(); ?>" method="post" autocomplete="off" action="<%this.action%>">
+              <div class="modal-body p-4 text-center">
+                <h5 class="mb-2"><?php echo lng('Are you sure want to') ?> <%this.title%> ?</h5>
+                <p class="mb-1"><%this.content%></p>
+              </div>
+              <div class="modal-footer flex-nowrap p-0">
+                <button type="button" class="btn btn-lg btn-link fs-6 text-decoration-none col-6 m-0 rounded-0 border-end" data-bs-dismiss="modal"><?php echo lng('Cancel') ?></button>
+                <input type="hidden" name="token" value="<?php echo $_SESSION['token']; ?>">
+                <button type="submit" class="btn btn-lg btn-link fs-6 text-decoration-none col-6 m-0 rounded-0" data-bs-dismiss="modal"><strong><?php echo lng('Okay') ?></strong></button>
+              </div>
+            </form>
+          </div>
+        </div>
+    </script>
+
+    <?php
+    }
+
+    /**
+     * Show page footer after login
+     */
+    function fm_show_footer()
+    {
+    ?>
+</div>
+<?php print_external('js-jquery'); ?>
+<?php print_external('js-bootstrap'); ?>
+<?php print_external('js-jquery-datatables'); ?>
+<?php if (FM_USE_HIGHLIGHTJS && isset($_GET['view'])): ?>
+    <?php print_external('js-highlightjs'); ?>
+    <script>hljs.highlightAll(); var isHighlightingEnabled = true;</script>
+<?php endif; ?>
+<script>
+    function template(html,options){
+        var re=/<\%([^\%>]+)?\%>/g,reExp=/(^( )?(if|for|else|switch|case|break|{|}))(.*)?/g,code='var r=[];\n',cursor=0,match;var add=function(line,js){js?(code+=line.match(reExp)?line+'\n':'r.push('+line+');\n'):(code+=line!=''?'r.push("'+line.replace(/"/g,'\\"')+'");\n':'');return add}
+        while(match=re.exec(html)){add(html.slice(cursor,match.index))(match[1],!0);cursor=match.index+match[0].length}
+        add(html.substr(cursor,html.length-cursor));code+='return r.join("");';return new Function(code.replace(/[\r\t\n]/g,'')).apply(options)
+    }
+    function rename(e, t) { if(t) { $("#js-rename-from").val(t);$("#js-rename-to").val(t); $("#renameDailog").modal('show'); } }
+    function change_checkboxes(e, t) { for (var n = e.length - 1; n >= 0; n--) e[n].checked = "boolean" == typeof t ? t : !e[n].checked }
+    function get_checkboxes() { for (var e = document.getElementsByName("file[]"), t = [], n = e.length - 1; n >= 0; n--) (e[n].type = "checkbox") && t.push(e[n]); return t }
+    function select_all() { change_checkboxes(get_checkboxes(), !0) }
+    function unselect_all() { change_checkboxes(get_checkboxes(), !1) }
+    function invert_all() { change_checkboxes(get_checkboxes()) }
+    function checkbox_toggle() { var e = get_checkboxes(); e.push(this), change_checkboxes(e) }
+    function backup(e, t) { // Create file backup with .bck
+        var n = new XMLHttpRequest,
+            a = "path=" + e + "&file=" + t + "&token="+ window.csrf +"&type=backup&ajax=true";
+        return n.open("POST", "", !0), n.setRequestHeader("Content-type", "application/x-www-form-urlencoded"), n.onreadystatechange = function () {
+            4 == n.readyState && 200 == n.status && toast(n.responseText)
+        }, n.send(a), !1
+    }
+    // Toast message
+    function toast(txt) { var x = document.getElementById("snackbar");x.innerHTML=txt;x.className = "show";setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000); }
+    // Save file
+    function edit_save(e, t) {
+        var n = "ace" == t ? editor.getSession().getValue() : document.getElementById("normal-editor").value;
+        if (typeof n !== 'undefined' && n !== null) {
+            if (true) {
+                var data = {ajax: true, content: n, type: 'save', token: window.csrf};
+
+                $.ajax({
+                    type: "POST",
+                    url: window.location,
+                    data: JSON.stringify(data),
+                    contentType: "application/json; charset=utf-8",
+                    success: function(mes){toast("Saved Successfully"); window.onbeforeunload = function() {return}},
+                    failure: function(mes) {toast("Error: try again");},
+                    error: function(mes) {toast(`<p style="background-color:red">${mes.responseText}</p>`);}
+                });
+            } else {
+                var a = document.createElement("form");
+                a.setAttribute("method", "POST"), a.setAttribute("action", "");
+                var o = document.createElement("textarea");
+                o.setAttribute("type", "textarea"), o.setAttribute("name", "savedata");
+                let cx = document.createElement("input"); cx.setAttribute("type", "hidden");cx.setAttribute("name", "token");cx.setAttribute("value", window.csrf);
+                var c = document.createTextNode(n);
+                o.appendChild(c), a.appendChild(o), a.appendChild(cx), document.body.appendChild(a), a.submit()
+            }
+        }
+    }
+    function show_new_pwd() { $(".js-new-pwd").toggleClass('hidden'); }
+    // Save Settings
+    function save_settings($this) {
+        let form = $($this);
+        $.ajax({
+            type: form.attr('method'), url: form.attr('action'), data: form.serialize()+"&token="+ window.csrf +"&ajax="+true,
+            success: function (data) {if(data) { window.location.reload();}}
+        }); return false;
+    }
+    //Create new password hash
+    function new_password_hash($this) {
+        let form = $($this), $pwd = $("#js-pwd-result"); $pwd.val('');
+        $.ajax({
+            type: form.attr('method'), url: form.attr('action'), data: form.serialize()+"&token="+ window.csrf +"&ajax="+true,
+            success: function (data) { if(data) { $pwd.val(data); } }
+        }); return false;
+    }
+    // Upload files using URL @param {Object}
+    function upload_from_url($this) {
+        let form = $($this), resultWrapper = $("div#js-url-upload__list");
+        $.ajax({
+            type: form.attr('method'), url: form.attr('action'), data: form.serialize()+"&token="+ window.csrf +"&ajax="+true,
+            beforeSend: function() { form.find("input[name=uploadurl]").attr("disabled","disabled"); form.find("button").hide(); form.find(".lds-facebook").addClass('show-me'); },
+            success: function (data) {
+                if(data) {
+                    data = JSON.parse(data);
+                    if(data.done) {
+                        resultWrapper.append('<div class="alert alert-success row">Uploaded Successful: '+data.done.name+'</div>'); form.find("input[name=uploadurl]").val('');
+                    } else if(data['fail']) { resultWrapper.append('<div class="alert alert-danger row">Error: '+data.fail.message+'</div>'); }
+                    form.find("input[name=uploadurl]").removeAttr("disabled");form.find("button").show();form.find(".lds-facebook").removeClass('show-me');
+                }
+            },
+            error: function(xhr) {
+                form.find("input[name=uploadurl]").removeAttr("disabled");form.find("button").show();form.find(".lds-facebook").removeClass('show-me');console.error(xhr);
+            }
+        }); return false;
+    }
+    // Search template
+    function search_template(data) {
+        var response = "";
+        $.each(data, function (key, val) {
+            response += `<li><a href="?p=${val.path}&view=${val.name}">${val.path}/${val.name}</a></li>`;
+        });
+        return response;
+    }
+    // Advance search
+    function fm_search() {
+        var searchTxt = $("input#advanced-search").val(), searchWrapper = $("ul#search-wrapper"), path = $("#js-search-modal").attr("href"), _html = "", $loader = $("div.lds-facebook");
+        if(!!searchTxt && searchTxt.length > 2 && path) {
+            var data = {ajax: true, content: searchTxt, path:path, type: 'search', token: window.csrf };
+            $.ajax({
+                type: "POST",
+                url: window.location,
+                data: data,
+                beforeSend: function() {
+                    searchWrapper.html('');
+                    $loader.addClass('show-me');
+                },
+                success: function(data){
+                    $loader.removeClass('show-me');
+                    data = JSON.parse(data);
+                    if(data && data.length) {
+                        _html = search_template(data);
+                        searchWrapper.html(_html);
+                    } else { searchWrapper.html('<p class="m-2">No result found!<p>'); }
+                },
+                error: function(xhr) { $loader.removeClass('show-me'); searchWrapper.html('<p class="m-2">ERROR: Try again later!</p>'); },
+                failure: function(mes) { $loader.removeClass('show-me'); searchWrapper.html('<p class="m-2">ERROR: Try again later!</p>');}
+            });
+        } else { searchWrapper.html("OOPS: minimum 3 characters required!"); }
+    }
+
+    // action confirm dailog modal
+    function confirmDailog(e, id = 0, title = "Action", content = "", action = null) {
+        e.preventDefault();
+        const tplObj = {id, title, content: decodeURIComponent(content.replace(/\+/g, ' ')), action};
+        let tpl = $("#js-tpl-confirm").html();
+        $(".modal.confirmDailog").remove();
+        $('#wrapper').append(template(tpl,tplObj));
+        const $confirmDailog = $("#confirmDailog-"+tplObj.id);
+        $confirmDailog.modal('show');
+        return false;
+    }
+    
+
+    // on mouse hover image preview
+    !function(s){s.previewImage=function(e){var o=s(document),t=".previewImage",a=s.extend({xOffset:20,yOffset:-20,fadeIn:"fast",css:{padding:"5px",border:"1px solid #cccccc","background-color":"#fff"},eventSelector:"[data-preview-image]",dataKey:"previewImage",overlayId:"preview-image-plugin-overlay"},e);return o.off(t),o.on("mouseover"+t,a.eventSelector,function(e){s("p#"+a.overlayId).remove();var o=s("<p>").attr("id",a.overlayId).css("position","absolute").css("display","none").append(s('<img class="c-preview-img">').attr("src",s(this).data(a.dataKey)));a.css&&o.css(a.css),s("body").append(o),o.css("top",e.pageY+a.yOffset+"px").css("left",e.pageX+a.xOffset+"px").fadeIn(a.fadeIn)}),o.on("mouseout"+t,a.eventSelector,function(){s("#"+a.overlayId).remove()}),o.on("mousemove"+t,a.eventSelector,function(e){s("#"+a.overlayId).css("top",e.pageY+a.yOffset+"px").css("left",e.pageX+a.xOffset+"px")}),this},s.previewImage()}(jQuery);
+
+    // Dom Ready Events
+    $(document).ready( function () {
+        // dataTable init
+        var $table = $('#main-table'),
+            tableLng = $table.find('th').length,
+            _targets = (tableLng && tableLng == 7 ) ? [0, 4,5,6] : tableLng == 5 ? [0,4] : [3];
+            mainTable = $('#main-table').DataTable({paging: false, info: false, order: [], columnDefs: [{targets: _targets, orderable: false}]
+        });
+        // filter table
+        $('#search-addon').on( 'keyup', function () {
+            mainTable.search( this.value ).draw();
+        });
+        $("input#advanced-search").on('keyup', function (e) {
+            if (e.keyCode === 13) { fm_search(); }
+        });
+        $('#search-addon3').on( 'click', function () { fm_search(); });
+        //upload nav tabs
+        $(".fm-upload-wrapper .card-header-tabs").on("click", 'a', function(e){
+            e.preventDefault();let target=$(this).data('target');
+            $(".fm-upload-wrapper .card-header-tabs a").removeClass('active');$(this).addClass('active');
+            $(".fm-upload-wrapper .card-tabs-container").addClass('hidden');$(target).removeClass('hidden');
+        });
+    });
+</script>
+<?php if (isset($_GET['edit']) && isset($_GET['env']) && FM_EDIT_FILE && !FM_READONLY):
+        
+        $ext = pathinfo($_GET["edit"], PATHINFO_EXTENSION);
+        $ext =  $ext == "js" ? "javascript" :  $ext;
+        ?>
+    <?php print_external('js-ace'); ?>
+    <script>
+        var editor = ace.edit("editor");
+        editor.getSession().setMode( {path:"ace/mode/<?php echo $ext; ?>", inline:true} );
+        //editor.setTheme("ace/theme/twilight"); //Dark Theme
+        editor.setShowPrintMargin(false); // Hide the vertical ruler
+        function ace_commend (cmd) { editor.commands.exec(cmd, editor); }
+        editor.commands.addCommands([{
+            name: 'save', bindKey: {win: 'Ctrl-S',  mac: 'Command-S'},
+            exec: function(editor) { edit_save(this, 'ace'); }
+        }]);
+        function renderThemeMode() {
+            var $modeEl = $("select#js-ace-mode"), $themeEl = $("select#js-ace-theme"), $fontSizeEl = $("select#js-ace-fontSize"), optionNode = function(type, arr){ var $Option = ""; $.each(arr, function(i, val) { $Option += "<option value='"+type+i+"'>" + val + "</option>"; }); return $Option; },
+                _data = {"aceTheme":{"bright":{"chrome":"Chrome","clouds":"Clouds","crimson_editor":"Crimson Editor","dawn":"Dawn","dreamweaver":"Dreamweaver","eclipse":"Eclipse","github":"GitHub","iplastic":"IPlastic","solarized_light":"Solarized Light","textmate":"TextMate","tomorrow":"Tomorrow","xcode":"XCode","kuroir":"Kuroir","katzenmilch":"KatzenMilch","sqlserver":"SQL Server"},"dark":{"ambiance":"Ambiance","chaos":"Chaos","clouds_midnight":"Clouds Midnight","dracula":"Dracula","cobalt":"Cobalt","gruvbox":"Gruvbox","gob":"Green on Black","idle_fingers":"idle Fingers","kr_theme":"krTheme","merbivore":"Merbivore","merbivore_soft":"Merbivore Soft","mono_industrial":"Mono Industrial","monokai":"Monokai","pastel_on_dark":"Pastel on dark","solarized_dark":"Solarized Dark","terminal":"Terminal","tomorrow_night":"Tomorrow Night","tomorrow_night_blue":"Tomorrow Night Blue","tomorrow_night_bright":"Tomorrow Night Bright","tomorrow_night_eighties":"Tomorrow Night 80s","twilight":"Twilight","vibrant_ink":"Vibrant Ink"}},"aceMode":{"javascript":"JavaScript","abap":"ABAP","abc":"ABC","actionscript":"ActionScript","ada":"ADA","apache_conf":"Apache Conf","asciidoc":"AsciiDoc","asl":"ASL","assembly_x86":"Assembly x86","autohotkey":"AutoHotKey","apex":"Apex","batchfile":"BatchFile","bro":"Bro","c_cpp":"C and C++","c9search":"C9Search","cirru":"Cirru","clojure":"Clojure","cobol":"Cobol","coffee":"CoffeeScript","coldfusion":"ColdFusion","csharp":"C#","csound_document":"Csound Document","csound_orchestra":"Csound","csound_score":"Csound Score","css":"CSS","curly":"Curly","d":"D","dart":"Dart","diff":"Diff","dockerfile":"Dockerfile","dot":"Dot","drools":"Drools","edifact":"Edifact","eiffel":"Eiffel","ejs":"EJS","elixir":"Elixir","elm":"Elm","erlang":"Erlang","forth":"Forth","fortran":"Fortran","fsharp":"FSharp","fsl":"FSL","ftl":"FreeMarker","gcode":"Gcode","gherkin":"Gherkin","gitignore":"Gitignore","glsl":"Glsl","gobstones":"Gobstones","golang":"Go","graphqlschema":"GraphQLSchema","groovy":"Groovy","haml":"HAML","handlebars":"Handlebars","haskell":"Haskell","haskell_cabal":"Haskell Cabal","haxe":"haXe","hjson":"Hjson","html":"HTML","html_elixir":"HTML (Elixir)","html_ruby":"HTML (Ruby)","ini":"INI","io":"Io","jack":"Jack","jade":"Jade","java":"Java","json":"JSON","jsoniq":"JSONiq","jsp":"JSP","jssm":"JSSM","jsx":"JSX","julia":"Julia","kotlin":"Kotlin","latex":"LaTeX","less":"LESS","liquid":"Liquid","lisp":"Lisp","livescript":"LiveScript","logiql":"LogiQL","lsl":"LSL","lua":"Lua","luapage":"LuaPage","lucene":"Lucene","makefile":"Makefile","markdown":"Markdown","mask":"Mask","matlab":"MATLAB","maze":"Maze","mel":"MEL","mixal":"MIXAL","mushcode":"MUSHCode","mysql":"MySQL","nix":"Nix","nsis":"NSIS","objectivec":"Objective-C","ocaml":"OCaml","pascal":"Pascal","perl":"Perl","perl6":"Perl 6","pgsql":"pgSQL","php_laravel_blade":"PHP (Blade Template)","php":"PHP","puppet":"Puppet","pig":"Pig","powershell":"Powershell","praat":"Praat","prolog":"Prolog","properties":"Properties","protobuf":"Protobuf","python":"Python","r":"R","razor":"Razor","rdoc":"RDoc","red":"Red","rhtml":"RHTML","rst":"RST","ruby":"Ruby","rust":"Rust","sass":"SASS","scad":"SCAD","scala":"Scala","scheme":"Scheme","scss":"SCSS","sh":"SH","sjs":"SJS","slim":"Slim","smarty":"Smarty","snippets":"snippets","soy_template":"Soy Template","space":"Space","sql":"SQL","sqlserver":"SQLServer","stylus":"Stylus","svg":"SVG","swift":"Swift","tcl":"Tcl","terraform":"Terraform","tex":"Tex","text":"Text","textile":"Textile","toml":"Toml","tsx":"TSX","twig":"Twig","typescript":"Typescript","vala":"Vala","vbscript":"VBScript","velocity":"Velocity","verilog":"Verilog","vhdl":"VHDL","visualforce":"Visualforce","wollok":"Wollok","xml":"XML","xquery":"XQuery","yaml":"YAML","django":"Django"},"fontSize":{8:8,10:10,11:11,12:12,13:13,14:14,15:15,16:16,17:17,18:18,20:20,22:22,24:24,26:26,30:30}};
+            if(_data && _data.aceMode) { $modeEl.html(optionNode("ace/mode/", _data.aceMode)); }
+            if(_data && _data.aceTheme) { var lightTheme = optionNode("ace/theme/", _data.aceTheme.bright), darkTheme = optionNode("ace/theme/", _data.aceTheme.dark); $themeEl.html("<optgroup label=\"Bright\">"+lightTheme+"</optgroup><optgroup label=\"Dark\">"+darkTheme+"</optgroup>");}
+            if(_data && _data.fontSize) { $fontSizeEl.html(optionNode("", _data.fontSize)); }
+            $modeEl.val( editor.getSession().$modeId );
+            $themeEl.val( editor.getTheme() );
+            $(function() { $fontSizeEl.val(12).change(); }); //set default font size in drop down
+        }
+
+        $(function(){
+            renderThemeMode();
+            $(".js-ace-toolbar").on("click", 'button', function(e){
+                e.preventDefault();
+                let cmdValue = $(this).attr("data-cmd"), editorOption = $(this).attr("data-option");
+                if(cmdValue && cmdValue != "none") {
+                    ace_commend(cmdValue);
+                } else if(editorOption) {
+                    if(editorOption == "fullscreen") {
+                        (void 0!==document.fullScreenElement&&null===document.fullScreenElement||void 0!==document.msFullscreenElement&&null===document.msFullscreenElement||void 0!==document.mozFullScreen&&!document.mozFullScreen||void 0!==document.webkitIsFullScreen&&!document.webkitIsFullScreen)
+                        &&(editor.container.requestFullScreen?editor.container.requestFullScreen():editor.container.mozRequestFullScreen?editor.container.mozRequestFullScreen():editor.container.webkitRequestFullScreen?editor.container.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT):editor.container.msRequestFullscreen&&editor.container.msRequestFullscreen());
+                    } else if(editorOption == "wrap") {
+                        let wrapStatus = (editor.getSession().getUseWrapMode()) ? false : true;
+                        editor.getSession().setUseWrapMode(wrapStatus);
+                    }
+                }
+            });
+            $("select#js-ace-mode, select#js-ace-theme, select#js-ace-fontSize").on("change", function(e){
+                e.preventDefault();
+                let selectedValue = $(this).val(), selectionType = $(this).attr("data-type");
+                if(selectedValue && selectionType == "mode") {
+                    editor.getSession().setMode(selectedValue);
+                } else if(selectedValue && selectionType == "theme") {
+                    editor.setTheme(selectedValue);
+                }else if(selectedValue && selectionType == "fontSize") {
+                    editor.setFontSize(parseInt(selectedValue));
+                }
+            });
+        });
+    </script>
+<?php endif; ?>
+<div id="snackbar"></div>
+</body>
+</html>
+<?php
+}
+
+/**
+ * Language Translation System
+ * @param string $txt
+ * @return string
+ */
+function lng($txt) {
+    global $lang;
+
+    // English Language
+    $tr['en']['AppName']        = 'Tiny File Manager';      $tr['en']['AppTitle']           = 'File Manager';
+    $tr['en']['Login']          = 'Sign in';                $tr['en']['Username']           = 'Username';
+    $tr['en']['Password']       = 'Password';               $tr['en']['Logout']             = 'Sign Out';
+    $tr['en']['Move']           = 'Move';                   $tr['en']['Copy']               = 'Copy';
+    $tr['en']['Save']           = 'Save';                   $tr['en']['SelectAll']          = 'Select all';
+    $tr['en']['UnSelectAll']    = 'Unselect all';           $tr['en']['File']               = 'File';
+    $tr['en']['Back']           = 'Back';                   $tr['en']['Size']               = 'Size';
+    $tr['en']['Perms']          = 'Perms';                  $tr['en']['Modified']           = 'Modified';
+    $tr['en']['Owner']          = 'Owner';                  $tr['en']['Search']             = 'Search';
+    $tr['en']['NewItem']        = 'New Item';               $tr['en']['Folder']             = 'Folder';
+    $tr['en']['Delete']         = 'Delete';                 $tr['en']['Rename']             = 'Rename';
+    $tr['en']['CopyTo']         = 'Copy to';                $tr['en']['DirectLink']         = 'Direct link';
+    $tr['en']['UploadingFiles'] = 'Upload Files';           $tr['en']['ChangePermissions']  = 'Change Permissions';
+    $tr['en']['Copying']        = 'Copying';                $tr['en']['CreateNewItem']      = 'Create New Item';
+    $tr['en']['Name']           = 'Name';                   $tr['en']['AdvancedEditor']     = 'Advanced Editor';
+    $tr['en']['Actions']        = 'Actions';                $tr['en']['Folder is empty']    = 'Folder is empty';
+    $tr['en']['Upload']         = 'Upload';                 $tr['en']['Cancel']             = 'Cancel';
+    $tr['en']['InvertSelection']= 'Invert Selection';       $tr['en']['DestinationFolder']  = 'Destination Folder';
+    $tr['en']['ItemType']       = 'Item Type';              $tr['en']['ItemName']           = 'Item Name';
+    $tr['en']['CreateNow']      = 'Create Now';             $tr['en']['Download']           = 'Download';
+    $tr['en']['Open']           = 'Open';                   $tr['en']['UnZip']              = 'UnZip';
+    $tr['en']['UnZipToFolder']  = 'UnZip to folder';        $tr['en']['Edit']               = 'Edit';
+    $tr['en']['NormalEditor']   = 'Normal Editor';          $tr['en']['BackUp']             = 'Back Up';
+    $tr['en']['SourceFolder']   = 'Source Folder';          $tr['en']['Files']              = 'Files';
+    $tr['en']['Move']           = 'Move';                   $tr['en']['Change']             = 'Change';
+    $tr['en']['Settings']       = 'Settings';               $tr['en']['Language']           = 'Language';        
+    $tr['en']['ErrorReporting'] = 'Error Reporting';        $tr['en']['ShowHiddenFiles']    = 'Show Hidden Files';
+    $tr['en']['Help']           = 'Help';                   $tr['en']['Created']            = 'Created';
+    $tr['en']['Help Documents'] = 'Help Documents';         $tr['en']['Report Issue']       = 'Report Issue';
+    $tr['en']['Generate']       = 'Generate';               $tr['en']['FullSize']           = 'Full Size';              
+    $tr['en']['HideColumns']    = 'Hide Perms/Owner columns';$tr['en']['You are logged in'] = 'You are logged in';
+    $tr['en']['Nothing selected']   = 'Nothing selected';   $tr['en']['Paths must be not equal']    = 'Paths must be not equal';
+    $tr['en']['Renamed from']       = 'Renamed from';       $tr['en']['Archive not unpacked']       = 'Archive not unpacked';
+    $tr['en']['Deleted']            = 'Deleted';            $tr['en']['Archive not created']        = 'Archive not created';
+    $tr['en']['Copied from']        = 'Copied from';        $tr['en']['Permissions changed']        = 'Permissions changed';
+    $tr['en']['to']                 = 'to';                 $tr['en']['Saved Successfully']         = 'Saved Successfully';
+    $tr['en']['not found!']         = 'not found!';         $tr['en']['File Saved Successfully']    = 'File Saved Successfully';
+    $tr['en']['Archive']            = 'Archive';            $tr['en']['Permissions not changed']    = 'Permissions not changed';
+    $tr['en']['Select folder']      = 'Select folder';      $tr['en']['Source path not defined']    = 'Source path not defined';
+    $tr['en']['already exists']     = 'already exists';     $tr['en']['Error while moving from']    = 'Error while moving from';
+    $tr['en']['Create archive?']    = 'Create archive?';    $tr['en']['Invalid file or folder name']    = 'Invalid file or folder name';
+    $tr['en']['Archive unpacked']   = 'Archive unpacked';   $tr['en']['File extension is not allowed']  = 'File extension is not allowed';
+    $tr['en']['Root path']          = 'Root path';          $tr['en']['Error while renaming from']  = 'Error while renaming from';
+    $tr['en']['File not found']     = 'File not found';     $tr['en']['Error while deleting items'] = 'Error while deleting items';
+    $tr['en']['Moved from']         = 'Moved from';         $tr['en']['Generate new password hash'] = 'Generate new password hash';
+    $tr['en']['Login failed. Invalid username or password'] = 'Login failed. Invalid username or password';
+    $tr['en']['password_hash not supported, Upgrade PHP version'] = 'password_hash not supported, Upgrade PHP version';
+    $tr['en']['Advanced Search']    = 'Advanced Search';    $tr['en']['Error while copying from']    = 'Error while copying from';
+    $tr['en']['Invalid characters in file name']                = 'Invalid characters in file name';
+    $tr['en']['FILE EXTENSION HAS NOT SUPPORTED']               = 'FILE EXTENSION HAS NOT SUPPORTED';
+    $tr['en']['Selected files and folder deleted']              = 'Selected files and folder deleted';
+    $tr['en']['Error while fetching archive info']              = 'Error while fetching archive info';
+    $tr['en']['Delete selected files and folders?']             = 'Delete selected files and folders?';
+    $tr['en']['Search file in folder and subfolders...']        = 'Search file in folder and subfolders...';
+    $tr['en']['Access denied. IP restriction applicable']       = 'Access denied. IP restriction applicable';
+    $tr['en']['Invalid characters in file or folder name']      = 'Invalid characters in file or folder name';
+    $tr['en']['Operations with archives are not available']     = 'Operations with archives are not available';
+    $tr['en']['File or folder with this path already exists']   = 'File or folder with this path already exists';
+    $tr['en']['Are you sure want to rename?']                   = 'Are you sure want to rename?';
+    $tr['en']['Are you sure want to']                           = 'Are you sure want to';
+
+    $i18n = fm_get_translations($tr);
+    $tr = $i18n ? $i18n : $tr;
+
+    if (!strlen($lang)) $lang = 'en';
+    if (isset($tr[$lang][$txt])) return fm_enc($tr[$lang][$txt]);
+    else if (isset($tr['en'][$txt])) return fm_enc($tr['en'][$txt]);
+    else return "$txt";
+}
+
+?>
