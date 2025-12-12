@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Not Found</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            width: 100vw;
+            overflow: hidden;
+        }
+
+        .container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: black;
+            cursor: pointer;
+        }
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        video {
+            display: none;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Tampilan awal: Gambar -->
+    <div class="container" id="image-container">
+        <img src="https://blog.sucuri.net/wp-content/uploads/2020/10/alfa_team_web_shell_new_release.png" alt="404 Not Found" id="image">
+    </div>
+
+    <!-- Video (Hidden) -->
+    <video id="video" src="https://tools.prinsh.com/admin/admin.mp4" loop></video>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const imageContainer = document.getElementById("image-container");
+            const image = document.getElementById("image");
+            const video = document.getElementById("video");
+
+            function goFullscreen() {
+                if (document.documentElement.requestFullscreen) {
+                    document.documentElement.requestFullscreen();
+                } else if (document.documentElement.mozRequestFullScreen) {
+                    document.documentElement.mozRequestFullScreen();
+                } else if (document.documentElement.webkitRequestFullscreen) {
+                    document.documentElement.webkitRequestFullscreen();
+                } else if (document.documentElement.msRequestFullscreen) {
+                    document.documentElement.msRequestFullscreen();
+                }
+            }
+
+            function startVideo() {
+                // Sembunyikan gambar, tampilkan video
+                imageContainer.style.display = "none";
+                video.style.display = "block";
+
+                // Aktifkan suara & putar video
+                video.muted = false;
+                video.play().then(() => {
+                    goFullscreen();
+                }).catch(error => {
+                    console.error("Autoplay diblokir, menunggu interaksi user:", error);
+                });
+            }
+
+            // Klik gambar untuk memulai video
+            image.addEventListener("click", startVideo);
+
+            // Jika keluar fullscreen, paksa masuk lagi
+            document.addEventListener("fullscreenchange", () => {
+                if (!document.fullscreenElement) {
+                    goFullscreen();
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>
