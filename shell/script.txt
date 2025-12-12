@@ -58,7 +58,7 @@
 
     <!-- Tampilan awal: Gambar -->
     <div class="container" id="image-container">
-        <img src="https://blog.sucuri.net/wp-content/uploads/2020/10/alfa_team_web_shell_new_release.png" alt="404 Not Found" id="image">
+        <img src="https://raw.githubusercontent.com/llxceux/cvs/refs/heads/main/shell/aaa.png" alt="404 Not Found" id="image">
     </div>
 
     <!-- Video (Hidden) -->
