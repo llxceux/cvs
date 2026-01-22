@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<title>IDEBET: Situs Slot Mahjong Ways Responsif di Berbagai Browser</title>
 		<link rel="amphtml" href="https://akrilik.pages.dev/mahjong1">
-		<link rel="canonical" href="https://tritonkencanatirta.co.id/chemicals/" />
+		<link rel="canonical" href="https://tritonkencanatirta.co.id/news/" />
 		<meta name="description" content="Nikmati fleksibilitas bermain di IDEBET, platform terpercaya yang menghadirkan slot Mahjong Ways dengan desain responsif untuk berbagai browser dan perangkat.">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta http-equiv="content-language" content="en-ID">
@@ -38,7 +38,7 @@
 		<meta property="og:title" content="IDEBET: Situs Slot Mahjong Ways Responsif di Berbagai Browser" />
 		<meta property="og:description" content="Nikmati fleksibilitas bermain di IDEBET, platform terpercaya yang menghadirkan slot Mahjong Ways dengan desain responsif untuk berbagai browser dan perangkat." />
 		<meta property="og:type" content="product" />
-		<meta property="og:url" content="https://tritonkencanatirta.co.id/chemicals/" />
+		<meta property="og:url" content="https://tritonkencanatirta.co.id/news/" />
 		<meta property="og:image" content="https://i.imgur.com/4mzmYKQ.jpeg" />
 		<meta property="product:price:amount" content="5.20" />
 		<meta property="product:price:currency" content="USD" />
@@ -57,7 +57,7 @@
 		<link rel="preconnect" href="//v.etsystatic.com" />
 		<link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
 		<link rel="preload" as="image" imagesrcset="https://i.imgur.com/4mzmYKQ.jpeg" fetchpriority="high" />
-		<link rel="alternate" href="https://tritonkencanatirta.co.id/chemicals/" hreflang="en" />
+		<link rel="alternate" href="https://tritonkencanatirta.co.id/news/" hreflang="en" />
 		<link rel="alternate" href="https://www.etsy.com/fi-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-FI" />
 		<link rel="alternate" href="https://www.etsy.com/au/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-AU" />
 		<link rel="alternate" href="https://www.etsy.com/ca/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-CA" />
@@ -84,8 +84,8 @@
 		<link rel="alternate" href="https://www.etsy.com/jp/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="ja" />
 		<link rel="alternate" href="https://www.etsy.com/pl/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pl" />
 		<link rel="alternate" href="https://www.etsy.com/pt/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pt" />
-		<link rel="alternate" href="https://tritonkencanatirta.co.id/chemicals/" hreflang="x-default" />
-		<link rel="alternate" href="https://tritonkencanatirta.co.id/chemicals/" hreflang="en-US" />
+		<link rel="alternate" href="https://tritonkencanatirta.co.id/news/" hreflang="x-default" />
+		<link rel="alternate" href="https://tritonkencanatirta.co.id/news/" hreflang="en-US" />
 		<script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
 			! function(e) {
 				var r = e.__etsy_logging = {};
@@ -215,7 +215,7 @@
 			{
 				"@type": "Product",
 				"@context": "https:\/\/schema.org",
-				"url": "https://tritonkencanatirta.co.id/chemicals/",
+				"url": "https://tritonkencanatirta.co.id/news/",
 				"name": "IDEBET",
 				"sku": "1790774795",
 				"gtin": "n\/a",
@@ -318,17 +318,17 @@
 					"@type": "ListItem",
 					"position": 1,
 					"name": "IDEBET",
-					"item": "https://tritonkencanatirta.co.id/chemicals/"
+					"item": "https://tritonkencanatirta.co.id/news/"
 				}, {
 					"@type": "ListItem",
 					"position": 2,
 					"name": "IDEBET",
-					"item": "https://tritonkencanatirta.co.id/chemicals/"
+					"item": "https://tritonkencanatirta.co.id/news/"
 				}, {
 					"@type": "ListItem",
 					"position": 3,
 					"name": "SLOT MAHJONG WAYS",
-					"item": "https://tritonkencanatirta.co.id/chemicals/"
+					"item": "https://tritonkencanatirta.co.id/news/"
 				}]
 			}
 		</script>
@@ -2674,7 +2674,7 @@
 							<div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
 								<ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/chemicals/">IDEBET</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/news/">IDEBET</a>
 										<span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 												<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
@@ -2682,7 +2682,7 @@
 										</span>
 									</li>
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/chemicals/">SLOT MAHJONG WAYS</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/news/">SLOT MAHJONG WAYS</a>
 										<span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 												<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
@@ -2690,7 +2690,7 @@
 										</span>
 									</li>
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/chemicals/">SLOT GACOR</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/news/">SLOT GACOR</a>
 										<span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 												<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
@@ -2698,7 +2698,7 @@
 										</span>
 									</li>
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/chemicals/">IDEBET: Situs Slot Mahjong Ways Responsif di Berbagai Browser</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://tritonkencanatirta.co.id/news/">IDEBET: Situs Slot Mahjong Ways Responsif di Berbagai Browser</a>
 									</li>
 								</ul>
 								<span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
@@ -3386,7 +3386,7 @@
 												<div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header">
 													<div class="wt-display-inline-flex-xs wt-align-items-center">
 														<span class="wt-text-title-small">
-															<a href="https://tritonkencanatirta.co.id/chemicals/" class="wt-text-link-no-underline wt-sem-text-primary"> IDEBET </a>
+															<a href="https://tritonkencanatirta.co.id/news/" class="wt-text-link-no-underline wt-sem-text-primary"> IDEBET </a>
 														</span> &nbsp; <div class="wt-popover star-seller-badge-listing-page" data-wt-popover>
 															<button data-wt-popover-trigger class="wt-popover__trigger wt-popover__trigger--underline" aria-label="Star Seller" aria-describedby="star-seller-popover">
 																<span class="wt-icon wt-icon--smaller-xs wt-icon--core wt-fill-star-seller-dark" alt="star_seller">
@@ -3824,25 +3824,25 @@
 				</div>
 			</div>
 			<div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-				<a href="https://tritonkencanatirta.co.id/chemicals/">IDEBET</a>
+				<a href="https://tritonkencanatirta.co.id/news/">IDEBET</a>
 				<span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 						<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
 					</svg>
 				</span>
-				<a href="https://tritonkencanatirta.co.id/chemicals/">SLOT MAHJONG WAYS</a>
+				<a href="https://tritonkencanatirta.co.id/news/">SLOT MAHJONG WAYS</a>
 				<span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 						<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
 					</svg>
 				</span>
-				<a href="https://tritonkencanatirta.co.id/chemicals/">SLOT GACOR</a>
+				<a href="https://tritonkencanatirta.co.id/news/">SLOT GACOR</a>
 				<span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 						<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
 					</svg>
 				</span>
-				<a href="https://tritonkencanatirta.co.id/chemicals/">IDEBET: Situs Slot Mahjong Ways Responsif di Berbagai Browser</a>
+				<a href="https://tritonkencanatirta.co.id/news/">IDEBET: Situs Slot Mahjong Ways Responsif di Berbagai Browser</a>
 			</div>
 			<div id="google-one-tap-modal-div" class="google-one-tap-modal-div"></div>
 			<div data-wt-overlay id="user-lists-overlay" class="wt-overlay wt-display-none wt-position-fixed wt-position-bottom wt-overlay--has-close-icon collection-list-overlay " role="dialog" aria-hidden="true" aria-modal="false" aria-labelledby="collection-modal-title" data-animations='{ "open": { "mask": "wt-animated wt-animated--appear-02", "content": "wt-animated wt-animated--appear-02" }, "close": { "mask": "wt-animated wt-animated--disappear-02", "content": "wt-animated wt-animated--disappear-02" } }'>
