@@ -47,12 +47,6 @@
 		<link rel="icon" href="https://i.imgur.com/Z3wAoMC.png" type="image/png" sizes="16x16" />
 		<link rel="apple-touch-icon" href="https://i.imgur.com/Z3wAoMC.png" sizes="180x180" />
 		<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="rgb(241, 100, 30)" />
-        <meta name="google-site-verification" content="xniC8r3Ugugi8JATBW8dAyXwgckjeK7dac7JDguJHJ4" />  
-        <meta name="google-site-verification" content="Xwp5VKHtya3thQEl1dLgk99hL6aAKdm31KKh-E95if0" />      
-        <meta name="google-site-verification" content="JVxpipbWg5W1vMsa1zsmK-fFOwpcNOajwDnKTp4DCHU" />   
-        <meta name="google-site-verification" content="CYBI0scIQTz2IychI5BnbX3kG9DGMB9InJw2QO4hKEQ" />   
-        <meta name="google-site-verification" content="qxkmuPCSSXlzKtnYtW2U_2oYxGfF8yid3pDVX5vcBx8" />  
-        <meta name="google-site-verification" content="a4E39hdwk881TTqjbI7g5pHihvv0hjT9EThEJEF6whY" />
 		<link rel="manifest" href="/site.webmanifest" />
 		<meta name="apple-mobile-web-app-title" content="Etsy" />
 		<meta name="application-name" content="Etsy" />
