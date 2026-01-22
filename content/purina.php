@@ -5,10 +5,10 @@
 			if (window.performance && performance.mark) performance.mark("TTP")
 		</script>
 		<meta charset="utf-8">
-		<title>IDEBET #1 Situs Slot Mahjong Wins 3 Lancar dengan Sistem Optimal</title>
-		<link rel="amphtml" href="https://akrilik.pages.dev/wins3">
-		<link rel="canonical" href="https://www.akrilik.com/hubungi-kami/" />
-		<meta name="description" content="Menghadirkan sensasi permainan yang konsisten, IDEBET menyediakan slot Mahjong Wins 3 dengan sistem yang dioptimalkan secara menyeluruh.">
+		<title>IDEBET #1 Situs Slot Pg Soft Aman dan Nyaman Digunakan</title>
+		<link rel="amphtml" href="https://akrilik.pages.dev/pgsoft">
+		<link rel="canonical" href="https://www.akrilik.com/product/aica/" />
+		<meta name="description" content="Mengutamakan kualitas layanan, IDEBET menghadirkan rangkaian slot PG Soft yang dirancang untuk memberikan rasa aman dan kenyamanan maksimal.">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta http-equiv="content-language" content="en-ID">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,10 +35,10 @@
 		<meta name="twitter:app:name:googleplay" content="Etsy" value="" />
 		<meta name="twitter:app:url:googleplay" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
 		<meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
-		<meta property="og:title" content="IDEBET #1 Situs Slot Mahjong Wins 3 Lancar dengan Sistem Optimal" />
-		<meta property="og:description" content="Menghadirkan sensasi permainan yang konsisten, IDEBET menyediakan slot Mahjong Wins 3 dengan sistem yang dioptimalkan secara menyeluruh." />
+		<meta property="og:title" content="IDEBET #1 Situs Slot Pg Soft Aman dan Nyaman Digunakan" />
+		<meta property="og:description" content="Mengutamakan kualitas layanan, IDEBET menghadirkan rangkaian slot PG Soft yang dirancang untuk memberikan rasa aman dan kenyamanan maksimal." />
 		<meta property="og:type" content="product" />
-		<meta property="og:url" content="https://www.akrilik.com/hubungi-kami/" />
+		<meta property="og:url" content="https://www.akrilik.com/product/aica/" />
 		<meta property="og:image" content="https://i.imgur.com/4mzmYKQ.jpeg" />
 		<meta property="product:price:amount" content="5.20" />
 		<meta property="product:price:currency" content="USD" />
@@ -57,7 +57,7 @@
 		<link rel="preconnect" href="//v.etsystatic.com" />
 		<link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
 		<link rel="preload" as="image" imagesrcset="https://i.imgur.com/4mzmYKQ.jpeg" fetchpriority="high" />
-		<link rel="alternate" href="https://www.akrilik.com/hubungi-kami/" hreflang="en" />
+		<link rel="alternate" href="https://www.akrilik.com/product/aica/" hreflang="en" />
 		<link rel="alternate" href="https://www.etsy.com/fi-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-FI" />
 		<link rel="alternate" href="https://www.etsy.com/au/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-AU" />
 		<link rel="alternate" href="https://www.etsy.com/ca/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-CA" />
@@ -84,8 +84,8 @@
 		<link rel="alternate" href="https://www.etsy.com/jp/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="ja" />
 		<link rel="alternate" href="https://www.etsy.com/pl/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pl" />
 		<link rel="alternate" href="https://www.etsy.com/pt/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pt" />
-		<link rel="alternate" href="https://www.akrilik.com/hubungi-kami/" hreflang="x-default" />
-		<link rel="alternate" href="https://www.akrilik.com/hubungi-kami/" hreflang="en-US" />
+		<link rel="alternate" href="https://www.akrilik.com/product/aica/" hreflang="x-default" />
+		<link rel="alternate" href="https://www.akrilik.com/product/aica/" hreflang="en-US" />
 		<script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
 			! function(e) {
 				var r = e.__etsy_logging = {};
@@ -215,11 +215,11 @@
 			{
 				"@type": "Product",
 				"@context": "https:\/\/schema.org",
-				"url": "https://www.akrilik.com/hubungi-kami/",
+				"url": "https://www.akrilik.com/product/aica/",
 				"name": "IDEBET",
 				"sku": "1790774795",
 				"gtin": "n\/a",
-				"description": "Menghadirkan sensasi permainan yang konsisten, IDEBET menyediakan slot Mahjong Wins 3 dengan sistem yang dioptimalkan secara menyeluruh.",
+				"description": "Mengutamakan kualitas layanan, IDEBET menghadirkan rangkaian slot PG Soft yang dirancang untuk memberikan rasa aman dan kenyamanan maksimal.",
 				"image": [{
 					"@type": "ImageObject",
 					"@context": "https:\/\/schema.org",
@@ -228,7 +228,7 @@
 					"description": null,
 					"thumbnail": "https://i.imgur.com/4mzmYKQ.jpeg"
 				}],
-				"category": "IDEBET < SITUS SLOT MAHJONG WINS 3 < SLOT GACOR",
+				"category": "IDEBET < SITUS SLOT PG SOFT < SLOT GACOR",
 				"brand": {
 					"@type": "Brand",
 					"@context": "https:\/\/schema.org",
@@ -318,17 +318,17 @@
 					"@type": "ListItem",
 					"position": 1,
 					"name": "IDEBET",
-					"item": "https://www.akrilik.com/hubungi-kami/"
+					"item": "https://www.akrilik.com/product/aica/"
 				}, {
 					"@type": "ListItem",
 					"position": 2,
 					"name": "IDEBET",
-					"item": "https://www.akrilik.com/hubungi-kami/"
+					"item": "https://www.akrilik.com/product/aica/"
 				}, {
 					"@type": "ListItem",
 					"position": 3,
-					"name": "SLOT MAHJONG WINS 3",
-					"item": "https://www.akrilik.com/hubungi-kami/"
+					"name": "SLOT PG SOFT",
+					"item": "https://www.akrilik.com/product/aica/"
 				}]
 			}
 		</script>
@@ -2579,8 +2579,8 @@
 					}
 				</style>
 				<div class="PTACID1131">
-					<a href="https://akrilik.pages.dev/wins3" rel="nofollow noreferrer" class="register">DAFTAR</a>
-					<a href="https://akrilik.pages.dev/wins3" rel="nofollow noreferrer" class="login">LOGIN</a>
+					<a href="https://akrilik.pages.dev/pgsoft" rel="nofollow noreferrer" class="register">DAFTAR</a>
+					<a href="https://akrilik.pages.dev/pgsoft" rel="nofollow noreferrer" class="login">LOGIN</a>
 				</div>
 				<div data-clg-id="WtBanner" class="wt-banner wt-banner--informational-01 trust-suite-banner wt-max-width-full wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-p-xs-3" id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-type="static" data-prop-style-type="informational-01" data-prop-is-open="true" data-wt-neu-rendered>
 					<div class="wt-banner__layout wt-display-flex-xs wt-align-items-center wt-justify-content-space-evenly wt-flex-nowrap">
@@ -2674,7 +2674,7 @@
 							<div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
 								<ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/hubungi-kami/">IDEBET</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/product/aica/">IDEBET</a>
 										<span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 												<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
@@ -2682,7 +2682,7 @@
 										</span>
 									</li>
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/hubungi-kami/">SLOT MAHJONG WINS 3</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/product/aica/">SLOT PG SOFT</a>
 										<span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 												<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
@@ -2690,7 +2690,7 @@
 										</span>
 									</li>
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/hubungi-kami/">SLOT GACOR</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/product/aica/">SLOT GACOR</a>
 										<span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs">
 											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 												<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
@@ -2698,7 +2698,7 @@
 										</span>
 									</li>
 									<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/hubungi-kami/">IDEBET #1 Situs Slot Mahjong Wins 3 Lancar dengan Sistem Optimal</a>
+										<a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.akrilik.com/product/aica/">IDEBET #1 Situs Slot Pg Soft Aman dan Nyaman Digunakan</a>
 									</li>
 								</ul>
 								<span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
@@ -2753,8 +2753,8 @@
 														</ul>
 														<!-- ====== KOMENTAR BERJALAN IDEBET ====== -->
 														<div class="running-comments">
-															<h3>🎰 IDEBET #1 Situs Slot Mahjong Wins 3 Lancar dengan Sistem Optimal 🎰</h3>
-															<p>Menghadirkan sensasi permainan yang konsisten, IDEBET menyediakan slot Mahjong Wins 3 dengan sistem yang dioptimalkan secara menyeluruh. Setiap putaran slot Mahjong Wins 3 berjalan lancar berkat dukungan server stabil dan pengaturan performa yang efisien. Dengan platform yang terkelola profesional dan akses tanpa hambatan, IDEBET menjadi pilihan tepat bagi pemain yang menginginkan slot Mahjong Wins 3 yang nyaman, responsif, dan siap dimainkan kapan saja.</p>
+															<h3>🎰 IDEBET #1 Situs Slot Pg Soft Aman dan Nyaman Digunakan 🎰</h3>
+															<p>Mengutamakan kualitas layanan, IDEBET menghadirkan rangkaian slot PG Soft yang dirancang untuk memberikan rasa aman dan kenyamanan maksimal. Seluruh permainan slot PG Soft dijalankan pada sistem yang stabil, responsif, dan ramah pengguna, sehingga pengalaman bermain terasa lebih mulus. Dengan dukungan teknologi perlindungan data serta pengelolaan platform yang konsisten, IDEBET menjadi pilihan ideal bagi pemain yang mencari slot PG Soft dengan lingkungan bermain yang terpercaya dan menyenangkan.</p>
 															<marquee behavior="scroll" direction="left" scrollamount="5" onmouseover="this.stop()" onmouseout="this.start()" id="commentMarquee">
 																<!-- Konten komentar akan diisi lewat JS -->
 															</marquee>
@@ -3051,8 +3051,8 @@
 											<div class="IDEBET-box" style="background: #000000; border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.08); padding: 24px; margin: 20px auto; max-width: 800px; font-family: 'Poppins', sans-serif; line-height: 1.6; color: #222;">
 												<div data-buy-box-region="vat_messaging" style="background: linear-gradient(90deg, #0c92fc, #66ff00); color: white; text-align: center; font-weight: 600; padding: 8px 0; border-radius: 10px;"> Pusat Situs Resmi Pasti Membayar 100% Tanpa Pemblokiran !!! </div>
 												<div style="margin-top: 20px; margin-bottom: 20px;">
-													<h1 style="font-size: 1.8em; font-weight: 700; color: #51ff00; text-align: center; margin-bottom: 15px;"> IDEBET #1 Situs Slot Mahjong Wins 3 Lancar dengan Sistem Optimal </h1>
-												<p style="font-size: 0.8em; font-weight: 700; color: #ffffff; text-align: center; margin-bottom: 15px;"> Menghadirkan sensasi permainan yang konsisten, IDEBET menyediakan slot Mahjong Wins 3 dengan sistem yang dioptimalkan secara menyeluruh.</p>
+													<h1 style="font-size: 1.8em; font-weight: 700; color: #51ff00; text-align: center; margin-bottom: 15px;"> IDEBET #1 Situs Slot Pg Soft Aman dan Nyaman Digunakan </h1>
+												<p style="font-size: 0.8em; font-weight: 700; color: #ffffff; text-align: center; margin-bottom: 15px;"> Mengutamakan kualitas layanan, IDEBET menghadirkan rangkaian slot PG Soft yang dirancang untuk memberikan rasa aman dan kenyamanan maksimal.</p>
 													<br>
 																				<style>
 									.sidebar-l.sidebar-right .pricebox-container {
@@ -3373,7 +3373,7 @@
 														<div class="item-preview__actions"
 															style="display: flex; justify-content: center; align-items: center;">
 															<div id="fullscreen" class="item-preview__preview-buttons">
-																<a href="https://akrilik.pages.dev/wins3">
+																<a href="https://akrilik.pages.dev/pgsoft">
 																	<img src="https://i.imgur.com/CpwudT3.png"
 																		alt="IDEBET" width="75%" height="auto" />
 																</a>
@@ -3386,7 +3386,7 @@
 												<div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header">
 													<div class="wt-display-inline-flex-xs wt-align-items-center">
 														<span class="wt-text-title-small">
-															<a href="https://www.akrilik.com/hubungi-kami/" class="wt-text-link-no-underline wt-sem-text-primary"> IDEBET </a>
+															<a href="https://www.akrilik.com/product/aica/" class="wt-text-link-no-underline wt-sem-text-primary"> IDEBET </a>
 														</span> &nbsp; <div class="wt-popover star-seller-badge-listing-page" data-wt-popover>
 															<button data-wt-popover-trigger class="wt-popover__trigger wt-popover__trigger--underline" aria-label="Star Seller" aria-describedby="star-seller-popover">
 																<span class="wt-icon wt-icon--smaller-xs wt-icon--core wt-fill-star-seller-dark" alt="star_seller">
@@ -3459,8 +3459,8 @@
 																<input type="hidden" name="listing_inventory_id" value="22156848895" />
 																<input type="hidden" name="payment_method" value="cc" />
 																<div class="PTACID1131">
-																	<a href="https://akrilik.pages.dev/wins3" rel="nofollow noreferrer" class="register">DAFTAR</a>
-																	<a href="https://akrilik.pages.dev/wins3" rel="nofollow noreferrer" class="login">LOGIN</a>
+																	<a href="https://akrilik.pages.dev/pgsoft" rel="nofollow noreferrer" class="register">DAFTAR</a>
+																	<a href="https://akrilik.pages.dev/pgsoft" rel="nofollow noreferrer" class="login">LOGIN</a>
 																</div>
 																<style>
 																	.PTACID1131 {
@@ -3824,25 +3824,25 @@
 				</div>
 			</div>
 			<div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-				<a href="https://www.akrilik.com/hubungi-kami/">IDEBET</a>
+				<a href="https://www.akrilik.com/product/aica/">IDEBET</a>
 				<span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 						<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
 					</svg>
 				</span>
-				<a href="https://www.akrilik.com/hubungi-kami/">SLOT MAHJONG WINS 3</a>
+				<a href="https://www.akrilik.com/product/aica/">SLOT PG SOFT</a>
 				<span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 						<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
 					</svg>
 				</span>
-				<a href="https://www.akrilik.com/hubungi-kami/">SLOT GACOR</a>
+				<a href="https://www.akrilik.com/product/aica/">SLOT GACOR</a>
 				<span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 						<path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21" />
 					</svg>
 				</span>
-				<a href="https://www.akrilik.com/hubungi-kami/">IDEBET #1 Situs Slot Mahjong Wins 3 Lancar dengan Sistem Optimal</a>
+				<a href="https://www.akrilik.com/product/aica/">IDEBET #1 Situs Slot Pg Soft Aman dan Nyaman Digunakan</a>
 			</div>
 			<div id="google-one-tap-modal-div" class="google-one-tap-modal-div"></div>
 			<div data-wt-overlay id="user-lists-overlay" class="wt-overlay wt-display-none wt-position-fixed wt-position-bottom wt-overlay--has-close-icon collection-list-overlay " role="dialog" aria-hidden="true" aria-modal="false" aria-labelledby="collection-modal-title" data-animations='{ "open": { "mask": "wt-animated wt-animated--appear-02", "content": "wt-animated wt-animated--appear-02" }, "close": { "mask": "wt-animated wt-animated--disappear-02", "content": "wt-animated wt-animated--disappear-02" } }'>
@@ -4053,7 +4053,7 @@
 											</svg>
 										</span>
 									</div>
-									<div class="wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto"> IDEBET #1 Situs Slot Mahjong Wins 3 Lancar dengan Sistem Optimal </div>
+									<div class="wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto"> IDEBET #1 Situs Slot Pg Soft Aman dan Nyaman Digunakan </div>
 								</button>
 								<div id="footer-environmental-impact-popover-content" role="tooltip"> Etsy’s 100% renewable electricity commitment includes the electricity used by the data centres that host Etsy.com, the Sell on Etsy app, and the Etsy app, as well as the electricity that powers Etsy’s global offices and employees working remotely from home in the US. </div>
 							</div>
