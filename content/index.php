@@ -1,285 +1,326 @@
-<!DOCTYPE html>
-<html lang="en-GB" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" data-user-id="1135369000" data-user-login-name="r6cailhwo6qt62hc" data-user-is-seller="false">
-<head>
-<script>if (window.performance && performance.mark) performance.mark("TTP")</script>
-<meta charset="utf-8">
-<title>IDEBET: Situs Slot Mahjong Ways 2 Link Slot Gacor 2026 Terpercaya
-</title>
-<link rel="canonical" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" />
-<link rel="amphtml" href="https://slot-mahjong-gacor-a84.pages.dev/amp">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
-<meta name="description" content="IDEBET merupakan situs slot Mahjong Ways 2 dengan link slot gacor 2026 terpercaya yang menawarkan akses bermain stabil serta didukung server handal serta system aman modern.">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="content-language" content="en-ID">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="pinterest" content="nosearch">
-<meta name="copyright" content="IDEBET">
-<meta name="author" content="IDEBET">
-<meta name="distribution" content="global">
-<meta name="publisher" content="IDEBET">
-<meta name="robots" content="index, follow">
-<meta name="rating" content="general">
-<meta name="csrf_nonce" content="3:1758149097:dhZrk-AdJ47e9IJVdmcu4hbuTQxs:8485c7771677cb0c66bf59dd26bcf28f220d75631d44099ba3e9430bdb590555">
-<meta name="uaid_nonce" content="3:1758149097:jN5WV4yGC6bv-Y8gTz1rwqhWHeiQ:0cafa0e88e72ec07d7547dabb6a6d89ba489d98702d5b9d61cec91e06677cb61">
-<meta property="fb:app_id" content="89186614300">
-<meta name="css_dist_path" content="/ac/sasquatch/css/" />
-<meta name="dist" content="202509171758147727" />
-<meta name="twitter:site" content="@Situs288" value="" />
-<meta name="twitter:card" content="summary_large_image" value="" />
-<meta name="twitter:app:name:iphone" content="Etsy" value="" />
-<meta name="twitter:app:url:iphone" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
-<meta name="twitter:app:id:iphone" content="477128284" value="" />
-<meta name="twitter:app:name:ipad" content="Etsy" value="" />
-<meta name="twitter:app:url:ipad" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
-<meta name="twitter:app:id:ipad" content="477128284" value="" />
-<meta name="twitter:app:name:googleplay" content="Etsy" value="" />
-<meta name="twitter:app:url:googleplay" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
-<meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
-<meta property="og:title" content="IDEBET: Situs Slot Mahjong Ways 2 Link Slot Gacor 2026 Terpercaya
-" />
-<meta property="og:description" content="IDEBET merupakan situs slot Mahjong Ways 2 dengan link slot gacor 2026 terpercaya yang menawarkan akses bermain stabil serta didukung server handal serta system aman modern." />
-<meta property="og:type" content="product" />
-<meta property="og:url" content="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" />
-<meta property="og:image" content="https://i.imgur.com/aBiWd6l.jpeg" />
-<meta property="product:price:amount" content="5.20" /><meta property="product:price:currency" content="USD" />
-<link rel="shortcut icon" href="https://i.imgur.com/qby4S4Q.png" />
-<link rel="icon" href="https://i.imgur.com/qby4S4Q.png" type="image/png" sizes="32x32" />
-<link rel="icon" href="https://i.imgur.com/qby4S4Q.png" type="image/png" sizes="16x16" />
-<link rel="apple-touch-icon" href="https://i.imgur.com/qby4S4Q.png" sizes="180x180" />
-<link rel="mask-icon" href="https://i.imgur.com/qby4S4Q.png" color="rgb(241, 100, 30)" />
-<meta name="apple-mobile-web-app-title" content="Etsy" /><meta name="application-name" content="Etsy" /><meta name="msapplication-TileColor" content="#f11e1e" /><meta name="theme-color" content="rgb(255, 255, 255)" />
-<link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" />
-<link rel="preconnect" href="//i.etsystatic.com" />
-<link rel="preconnect" href="//v.etsystatic.com" />
-<link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
-<link rel="preload" as="image" imagesrcset="https://i.imgur.com/aBiWd6l.jpeg" fetchpriority="high" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-FI" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-AU" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-CA" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-DK" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-HK" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-IE" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-IL" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-IN" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-NZ" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-NO" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-SE" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-SG" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-GB" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="de" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="de-AT" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="de-CH" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="fr" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="fr-CA" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="nl" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="nl-BE" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="it" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="es" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="es-MX" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="ja" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="pl" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="pt" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="x-default" />
-<link rel="alternate" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" hreflang="en-US" />
-<script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-    !function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
-</script>
-<link rel="stylesheet" href="https://www.etsy.com/dac/site-chrome/components/components.ba269cdecb93d2,site-chrome/header/header.c0f395ece04ab8,web-toolkit-v2/modules/subway/subway.ba269cdecb93d2,__modules__CategoryNav__src__/Views/ButtonMenu/Menu.02149cde20b454,__modules__CategoryNav__src__/Views/DropdownMenu/Menu.ba269cdecb93d2,site-chrome/footer/footer.ba269cdecb93d2,gdpr/settings-overlay.ba269cdecb93d2.css?variant=sasquatch" type="text/css" />
-<link rel="stylesheet" href="https://www.etsy.com/dac/neu/modules/listing_card_no_imports.ba269cdecb93d2,common/stars-svg.ba269cdecb93d2,neu/modules/favorite_listing_button.ba269cdecb93d2,neu/modules/quickview.ba269cdecb93d2,listzilla/responsive/listing-page-desktop.ba269cdecb93d2,category-nav/v2/breadcrumb_nav.fe3bd9d216295e,common/grid.fe3bd9d216295e,listings3/similar-items.ba269cdecb93d2,neu/common/responsive_listing_grid.ba269cdecb93d2,neu/modules/favorite_button_defaults_no_imports.ba269cdecb93d2,common/listing_card_text_badge.fe3bd9d216295e,neu/modules/listing_card_signals.9293ad9010af5b,__modules__ListingPage__src__/TrustSuiteBanner/styles.ba269cdecb93d2,web-toolkit-v2/modules/banners/banners.ba269cdecb93d2,web-toolkit-v2/modules/forms/radios.ba269cdecb93d2,__modules__Favorites__src__/MiniCollectionsMenu/View.ba269cdecb93d2,web-toolkit-v2/modules/panels/panels.ba269cdecb93d2,listing-page/image-carousel/responsive.ba269cdecb93d2,listzilla/image-overlay.ba269cdecb93d2,__modules__ListingPage__src__/Price/styles.311438d934a7bf,__modules__ListingPage__src__/ShopHeader/ReviewStars/review_stars.02149cde20b454,common/simple-overlay.fe3bd9d216295e,neu/payment_icons.fe3bd9d216295e,neu/apple_pay.fe3bd9d216295e,neu/google_pay.ba269cdecb93d2,listings3/checkout/single-listing.ba269cdecb93d2,common/forms_no_import.ba269cdecb93d2,listzilla/responsive/apple-pay.fe3bd9d216295e,shop2/modules/regulatory-seller-details.fe3bd9d216295e,shop2/modules/seller-additional-details.fe3bd9d216295e,neu/common/follow-shop-button.fe3bd9d216295e,listzilla/responsive/review-content-modal.ba269cdecb93d2,appreciation_photos/photo_overlay.ba269cdecb93d2,listzilla/reviews/reviews_skeleton.fe3bd9d216295e,listzilla/reviews/reviews-section.ba269cdecb93d2,reviews/header.ba269cdecb93d2,listzilla/reviews/variations.ba269cdecb93d2,listzilla/responsive/max-height-review.fe3bd9d216295e,reviews/categorical-tags.ba269cdecb93d2,web-toolkit-v2/modules/chips/selectable_chip.ba269cdecb93d2,web-toolkit-v2/modules/chips/chip_group.ba269cdecb93d2,sort-by-reviews.3affa09ef32549,web-toolkit-v2/modules/dialogs/sheets.ba269cdecb93d2,__modules__Reviews__src__/DeepDive/ListingPage/styles.ba269cdecb93d2,listzilla/responsive/tags.ba269cdecb93d2,__modules__ListingPage__src__/SellerCred/Header/styles.ba269cdecb93d2,shop2/common/rating-and-reviews-count.ba269cdecb93d2,__modules__ListingPage__src__/SellerCred/Badges/styles.ba269cdecb93d2,__modules__ListingPage__src__/Recommendations/RecsRibbon/view.ba269cdecb93d2,web-toolkit-v2/modules/forms/checkboxes.ba269cdecb93d2,web-toolkit-v2/modules/action_groups/action_groups.c0f395ece04ab8,favorites/collection/list.ba269cdecb93d2,favorites/collection/row.ba269cdecb93d2,favorites/adaptive-height-desktop.ba269cdecb93d2,__modules__ConditionalSaleInterstitial__src__/styles.02149cde20b454,__modules__CollectionRecs__src__/Views/Grid/view.ba269cdecb93d2,__modules__CollectionRecs__src__/Views/Card/view.ba269cdecb93d2.css?variant=sasquatch" type="text/css" />
-
-        <script>
-    //todo: this is from https://stackoverflow.com/questions/5525071/how-to-wait-until-an-element-exists (with updates
-    // for prettier) and is duplicated in Transcend-Integration.ts. Ideally we would find a place both
-    // files could call.
-    function waitForElm(selector) {
-        return new Promise((resolve) => {
-            if (document.querySelector(selector)) {
-                return resolve(document.querySelector(selector));
-            }
-
-            const observer = new MutationObserver(() => {
-                if (document.querySelector(selector)) {
-                    observer.disconnect();
-                    resolve(document.querySelector(selector));
-                }
-            });
-
-            // If you get "parameter 1 is not of type 'Node'" error, see https://stackoverflow.com/a/77855838/492336
-            observer.observe(document.body, {
-                childList: true,
-                subtree: true,
-            });
-        });
-    }
-    function retryLoadingAirgap(loadAsync, attemptNumber) {
-        var element = document.createElement("script");
-        element.type = "text/javascript";
-        element.src = "https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js";
-        if (loadAsync) {
-            element.setAttribute('data-cfasync', true);
-            element.async = true;
-        }
-
-        element.onerror = (error) => {
-            if (attemptNumber < 3) {
-                window.__etsy_logging.eventpipe.logEvent({
-                        event_name: `transcend_cmp_airgap_preliminary_failure`,
-                    airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
-                    airgap_bundle: 'control_bundle',
-                    error: error,
-                    retryAttempt: attemptNumber,
-                    attemptWasAsyncLoad: loadAsync
-                });
-                retryLoadingAirgap(false, attemptNumber + 1);
-            }
-            else {
-                try {
-                    //ideally we would have the same STATSD here as in transcend-integration.ts
-                    //but we can't import STATSD into mustache files.  This only occurs 0.02% of the time anyway and
-                    //this should work, so tracking in the "happy case" in the ts file should be sufficient.
-                    window.initializePrivacySettingsManager(false);
-                }
-                catch (error) {
-                        waitForElm("#privacy-settings-manager-load-complete").then(()=> {
-                            window.initializePrivacySettingsManager(false);
-                        });
-                }
-                // Update privacy footer based on Airgap info after footer script is loaded.
-                waitForElm("#footer-script-loaded").then(()=> {
-                    window.updatePrivacySettingsFooterTextBasedOnRegime();
-                });
-
-                window.__etsy_logging.eventpipe.logEvent({
-                    event_name: `transcend_cmp_airgap_load_failure`,
-                    airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
-                    airgap_bundle: 'control_bundle',
-                    error: error,
-                    retryAttempts: attemptNumber
-                });
-            }
-        }
-
-        var head = document.getElementsByTagName('head')[0];
-        head.appendChild(element);
-    }
-
-    function handleErrorLoadingAirgap() {
-        window.__etsy_logging.eventpipe.logEvent({
-            event_name: `transcend_cmp_airgap_preliminary_failure`,
-            airgap_url: 'https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js',
-            airgap_bundle: 'control_bundle',
-            retryAttempt: 1,
-            attemptWasAsyncLoad: true
-        });
-
-        retryLoadingAirgap(true, 2);
-    }
-</script>
-
-<script data-cfasync="true" data-ui="off" src="https://transcend-cdn.com/cm/ac71e058-41b7-4026-b482-3d9b8e31a6d0/airgap.js" onerror="(function() { handleErrorLoadingAirgap(); })()"  async></script>
-  
-<meta name="robots" content="max-image-preview:large">
-
-<script type="application/ld+json">
- {
-  "@type": "Product",
+<!doctype html>
+<html class="no-js" lang="id">
+	<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<link rel="canonical" href="https://kamimadrasah.com/jasa-pembuatan-website/" />
+	<link rel="amphtml" href="https://kamimadrasah.pages.dev/jasa-pembuatan" />
+	<meta name="robots" content="index, follow">
+	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
+	<link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
+	<link rel="shortcut icon" href="https://i.imgur.com/FmgiCew.png">
+	<link rel="icon" type="image/webp" sizes="32x32" href="https://i.imgur.com/FmgiCew.png">
+	<link rel="icon" type="image/webp" sizes="16x16" href="https://i.imgur.com/FmgiCew.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://i.imgur.com/FmgiCew.png">
+	<title>IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil</title>
+	<meta name="description" content="Menghadirkan situs slot Bank DIY gacor, IDEBET menawarkan sistem permainan yang aman, stabil, dan nyaman untuk bermain setiap hari." />
+	<meta property="og:site_name" content="IDEBET" />
+	<meta property="og:url" content="https://kamimadrasah.com/jasa-pembuatan-website/" />
+	<meta property="og:title" content="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil" />
+	<meta property="og:type" content="product" />
+	<meta property="og:description" content="Menghadirkan situs slot Bank DIY gacor, IDEBET menawarkan sistem permainan yang aman, stabil, dan nyaman untuk bermain setiap hari." />
+	<meta property="og:image" content="https://i.imgur.com/3mqYgjH.png" />
+	<meta property="og:image:secure_url" content="https://i.imgur.com/3mqYgjH.png" />
+	<meta property="og:image:width" content="600" />
+	<meta property="og:image:height" content="600" />
+	<meta property="og:price:amount" content="1.00" />
+	<meta property="og:price:currency" content="SGD" />
+	<meta property="og:locale" content="id_ID" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil" />
+	<meta name="twitter:description" content="Menghadirkan situs slot Bank DIY gacor, IDEBET menawarkan sistem permainan yang aman, stabil, dan nyaman untuk bermain setiap hari." />
+	<script>
+	  window.SDG = window.SDG || {};
+	  SDG.Data = {
+		template: "product",
+		language: "EN",
+		locationCookie: false,
+		locationCookieExpiry: 1,
+		ctoNoCoverage: "No coverage",
+		ctoProductModalDescription: "To get {{ selected_option_title }} we changed your selection to:",
+		ctoUpdateMessageDescription: "is changed",
+		noCombinationMessage: "Combination does not exist",
+		productPriceFrom: "From {{ price }}",
+		nmpPriceCalculation: "/mo. for {{ per_month }} mo."
+	  };
+	</script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/jquery-latest.min.js?v=174441762609953228921742784888"></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/constants.js?v=58251544750838685771742784887" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/pubsub.js?v=158357773527763999511742784889" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/global.js?v=86940198807662246831742784888" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/slick.min.js?v=177366201532680719881742784889" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/slick-custom.js?v=124467254043905770051742784887" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/fancybox-3-5-7.js?v=45336575563953974081742784888" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.js?v=177811281368891218321742784887" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.js?v=65753906577603767491742784888" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-form.js?v=29435186399513605341757430292" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/lazyload-section.js?v=5359969406261385591742784888" defer></script>
+	<script src="//www.istudiosg.com/cdn/shop/t/14/assets/adobe-analytics-tracking.js?v=123617832924672007461742784888" defer></script>
+      <script>
+         SDG.Data.adobeAnalyticsData = {
+           page_name: "Product",
+           page_type: "product",
+           page_url: window.location.hostname + window.location.pathname,
+           page_title: document.title,
+           language: "EN",
+           country: "SG",
+           currency: "SGD",
+           
+             login_status: 'logged out',
+           
+         };
+      </script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+      </script>
+      <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
+      <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/63738642612/digital_wallets/dialog">
+      <script async="async" src="/checkouts/internal/preloads.js?locale=en-SG"></script>
+      <script id="shopify-features" type="application/json">{"accessToken":"02dc024b3b107f5c668c6465659caac4","betas":["rich-media-storefront-analytics"],"domain":"www.istudiosg.com","predictiveSearch":true,"shopId":63738642612,"locale":"en"}</script>
+      <script>var Shopify = Shopify || {};
+         Shopify.shop = "istudio-elush-production.myshopify.com";
+         Shopify.locale = "en";
+         Shopify.currency = {"active":"SGD","rate":"1.0"};
+         Shopify.country = "SG";
+         Shopify.theme = {"name":"360u00265 - 2.0","id":139536236724,"schema_name":"Dawn","schema_version":"11.0.0","theme_store_id":null,"role":"main"};
+         Shopify.theme.handle = "null";
+         Shopify.theme.style = {"id":null,"handle":null};
+         Shopify.cdnHost = "www.istudiosg.com/cdn";
+         Shopify.routes = Shopify.routes || {};
+         Shopify.routes.root = "/";
+      </script>
+      <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+      <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+      <script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
+      <script defer="defer" async="async" src="//www.istudiosg.com/cdn/shopifycloud/shop-js/client.js" onload="window.Shopify.SignInWithShop?.initShopCartSync?.({&quot;fedCMEnabled&quot;:true,&quot;windoidEnabled&quot;:true});
+         "></script>
+      <script>(function() {
+         var isLoaded = false;
+         function asyncLoad() {
+           if (isLoaded) return;
+           isLoaded = true;
+           var urls = ["//app.backinstock.org/widget/91512_1746008386.js?category=bisu0026v=6u0026shop=istudio-elush-production.myshopify.com"];
+           for (var i = 0; i < urls.length; i++) {
+             var s = document.createElement('script');
+             s.type = 'text/javascript';
+             s.async = true;
+             s.src = urls[i];
+             var x = document.getElementsByTagName('script')[0];
+             x.parentNode.insertBefore(s, x);
+           }
+         };
+         if(window.attachEvent) {
+           window.attachEvent('onload', asyncLoad);
+         } else {
+           window.addEventListener('load', asyncLoad, false);
+         }
+         })();
+      </script>
+      <script id="__st">var __st={"a":63738642612,"offset":28800,"reqid":"04c86973-5e2c-42e3-9d06-03b64158a049-1759762349","pageurl":"www.istudiosg.com/products/iphone-17-pro-mg8h4x-a","u":"1f94d1565a86","p":"product","rtyp":"product","rid":7986665160884};</script>
+      <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+      <script type="application/ld+json">
+{
   "@context": "https://schema.org",
-  "url": "https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/",
-  "name": "IDEBET",
-  "sku": "889154",
-  "gtin": "n\/a",
-  "description": "IDEBET merupakan situs slot Mahjong Ways 2 dengan link slot gacor 2026 terpercaya yang menawarkan akses bermain stabil serta didukung server handal serta system aman modern.",
-  "image": [{
-   "@type": "ImageObject",
-   "@context": "https://schema.org",
-   "author": "IDEBET",
-   "contentURL": "https://i.imgur.com/aBiWd6l.jpeg",
-   "description": null,
-   "thumbnail": "https://i.imgur.com/aBiWd6l.jpeg"
-  }],
-  "category": "IDEBET > SLOT MAHJONG > SLOT GACOR",
+  "@type": "Product",
+  "url": "https://kamimadrasah.com/jasa-pembuatan-website/",
+  "name": "IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil Keasliannya",
+  "sku": "3215487804",
+  "description": "Menghadirkan situs slot Bank DIY gacor, IDEBET menawarkan sistem permainan yang aman, stabil, dan nyaman untuk bermain setiap hari.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "author": "IDEBET",
+      "contentUrl": "https://i.imgur.com/3mqYgjH.png",
+      "thumbnailUrl": "https://i.imgur.com/3mqYgjH.png"
+    }
+  ],
+  "category": "Android Game < Slot Gacor < Slot Online",
   "brand": {
-   "@type": "Brand",
-   "@context": "https://schema.org",
-   "name": "IDEBET"
+    "@type": "Brand",
+    "name": "IDEBET"
   },
-  "logo": "https://i.imgur.com/aBiWd6l.jpeg",
+  "logo": "https://this-is-salts.b-cdn.net/fav.png",
   "aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "5.0",
-   "reviewCount": 18090
+    "@type": "AggregateRating",
+    "ratingValue": 4.9,
+    "reviewCount": 887788
   },
   "offers": {
-   "@type": "Offer",
-   "eligibleQuantity": 800,
-   "price": "25000",
-   "priceCurrency": "IDR",
-   "availability": "https://schema.org\/InStock",
-   "shippingDetails": {
-    "@type": "OfferShippingDetails",
-    "shippingRate": {
-     "@type": "MonetaryAmount",
-     "value": "0",
-     "currency": "IDR"
+    "@type": "AggregateOffer",
+    "offerCount": 952,
+    "lowPrice": 258621,
+    "highPrice": 494253,
+    "priceCurrency": "IDR",
+    "availability": "https://schema.org/InStock",
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingOrigin": {
+        "@type": "DefinedRegion",
+        "addressCountry": "ID"
+      }
     }
-   }
   },
-  "review": [{
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2025-08-27",
-   "reviewBody": "Transaksi selalu cepat! Pemprosesan tidak sampai 2 menit. Ini yang bikin para pemain betah main di IDEBET. ditambah dukungan layanan 24jam sangat ramah dan responsif.",
-   "author": {
-    "@type": "Person",
-    "name": "Sule"
-   }
-  }, {
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2025-08-28",
-   "reviewBody": "Permainan slot memang beda! RTP-nya hampir semua permainan 80% rata - rata gacor dibanding platform lainnya. Baru main sudah dapat sensational di provider Pragmatic.",
-   "author": {
-    "@type": "Person",
-    "name": "Jacob"
-   }
-  }, {
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2025-01-20",
-   "reviewBody": "Dari iseng coba main kecil, malah ketagihan, di tambah Bonus New Member gak ribet claimnya, withdraw tanpa drama. Sejak itu IDEBET jadi situs favorit saya.",
-   "author": {
-    "@type": "Person",
-    "name": "Iqbal"
-   }
-  }, {
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2024-12-07",
-   "reviewBody": "Game slot mahjong ways 2 juga tersedia sangat lengkap, jadi main nggak bakal terasa membosankan. Saya paling suka Mahjong Ways 2 karena gameplay-nya stabil, animasinya halus, dan fitur free spin-nya sering kasih kejutan. Proses permainan transparan, fair play, dan yang paling penting—berapa pun kemenangan yang didapat, pasti dibayar LUNAS!",
-   "author": {
-    "@type": "Person",
-    "name": "Dika"
-   }
-  }]
- }
+  "review": [
+    {
+  "@type": "Review",
+  "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
+  "datePublished": "2025-07-12",
+  "reviewBody": "Awalnya coba Link Slot777 edisi terbaru di IDEBET, ternyata slot gacor hari ini benar-benar terasa. Pola mainnya enak dan peluang maxwin lebih terbuka.",
+  "author": { "@type": "Person", "name": "Danu Prasetyo" }
+},
+{
+  "@type": "Review",
+  "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
+  "datePublished": "2025-08-18",
+  "reviewBody": "Akses Link Slot777 di IDEBET cepat dan stabil. Main slot gacor hari ini tanpa gangguan, ditambah pelayanan yang responsif bikin makin nyaman.",
+  "author": { "@type": "Person", "name": "Hendra Gunawan" }
+},
+{
+  "@type": "Review",
+  "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
+  "datePublished": "2025-08-03",
+  "reviewBody": "Server IDEBET benar-benar lancar. Slot gacor hari ini gampang dimainkan dan tidak ada delay, jadi peluang maxwin bisa dimaksimalkan.",
+  "author": { "@type": "Person", "name": "Febrian Ardiansyah" }
+},
+{
+  "@type": "Review",
+  "reviewRating": { "@type": "Rating", "ratingValue": 5, "bestRating": 5 },
+  "datePublished": "2025-03-07",
+  "reviewBody": "IDEBET punya Link Slot777 edisi terbaru yang konsisten. Permainan slotnya terasa fair, pembayaran lancar, dan cocok buat cari maxwin bertahap.",
+  "author": { "@type": "Person", "name": "Kevin Mahardika" }
+}
+  ]
+}
 </script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil Keasliannya",
+  "description": "Menghadirkan situs slot Bank DIY gacor, IDEBET menawarkan sistem permainan yang aman, stabil, dan nyaman untuk bermain setiap hari.",
+  "thumbnailUrl": [
+    "https://i.imgur.com/3mqYgjH.png",
+    "https://i.imgur.com/3mqYgjH.png"
+  ],
+  "uploadDate": "2024-09-28T04:19:10-04:00",
+  "duration": "PT18S"
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "IDEBET",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "SITUS SLOT",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "SLOT777",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "SLOT GACOR",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "BANDAR SLOT",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "SLOT ONLINE",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "name": "SLOT RESMI",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "name": "SLOT777",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "name": "IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil",
+      "item": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    }
+  ]
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://kamimadrasah.com/jasa-pembuatan-website/#org",
+      "name": "IDEBET",
+      "url": "https://kamimadrasah.com/jasa-pembuatan-website/",
+      "logo": "https://i.imgur.com/3mqYgjH.png"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://kamimadrasah.com/jasa-pembuatan-website/#website",
+      "url": "https://kamimadrasah.com/jasa-pembuatan-website/",
+      "name": "IDEBET",
+      "publisher": { "@id": "https://kamimadrasah.com/jasa-pembuatan-website/#org" },
+      "inLanguage": "id-ID",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://kamimadrasah.com/jasa-pembuatan-website/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://kamimadrasah.com/jasa-pembuatan-website/#app",
+      "name": "IDEBET",
+      "applicationCategory": "GameApplication",
+      "operatingSystem": "Android, iOS, Windows",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.9,
+        "ratingCount": 62595
+      }
+    }
+  ]
+}
+</script>
+
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -287,2887 +328,6680 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apa itu IDEBET dan bagaimana cara mainnya?",
+      "name": "Apa itu IDEBET?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "IDEBET adalah situs slot Mahjong Ways 2 dan menawarkan berbagai variasi permainan slot gacor dengan link alternatif yang bisa diakses dari semua perangkat. Pemain dapat merasakan sensasi taruhan slot Mahjong Ways 2 dengan aman dan nyaman di situs kami."
+        "text": "IDEBET adalah platform hiburan online yang menyediakan Link Slot777 edisi terbaru dengan fokus pada slot gacor hari ini dan akses yang stabil."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah IDEBET aman digunakan?",
+      "name": "Apa keunggulan Link Slot777 edisi terbaru di IDEBET?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Tentu, IDEBET memprioritaskan keamanan dan kenyamanan para pengguna melalui sistem permainan yang adil dan keamanan terlindungi menggunakan enkripsi SSL Terkini."
+        "text": "Link Slot777 edisi terbaru di IDEBET selalu diperbarui secara berkala, mudah diakses, dan dirancang agar permainan berjalan lancar tanpa gangguan."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah IDEBET menyediakan permainan slot Mahjong resmi dan terpercaya?",
+      "name": "Apakah IDEBET menyediakan slot gacor hari ini?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ya! IDEBET menawarkan berbagai permainan slot Mahjong Ways 2 yang telah menghadirkan pengalaman bermain resmi dan terpercaya, dengan berbagai fitur menarik dan hadiah besar yang siap dimenangkan."
+        "text": "Ya, IDEBET menghadirkan pilihan slot gacor hari ini yang disusun berdasarkan performa permainan dan kenyamanan bermain."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah IDEBET menyediakan permainan slot gacor gampang jackpot?",
+      "name": "Bagaimana peluang maxwin di IDEBET?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ya, IDEBET menyediakan game slot gacor dari berbagai provider slot terbaik di Dunia, dimana setiap permainan dirancang memiliki putaran bonus yang memperbesar peluang jackpot kepada setiap pemain."
+        "text": "IDEBET menawarkan pengalaman bermain yang seimbang dengan sistem permainan optimal, sehingga peluang maxwin terasa lebih mudah dan menyenangkan."
       }
     },
     {
       "@type": "Question",
-      "name": "Bagaimana cara daftar akun di situs slot IDEBET?",
+      "name": "Bagaimana cara mengakses IDEBET dengan aman?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Untuk bergabung, cukup cari “IDEBET” melalui Google, lalu pilih menu Daftar. Isi formulir pendaftaran, lakukan verifikasi akun, dan Anda langsung dapat mengakses semua permainan slot Mahjong Ways 2 yang tersedia, lengkap dengan fitur menarik dan peluang kemenangan besar."
+        "text": "Pengguna dapat mengakses IDEBET melalui link resmi yang selalu diperbarui untuk memastikan koneksi aman, cepat, dan stabil."
       }
     }
   ]
 }
 </script>
-<script type="application/ld+json">
- {
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-   "@type": "ListItem",
-   "position": 1,
-   "name": "IDEBET",
-   "item": "https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/"
-  }, {
-   "@type": "ListItem",
-   "position": 2,
-   "name": "SLOT MAHJONG",
-   "item": "https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/"
-  }, {
-   "@type": "ListItem",
-   "position": 2,
-   "name": "SLOT GACOR",
-   "item": "https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/"
-  }, {
-   "@type": "ListItem",
-   "position": 3,
-   "name": "SITUS GACOR",
-   "item": "https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/"
-  }]
- }
-</script> 
+      <script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//www.istudiosg.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
+      <script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://www.istudiosg.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};</script>
+      <script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+         function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+      </script>
+      <script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));</script>
+      <link rel="stylesheet" href="https://protection-animale-catholique.org/matrix/shadowcss/protection/sytle.css">
+      <script id='scb4127' type='text/javascript' async='' src='https://www.istudiosg.com/cdn/shopifycloud/privacy-banner/storefront-banner.js'></script><script id="sections-script" data-sections="header" defer="defer" src="//www.istudiosg.com/cdn/shop/t/14/compiled_assets/scripts.js?3348"></script>
+      <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+      <style>
+         #Details-popup_custom_6mTgxV-template--17605519376564__main
+         .popup_round_border {
+         display: inline-block !important;
+         }
+         #PopupModal-popup_custom_6mTgxV .image{
+         width:100%;
+         height:auto;
+         display:block;
+         }
+         #PopupModal-popup_custom_6mTgxV .image.desktop{
+         display:none;
+         }
+         #PopupModal-popup_custom_6mTgxV
+         .product-popup-modal__content{
+         padding: 0 1rem;
+         }
+         #PopupModal-popup_custom_6mTgxV
+         .product-popup-modal__content-info
+         > h1.h2 {
+         display: none;
+         }
+         @media screen and (min-width:750px){
+         #PopupModal-popup_custom_6mTgxV .product-popup-modal__content{
+         width:80%
+         }
+         #PopupModal-popup_custom_6mTgxV .image.desktop{
+         display:block;
+         }
+         #PopupModal-popup_custom_6mTgxV .image.mobile{
+         display:none;
+         }
+         }
+         #PopupModal-popup_custom_6mTgxV
+         .product-popup-modal__content-info{
+         padding-right: 0;
+         }
+         @font-face {
+         font-family: 'SF Pro Text';
+         src: url("//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Regular.woff2?v=21706269404805127741742784888") format('woff2'),
+         url("//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Regular.woff?v=144701899629177247781742784888") format('woff');
+         font-weight: 400;
+         font-style: normal;
+         font-display: swap;
+         }
+         @font-face {
+         font-family: 'SF Pro Text';
+         src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Medium.woff2?v=142744590770268640871742784888') format('woff2'),
+         url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Medium.woff?v=86846661406826704271742784889') format('woff');
+         font-weight: 500;
+         font-style: normal;
+         font-display: swap;
+         }
+         @font-face {
+         font-family: 'SF Pro Text';
+         src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Semibold.woff2?v=31375109001105336161742784889') format('woff2'),
+         url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Semibold.woff?v=158359377723366996921742784888') format('woff');
+         font-weight: 600;
+         font-style: normal;
+         font-display: swap;
+         }
+         @font-face {
+         font-family: 'SF Pro Text';
+         src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Bold.woff2?v=81066619648910226671742784888') format('woff2'),
+         url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Bold.woff?v=11034071917097156431742784889') format('woff');
+         font-weight: 700;
+         font-style: bold;
+         font-display: swap;
+         }
+         @font-face {
+         font-family: 'Font Awesome 6 Free';
+         font-style: normal;
+         font-weight: 900;
+         font-display: block;
+         src: url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-solid-900.woff2?v=118991557498766039071742784889") format("woff2"), url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-solid-900.ttf?v=11227793290438786691742784887") format("truetype");
+         }
+         @font-face {
+         font-family: 'Font Awesome 6 Brands';
+         font-style: normal;
+         font-weight: 400;
+         font-display: block;
+         src: url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-brands-400.woff2?3348") format("woff2"), url("  //www.istudiosg.com/cdn/shop/t/14/assets/fa-brands-400.ttf?3348") format("truetype");
+         }
+      </style>
+      <style data-shopify>
+         @font-face {
+         font-family: Assistant;
+         font-weight: 400;
+         font-style: normal;
+         font-display: swap;
+         src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f") format("woff2"),
+         url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.6e9875ce64e0fefcd3f4446b7ec9036b3ddd2985.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=04204526227e0d14a011b44f621eed958a37dd24ff228dec608fad5ba3714e53") format("woff");
+         }
+         @font-face {
+         font-family: Assistant;
+         font-weight: 700;
+         font-style: normal;
+         font-display: swap;
+         src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n7.bf44452348ec8b8efa3aa3068825305886b1c83c.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=3eb98cb4f0f5b11a3f34feed0aa554dd621b127bc1cbc141c68703f90e8e42d3") format("woff2"),
+         url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n7.0c887fee83f6b3bda822f1150b912c72da0f7b64.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=d0e65006948e80adf21a0472f7da1fee501e61f043b62e661027b9eeb582385b") format("woff");
+         }
+         @font-face {
+         font-family: Assistant;
+         font-weight: 400;
+         font-style: normal;
+         font-display: swap;
+         src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f") format("woff2"),
+         url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.6e9875ce64e0fefcd3f4446b7ec9036b3ddd2985.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=04204526227e0d14a011b44f621eed958a37dd24ff228dec608fad5ba3714e53") format("woff");
+         }
+         :root,
+         .color-background-1 {
+         --color-background: 255,255,255;
+         --gradient-background: #ffffff;
+         --color-foreground: 18,18,18;
+         --color-shadow: 18,18,18;
+         --color-button: 0,113,227;
+         --color-button-text: 255,255,255;
+         --color-secondary-button: 255,255,255;
+         --color-secondary-button-text: 18,18,18;
+         --color-link: 18,18,18;
+         --color-badge-foreground: 18,18,18;
+         --color-badge-background: 255,255,255;
+         --color-badge-border: 18,18,18;
+         --payment-terms-background-color: rgb(255 255 255);
+         }
+         .color-background-2 {
+         --color-background: 243,243,243;
+         --gradient-background: #f3f3f3;
+         --color-foreground: 18,18,18;
+         --color-shadow: 18,18,18;
+         --color-button: 18,18,18;
+         --color-button-text: 243,243,243;
+         --color-secondary-button: 243,243,243;
+         --color-secondary-button-text: 18,18,18;
+         --color-link: 18,18,18;
+         --color-badge-foreground: 18,18,18;
+         --color-badge-background: 243,243,243;
+         --color-badge-border: 18,18,18;
+         --payment-terms-background-color: rgb(243 243 243);
+         }
+         .color-inverse {
+         --color-background: 36,40,51;
+         --gradient-background: #242833;
+         --color-foreground: 255,255,255;
+         --color-shadow: 18,18,18;
+         --color-button: 255,255,255;
+         --color-button-text: 0,0,0;
+         --color-secondary-button: 36,40,51;
+         --color-secondary-button-text: 255,255,255;
+         --color-link: 255,255,255;
+         --color-badge-foreground: 255,255,255;
+         --color-badge-background: 36,40,51;
+         --color-badge-border: 255,255,255;
+         --payment-terms-background-color: rgb(36 40 51);
+         }
+         .color-accent-1 {
+         --color-background: 18,18,18;
+         --gradient-background: #121212;
+         --color-foreground: 255,255,255;
+         --color-shadow: 18,18,18;
+         --color-button: 255,255,255;
+         --color-button-text: 18,18,18;
+         --color-secondary-button: 18,18,18;
+         --color-secondary-button-text: 255,255,255;
+         --color-link: 255,255,255;
+         --color-badge-foreground: 255,255,255;
+         --color-badge-background: 18,18,18;
+         --color-badge-border: 255,255,255;
+         --payment-terms-background-color: rgb(18 18 18);
+         }
+         .color-accent-2 {
+         --color-background: 51,79,180;
+         --gradient-background: #334fb4;
+         --color-foreground: 255,255,255;
+         --color-shadow: 18,18,18;
+         --color-button: 255,255,255;
+         --color-button-text: 51,79,180;
+         --color-secondary-button: 51,79,180;
+         --color-secondary-button-text: 255,255,255;
+         --color-link: 255,255,255;
+         --color-badge-foreground: 255,255,255;
+         --color-badge-background: 51,79,180;
+         --color-badge-border: 255,255,255;
+         --payment-terms-background-color: rgb(51 79 180);
+         }
+         .color-scheme-ac1f97d9-2391-4261-b2e4-e6912b28bacf {
+         --color-background: 0,0,0;
+         --gradient-background: rgba(0,0,0,0);
+         --color-foreground: 255,255,255;
+         --color-shadow: 18,18,18;
+         --color-button: 0,113,227;
+         --color-button-text: 255,255,255;
+         --color-secondary-button: 0,0,0;
+         --color-secondary-button-text: 18,18,18;
+         --color-link: 18,18,18;
+         --color-badge-foreground: 255,255,255;
+         --color-badge-background: 0,0,0;
+         --color-badge-border: 255,255,255;
+         --payment-terms-background-color: rgb(0 0 0);
+         }
+         body, .color-background-1, .color-background-2, .color-inverse, .color-accent-1, .color-accent-2, .color-scheme-ac1f97d9-2391-4261-b2e4-e6912b28bacf {
+         color: rgba(var(--color-foreground), 0.75);
+         background-color: rgb(var(--color-background));
+         }
+         :root {
+         --font-body-family: Assistant, sans-serif;
+         --font-body-style: normal;
+         --font-body-weight: 400;
+         --font-body-weight-bold: 700;
+         --font-heading-family: Assistant, sans-serif;
+         --font-heading-style: normal;
+         --font-heading-weight: 400;
+         --font-body-scale: 1.0;
+         --font-heading-scale: 1.0;
+         --media-padding: px;
+         --media-border-opacity: 0.05;
+         --media-border-width: 1px;
+         --media-radius: 0px;
+         --media-shadow-opacity: 0.0;
+         --media-shadow-horizontal-offset: 0px;
+         --media-shadow-vertical-offset: 0px;
+         --media-shadow-blur-radius: 0px;
+         --media-shadow-visible: 0;
+         --page-width: 120rem;
+         --page-width-margin: 0rem;
+         --product-card-image-padding: 0.0rem;
+         --product-card-corner-radius: 0.0rem;
+         --product-card-text-alignment: left;
+         --product-card-border-width: 0.0rem;
+         --product-card-border-opacity: 0.0;
+         --product-card-shadow-opacity: 0.1;
+         --product-card-shadow-visible: 1;
+         --product-card-shadow-horizontal-offset: 0.0rem;
+         --product-card-shadow-vertical-offset: 0.0rem;
+         --product-card-shadow-blur-radius: 0.0rem;
+         --collection-card-image-padding: 0.0rem;
+         --collection-card-corner-radius: 0.0rem;
+         --collection-card-text-alignment: left;
+         --collection-card-border-width: 0.0rem;
+         --collection-card-border-opacity: 0.0;
+         --collection-card-shadow-opacity: 0.1;
+         --collection-card-shadow-visible: 1;
+         --collection-card-shadow-horizontal-offset: 0.0rem;
+         --collection-card-shadow-vertical-offset: 0.0rem;
+         --collection-card-shadow-blur-radius: 0.0rem;
+         --blog-card-image-padding: 0.0rem;
+         --blog-card-corner-radius: 0.0rem;
+         --blog-card-text-alignment: left;
+         --blog-card-border-width: 0.0rem;
+         --blog-card-border-opacity: 0.1;
+         --blog-card-shadow-opacity: 0.0;
+         --blog-card-shadow-visible: 0;
+         --blog-card-shadow-horizontal-offset: 0.0rem;
+         --blog-card-shadow-vertical-offset: 0.4rem;
+         --blog-card-shadow-blur-radius: 0.5rem;
+         --badge-corner-radius: 4.0rem;
+         --popup-border-width: 1px;
+         --popup-border-opacity: 0.1;
+         --popup-corner-radius: 0px;
+         --popup-shadow-opacity: 0.0;
+         --popup-shadow-horizontal-offset: 0px;
+         --popup-shadow-vertical-offset: 0px;
+         --popup-shadow-blur-radius: 0px;
+         --drawer-border-width: 1px;
+         --drawer-border-opacity: 0.1;
 
-        <meta property="al:ios:url" content="etsy://listing/1790774795?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="Etsy" /><meta property="al:android:url" content="etsy://listing/1790774795?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="Etsy" />
-
-
-
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-GB/";</script>
+         --drawer-shadow-opacity: 0.0;
+         --drawer-shadow-horizontal-offset: 0px;
+         --drawer-shadow-vertical-offset: 0px;
+         --drawer-shadow-blur-radius: 0px;
+         --spacing-sections-desktop: 0px;
+         --spacing-sections-mobile: 0px;
+         --grid-desktop-vertical-spacing: 8px;
+         --grid-desktop-horizontal-spacing: 8px;
+         --grid-mobile-vertical-spacing: 4px;
+         --grid-mobile-horizontal-spacing: 4px;
+         --text-boxes-border-opacity: 1.0;
+         --text-boxes-border-width: 0px;
+         --text-boxes-radius: 0px;
+         --text-boxes-shadow-opacity: 0.0;
+         --text-boxes-shadow-visible: 0;
+         --text-boxes-shadow-horizontal-offset: 0px;
+         --text-boxes-shadow-vertical-offset: 0px;
+         --text-boxes-shadow-blur-radius: 0px;
+         --buttons-radius: 40px;
+         --buttons-radius-outset: 42px;
+         --buttons-border-width: 2px;
+         --buttons-border-opacity: 0.4;
+         --buttons-shadow-opacity: 0.0;
+         --buttons-shadow-visible: 0;
+         --buttons-shadow-horizontal-offset: 0px;
+         --buttons-shadow-vertical-offset: 0px;
+         --buttons-shadow-blur-radius: 0px;
+         --buttons-border-offset: 0.3px;
+         --inputs-radius: 4px;
+         --inputs-border-width: 1px;
+         --inputs-border-opacity: 0.55;
+         --inputs-shadow-opacity: 0.0;
+         --inputs-shadow-horizontal-offset: 0px;
+         --inputs-margin-offset: 0px;
+         --inputs-shadow-vertical-offset: 0px;
+         --inputs-shadow-blur-radius: 0px;
+         --inputs-radius-outset: 5px;
+         --variant-pills-radius: 6px;
+         --variant-pills-border-width: 1px;
+         --variant-pills-border-opacity: 0.2;
+         --variant-pills-shadow-opacity: 0.0;
+         --variant-pills-shadow-horizontal-offset: -4px;
+         --variant-pills-shadow-vertical-offset: 0px;
+         --variant-pills-shadow-blur-radius: 0px;
+         --font-body-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont;
+         --font-body-style: normal;
+         --font-body-weight: 400;
+         --font-heading-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont;
+         --font-heading-style: normal;
+         --font-heading-weight: 400;
+         --font-body-scale: 1.0;
+         --font-heading-scale: 1.0;
+         --color-base-text: 18, 18, 18;
+         --color-shadow: 18, 18, 18;
+         --color-base-background-1: 255, 255, 255;
+         --color-base-background-2: 255, 255, 255;
+         --color-base-solid-button-labels: 255, 255, 255;
+         --color-base-outline-button-labels: 18, 18, 18;
+         --color-base-accent-1: 0, 113, 227;
+         --color-base-accent-2: 51, 79, 180;
+         --payment-terms-background-color: #FFFFFF;
+         --gradient-base-background-1: #FFFFFF;
+         --gradient-base-background-2: #FFFFFF;
+         --gradient-base-accent-1: #0071e3;
+         --gradient-base-accent-2: #334FB4;
+         --media-padding: px;
+         --media-border-opacity: 0.05;
+         --media-border-width: 1px;
+         --media-radius: 0px;
+         --media-shadow-opacity: 0.0;
+         --media-shadow-horizontal-offset: 0px;
+         --media-shadow-vertical-offset: 0px;
+         --media-shadow-blur-radius: 0px;
+         --page-width: 120rem;
+         --page-width-margin: 0rem;
+         --card-image-padding: 0.0rem;
+         --card-corner-radius: 0.0rem;
+         --card-text-alignment: left;
+         --card-border-width: 0.0rem;
+         --card-border-opacity: 0.0;
+         --card-shadow-opacity: 0.1;
+         --card-shadow-horizontal-offset: 0.0rem;
+         --card-shadow-vertical-offset: 0.0rem;
+         --card-shadow-blur-radius: 0.0rem;
+         --badge-corner-radius: 4.0rem;
+         --popup-border-width: 1px;
+         --popup-border-opacity: 0.1;
+         --popup-corner-radius: 0px;
+         --popup-shadow-opacity: 0.0;
+         --popup-shadow-horizontal-offset: 0px;
+         --popup-shadow-vertical-offset: 0px;
+         --popup-shadow-blur-radius: 0px;
+         --drawer-border-width: 1px;
+         --drawer-border-opacity: 0.1;
+         --drawer-shadow-opacity: 0.0;
+         --drawer-shadow-horizontal-offset: 0px;
+         --drawer-shadow-vertical-offset: 0px;
+         --drawer-shadow-blur-radius: 0px;
+         --spacing-sections-desktop: 0px;
+         --spacing-sections-mobile: 0px;
+         --grid-desktop-vertical-spacing: 8px;
+         --grid-desktop-horizontal-spacing: 8px;
+         --grid-mobile-vertical-spacing: 4px;
+         --grid-mobile-horizontal-spacing: 4px;
+         --text-boxes-border-opacity: 1.0;
+         --text-boxes-border-width: 0px;
+         --text-boxes-radius: 0px;
+         --text-boxes-shadow-opacity: 0.0;
+         --text-boxes-shadow-horizontal-offset: 0px;
+         --text-boxes-shadow-vertical-offset: 0px;
+         --text-boxes-shadow-blur-radius: 0px;
+         --buttons-radius: 40px;
+         --buttons-radius-outset: 42px;
+         --buttons-border-width: 2px;
+         --buttons-border-opacity: 0.4;
+         --buttons-shadow-opacity: 0.0;
+         --buttons-shadow-horizontal-offset: 0px;
+         --buttons-shadow-vertical-offset: 0px;
+         --buttons-shadow-blur-radius: 0px;
+         --buttons-border-offset: 0.3px;
+         --inputs-radius: 4px;
+         --inputs-border-width: 1px;
+         --inputs-border-opacity: 0.55;
+         --inputs-shadow-opacity: 0.0;
+         --inputs-shadow-horizontal-offset: 0px;
+         --inputs-margin-offset: 0px;
+         --inputs-shadow-vertical-offset: 0px;
+         --inputs-shadow-blur-radius: 0px;
+         --inputs-radius-outset: 5px;
+         --variant-pills-radius: 6px;
+         --variant-pills-border-width: 1px;
+         --variant-pills-border-opacity: 0.2;
+         --variant-pills-shadow-opacity: 0.0;
+         --variant-pills-shadow-horizontal-offset: -4px;
+         --variant-pills-shadow-vertical-offset: 0px;
+         --variant-pills-shadow-blur-radius: 0px;
+         --color-primary-bt-bg: #ffffff;
+         --color-primary-bt-label: #FFFFFF;
+         --color-primary-bt-outline: #0071e3;
+         --color-primary-bt-hover: #62bbfa;
+         --color-secondary-bt-bg: transparent;
+         --color-secondary-bt-label: #0071e3;
+         --color-secondary-bt-outline: #0071e3;
+         --color-secondary-bt-hover: #62bbfa;
+         --color-link-dynamic-label: #0071e3;
+         --color-link-dynamic-hover: #62bbfa;
+         --color-tertiary-dynamic-label: #0071e3;
+         --color-tertiary-dynamic-hover: #62bbfa;
+         }
+         *,
+         *::before,
+         *::after {
+         box-sizing: inherit;
+         }
+         html {
+         box-sizing: border-box;
+         font-size: calc(var(--font-body-scale) * 62.5%);
+         height: 100%;
+         }
+         body {
+         min-height: 100%;
+         margin: 0;
+         font-size: 1.5rem;
+         letter-spacing: 0.06rem;
+         line-height: calc(1 + 0.8 / var(--font-body-scale));
+         font-family: var(--font-body-family);
+         font-style: var(--font-body-style);
+         font-weight: var(--font-body-weight);
+         -webkit-font-smoothing: antialiased;
+         }
+         body:has(.shopify-section-group-footer-group) {
+         display: grid;
+         grid-template-rows: auto auto 1fr auto;
+         grid-template-columns: 100%;
+         }
+         @media screen and (min-width: 750px) {
+         body {
+         font-size: 1.6rem;
+         }
+         }
+      </style>
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/base.css?v=127241086646799884071742784889" rel="stylesheet" type="text/css" media="all" />
+      <link rel="preload" as="font" href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f" type="font/woff2" crossorigin>
+      <link rel="preload" as="font" href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f" type="font/woff2" crossorigin>
+      <link
+         rel="stylesheet"
+         href="//www.istudiosg.com/cdn/shop/t/14/assets/component-predictive-search.css?v=91813212418334334851742784888"
+         media="print"
+         onload="this.media='all'"
+         >
+      <script>
+         document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+         if (Shopify.designMode) {
+           document.documentElement.classList.add('shopify-design-mode');
+         }
+         const vat_free_day = false;
+         
+         const vat_discount_amount = 20.0;
+         
+         
+         const vat_free_quantity = "3";
+         
+         
+         const vat_free_message = "Cannot add more than 3 VAT-exempt products to the shopping cart";
+         
+         
+         const not_available_message = "Not Available";
+         
+         
+         const quantity_limit_error_message = "Sorry! you reached maximum limit for this product!";
+         
+      </script>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-card.css?v=111081949408356567601742784889" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" media="print" onload="this.media='all'">
+      <link
+         rel="stylesheet"
+         href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888"
+         media="print"
+         onload="this.media='all'"
+         >
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme.css?v=155861180100014643231742784887" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme-min.css?v=86793612638635186001742784889" media="print" onload="this.media='all'">
+      <noscript>
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" rel="stylesheet" type="text/css" media="all" />
+      </noscript>
+      <noscript>
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888" rel="stylesheet" type="text/css" media="all" />
+      </noscript>
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="print" onload="this.media='all'">
+      <link
+         rel="stylesheet"
+         href="//www.istudiosg.com/cdn/shop/t/14/assets/product-collection-carousel.css?v=15060387450964793051742784888"
+         media="print"
+         onload="this.media='all'"
+         >
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889" media="print" onload="this.media='all'">
+      <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-model.js?v=56285008796734381901742784888" defer></script>
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.css?v=15722724579182767671742784888" rel="stylesheet" type="text/css" media="all" />
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887" rel="stylesheet" type="text/css" media="all" />
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887" media="print" onload="this.media='all'">
+      <link
+         rel="stylesheet"
+         href="//www.istudiosg.com/cdn/shop/t/14/assets/component-apple-care-modal.css?v=72539108787457179491742784889"
+         media="print"
+         onload="this.media='all'"
+         >
+      <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/fontawesome.min.css?v=137756382566111518581742784888" media="print" onload="this.media='all'">
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-pickup-availability.css?v=126759165165079086151742784888" rel="stylesheet" type="text/css" media="all" />
+      <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+      <script>
+         window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+         window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+         window.ShopifyAnalytics.meta.currency = 'SGD';
+         var meta = {"product":{"id":7986665160884,"gid":"gid://shopify/Product/7986665160884","vendor":"Apple","type":"iPhone","variants":[{"id":44033871610036,"price":25900,"name":"IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil","public_title":null,"sku":"MG8H4X/A"}],"remote":false},"page":{"pageType":"product","resourceType":"product","resourceId":7986665160884}};
+         for (var attr in meta) {
+           window.ShopifyAnalytics.meta[attr] = meta[attr];
+         }
+      </script>
+      
+      <script
+         defer
+         src="https://www.istudiosg.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.13.min.js"
+         data-application="storefront-renderer"
+         data-shop-id="63738642612"
+         data-render-region="gcp-asia-southeast1"
+         data-page-type="product"
+         data-theme-instance-id="139536236724"
+         data-theme-name="Dawn"
+         data-theme-version="11.0.0"
+         data-monorail-region="shop_domain"
+         data-resource-timing-sampling-rate="10"
+         data-shs="true"
+         data-shs-beacon="true"
+         data-shs-export-with-fetch="true"
+         data-shs-logs-sample-rate="1"
+         ></script>
+	</head>
+	<body
+      class="gradient animate--hover-default"
+      data-template="product"
+      >
+      <div id="shopify-section-announcement_bar_slider" class="shopify-section">
+         <script src="//www.istudiosg.com/cdn/shop/t/14/assets/announcement-bar-slider.js?v=142197795293918470981742784887" defer="defer"></script>
+         <div class="hura-announcement-bar slider-container">
+            <div class="hura-messages swiper-wrapper">
+               <div class="hura-message swiper-slide slick-slide">
+                  IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil
+                  <a href="https://kamimadrasah.pages.dev/jasa-pembuatan" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
+                  Daftar Disini !
+                  </a>
+               </div>
+               <div class="hura-message swiper-slide slick-slide">
+                  Situs slot Dengan rtp slot tertinggi hari ini
+               </div>
+               <div class="hura-message swiper-slide slick-slide">
+                  situs game online fitur lengkap
+               </div>
+               <div class="hura-message swiper-slide slick-slide">
+                  Situs slot online hari ini Lisensi Resmi Internasional
+               </div>
+               <div class="hura-message swiper-slide slick-slide">
+                  platform slot gacor terpercaya Ternama Dunia
+               </div>
+               <div class="hura-message swiper-slide slick-slide">
+                  Dengan layanan customer care terbaik
+               </div>
+            </div>
+         </div>
+         <style>
+            .hura-messages.swiper-wrapper{display:none}.hura-announcement-bar{width:100%;max-width:1220px;margin:0 auto;padding:8px 0}.hura-announcement-bar .slick-track{display:flex;align-items:center}.hura-messages.swiper-wrapper.slick-initialized.slick-slider{display:flex} div#shopify-section-announcement_bar_slider {background:#F2775E;} .hura-announcement-bar .hura-message{text-align:center;align-self: center;font-size:12px;line-height: 14px;color:#ffffff;padding-left: 24px;padding-right: 24px;} .hura-announcement-bar .swiper-button-next:after, .hura-announcement-bar .swiper-container-rtl .swiper-button-prev:after,.hura-announcement-bar .swiper-button-prev:after, .hura-announcement-bar .swiper-container-rtl .swiper-button-next:after{font-size: 15px;color:#ffffff;} .hura-messages .slick-prev:before, .hura-messages .slick-next:before {color: #ffffff !important;opacity: 1;} .hura-messages .slick-prev:before {content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M5.16164 10.3233L6 9.48493L1.67671 5.16164L6 0.838358L5.16164 0L0 5.16164L5.16164 10.3233Z' fill='white'/%3E%3C/svg%3E%0A");} .hura-messages .slick-next:before {content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.838356 0.676713L-8.46107e-07 1.51507L4.32329 5.83836L-9.01992e-08 10.1616L0.838357 11L6 5.83836L0.838356 0.676713Z' fill='white'/%3E%3C/svg%3E%0A");} div.hura-swiper-button { display:block; align-items: center;}
+            .slick-next,.slick-next:focus,.slick-next:hover,.slick-prev,.slick-prev:focus,.slick-prev:hover{color:transparent;outline:0;background:0 0}.slick-next,.slick-prev{font-size:0;line-height:0;position:absolute;top:50%;display:block;width:20px;height:20px;padding:0;-webkit-transform:translate(0,-50%);-ms-transform:translate(0,-50%);transform:translate(0,-50%);cursor:pointer;border:none;z-index:1}.slick-next:focus:before,.slick-next:hover:before,.slick-prev:focus:before,.slick-prev:hover:before{opacity:1}.slick-next.slick-disabled:before,.slick-prev.slick-disabled:before{opacity:.25}.slick-next:before,.slick-prev:before{font-family:slick;font-size:20px;line-height:1;opacity:.75;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-prev{left:0}[dir=rtl] .slick-prev{right:-25px;left:auto}.slick-prev:before,[dir=rtl] .slick-next:before{content:'←'}.slick-next:before,[dir=rtl] .slick-prev:before{content:'→'}.slick-next{right:0}[dir=rtl] .slick-next{right:auto;left:-25px}.announcement_link {	color: #d0d0d0 !important; text-decoration: none;	}
+            @media screen and (max-width:749px){.slick-prev{left:-21px}.slick-next{right:-21px}.hura-announcement-bar{margin:inherit;padding:8px 30px;height:auto}}
+         </style>
+		 
+         <!-- OVERLAY SALJU + KEMBANG API -->
+<div class="snow-wrap" id="fx-overlay"></div>
 
 <style>
-    * {
-    font-family: "Mulish", sans-serif !important;
-    text-decoration: none !important;
+/* === LAYER GLOBAL === */
+.snow-wrap {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 9999;
 }
 
-    </style>
-
-        <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="Etsy"/>
-    </head>
-    <body class="ui-toolkit transitional-wide etsy-has-it-design is-responsive no-touch en-GB IDR ID"
-        data-language="en-GB"
-        data-currency="IDR"
-        data-region="ID"
-        
-    >
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-    !function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.defer=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,"script","https://www.etsy.com/include/tags.js", "D013AA612AB2224D03B2318D0F5B19", {
-        endpoint:"https://www.etsy.com/include/tags.js",
-        ajaxListenerPath: true,
-        enableTagEvents: true,
-        overrideAbortFetch: true,
-        abortAsyncOnChallengeDisplay: true,
-        disableAutoRefreshOnCaptchaPassed: false,
-        replayAfterChallenge: true
-    });
-
-    var DD_BLOCKED_EVENT_NAME = "dd_blocked";
-    var DD_RESPONSE_DISPLAYED_EVENT_NAME = "dd_response_displayed";
-    var DD_RESPONSE_ERROR_EVENT_NAME = "dd_response_error";
-
-    window.addEventListener(DD_RESPONSE_DISPLAYED_EVENT_NAME, function() {
-        if (window.Sentry && window.Sentry.setTag) {
-            window.Sentry.setTag(DD_RESPONSE_DISPLAYED_EVENT_NAME, true);
-        }
-    });
-
-    window.addEventListener(DD_BLOCKED_EVENT_NAME, function() {
-        if (window.Sentry && window.Sentry.setTag) {
-            window.Sentry.setTag(DD_BLOCKED_EVENT_NAME, true);
-        }
-    });
-
-    window.addEventListener(DD_RESPONSE_ERROR_EVENT_NAME, function() {
-        if (window.Sentry && window.Sentry.setTag) {
-            window.Sentry.setTag(DD_RESPONSE_ERROR_EVENT_NAME, true);
-        }
-    });
-</script>
-
-        
-
-        
-
-        <div data-above-header class="wt-z-index-5 wt-position-relative">
-            
-            
-
-        </div>
-
-        <div data-selector="header-cat-nav-wrapper" data-menu-ui="menubar">
-<div id="gnav-header" class=" gnav-header global-nav v2-toolkit-gnav-header wt-z-index-6 wt-bg-white wt-position-relative " data-as-version="10_12672349415_19" data-count-ajax data-show-suggested-searches-in-as="1" data-show-gift-card-cta-in-as="1" data-as-personalized="1" data-as-extras="{&amp;quot;expt&amp;quot;:&amp;quot;all_xml&amp;quot;,&amp;quot;lang&amp;quot;:&amp;quot;en-GB&amp;quot;,&amp;quot;extras&amp;quot;:[]}" data-cheact="1" data-gnav-header>
-    <header id="gnav-header-inner" class="global-enhancements-header wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-width-full wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-lg-6 wt-pr-lg-6 wt-bb-xs wt-bb-lg-none gnav-header-inner wt-pt-lg-2 
-        
-        "
-        role="banner">
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">!function(e){var r=e.__etsy_logging;if(r&&r.perf&&r.perf.prefixMarkMeasure){var n=r.perf.prefixMarkMeasure("logo_render");e.performance&&e.performance.mark&&e.requestAnimationFrame((function(){setTimeout((function(){e.performance.mark(n)}))}))}}(window);</script>
-        <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
-            <a href="/" elementtiming="ux-global-nav">
-                <span class="wt-screen-reader-only">IDEBET</span>
-                <img src="https://i.imgur.com/cB9VTUb.png" alt="IDEBET" style="max-height:40px;">
-            </a>
-        </div>
-            <nav class="wt-hide-xs wt-show-lg">
-                <div data-clg-id="WtMenu" class="wt-menu wt-tooltip ge-menu--body-below-trigger wt-tooltip--disabled-touch dropdown-category-menu wt-menu--bottom wt-menu--left" data-wt-menu data-wt-tooltip="true" data-menu-body-below-trigger="true" data-close-on-select="true" data-hide-trigger-on-open="false" data-animate-in="true" data-contain-focus="false" data-open-direction-vert="bottom" data-open-direction-horiz="left" data-open-direction-force="true" data-menu-type="action">
-       
-        <button
-          type="button"
-          class="wt-menu__trigger wt-btn wt-btn--transparent header-button wt-mr-xs-1 wt-btn--small"
-          aria-haspopup="true"
-          aria-expanded="false"
-          data-wt-menu-trigger
-          data-level="0"
-          data-overlay-trigger-selector= "overlay-trigger-ele"
-        >
-          <span class="etsy-icon wt-mr-xs-1 wt-icon--smaller">
-            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" viewBox="0 0 18 18">
-              <rect x="2" y="8"  width="14" height="2"/>
-              <rect x="2" y="13" width="14" height="2"/>
-              <rect x="2" y="3"  width="14" height="2"/>
-            </svg>
-          </span>
-          Categories
-        </button>
-
-        <div data-neu-spec-placeholder="1" id="bd2c69bf978c5288825b3623782eb9a1">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Etsy\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu","args":[]}</script>
-    <div>
-    
-        
-</div>
-</div>
-
-        <span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs wt-br-xs-none wt-bb-xs-none"></span>
-
-</div>
-            </nav>
-
-        <div class="wt-width-full wt-display-flex-xs wt-pr-lg-3 wt-flex-lg-1 order-mobile-tablet-2" data-hamburger-search-container>
-            <button
-          data-id="hamburger"
-          class="wt-btn wt-btn--transparent wt-btn--icon wt-hide-lg
-               wt-btn--transparent-flush-left
-                         wt-mb-xs-2
-               
-               wt-mb-lg-0
-               header-button"
-          aria-controls="mobile-catnav-overlay"
-          tab-index="0"
-     >
-          <span class="wt-screen-reader-only">
-                    Browse
-          </span>
-          <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 7H3V5h18zm-5 6H3v-2h13zm5 6H3v-2h18z"/></svg></span>
-     </button>
-            <div class="wt-display-inline-block wt-flex-xs-1 wt-pl-lg-0
-                wt-mb-xs-2
-        
-        wt-mb-lg-0">
-    <form id="gnav-search"
-          class="global-enhancements-search-nav wt-position-relative wt-display-flex-xs"
-          method="GET"
-          action="/search.php"
-          role="search"
-          data-gnav-search
-          data-ge-search-clearable
-          data-trending-searches="1">
-
-        <label for="global-enhancements-search-query" class="wt-label wt-screen-reader-only">
-   Search for items or shops
-</label>
-<div 
-    class="search-container"
-    data-id="search-bar"
->
-    <div
-        class="wt-input-btn-group global-enhancements-search-input-btn-group emphasized_search_bar emphasized_search_bar_grey_bg search-bar-container"
-        data-id="search-suggestions-trigger"
-    >
-        <input id="global-enhancements-search-query"
-            data-id="search-query"
-            data-search-input
-            type="text"
-            name="search_query"
-            class="wt-input wt-input-btn-group__input global-enhancements-search-input-btn-group__input
-                    wt-pr-xs-7
-                                        
-                    "
-            placeholder="Cari Kami Di Google 'IDEBET'"
-            value=""
-            autocomplete="off"
-            autocorrect="off"
-            autocapitalize="off"
-            role="combobox"
-            aria-autocomplete="both"
-            aria-controls="global-enhancements-search-suggestions"
-            aria-expanded="false"
-        />
-        <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-btn--small position-absolute-important wt-position-right wt-z-index-9 wt-animated  wt-animated--is-hidden
-            
-            search-close-btn-margin-right " data-search-close-btn>
-            <span class="wt-screen-reader-only">Clear search</span>
-            <span class="wt-icon wt-icon--smaller wt-nudge-t-1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-        </button>
-        <button
-            type="submit"
-            class="wt-input-btn-group__btn global-enhancements-search-input-btn-group__btn
-                
-                "
-            value="Search"
-            aria-label="Search"
-        data-id="gnav-search-submit-button">
-            
-            <span class="wt-icon wt-nudge-b-2 wt-nudge-r-1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 19a8.46 8.46 0 0 0 5.262-1.824l4.865 4.864 1.414-1.414-4.865-4.865A8.5 8.5 0 1 0 10.5 19m0-2a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13"/></svg></span>
-        </button>
-    </div>
-    <div id="global-enhancements-search-suggestions"
-        class="global-nav-menu__body
-            search-suggestions-container
-             wt-width-full wt-max-width-full
-            "
-         data-id="search-suggestions">
-    </div>
-</div>
-
-<input id="search-js-router-enabled" type="hidden" value="true" />
-<input type="hidden" value="all" name="search_type" id="search-type" />
-    </form>
-</div>
-        </div>
-
-        <a 
-    data-selector="skip-to-content-marketplace"
-    class="global-enhancements-skip-to-content wt-screen-reader-only wt-focusable" 
-    href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/"
->
-    <div id="skip-to-content-wrapper" class="wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-body-max-width wt-width-full wt-height-full wt-position-absolute wt-position-top wt-position-left wt-position-right wt-bg-denim wt-z-index-10">
-        <label class="wt-btn wt-btn--transparent wt-btn--light">
-            Skip to Content
-        </label>
-    </div>
-</a>
-
-        
-
-        <div
-            class="mobile-catnav-wrapper wt-overlay wt-overlay--peek wt-overlay--peek-left wt-p-xs-0"
-            data-wt-overlay
-            id="mobile-catnav-overlay"
-            aria-hidden="true"
-            aria-modal="false"
-            role="dialog"
-            
-        >
-        </div>
-
-        <div class="wt-flex-shrink-xs-0" data-primary-nav-container>
-            <nav aria-label="Main">
-    <ul class="wt-display-flex-xs wt-justify-content-space-between wt-list-unstyled wt-m-xs-0 wt-align-items-center">
-        <li 
-    data-favorites-nav-container 
-    data-ge-nav-menu="favorites"
-    data-ge-hover-event-name="gnav_hover_favorites_menu"
->
-
-</li>
-
-
-
-
-<li>
-<div data-clg-id="WtMenu" class="wt-menu wt-tooltip ge-menu ge-menu--body-below-trigger ge-menu--help wt-tooltip--disabled-touch" data-wt-menu data-wt-tooltip="true" data-ge-nav-menu="help" data-ge-nav-event-name="gnav_show_help_menu" data-ge-hover-event-name="gnav_hover_help_menu" data-menu-body-below-trigger="true" data-hide-trigger-on-open="false" data-animate-in="true" data-close-on-select="true" data-contain-focus="false" data-open-direction-vert="bottom" data-open-direction-horiz="right" data-open-direction-force="true" data-menu-type="action">
-    <button data-clg-id="WtMenuTrigger" type="button" class="wt-menu__trigger wt-btn wt-btn--transparent wt-tooltip__trigger help-menu-trigger wt-btn--icon wt-pr-xs-1 wt-display-inline-flex-xs reduced-margin-xs header-button" aria-haspopup="true" aria-expanded="false" data-wt-menu-trigger aria-describedby="ge-tooltip-label-help" aria-label="Help &amp; Support" data-overlay-trigger-selector="overlay-trigger-ele">
-        <span class="wt-menu__trigger__label">            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 22a10 10 0 1 1 10-10 10.013 10.013 0 0 1-10 10m0-18a8 8 0 1 0 8 8 8.01 8.01 0 0 0-8-8"/><path d="M12 18a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1-4h-2a3.04 3.04 0 0 1 1.7-2.379c.8-.566 1.3-.947 1.3-1.621a2 2 0 1 0-4 0H8a4 4 0 1 1 8 0 4 4 0 0 1-2.152 3.259c-.33.186-.62.438-.848.741"/></svg></span>
-</span>
-        <span class="wt-icon wt-menu__trigger__caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><polygon points="16.5 10 12 16 7.5 10 16.5 10"/></svg></span>
-</button>
-        <span id="ge-tooltip-label-help" role="tooltip">Help & Support</span>
-
-<div data-clg-id="WtMenuBody" role="menu" class="wt-menu__body ge-help-menu-dimensions wt-display-flex-xs wt-flex-direction-column-xs wt-pb-xs-2" data-wt-menu-body >
-                <ul class="wt-list-unstyled">
-                <li class="wt-sem-text-primary wt-list-unstyled">
-    <h4 class="wt-text-title-01 wt-mt-xs-1" aria-label="Help & Support">Help & Support</h4>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><div class="wt-mt-xs-3 wt-mb-xs-3 wt-mr-xs-3 wt-ml-xs-3">
-    <p class="wt-text-body-small">
-        Reach out to the seller first for help with an existing order. If you ever need us, Etsy has your back.
-    </p>
-</div>
-    <button
-        tabindex="0"
-        class="wt-btn wt-btn--transparent wt-btn--small wt-mb-xs-3"
-         data-selector="help_menu_cta_button"
-    >
-        Go to Purchases
-        <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m18.414 12-5.707 5.707-1.414-1.414L14.586 13H6v-2h8.586l-3.293-3.293 1.414-1.414z"/></svg></span>
-    </button><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><div class="wt-pt-xs-3">
-</div><li class="wt-sem-text-primary wt-list-unstyled">
-    <a 
-        role="menuitem" 
-        href="https://www.etsy.com/etsy-purchase-protection?ref=hdr_help_menu" 
-        class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" 
-            target="_blank"
-    >
-        <div>
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 36 37" fill="none" aria-hidden="true" focusable="false">
-<path d="M18.24 7.37659C21.615 5.26159 26.205 5.95159 29.175 8.90659C32.76 12.4916 32.76 18.2816 29.175 21.8666L25.935 25.1066" fill="#4D6BC6"/>
-<path d="M26.7449 25.9015L25.1249 24.2815L28.3649 21.0415C31.4849 17.9215 31.4849 12.8365 28.3649 9.70152C25.7549 7.09152 21.7499 6.52152 18.8549 8.33652L17.6399 6.40152C21.4349 4.01652 26.6249 4.73652 29.9849 8.09652C34.0049 12.1165 34.0049 18.6565 29.9849 22.6765L26.7449 25.9165V25.9015Z" fill="#222222"/>
-<path d="M30.0601 19.1965L26.4601 15.5965L19.7701 8.90652C16.1851 5.32152 10.3951 5.32152 6.81009 8.90652C3.22509 12.4915 3.22509 18.2815 6.81009 21.8665L11.4301 26.4865L14.6701 29.7265C15.5701 30.6265 17.0101 30.6265 17.9101 29.7265C18.8101 28.8265 18.8101 27.3865 17.9101 26.4865L16.6201 25.1965L19.5301 28.1065C20.4301 29.0065 21.8701 29.0065 22.7701 28.1065C23.6701 27.2065 23.6701 25.7665 22.7701 24.8665L23.5801 25.6765C24.4801 26.5765 25.9201 26.5765 26.8201 25.6765C27.7201 24.7765 27.7201 23.3365 26.8201 22.4365L23.1751 18.7915L26.8201 22.4365C27.7201 23.3365 29.1601 23.3365 30.0601 22.4365C30.9601 21.5365 30.9601 20.0965 30.0601 19.1965Z" fill="#D7E6F5"/>
-<path d="M12.495 29.1414L6.015 22.6614C1.995 18.6414 1.995 12.1014 6.015 8.08141C10.035 4.06141 16.575 4.06141 20.595 8.08141L27.285 14.7714L25.665 16.3914L18.975 9.70141C15.855 6.58141 10.77 6.58141 7.635 9.70141C4.515 12.8214 4.515 17.9064 7.635 21.0414L14.115 27.5214L12.495 29.1414Z" fill="#222222"/>
-<path d="M16.2901 31.5266C15.4051 31.5266 14.5351 31.1966 13.8601 30.5216L10.6201 27.2816L12.2401 25.6616L15.4801 28.9016C15.9301 29.3516 16.6501 29.3516 17.1001 28.9016C17.5501 28.4516 17.5501 27.7316 17.1001 27.2816L13.8601 24.0416L15.4801 22.4216L18.7201 25.6616C20.0551 26.9966 20.0551 29.1866 18.7201 30.5216C18.0451 31.1966 17.1751 31.5266 16.2901 31.5266Z" fill="#222222"/>
-<path d="M21.1501 29.9064C20.2651 29.9064 19.3951 29.5764 18.7201 28.9014L13.8601 24.0414L15.4801 22.4214L20.3401 27.2814C20.7901 27.7314 21.5101 27.7314 21.9601 27.2814C22.4101 26.8314 22.4101 26.1114 21.9601 25.6614L17.1001 20.8014L18.7201 19.1814L23.5801 24.0414C24.9151 25.3764 24.9151 27.5664 23.5801 28.9014C22.9051 29.5764 22.0351 29.9064 21.1501 29.9064Z" fill="#222222"/>
-<path d="M25.2001 27.4915C24.2851 27.4915 23.4151 27.1315 22.7701 26.4865L17.1001 20.8165L18.7201 19.1965L24.3901 24.8665C24.8401 25.3165 25.5601 25.3165 26.0101 24.8665C26.4601 24.4165 26.4601 23.6965 26.0101 23.2465L20.3401 17.5765L21.9601 15.9565L27.6301 21.6265C28.9651 22.9615 28.9651 25.1515 27.6301 26.4865C26.9851 27.1315 26.1151 27.4915 25.2001 27.4915Z" fill="#222222"/>
-<path d="M28.4401 24.2516C27.5251 24.2516 26.6551 23.8916 26.0101 23.2466L20.3401 17.5766L21.9601 15.9566L27.6301 21.6266C28.0651 22.0616 28.8151 22.0616 29.2501 21.6266C29.4751 21.4166 29.5801 21.1166 29.5801 20.8166C29.5801 20.5166 29.4601 20.2166 29.2501 20.0066L23.5801 14.3366L25.2001 12.7166L30.8701 18.3866C31.5151 19.0316 31.8751 19.9016 31.8751 20.8166C31.8751 21.7316 31.5151 22.6016 30.8701 23.2466C30.2251 23.8916 29.3551 24.2516 28.4401 24.2516Z" fill="#222222"/>
-<path d="M24.2851 10.2415L17.2651 15.1615C15.9601 16.0765 14.1751 15.7615 13.2601 14.4565C12.3601 13.1665 12.6601 11.3815 13.9501 10.4665C15.4801 9.38647 17.4601 7.93147 18.0901 7.54147C21.4651 5.42647 26.2201 5.95147 29.1751 8.90647" fill="#4D6BC6"/>
-<path d="M14.6101 11.3815L16.0351 10.3615C16.7701 9.83645 17.5201 9.31145 18.0601 8.92145C18.3301 8.72645 18.5551 8.57645 18.7051 8.48645C19.2001 8.17145 19.7251 7.96145 20.2801 7.78145C23.0251 6.88145 26.2651 7.57145 28.3801 9.70145L30.0001 8.08145C26.8801 4.96145 21.8701 4.21145 18.0751 6.22145C17.8801 6.32645 17.6851 6.43145 17.4901 6.55145C17.1601 6.76145 16.5151 7.21145 15.7651 7.75145C15.4351 7.99145 15.0751 8.24645 14.7151 8.50145L13.2901 9.52145C11.4901 10.7965 11.0551 13.3015 12.3301 15.1015C12.9451 15.9865 13.8751 16.5715 14.9251 16.7515C15.1651 16.7965 15.3901 16.8115 15.6301 16.8115C16.4551 16.8115 17.2501 16.5565 17.9251 16.0765L22.3051 13.0165L24.2101 11.6815L22.5601 10.0315L20.6551 11.3665L16.6051 14.2015C16.2301 14.4715 15.7651 14.5615 15.3151 14.4865C14.8651 14.4115 14.4601 14.1565 14.2051 13.7815C13.6651 13.0015 13.8451 11.9215 14.6251 11.3815H14.6101Z" fill="#222222"/>
-</svg></span>
-        </div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">IDEBET</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="help_menu_hc_link">
-    <a 
-        role="menuitem" 
-        href="https://www.etsy.com/help" 
-        class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" 
-            target="_blank"
-    >
-        <div>
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M12,22A10,10,0,1,1,22,12,10.012,10.012,0,0,1,12,22ZM12,4a8,8,0,1,0,8,8A8.009,8.009,0,0,0,12,4Z"/><circle cx="12" cy="16.5" r="1.5"/><path d="M13,14H11a3.043,3.043,0,0,1,1.7-2.379C13.5,11.055,14,10.674,14,10a2,2,0,1,0-4,0H8a4,4,0,1,1,8,0,4,4,0,0,1-2.152,3.259A2.751,2.751,0,0,0,13,14Z"/></svg></span>
-        </div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Help Centre</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="help_menu_contact_link">
-    <a 
-        role="menuitem" 
-        href="https://www.etsy.com/help/contact" 
-        class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" 
-            target="_blank"
-    >
-        <div>
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M21 3H3a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8.65l4.73 3.78a1 1 0 0 0 1.4-.15A1 1 0 0 0 18 20v-3h3a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm-1 12.05h-4V18l-3.38-2.71a.92.92 0 0 0-.62-.22H4V5h16zM8 11a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1z"/></svg></span>
-        </div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Contact Etsy Support</p>
-        </div>
-    </a>
-</li><div class="wt-pb-xs-2">
-</div>
-            </ul>
-
-</div>
-        <span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs"></span>
-
-</div></li>
-<li data-user-nav-container >
-<div data-clg-id="WtMenu" class="wt-menu wt-tooltip ge-menu ge-menu--body-below-trigger ge-menu--you-menu wt-tooltip--disabled-touch" data-wt-menu data-wt-tooltip="true" data-ge-nav-menu="user" data-ge-nav-event-name="gnav_show_user_menu" data-ge-hover-event-name="gnav_hover_user_menu" data-menu-body-below-trigger="true" data-hide-trigger-on-open="false" data-animate-in="true" data-close-on-select="true" data-contain-focus="false" data-open-direction-vert="bottom" data-open-direction-horiz="right" data-open-direction-force="true" data-menu-type="action">
-    
-        <button data-clg-id="WtMenuTrigger" type="button" class="wt-menu__trigger wt-btn wt-btn--transparent wt-tooltip__trigger wt-btn--icon wt-pr-xs-1 wt-display-inline-flex-xs reduced-margin-xs header-button ge-menu--you-menu" aria-haspopup="true" aria-expanded="false" data-wt-menu-trigger aria-describedby="ge-tooltip-label-you-menu" aria-label="You with 0 notifications" data-selector="you-menu-tooltip">
-        <span class="wt-menu__trigger__label">    <img
-    data-clg-id="WtImage"
-    class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://i.imgur.com/qby4S4Q.png"
-    alt="Claire Edelyn avatar"
-    style="aspect-ratio: 1;"
-    
-    
-    
-/>
-    <span class="wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right wt-z-index-1 wt-no-wrap ge-menu-count-badge
-          wt-display-none"
-          aria-hidden="true"
-          data-notification="you-menu">
-        0
-    </span>
-</span>
-        <span class="wt-icon wt-menu__trigger__caret"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><polygon points="16.5 10 12 16 7.5 10 16.5 10"/></svg></span>
-</button>
-        <span id="ge-tooltip-label-you-menu" role="tooltip">Your account</span>
-
-<div data-clg-id="WtMenuBody" role="menu" class="wt-menu__body wt-pt-xs-2 wt-pb-xs-2 ge-you-menu-dimensions wt-z-index-10" data-wt-menu-body >
-                <ul class="wt-list-unstyled">
-                <li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/people/r6cailhwo6qt62hc?ref=hdr_user_menu-profile" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1">
-        <div><img
-    data-clg-id="WtImage"
-    class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://i.imgur.com/qby4S4Q.png"
-    alt="Claire Edelyn avatar"
-    style="aspect-ratio: 1;"
-    
-    
-    
-/></div>
-        <span class="wt-ml-xs-2 wt-flex-grow-xs-1">
-            <h4 class="wt-text-title-01 wt-m-xs-0" aria-label="View your profile">Claire Edelyn</h4>
-            <p class="wt-text-caption wt-m-xs-0" aria-hidden="true">View your profile</p>
-        </span>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/your/purchases?ref=hdr_user_menu-txs" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16.5,12h-9a0.5,0.5,0,0,1,0-1h9A0.5,0.5,0,0,1,16.5,12Z"/><path d="M15.5,15h-8a0.5,0.5,0,0,1,0-1h8A0.5,0.5,0,0,1,15.5,15Z"/><path d="M13.5,18h-6a0.5,0.5,0,0,1,0-1h6A0.5,0.5,0,1,1,13.5,18Z"/><path d="M20,3H15.859A3.982,3.982,0,0,0,8.141,3H4A1,1,0,0,0,3,4V21a1,1,0,0,0,1,1H20a1,1,0,0,0,1-1V4A1,1,0,0,0,20,3ZM10,5h0.277A1.979,1.979,0,0,1,10,4a2,2,0,0,1,4,0,1.979,1.979,0,0,1-.277,1H14a2,2,0,0,1,2,2H8A2,2,0,0,1,10,5Zm9,15H5V5H6.54A3.972,3.972,0,0,0,6,7V9H18V7a3.972,3.972,0,0,0-.54-2H19V20Z"/><circle cx="12" cy="3.5" r="0.5"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Purchases and reviews</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/messages?ref=hdr_user_menu-messages" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" aria-label="Messages with 0 notifications" target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 3H3a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8.65l4.73 3.78a1 1 0 0 0 1.4-.15A1 1 0 0 0 18 20v-3h3a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm-1 12.05h-4V18l-3.38-2.71a.92.92 0 0 0-.62-.22H4V5h16zM8 11a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" aria-hidden="true">
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Messages</p>
-                <span data-notification="messages" class="wt-display-none wt-badge wt-badge--notificationPrimary wt-badge--small wt-nudge-b-1 wt-ml-xs-1">0</span>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/offers?ref=hdr_user_menu-coupons" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M11,22a1,1,0,0,1-.707-0.293l-8-8a1,1,0,0,1,0-1.414l10-10A1,1,0,0,1,13,2h8a1,1,0,0,1,1,1v8a1,1,0,0,1-.293.707l-10,10A1,1,0,0,1,11,22ZM4.414,13L11,19.586l9-9V4H13.414Z"/><circle cx="16" cy="8" r="2"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Special offers</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="data-registry-menu-link">
-    <a role="menuitem" href="https://www.etsy.com/registry?ref=hdr_user_menu-registry" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 15a1 1 0 1 0 0-2 1 1 0 0 0 0 2m1 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0m1-2.25h5v-1.5h-5zm5 3h-5v-1.5h5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M18 4.5c0 .537-.12 1.045-.337 1.5H20v16H4V6h2.337A3.5 3.5 0 0 1 12 2.05a3.5 3.5 0 0 1 6 2.45m-2 0A1.5 1.5 0 0 1 14.5 6H13V4.5a1.5 1.5 0 0 1 3 0M8 9a3 3 0 0 0 2.236-1H6v12h12V8h-4.236c.55.614 1.348 1 2.236 1v2a5 5 0 0 1-4-2 5 5 0 0 1-4 2zm1.5-6A1.5 1.5 0 0 1 11 4.5V6H9.5a1.5 1.5 0 1 1 0-3"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Etsy Registry</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/sell?ref=hdr-sell&from_page=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1790774795%2Fbook-club-print-bookish-poster-trendy" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 9a3.333 3.333 0 0 0 6.667.023A3.333 3.333 0 0 0 15.334 9 3.333 3.333 0 0 0 22 9l-5-7H7zm13.334 0H4.458l3.571-5h7.942l3.571 5zM18 13h2v9H4v-9h2v2h12zm0 4H6v3h12z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Sell on Etsy</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
-    <div class="wt-bt-xs"></div>
-</li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="hc_link_profile_dropdown">
-    <a role="menuitem" href="https://www.etsy.com/help?ref=hdr_user_menu-hc_link" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 22a10 10 0 1 1 10-10 10.013 10.013 0 0 1-10 10m0-18a8 8 0 1 0 8 8 8.01 8.01 0 0 0-8-8"/><path d="M12 18a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1-4h-2a3.04 3.04 0 0 1 1.7-2.379c.8-.566 1.3-.947 1.3-1.621a2 2 0 1 0-4 0H8a4 4 0 1 1 8 0 4 4 0 0 1-2.152 3.259c-.33.186-.62.438-.848.741"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Help Centre</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/your/account?ref=hdr_user_menu-settings" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1"  target="_blank">
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M19 12.3v-.6l.9-.9c.3-.3.5-.7.6-1.2.1-.4 0-.9-.2-1.3l-1-1.7c-.2-.4-.6-.7-1-.9-.4-.2-.9-.2-1.3-.1l-1.2.3c-.2-.1-.4-.2-.5-.3L15 4.4c-.1-.4-.4-.8-.7-1.1-.4-.1-.9-.3-1.3-.3h-2c-.4 0-.9.2-1.2.4-.4.3-.6.7-.7 1.1l-.4 1.2c-.1.1-.3.2-.5.4L7 5.7c-.4-.1-.9-.1-1.3.1s-.8.5-1 .9l-1 1.7c-.2.4-.3.8-.2 1.2.1.4.3.9.6 1.2l.9.9v.6l-1 .9c-.3.3-.5.7-.6 1.2s0 .9.2 1.3l1 1.7c.2.3.4.6.7.7.5.3 1 .3 1.6.2l1.2-.3c.2.1.4.2.5.3l.4 1.2c.1.4.4.8.7 1.1.4.3.8.4 1.2.4h2c.4 0 .9-.2 1.2-.4.4-.3.6-.7.7-1.1l.3-1.2c.2-.1.4-.2.5-.3l1.2.3c.2 0 .4.1.5.1.4 0 .7-.1 1-.3.3-.2.6-.4.7-.7l1-1.7c.2-.4.3-.8.3-1.3-.1-.4-.3-.8-.6-1.2l-.7-.9zm-2-1.4l.1.5v1.1l-.1.6 1.6 1.6-1 1.7-2.2-.6-.4.2c-.3.2-.7.4-1 .6l-.5.2L13 19h-2l-.5-2.2-.5-.2c-.4-.2-.7-.4-1-.6l-.4-.3-2.2.6-1-1.7L7 13.1v-.5V10.9L5.4 9.4l1-1.7 2.2.6L9 8c.3-.2.7-.4 1-.6l.5-.2L11 5h2l.5 2.2.5.2c.4.2.7.4 1 .6l.4.3 2.2-.6 1 1.7-1.6 1.5z"/><path d="M12 9c-1.7 0-3 1.4-3 3s1.4 3 3 3 3-1.4 3-3-1.3-3-3-3zm0 4c-.6 0-1-.5-1-1s.5-1 1-1 1 .5 1 1-.4 1-1 1z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Account settings</p>
-        </div>
-    </a>
-</li><li class="wt-sem-text-primary wt-list-unstyled">
-    <a role="menuitem" href="https://www.etsy.com/logout.php?ref=hdr_user_menu-signout" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
-        <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M2.7 11.3L2 12l.7.7 4 4c.4.4 1 .4 1.4 0 .4-.4.4-1 0-1.4L5.8 13H15c.6 0 1-.4 1-1s-.4-1-1-1H5.8l2.3-2.3c.2-.2.3-.4.3-.7 0-.6-.4-1-1-1-.3 0-.5.1-.7.3l-4 4z"/><path d="M22 19H10v-2h10V7H10V5h12z"/></svg></span></div>
-        <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Sign out</p>
-        </div>
-    </a>
-</li>
-            </ul>
-
-</div>
-        <span class="ge-menu__body-caret wt-z-index-10 wt-bg-white wt-position-absolute wt-bl-xs wt-bt-xs"></span>
-
-</div></li>
-<li 
-    data-ge-nav-menu="cart"
-    data-ge-hover-event-name="gnav_hover_cart_menu"
->
-    <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-        <a aria-label="Basket with 0 items" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
-            <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
-                0
-            </span>
-            <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 3a5 5 0 0 0-5 5v1H2.447l2.4 12h14.306l2.4-12H17V8a5 5 0 0 0-5-5m0 2a3 3 0 0 0-3 3v1h6V8a3 3 0 0 0-3-3M6.486 19l-1.6-8h14.227l-1.6 8z"/></svg></span>
-        </a>
-        <span role="tooltip" aria-hidden="true">Basket</span>
-    </span>
-</li>
-
-
-<div data-clg-id="WtOverlay" class="wt-overlay" id="overlay-transaction-review-react" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Module displaying the review form" data-wt-overlay>
-    <div class="wt-overlay__modal" data-overlay-modal>
-            <div data-leave-review-form-overlay-body aria-live="polite" aria-busy="true">
-    </div>
-
-    </div>
-</div>
-    </ul>
-</nav>
-        </div>
-    </header>
-
-    
-</div>
-
-
-
-
-
-<div class="wt-overlay wt-z-index-4" aria-hidden="true" data-ui="overlay"></div>
-
-<noscript>
-    <div class="wt-body-max-width wt-pt-xs-2 wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pt-md-3 wt-pb-xs-0">
-        <div id="javascript-nag" class="wt-alert wt-alert--inline wt-alert--success-01 wt-mb-xs-2">
-            <div> Take full advantage of our site features by enabling JavaScript. </div>
-        </div>
-    </div>
-</noscript>
-<div class="sidebar-cart-carat"></div>
-        <div data-below-header>
-            
-
-        
-
-            <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-    var webVitals=function(e){"use strict";var t,n,i,r,o,a=function(){return window.performance&&performance.getEntriesByType&&performance.getEntriesByType("navigation")[0]},u=function(e){if("loading"===document.readyState)return"loading";var t=a();if(t){if(e<t.domInteractive)return"loading";if(0===t.domContentLoadedEventStart||e<t.domContentLoadedEventStart)return"dom-interactive";if(0===t.domComplete||e<t.domComplete)return"dom-content-loaded"}return"complete"},c=function(e){var t=e.nodeName;return 1===e.nodeType?t.toLowerCase():t.toUpperCase().replace(/^#/,"")},s=function(e,t){var n="";try{for(;e&&9!==e.nodeType;){var i=e,r=i.id?"#"+i.id:c(i)+(i.classList&&i.classList.value&&i.classList.value.trim()&&i.classList.value.trim().length?"."+i.classList.value.trim().replace(/\s+/g,"."):"");if(n.length+r.length>(t||100)-1)return n||r;if(n=n?r+">"+n:r,i.id)break;e=i.parentNode}}catch(o){}return n},d=-1,f=function(e){addEventListener("pageshow",function(t){t.persisted&&(d=t.timeStamp,e(t))},!0)},l=function(){var e=a();return e&&e.activationStart||0},p=function(e,t){var n=a(),i="navigate";return d>=0?i="back-forward-cache":n&&(document.prerendering||l()>0?i="prerender":document.wasDiscarded?i="restore":n.type&&(i=n.type.replace(/_/g,"-"))),{name:e,value:void 0===t?-1:t,rating:"good",delta:0,entries:[],id:"v3-".concat(Date.now(),"-").concat(Math.floor(8999999999999*Math.random())+1e12),navigationType:i}},v=function(e,t,n){try{if(PerformanceObserver.supportedEntryTypes.includes(e)){var i=new PerformanceObserver(function(e){Promise.resolve().then(function(){t(e.getEntries())})});return i.observe(Object.assign({type:e,buffered:!0},n||{})),i}}catch(r){}},$=function(e,t,n,i){var r,o;return function(a){var u,c;t.value>=0&&(a||i)&&((o=t.value-(r||0))||void 0===r)&&(r=t.value,t.delta=o,t.rating=(u=t.value,u>(c=n)[1]?"poor":u>c[0]?"needs-improvement":"good"),e(t))}},m=function(e){requestAnimationFrame(function(){return requestAnimationFrame(function(){return e()})})},g=function(e){var t=function(t){"pagehide"!==t.type&&"hidden"!==document.visibilityState||e(t)};addEventListener("visibilitychange",t,!0),addEventListener("pagehide",t,!0)},y=function(e){var t=!1;return function(n){t||(e(n),t=!0)}},h=-1,T=function(){return"hidden"!==document.visibilityState||document.prerendering?1/0:0},b=function(e){"hidden"===document.visibilityState&&h>-1&&(h="visibilitychange"===e.type?e.timeStamp:0,S())},_=function(){addEventListener("visibilitychange",b,!0),addEventListener("prerenderingchange",b,!0)},S=function(){removeEventListener("visibilitychange",b,!0),removeEventListener("prerenderingchange",b,!0)},E=function(e){document.prerendering?addEventListener("prerenderingchange",function(){return e()},!0):e()},w={passive:!0,capture:!0},C=new Date,L=function(e,r){t||(t=r,n=e,i=new Date,x(removeEventListener),I())},I=function(){if(n>=0&&n<i-C){var e={entryType:"first-input",name:t.type,target:t.target,cancelable:t.cancelable,startTime:t.timeStamp,processingStart:t.timeStamp+n};r.forEach(function(t){t(e)}),r=[]}},k=function(e){if(e.cancelable){var t,n,i,r,o,a=(e.timeStamp>1e12?new Date:performance.now())-e.timeStamp;"pointerdown"==e.type?(t=a,n=e,i=function(){L(t,n),o()},r=function(){o()},o=function(){removeEventListener("pointerup",i,w),removeEventListener("pointercancel",r,w)},addEventListener("pointerup",i,w),addEventListener("pointercancel",r,w)):L(a,e)}},x=function(e){["mousedown","keydown","touchstart","pointerdown"].forEach(function(t){return e(t,k,w)})},P=0,B=1/0,D=0,N=function(e){e.forEach(function(e){e.interactionId&&(B=Math.min(B,e.interactionId),P=(D=Math.max(D,e.interactionId))?(D-B)/7+1:0)})},R=function(){return o?P:performance.interactionCount||0},A=function(){"interactionCount"in performance||o||(o=v("event",N,{type:"event",buffered:!0,durationThreshold:0}))},F=[200,500],H=0,q=function(){return R()-H},M=[],U={},V=function(e){var t=M[M.length-1],n=U[e.interactionId];if(n||M.length<10||e.duration>t.latency){if(n)n.entries.push(e),n.latency=Math.max(n.latency,e.duration);else{var i={id:e.interactionId,latency:e.duration,entries:[e]};U[i.id]=i,M.push(i)}M.sort(function(e,t){return t.latency-e.latency}),M.splice(10).forEach(function(e){delete U[e.id]})}},j=function(e,t){t=t||{},E(function(){A();var n,i,r=p("INP"),o=function(e){e.forEach(function(e){e.interactionId&&V(e),"first-input"!==e.entryType||M.some(function(t){return t.entries.some(function(t){return e.duration===t.duration&&e.startTime===t.startTime})})||V(e)});var t,n=M[t=Math.min(M.length-1,Math.floor(q()/50))];n&&n.latency!==r.value&&(r.value=n.latency,r.entries=n.entries,i())},a=v("event",o,{durationThreshold:null!==(n=t.durationThreshold)&&void 0!==n?n:40});i=$(e,r,F,t.reportAllChanges),a&&("interactionId"in PerformanceEventTiming.prototype&&a.observe({type:"first-input",buffered:!0}),g(function(){o(a.takeRecords()),r.value<0&&q()>0&&(r.value=0,r.entries=[]),i(!0)}),f(function(){M=[],H=R(),r=p("INP"),i=$(e,r,F,t.reportAllChanges)}))})},z=[2500,4e3],G={};return e.onINP=function(e,t){j(function(t){(function(e){if(e.entries.length){var t=e.entries.sort(function(e,t){return t.duration-e.duration||t.processingEnd-t.processingStart-(e.processingEnd-e.processingStart)})[0];e.attribution={eventTarget:s(t.target),eventType:t.name,eventTime:t.startTime,eventEntry:t,loadState:u(t.startTime)}}else e.attribution={}})(t),e(t)},t)},e.onLCP=function(e,t){var n,i;n=function(t){(function(e){if(e.entries.length){var t=a();if(t){var n=t.activationStart||0,i=e.entries[e.entries.length-1],r=i.url&&performance.getEntriesByType("resource").filter(function(e){return e.name===i.url})[0],o=Math.max(0,t.responseStart-n),u=Math.max(o,r?(r.requestStart||r.startTime)-n:0),c=Math.max(u,r?r.responseEnd-n:0),d=Math.max(c,i?i.startTime-n:0),f={element:s(i.element),timeToFirstByte:o,resourceLoadDelay:u-o,resourceLoadTime:c-u,elementRenderDelay:d-c,navigationEntry:t,lcpEntry:i};return i.url&&(f.url=i.url),r&&(f.lcpResourceEntry=r),void(e.attribution=f)}}e.attribution={timeToFirstByte:0,resourceLoadDelay:0,resourceLoadTime:0,elementRenderDelay:e.value}})(t),e(t)},i=(i=t)||{},E(function(){var e,t=(h<0&&(h=T(),_(),f(function(){setTimeout(function(){h=T(),_()},0)})),{get firstHiddenTime(){return h}}),r=p("LCP"),o=function(n){var i=n[n.length-1];i&&i.startTime<t.firstHiddenTime&&(r.value=Math.max(i.startTime-l(),0),r.entries=[i],e())},a=v("largest-contentful-paint",o);if(a){e=$(n,r,z,i.reportAllChanges);var u=y(function(){G[r.id]||(o(a.takeRecords()),a.disconnect(),G[r.id]=!0,e(!0))});["keydown","click"].forEach(function(e){addEventListener(e,function(){return setTimeout(u,0)},!0)}),g(u),f(function(t){r=p("LCP"),e=$(n,r,z,i.reportAllChanges),m(function(){r.value=performance.now()-t.timeStamp,G[r.id]=!0,e(!0)})})}})},Object.defineProperty(e,"__esModule",{value:!0}),e}({});
-</script>
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
-        window.Etsy=window.Etsy||{};
-        Etsy.Context=Etsy.Context||{};
-        (function() {
-            function assign(firstSource, secondSource) {
-                if (!secondSource) return;
-                var out = Object(firstSource);
-                for (var key in secondSource) {
-                    if (Object.prototype.hasOwnProperty.call(secondSource, key)) {
-                        out[key] = secondSource[key];
-                    }
-                }
-                return out;
-            }
-            Etsy.Context.feature=assign(Etsy.Context.feature ? Etsy.Context.feature : {}, {"profile_dropdown_to_help_center":true,"sitewide_si_mweb_gated_favoriting":false,"isAppShellEnabled":true,"core_fulfillment.product_level_readiness_states":false,"design_systems.buybox_performance_web_components":false,"seller_platform_web.buyer_inquiry":false,"seller_platform_web.seller_local_time":false,"seller_platform_web.item_detail_overlay":true,"buyer_promise.issue_resolution.fee_avoidance_v2":true,"content_moderation.convo_safety.structured_convos":false,"risk_experience.buyer_email_verification":false});
-            Etsy.Context.data=assign(Etsy.Context.data ? Etsy.Context.data : {}, {"is_mobile":false,"should_auto_redirect":false,"locale_settings":{"language":{"code":"en-GB","id":2,"name":"English (UK)","translation":"English (UK)","is_detected":false,"is_default":false},"currency":{"currency_id":360,"code":"IDR","name":"Indonesian Rupiah","number_precision":0,"symbol":"Rp","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true,"is_synthetic":true,"is_detected":false,"is_default":false,"append_currency_symbol":false},"region":{"code":"ID","country_id":121,"name":"Indonesia","translation":"Indonesia","is_detected":false,"is_default":false,"is_EU_region":false},"subdir_code":""},"neu_api_specs_sample_rate":null,"FB_GRAPHQL_VERSION":"v2.10","page_guid":"ffd82861b31.44b97b90cfaedc166dd4.00","primary_event_name":"view_listing","request_uuid":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","user_is_test_account":false,"user_id":1135369000,"css_variant":"sasquatch","runtime_analysis":false,"collage_shadow_dom_css_url":"https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.ba269cdecb93d2.css","vite_public_path":"https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-GB\/","is_app_shell":true,"csrf_nonce":"3:1758149097:uFOzO21NdRs68cZg6DS5qjvL1f9r:7518109ea94ca93016d63283d1a4a1dae00e70374a01527543eef133c137a3d4","uaid_nonce":"3:1758149097:jN5WV4yGC6bv-Y8gTz1rwqhWHeiQ:0cafa0e88e72ec07d7547dabb6a6d89ba489d98702d5b9d61cec91e06677cb61","clientlogger":{"is_enabled":true,"endpoint":"\/clientlog","logs_per_page":6,"id":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","digest":"ab599b0d4306cb21a1b94ce2fceed7bf07d6655e","enabled_features":["info","warn","error","basic","uncaught"]},"01125905a4e5ddf2_appshell_fallback":"recs-impression","3c65557fa67e42dc_appshell_fallback":"b8e259fc11597ab4d","c5420ec98ed7db34_appshell_fallback":"b6bdc236b8281fb35","imp_listener_sources":["ads","search","recs","nonlisting"],"impact_tracker_should_prompt_signin":false,"impact_tracker_should_direct_open":false,"shop_favorites_see_all_link":"See all","shop_favorites_search_header":"Shops you follow","is_mobile_shop_search":false,"show_simplified_mobile_header":false,"is_eligible_for_ship_to_setting_in_global_header":false,"remove_catnav_for_bots":false,"new_convo_count":0,"review-your-purchases-nav":true,"should_show_holidays_review_msg":false,"in_cart_count":0,"guest_uaid":"3risB690iqgVMEj0sW3Jxya5aa04","page_type":"view_listing","is_desktop_mini_favorites_operational_enabled":false,"should_show_preview_of_update":false,"clickable_nav":true,"has_dropdown":true,"add_vintage_node":false,"images_in_l2":false,"recs":[],"mweb_full_screen_search_dropdown":false,"relocate_cat_nav":false,"zero_pane_recent_searches":[],"is_eligible_to_fetch_category_suggestions":false,"category_suggestions_in_autosuggest_variant":null,"is_eligible_for_contentful_title_on_trending_searches":true,"is_eligible_for_always_show_shop_search":true,"is_eligible_for_search_bar_improvements":false,"is_eligible_for_refinement_pills_in_autosuggest":false,"mott_version":"761dfd2","catnav_show_sales":false,"catnav_gift_guide":"off","gifting_catnav_flyout_js":false,"should_show_registry_on_nav":false,"should_use_gifting_taxos_in_nav_flyout":false,"impact_message":{"footer_renewable_impact":{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]}},"airgap_url":"https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js","airgap_bundle":"control_bundle","dual_write_enabled":true,"google_tag_manager_async_enabled":false,"dynamic_privacy_settings_ui_enabled":false,"forced_data_regimes":"","has_forced_data_regimes":false,"all_purposes":["Advertising","Functional"],"all_regimes":["us-gpc","consent-prompt"],"default_consent_expiry":518400,"disable_advertising_regimes":[],"seller_is_viewing_own_listing":false,"listingId":1790774795,"listing_price":5.20000000000000017763568394002504646778106689453125,"shopId":54267703,"shop_id":54267703,"shop_name":"IDEBET","custom_orders_listings2":true,"is_listing_preview":false,"checkout_decorator":"","was_landing_from_external_referrer":true,"should_collapse_neighbors":false,"should_open_single_content_toggle":false,"is_logged_in":true,"referring_listing_id":1790774795,"address_formats":{"0":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"ZZ"},"55":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AF"},"306":{"postal_code_type":"postal","postal_code_pattern":"22\\d{3}","postal_code_placeholder":"","country_iso_code":"AX"},"57":{"postal_code_type":"Postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AL"},"95":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DZ"},"250":{"postal_code_type":"zip","postal_code_pattern":"(96799)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"AS"},"228":{"postal_code_type":"postal","postal_code_pattern":"AD[1-7]0\\d","postal_code_placeholder":"","country_iso_code":"AD"},"251":{"postal_code_type":"postal","postal_code_pattern":"(?:AI-)?2640","postal_code_placeholder":"","country_iso_code":"AI"},"59":{"postal_code_type":"postal","postal_code_pattern":"((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?","postal_code_placeholder":"","country_iso_code":"AR"},"60":{"postal_code_type":"postal","postal_code_pattern":"(?:37)?\\d{4}","postal_code_placeholder":"","country_iso_code":"AM"},"61":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3393","country_iso_code":"AU"},"62":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AT"},"63":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AZ"},"232":{"postal_code_type":"postal","postal_code_pattern":"(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)","postal_code_placeholder":"","country_iso_code":"BH"},"68":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BD"},"237":{"postal_code_type":"Postal","postal_code_pattern":"BB\\d{5}","postal_code_placeholder":"","country_iso_code":"BB"},"71":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"BY"},"65":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BE"},"225":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?[A-Z0-9]{2}","postal_code_placeholder":"","country_iso_code":"BM"},"76":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BT"},"70":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BA"},"74":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{3}","postal_code_placeholder":"","country_iso_code":"BR"},"255":{"postal_code_type":"postal","postal_code_pattern":"BBND 1ZZ","postal_code_placeholder":"","country_iso_code":"IO"},"231":{"postal_code_type":"postal","postal_code_pattern":"VG\\d{4}","postal_code_placeholder":"","country_iso_code":"VG"},"75":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{4}","postal_code_placeholder":"","country_iso_code":"BN"},"69":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BG"},"135":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"KH"},"79":{"postal_code_type":"postal","postal_code_pattern":"[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d","postal_code_placeholder":"A1A 1A1","country_iso_code":"CA"},"222":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CV"},"247":{"postal_code_type":"postal","postal_code_pattern":"KY\\d-\\d{4}","postal_code_placeholder":"","country_iso_code":"KY"},"81":{"postal_code_type":"postal","postal_code_pattern":"\\d{7}","postal_code_placeholder":"","country_iso_code":"CL"},"82":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CN"},"257":{"postal_code_type":"postal","postal_code_pattern":"6798","postal_code_placeholder":"","country_iso_code":"CX"},"258":{"postal_code_type":"postal","postal_code_pattern":"6799","postal_code_placeholder":"","country_iso_code":"CC"},"86":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CO"},"87":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}|\\d{3}-\\d{4}","postal_code_placeholder":"","country_iso_code":"CR"},"118":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HR"},"88":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"CU"},"89":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CY"},"90":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"CZ"},"93":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"DK"},"94":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DO"},"96":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"EC"},"97":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EG"},"187":{"postal_code_type":"postal","postal_code_pattern":"CP [1-3][1-7][0-2]\\d","postal_code_placeholder":"CP 1101","country_iso_code":"SV"},"100":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EE"},"101":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ET"},"262":{"postal_code_type":"postal","postal_code_pattern":"FIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"FK"},"241":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"FO"},"102":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"FI"},"103":{"postal_code_type":"postal","postal_code_pattern":"\\d{2} ?\\d{3}","postal_code_placeholder":"75000","country_iso_code":"FR"},"115":{"postal_code_type":"postal","postal_code_pattern":"9[78]3\\d{2}","postal_code_placeholder":"","country_iso_code":"GF"},"263":{"postal_code_type":"postal","postal_code_pattern":"987\\d{2}","postal_code_placeholder":"","country_iso_code":"PF"},"106":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GE"},"91":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"80331","country_iso_code":"DE"},"226":{"postal_code_type":"postal","postal_code_pattern":"GX11 1AA","postal_code_placeholder":"","country_iso_code":"GI"},"112":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"104 31","country_iso_code":"GR"},"113":{"postal_code_type":"postal","postal_code_pattern":"39\\d{2}","postal_code_placeholder":"","country_iso_code":"GL"},"265":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"GP"},"266":{"postal_code_type":"zip","postal_code_pattern":"(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"GU"},"114":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"GT"},"305":{"postal_code_type":"postal","postal_code_pattern":"GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"GG"},"108":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"GN"},"110":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GW"},"119":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HT"},"267":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HM"},"268":{"postal_code_type":"postal","postal_code_pattern":"00120","postal_code_placeholder":"","country_iso_code":"VA"},"117":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HN"},"120":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HU"},"126":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"IS"},"122":{"postal_code_type":"pin","postal_code_pattern":"^[1-9][0-9]{5}$","postal_code_placeholder":"110001","country_iso_code":"IN"},"121":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ID"},"124":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{5}","postal_code_placeholder":"","country_iso_code":"IR"},"125":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"IQ"},"123":{"postal_code_type":"eircode","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"IE"},"269":{"postal_code_type":"postal","postal_code_pattern":"IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"IM"},"127":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}(?:\\d{2})?","postal_code_placeholder":"","country_iso_code":"IL"},"128":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"50100","country_iso_code":"IT"},"131":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}-?\\d{4}","postal_code_placeholder":"100-0001","country_iso_code":"JP"},"307":{"postal_code_type":"postal","postal_code_pattern":"JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"JE"},"130":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"JO"},"132":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KZ"},"133":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KE"},"137":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KW"},"134":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KG"},"138":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LA"},"146":{"postal_code_type":"postal","postal_code_pattern":"LV-\\d{4}","postal_code_placeholder":"","country_iso_code":"LV"},"139":{"postal_code_type":"postal","postal_code_pattern":"(?:\\d{4})(?: ?(?:\\d{4}))?","postal_code_placeholder":"","country_iso_code":"LB"},"143":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"LS"},"140":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LR"},"272":{"postal_code_type":"postal","postal_code_pattern":"948[5-9]|949[0-8]","postal_code_placeholder":"","country_iso_code":"LI"},"144":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LT"},"145":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LU"},"151":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MK"},"149":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"MG"},"159":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MY"},"238":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MV"},"227":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{3} ?\\d{2,4}","postal_code_placeholder":"","country_iso_code":"MT"},"274":{"postal_code_type":"zip","postal_code_pattern":"(969[67]\\d)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MH"},"275":{"postal_code_type":"postal","postal_code_pattern":"9[78]2\\d{2}","postal_code_placeholder":"","country_iso_code":"MQ"},"239":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})","postal_code_placeholder":"","country_iso_code":"MU"},"276":{"postal_code_type":"postal","postal_code_pattern":"976\\d{2}","postal_code_placeholder":"","country_iso_code":"YT"},"150":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MX"},"277":{"postal_code_type":"zip","postal_code_pattern":"(9694[1-4])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"FM"},"148":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MD"},"278":{"postal_code_type":"postal","postal_code_pattern":"980\\d{2}","postal_code_placeholder":"","country_iso_code":"MC"},"154":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MN"},"155":{"postal_code_type":"postal","postal_code_pattern":"8\\d{4}","postal_code_placeholder":"","country_iso_code":"ME"},"147":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MA"},"156":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MZ"},"153":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MM"},"160":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NA"},"166":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NP"},"233":{"postal_code_type":"postal","postal_code_pattern":"988\\d{2}","postal_code_placeholder":"","country_iso_code":"NC"},"167":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3974","country_iso_code":"NZ"},"163":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NI"},"161":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NE"},"162":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"NG"},"282":{"postal_code_type":"postal","postal_code_pattern":"2899","postal_code_placeholder":"","country_iso_code":"NF"},"283":{"postal_code_type":"zip","postal_code_pattern":"(9695[012])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MP"},"176":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"KP"},"165":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NO"},"168":{"postal_code_type":"postal","postal_code_pattern":"(?:PC )?\\d{3}","postal_code_placeholder":"","country_iso_code":"OM"},"169":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PK"},"284":{"postal_code_type":"zip","postal_code_pattern":"(969(?:39|40))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PW"},"173":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"PG"},"178":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PY"},"171":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PE"},"172":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PH"},"174":{"postal_code_type":"postal","postal_code_pattern":"\\d{2}-\\d{3}","postal_code_placeholder":"10-345","country_iso_code":"PL"},"177":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}-\\d{3}","postal_code_placeholder":"1000-205","country_iso_code":"PT"},"175":{"postal_code_type":"zip","postal_code_pattern":"(00[679]\\d{2})(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PR"},"304":{"postal_code_type":"postal","postal_code_pattern":"9[78]4\\d{2}","postal_code_placeholder":"","country_iso_code":"RE"},"180":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"RO"},"181":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"101000","country_iso_code":"RU"},"308":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"BL"},"286":{"postal_code_type":"postal","postal_code_pattern":"(?:ASCN|STHL) 1ZZ","postal_code_placeholder":"","country_iso_code":"SH"},"288":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"MF"},"289":{"postal_code_type":"postal","postal_code_pattern":"9[78]5\\d{2}","postal_code_placeholder":"","country_iso_code":"PM"},"249":{"postal_code_type":"Postal","postal_code_pattern":"VC\\d{4}","postal_code_placeholder":"","country_iso_code":"VC"},"291":{"postal_code_type":"postal","postal_code_pattern":"4789\\d","postal_code_placeholder":"","country_iso_code":"SM"},"183":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SA"},"185":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SN"},"189":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"RS"},"220":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"SG"},"191":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"SK"},"192":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SI"},"188":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{5}","postal_code_placeholder":"","country_iso_code":"SO"},"215":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ZA"},"294":{"postal_code_type":"postal","postal_code_pattern":"SIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"GS"},"136":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KR"},"99":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"28013","country_iso_code":"ES"},"142":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LK"},"184":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SD"},"295":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SJ"},"194":{"postal_code_type":"postal","postal_code_pattern":"[HLMS]\\d{3}","postal_code_placeholder":"","country_iso_code":"SZ"},"193":{"postal_code_type":"postal","postal_code_pattern":"^\\d{5}$","postal_code_placeholder":"111 22","country_iso_code":"SE"},"80":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CH"},"204":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2,3})?","postal_code_placeholder":"","country_iso_code":"TW"},"199":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TJ"},"205":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}","postal_code_placeholder":"","country_iso_code":"TZ"},"198":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TH"},"164":{"postal_code_type":"postal","postal_code_pattern":"[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])","postal_code_placeholder":"1105 AW","country_iso_code":"NL"},"202":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"TN"},"203":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TR"},"200":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TM"},"299":{"postal_code_type":"postal","postal_code_pattern":"TKCA 1ZZ","postal_code_placeholder":"","country_iso_code":"TC"},"207":{"postal_code_type":"postal","postal_code_pattern":"^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$","postal_code_placeholder":"","country_iso_code":"UA"},"105":{"postal_code_type":"postal","postal_code_pattern":"^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$","postal_code_placeholder":"NW1 6XE","country_iso_code":"GB"},"209":{"postal_code_type":"zip","postal_code_pattern":"^\\d{5}(?:-\\d{4})?$","postal_code_placeholder":"12345","country_iso_code":"US"},"302":{"postal_code_type":"zip","postal_code_pattern":"96898","postal_code_placeholder":"","country_iso_code":"UM"},"208":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"UY"},"248":{"postal_code_type":"zip","postal_code_pattern":"(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"VI"},"210":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"UZ"},"211":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"VE"},"212":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}\\d?","postal_code_placeholder":"","country_iso_code":"VN"},"224":{"postal_code_type":"postal","postal_code_pattern":"986\\d{2}","postal_code_placeholder":"","country_iso_code":"WF"},"213":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EH"},"217":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ZM"}},"ship_to_preference_capabilities":{"209":{"postal_code":{"is_assignable":true,"is_required":true}},"79":{"postal_code":{"is_assignable":true,"is_required":true}},"122":{"postal_code":{"is_assignable":true,"is_required":true}},"61":{"postal_code":{"is_assignable":true,"is_required":true}},"105":{"postal_code":{"is_assignable":true,"is_required":true}}},"category_id":68887416,"admin_tools_page_data":[],"collections_is_listing_page":true,"currency_data":{"currency_id":840,"code":"USD","name":"United States Dollar","number_precision":2,"symbol":"$","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true},"machine_translation\/listings_click_to_translate":true,"ads.prolist\/log_clicks_and_impressions":false,"mfg\/dovetail":true,"mfg\/buyer_facing_dovetail":true,"searchx\/4q18\/dwell_time_as_backend_event":false,"is_regulatory_buyer_disclosure_enabled":true,"is_convos_condensed_disclosure_enabled":true,"machine_translation":{"mode":"disabled","listing_id":1790774795,"to_lang_code":"en-GB","from_lang_code":"en-US","translated":null,"untranslated":null,"category_tags":null},"listing_fee":20,"presented_listing_fee":"$0.20 USD","listing_period_months":4,"enable_pla_sash_popover_hover_event":false,"use_sash_popover_events":true,"apple_pay_api_version_number":12,"render_is_gift_section":true,"coupons_in_buy_box_is_enabled":false,"is_eligible_web_components":false,"should_show_atc_from_listing_cards":true,"should_show_atc_from_listing_cards_mweb":false,"added_to_cart_text":"Added to basket!","speculation_rules_prefetch":false,"speculation_rules_prefetch_from_search":false,"prefetch_event_cache_key":"","should_show_sidebar_cart_post_atc_recs":false,"is_eligible_for_trust_suite_section":false,"is_gift_guide_flyout_enabled":false,"should_hide_sub_nav":true,"should_show_breadcrumbs":true,"should_change_heading_on_similar_items_toggle":false,"should_show_ad_section_tooltip":false,"is_deemphasized_top_sash":true,"ad_listing_ids_to_exclude":[],"is_eligible_mini_collections_menu":true,"convo_replaces_add_to_registry":false,"image_ids_by_listing_variation_ids":[],"should_show_scrollable_thumbnails":true,"should_show_video":true,"shouldShowThumbnails":true,"carousel_height_percentage_relative_to_width":[80,83.3333333333333285963817615993320941925048828125,80,80,80,80,80,80,80,80],"is_mobile_experience":false,"is_users_own_listing":false,"lp_toffers_v2_true_sale_enabled":false,"should_show_histogram_panel":false,"anchor_shop_name_to_seller_cred":false,"shop_reviews_count":129,"neu_buy_box_type":"offerings","listing_id":1790774795,"klarna_osm_js":"https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js","is_eligible_for_klarna_osm":false,"is_eligible_for_variations_update":true,"can_listing_have_coupon_applied":false,"express_checkout":{"is_guest":false,"should_show_digital_rights_waiver":false,"accepts_apple_pay":false,"apple_pay_submit_classes":null,"apple_pay_submit_classes_collage":null,"apple_pay_submit_text":null,"apple_payment_info":null,"purchase_accept_terms_text":"By making a purchase, you agree to Etsy's <a href=\"\/legal\/terms-of-use\" title=\"Terms of Use\" data-article-id=\"25545769842\" class=\"checkout-purchase-accept-terms-link\">Terms of Use<\/a> and <a href=\"\/legal\/privacy\" title=\"Privacy Policy\" data-article-id=\"25468388617\" class=\"checkout-purchase-accept-terms-link\">Privacy Policy<\/a>.","accepts_multiple_payment_methods":false,"accepts_paypal":false,"show_checkout_sheet":false,"replace_apple_pay_bin_with_etsy_bin":false,"should_log_checkout_sheet_support_for_non_defaults_filtering_event":true},"merchant_identifier":"merchant.com.etsy.icht","is_multiple_questions_enabled_buyer":true,"should_show_mix_and_match_bundle":true,"how_its_made_label_type":"seller_designed","product_details_content_toggle_selector":"[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']","should_show_description_content_toggle":true,"active_tab":"same_listing_reviews","allow_reviews_debug":false,"using_mweb_tabs":false,"load_tabbed_layout_js":true,"should_show_helpful_count":true,"should_default_chronological_sort":false,"should_include_subratings":true,"current_page":1,"is_deep_dive":false,"has_appreciation_photos":true,"eligible_for_review_photo_filter_and_sort":true,"is_new_deep_dive":true,"photos_per_page":4,"review_categorical_tags_enabled":true,"review_hide_sort_by_prefix":true,"deep_dive_sheet_position":"bottom","has_external_mobile_image_tags":false,"tag_cards_with_image":".j1dsc0kjuogb","mweb_can_scroll_to_seller_cred_module":false,"is_eligible_for_showing_more_items_on_explore_more":false,"load_user_faves_option":true,"update_many_faves_option":true,"is_async_only_faves_option":false,"guest_favorites_enabled":false,"collection_count":0,"favorites_key":"","use_clearer_privacy_description":true,"conditional_sale_interstitial":true,"google_client_id":"296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com","show_one_tap_modal":false,"is_google_one_tap_cart_page":false});
-        })();
-    </script>
-
-
-
-        <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-GB/";</script>
-
-<script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">(function() {
-var asyncAvailable = true;
-try {
-    eval("async () => {}");
-} catch(e) {
-    asyncAvailable = false;
+/* === SALJU EMAS NEON === */
+.snowflake {
+  position: absolute;
+  top: -10vh;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 30% 30%, #ffe600 0 45%, #fff4a3 55%, rgba(20, 255, 220, 0) 70%);
+  filter: drop-shadow(0 0 10px rgb(80, 255, 252)) blur(0.3px);
+  opacity: .95;
+  will-change: transform, opacity, filter;
+  animation:
+    fall var(--dur, 12s) linear var(--delay, 0s) infinite,
+    sway var(--sway, 6s) ease-in-out var(--delay, 0s) infinite alternate,
+    glow 2s ease-in-out infinite alternate;
 }
 
-var falseUA = true && !asyncAvailable;
-var primarySupportsAsync = !true && asyncAvailable;
-
-var clientloggerIsEnabled = true;
-if (clientloggerIsEnabled) {
-    if (falseUA) {
-        new Image().src = '/clientlog?falseua=1';
-    }
-    if (primarySupportsAsync) {
-        new Image().src = '/clientlog?primarysupportsasync=1';
-    }
-    if (window.__etsy_logging && window.__etsy_logging.bots && (window.__etsy_logging.bots.isBot || window.__etsy_logging.bots.botCheck.length > 0)) {
-        new Image().src = '/clientlog?feisbot=1&bot_check=' + encodeURIComponent(JSON.stringify(window.__etsy_logging.bots.botCheck));
-    }
+.snowflake.-sm {
+  width: 4px;
+  height: 4px;
+  opacity: .8;
+}
+.snowflake.-lg {
+  width: 12px;
+  height: 12px;
+  opacity: .98;
 }
 
-})();</script>
-<script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/vendor_bundle.4b28aa70c9cca35746a4.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/etsy_libs.30bc4a394fcd9a30315a.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<script src="https://www.etsy.com/paula/v3/polyfill.min.js?etsy-v=v5&flags=gated&features=AbortController%2CDOMTokenList.prototype.@@iterator%2CDOMTokenList.prototype.forEach%2CIntersectionObserver%2CIntersectionObserverEntry%2CNodeList.prototype.@@iterator%2CNodeList.prototype.forEach%2CObject.preventExtensions%2CString.prototype.anchor%2CString.raw%2Cdefault%2Ces2015%2Ces2016%2Ces2017%2Ces2018%2Ces2019%2Ces2020%2Ces2021%2Ces2022%2Cfetch%2CgetComputedStyle%2CmatchMedia%2Cperformance.now" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/app-shell/globals/index.8029f098085d5a35c05e.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/@etsy-modules/ConsentManagement/Transcend-Integration.65983beb85f82c0d3fef.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/bootstrap/listings3/main.747274616ea211a73f56.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/async/component-islands/vendor.328ff8c29b4753276913.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/react-ssr/component-islands/queue.f84dcfc00c5c512691c1.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
-<main id="content"><br> 
-			<style>
-.n-columns-2 {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  font-weight: 700;
+/* jatuh & goyang */
+@keyframes fall {
+  to {
+    transform: translate3d(var(--drift, 0px), 110vh, 0) rotate(var(--rot, 180deg));
+  }
+}
+@keyframes sway {
+  from { margin-left: -14px; }
+  to   { margin-left: 14px; }
+}
+@keyframes glow {
+  0%, 100% { filter: drop-shadow(0 0 6px rgba(255, 240, 120, 0.8)); }
+  50%      { filter: drop-shadow(0 0 18px rgba(255, 220, 80, 0.9)); }
 }
 
-.n-columns-2 a {
-  text-align: center;
-  margin: 3px;
+/* === KEMBANG API === */
+.firework {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 10000;
+  background: radial-gradient(circle, #fff 0, #ffe7b5 40%, transparent 70%);
+  animation: firework-burst 1.8s ease-out forwards;
 }
 
-/* === Warna hijau neon ala IDEBET === */
-.login,
-.register {
-  color: #000000;
-  padding: 10px 15px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
-  position: relative;
-  overflow: hidden; /* untuk efek kilap */
-}
-
-/* Tombol LOGIN */
-.login,
-.login-button {
-  text-shadow: 0 0 6px #000000;
-  border-radius: 10px;
-  border: 2px solid #000000;
-  background: linear-gradient(180deg, #ffae00 0%, #fbff00 100%);
-  color: #000000;
-  transition: all 0.3s ease;
-}
-
-.login:hover {
-  background: linear-gradient(180deg, #fbff00 0%, #ffae00 100%);
-  color: #ffffff;
-  box-shadow: 0 0 14px rgb(255, 217, 0)
-  transform: translateY(-2px);
-}
-
-/* Tombol DAFTAR */
-.register,
-.register-button {
-  text-shadow: 0 0 6px #000000;
-  border-radius: 10px;
-  background: linear-gradient(180deg, #ffae00 0%, #fbff00 100%);
-  border: 2px solid #000000;
-  color: #000000;
-  transition: all 0.3s ease;
-}
-
-.register:hover {
-  background: linear-gradient(180deg, #fbff00 0%, #ffae00 100%);
-  color: #ffffff;
-  box-shadow: 0 0 14px rgb(255, 255, 255);
-  transform: translateY(-2px);
-}
-
-/* === Efek kilap untuk tombol === */
-.login::after,
-.register::after {
+/* percikan kembang api (box-shadow jadi pecahan) */
+.firework::before {
   content: "";
   position: absolute;
-  top: -50%;
-  left: -75%;
-  width: 50%;
-  height: 200%;
-  background: linear-gradient(
-    120deg,
-    rgba(255,255,255,0) 0%,
-    rgba(255,255,255,0.4) 50%,
-    rgba(255,255,255,0) 100%
-  );
-  transform: skewX(-20deg);
-  transition: all 0.7s ease;
-  pointer-events: none;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow:
+    0 -25px 0 0 #ffd86b,
+    18px -18px 0 0 #ff9b6b,
+    25px 0 0 0 #fff1b8,
+    18px 18px 0 0 #ff6b9b,
+    0 25px 0 0 #ffe66b,
+    -18px 18px 0 0 #ffb36b,
+    -25px 0 0 0 #fff7c4,
+    -18px -18px 0 0 #ff7b6b;
 }
 
-.login:hover::after,
-.register:hover::after {
-  left: 150%;
-  transition: all 0.7s ease;
+@keyframes firework-burst {
+  0% {
+    transform: translate(-50%, -50%) scale(0.2);
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  60% {
+    transform: translate(-50%, -50%) scale(1.3);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1.8);
+    opacity: 0;
+  }
 }
 
-</style>
-                          <div class="n-columns-2">
-                                <a href="https://slot-mahjong-gacor-a84.pages.dev/amp" rel="nofollow noreferrer"
-                                 class="login">LOGIN</a>
-                               <a href="https://slot-mahjong-gacor-a84.pages.dev/amp" rel="nofollow noreferrer"
-                                  class="register">DAFTAR</a>
-                                </div>
-                             </div>
-            <div data-clg-id="WtBanner" class="wt-banner wt-banner--informational-01 trust-suite-banner wt-max-width-full wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-p-xs-3" id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-type="static" data-prop-style-type="informational-01" data-prop-is-open="true"  data-wt-neu-rendered>
-        <div class="wt-banner__layout wt-display-flex-xs wt-align-items-center wt-justify-content-space-evenly wt-flex-nowrap">
-        <div class="wt-show-lg wt-show-xl wt-show-tv wt-hide-md wt-hide-sm">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                <p class="wt-text-title">
-                    IDEBET                </p>
-            </div>
-        </div>
-        <div class="">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                    <div class="wt-pr-xs-1" aria-hidden="true">
-                        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2 4 6v6c0 8 8 10 8 10s8-2 8-10V6zm5.25 7.54-6.67 6.67-.11.11h-.32l-.9-.12h-.16L9 16l-2.3-4-.17-.29.29-.17L8 10.88l.28-.17.17.29 1.66 2.87 5.74-5.74.24-.24.24.24.94.94.23.23z"/></svg></span>
-                    </div>
-                <div class="wt-popover" id="trust-suite-banner-epp-popover" data-wt-popover>
-                    <button type="button" data-wt-popover-trigger
-                            class="wt-popover__trigger wt-popover__trigger--underline wt-text-link wt-display-inline-flex-xs wt-align-items-center"
-                            aria-describedby="trust-suite-banner-epp-popover-overlay"
-                    >
-                        <span class="wt-text-title">
-                                SLOT MAHJONG
-                        </span>
-                    </button>
-                    <div id="trust-suite-banner-epp-popover-overlay" role="tooltip">
-                        <h4 class="wt-mb-xs-1">
-                                SLOT GACOR
-                        </h4>
-                        <p class="wt-mb-xs-3">
-                            <strong>
-                                If something goes wrong with your order, you'll get a full refund.
-                            </strong>
-                        </p>
-                        <p class="wt-mb-xs-1">
-                            <strong>
-                                Here's what's eligible:
-                            </strong>
-                        </p>
-                        <ul data-clg-id="WtList" class="wt-list wt-mb-xs-1 wt-text-body-small" modifier="square">                            
-                            <li>
-                                Your order doesn't match the item description or photos
-                            </li>
-                            <li>
-                                Your item arrived damaged
-                            </li>
-                            <li>
-                                Your item arrived after the estimated arrival window
-                            </li>
-                            <li>
-                                Your item didn't arrive or was lost in the mail
-                            </li>
-                        </ul>
-                        <p class="wt-text-body-small">
-                            <a href="https://www.etsy.com/etsy-purchase-protection" ref="listing_page_trust_suite_banner" class="wt-text-link" data-listings-track-click data-event-name="trust_suite_banner_purchase_protection_banner_link_clicked" target="_blank">
-                                View programme terms
-                            </a>
-                        </p>
-
-                        <span class="wt-popover__arrow"></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                <div class="wt-pr-xs-1" aria-hidden="true">
-                    <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13 13v5h-2v-5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M4 9.25A.25.25 0 0 1 4.25 9H7.5V6.5a4.5 4.5 0 0 1 9 0V9h3.25a.25.25 0 0 1 .25.25V18a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4zM9.5 6.5a2.5 2.5 0 0 1 5 0V9h-5zM8 20a2 2 0 0 1-2-2v-7h12v7a2 2 0 0 1-2 2z"/></svg></span>
-                </div>
-                <div class="wt-popover" id="trust-suite-banner-spo-popover" data-wt-popover>
-                    <button type="button" data-wt-popover-trigger
-                            class="wt-popover__trigger wt-popover__trigger--underline wt-text-link wt-display-inline-flex-xs wt-align-items-center"
-                            aria-describedby="trust-suite-banner-spo-popover-overlay"
-                    >
-                        <span class="wt-text-title">
-                    SLOT GACOR
-                        </span>
-                    </button>
-                    <div id="trust-suite-banner-spo-popover-overlay" role="tooltip">
-                        <p class="wt-mb-xs-1">
-                            
-                                Etsy keeps your payment information secure.
-                            
-                        </p>
-                        <p class="wt-mb-xs-1">
-                            
-                                Etsy shops never receive your credit card information.
-                            
-                        </p>
-                        <span class="wt-popover__arrow"></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="">
-            <div class="wt-display-flex-xs wt-align-items-center">
-                <div class="wt-pr-xs-1" aria-hidden="true">
-                    <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14.782 8.676 12 2.145l-2.78 6.53-7.086.625 5.364 4.663-1.595 6.918L12 17.228l6.097 3.653-1.596-6.919L21.867 9.3z"/></svg></span>
-                </div>
-                <div class="wt-popover" id="trust-suite-banner-vr-popover" data-wt-popover>
-                    <button type="button" data-wt-popover-trigger
-                            class="wt-popover__trigger wt-popover__trigger--underline wt-text-link wt-display-inline-flex-xs wt-align-items-center"
-                            aria-describedby="trust-suite-banner-vr-popover-overlay"
-                    >
-                        <span class="wt-text-title">
-                           MAHJONG WAYS 2
-                        </span>
-                    </button>
-                    <div id="trust-suite-banner-vr-popover-overlay" role="tooltip">
-                        <p class="wt-mb-xs-1">
-                            
-                                All reviews are from verified buyers – real people who actually bought the item they're talking about.
-                            
-                        </p>
-                        <span class="wt-popover__arrow"></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</div>
-<div data-ui="listing-breadcrumbs" class="wt-hide-xs wt-show-lg breadcrumb_nav">
-    <div data-ui="cat-nav" id="desktop-category-nav" class="cat-nav  v2-toolkit-cat-nav wt-ml-xs-0 wt-mr-xs-0">
-        <div class="wt-text-caption wt-position-relative wt-z-index-5 wt-pt-xs-2">
-                <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
-                <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
-                        <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/">IDEBET: Situs Slot Mahjong Ways 2 Link Slot Gacor 2026 Terpercaya
-</a>
-                        </li>
-                </ul>
-                <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
-        </div>
-        </div>
-    </div>
-</div>
-</span>
-
-
-
-<div data-selector="listing-page-content" class="content-wrap listing-page-content">
-
-    
-
-    
-
-    <div class="wt-pt-xs-5 listing-page-content-container-wider wt-horizontal-center">
-
-        <div id="listing-right-column" class="listing-buy-box-experiment">
-
-            <div>
-                <div class="body-wrap wt-body-max-width wt-display-flex-md wt-flex-direction-column-xs">
-                    <div class="image-col wt-order-xs-1 wt-mb-xs-2 wt-mb-lg-6 wt-pl-md-4 wt-pl-lg-5 wt-pl-xs-2 wt-pr-xs-2 wt-pr-xl-2 wt-pr-md-4 wt-pr-lg-0">
-                        <div class="wt-flex-lg-6 wt-mr-lg-3 wt-pr-xl-3">
-                            <div class="image-wrapper wt-position-relative carousel-container-responsive" id="photos">
-    
-
-
-    <div class="wt-position-absolute wt-position-right wt-mt-xs-2 wt-mr-xs-2">
-        
-        <div
-    data-component-island-template="@etsy-modules/Favorites/MiniCollectionsMenu/index"
-    data-component-island-id="68cb39e9458ab"
-    data-prerender-error="false"
-    data-is-prerendered="true"
->
-    <script type="text/props">
-        {"listingId":1790774795,"isFavorite":false,"listingImgUrl":"https:\/\/i.etsystatic.com\/54267703\/r\/il\/f18987\/6256816164\/il_75x75.6256816164_26ap.jpg","source":"lp_image_carousel","ignoreMenuCookie":"ignore_mini_collections_menu_cookie","isCollected":false}
-    </script>
-<div data-type="floating" data-clg-id="WtPanelAnchoredWithTrigger" class="wt-panel-with-trigger"><div class="wt-panel__trigger-container"><div aria-describedby="listing-page-favorite-button-tooltip"><button type="button" aria-label="Add to Favourites" data-source="lp_image_carousel" data-accessible-btn-fave data-listing-id="1790774795" data-always-show="true" data-testid="favorite-heart" data-in-list="false" data-clg-id="WtButton" class="wt-btn wt-btn--secondary listing-page-favorite-button wt-shadow-elevation-3 wt-bg-white wt-btn--small wt-btn--icon wt-btn--light"><div class="should-animate favorited-icon-container"><span data-favorited-icon data-testid="favorited-heart" class="should-animate etsy-icon wt-nudge-t-1 wt-text-favorite-heart wt-display-none etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16.5,3A6.953,6.953,0,0,0,12,5.051,6.912,6.912,0,0,0,7.5,3C4.364,3,2,5.579,2,9c0,5.688,8.349,12,10,12S22,14.688,22,9C22,5.579,19.636,3,16.5,3Z"/></svg></span><span data-not-favorited-icon class=" should-animate etsy-icon wt-text-black wt-nudge-t-1 wt-display-block etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,21C10.349,21,2,14.688,2,9,2,5.579,4.364,3,7.5,3A6.912,6.912,0,0,1,12,5.051,6.953,6.953,0,0,1,16.5,3C19.636,3,22,5.579,22,9,22,14.688,13.651,21,12,21ZM7.5,5C5.472,5,4,6.683,4,9c0,4.108,6.432,9.325,8,10,1.564-.657,8-5.832,8-10,0-2.317-1.472-4-3.5-4-1.979,0-3.7,2.105-3.721,2.127L11.991,8.1,11.216,7.12C11.186,7.083,9.5,5,7.5,5Z"/></svg></span></div></button></div></div></div>
-</div>
-
-    </div>
-
-    <div class="wt-display-flex-xs"
-        data-component="listing-page-image-carousel"
-        data-palette-listing-id="1790774795"
-        data-shop-id="54267703"
-    >
-
-    <div class="image-carousel-container wt-position-relative wt-flex-xs-6 wt-order-xs-2
-                
-                show-scrollable-thumbnails">
-				<style>
-    .carousel-pane-list {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        position: relative;
-        height: 100%;
-    }
-
-    .carousel-pane {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .carousel-image {
-        object-fit: contain;
-        max-width: 100%;
-        max-height: 100%;
-    }
-</style>
-
-        <ul class="wt-list-unstyled wt-overflow-hidden wt-position-relative carousel-pane-list"
-            style="padding-top: 80%;"
-            data-carousel-pane-list
-            tabindex="0">
-                    <li class=" wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane"
-                        data-carousel-pane
-                        data-index="0"
-                        data-image-id="6256816164"
-                        data-palette-listing-image
-                    >
-                        <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET"
-                            data-carousel-first-image
-                            data-perf-group="main-product-image"
-                            src="https://i.imgur.com/aBiWd6l.jpeg"
-                            srcset="https://i.imgur.com/aBiWd6l.jpeg"
-                            fetchpriority="high"    
-                            data-original-image-width="3000"
-                            data-src-zoom-image="https://i.imgur.com/aBiWd6l.jpeg"
-                            data-index="0"
-                        />
-                    </li>
-
-        </ul>
-
-    </div>
-
-            <div>
-
-
-
-
-
-            </div>
-
-        <div
-    class="wt-overlay image-overlay wt-justify-content-center"
-    data-image-overlay
-    data-animate-out="false"
-    id="image-overlay"
-    role="dialog"
-    aria-hidden="true"
->
-    <div class="wt-display-flex-xs wt-justify-content-center wt-height-full image-overlay-main-image-container" data-overlay-modal>
-<button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-right wt-position-top wt-mt-xs-2 wt-mr-xs-2" data-wt-overlay-close="true" aria-label="close">
-                <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-
-</button>
-        <div data-overlay-main-image-container class="wt-position-relative wt-mr-xl-4 wt-mr-xs-2 wt-ml-xs-2 wt-flex-grow-xs-1 wt-mb-xs-4 wt-mt-xs-10">
-<button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-left wt-vertical-center wt-shadow-elevation-3 wt-ml-xs-2" data-image-overlay-prev="true" aria-label="previous">
-                        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M16,21a0.994,0.994,0,0,1-.664-0.253L5.5,12l9.841-8.747a1,1,0,0,1,1.328,1.494L8.5,12l8.159,7.253A1,1,0,0,1,16,21Z"/></svg></span>
-
-</button>
-<button data-clg-id="WtButton" class="wt-btn wt-btn--filled wt-btn--icon wt-btn--light wt-position-absolute wt-position-right wt-vertical-center wt-shadow-elevation-3 wt-mr-xs-2" data-image-overlay-next="true" aria-label="next">
-                        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8,21a1,1,0,0,1-.664-1.747L15.5,12,7.336,4.747A1,1,0,0,1,8.664,3.253L18.5,12,8.664,20.747A0.994,0.994,0,0,1,8,21Z"/></svg></span>
-
-</button>
-            <ul class="wt-list-unstyled wt-overflow-hidden image-overlay-list wt-position-relative wt-vertical-center wt-display-flex-xs wt-justify-content-center"
-                    style="padding-top: 80%;"
-                    data-image-overlay-list
-                    tabindex="0"
-                >
-                    <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
-                        data-listing-image
-                        data-index="0"
-                        data-image-id="6256816164"
-                    >
-                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET"
-                            
-                            data-delay-src="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg"
-                            data-delay-srcset="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x"
-                            data-original-image-width="3000"
-                            data-original-image-height="3000"
-                            data-index="0"
-                            data-src-zoom-image="https://i.imgur.com/aBiWd6l.jpeg"
-                        />
-                    </li>
-                  
-                <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none"
-                     data-click-to-zoom-toast>
-<span data-clg-id="WtBadge" class="wt-badge wt-badge--default wt-text-body-01">
-                        <span class="wt-icon wt-icon--smallest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M10,2a8,8,0,1,0,8,8A8.009,8.009,0,0,0,10,2Zm0,14a6,6,0,1,1,6-6A6.007,6.007,0,0,1,10,16Z"/><path d="M14,9H11V6A1,1,0,1,0,9,6V9H6a1,1,0,0,0,0,2H9v3a1,1,0,1,0,2,0V11h3A1,1,0,0,0,14,9Z"/><path d="M21.707,20.293l-4-4a1,1,0,0,0-1.414,1.414l4,4A1,1,0,0,0,21.707,20.293Z"/></svg></span>
-                    Click to zoom
-
-</span>
-                </div>
-            </ul>
-        </div>
-
-    </div>
-</div>
-</div>
-</div>
-<style>
-                                /* === Artikel Container Tema IDEBET (RAPI) === */
-                                .article-container {
-                                  max-width: 700px; /* lebih kecil dari sebelumnya */
-                                  margin: 30px auto; /* jarak dari atas/bawah */
-                                  padding: 25px 20px; /* padding lebih compact */
-                                  background-color: #000000; /* hijau gelap nyaman */
-                                  border-radius: 15px;
-                                  border: 1px solid #ffd000;
-                                  box-shadow: 0 0 10px rgba(255, 196, 0, 0.15);
-                                  font-family: "Poppins", sans-serif;
-                                  color: #fcfcfc; /* teks terang hijau lembut */
-                                  line-height: 1.7; /* jarak antar baris nyaman */
-                                  position: relative;
-                                  overflow: hidden;
-                                }
-                                
-                                /* Paragraf */
-                                .article-container p {
-                                  font-size: 15px;
-                                  margin-bottom: 18px; /* jarak antar paragraf */
-                                  text-align: justify; /* rapikan teks kiri-kanan */
-                                }
-                                
-                                /* Link */
-                                .article-container a {
-                                  color: #ffd000;
-                                  text-decoration: underline;
-                                  transition: all 0.3s ease;
-                                }
-                                
-                                .article-container a:hover {
-                                  color: #eaffef;
-                                  text-shadow: 0 0 6px #ffd000;
-                                }
-                                
-                                /* List */
-                                .article-container ul,
-                                .article-container ol {
-                                  margin-left: 20px;
-                                  margin-bottom: 18px;
-                                }
-                                
-                                /* Blockquote */
-                                .article-container blockquote {
-                                  border-left: 4px solid #00ff0d;
-                                  padding-left: 15px;
-                                  margin: 18px 0;
-                                  font-style: italic;
-                                  color: #c8fff0;
-                                  background-color: rgba(0, 255, 120, 0.05);
-                                  border-radius: 6px;
-                                }
-                                
-                                /* Responsif */
-                                @media (max-width: 600px) {
-                                  .article-container {
-                                    padding: 15px 12px;
-                                  }
-                                
-                                  .article-container p {
-                                    font-size: 14px;
-                                  }
-                                }
-                                
-                                /* ✨ efek kilap untuk article-container */
-                                .article-container::after {
-                                  content: "";
-                                  position: absolute;
-                                  top: 0; left: -150%;
-                                  width: 50%;
-                                  height: 100%;
-                                  background: linear-gradient(
-                                    120deg,
-                                    rgba(255,255,255,0) 0%,
-                                    rgba(255,255,255,0.3) 50%,
-                                    rgba(255,255,255,0) 100%
-                                  );
-                                  transform: skewX(-20deg);
-                                  animation: shineArticle 3s infinite;
-                                  pointer-events: none;
-                                  mix-blend-mode: screen;
-                                  border-radius: inherit;
-                                  z-index: 2;
-                                }
-                                
-                                /* Animasi kilap bergerak */
-                                @keyframes shineArticle {
-                                  0% { left: -150%; }
-                                  100% { left: 150%; }
-                                }
-                                </style>
-                                
-                                <!-- === Artikel IDEBET RAPI tanpa H1/H2 === -->
-                                <div class="article-container">
-                                <h2 style="text-align: left;"><span style="color: #ffae00;">IDEBET: Situs Slot Mahjong Ways 2 Link Slot Gacor 2026 Terpercaya
-</span></h2>
-                                <p class="t-body -size-m h-m0">IDEBET hadir sebagai situs slot Mahjong Ways 2 terpercaya 2026 yang menyediakan link slot gacor dengan akses stabil dan performa server terbaik. Platform ini dirancang untuk memudahkan pemain menikmati permainan favorit dengan proses login cepat, tampilan ramah pengguna, serta sistem keamanan berlapis. Dengan optimalisasi server yang konsisten, IDEBET memastikan setiap putaran berjalan lancar tanpa lag, sehingga pengalaman bermain Mahjong Ways 2 terasa lebih nyaman dan maksimal.</p>
-                                <p class="t-body -size-m h-m0">Sebagai situs slot gacor unggulan, IDEBET menawarkan peluang menang besar melalui RTP kompetitif dan fitur permainan lengkap yang selalu diperbarui. Dukungan layanan profesional 24 jam, transaksi cepat, serta kompatibilitas di berbagai perangkat membuat IDEBET semakin dipercaya oleh pemain. Kombinasi kualitas layanan, stabilitas sistem, dan konten yang relevan menjadikan IDEBET pilihan tepat untuk meraih posisi teratas di pencarian Google sekaligus memberikan pengalaman slot online terbaik bagi penggunanya.</p>
-                                </div>
-
-                                
-
-<div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-    </div>
-<div data-wt-overlay data-report-item-overlay id="report-item-overlay" class="wt-overlay wt-display-none" role="dialog" aria-hidden="true" aria-modal="false" aria-label ="report-item-overlay-title">
-        <div class="wt-overlay__modal" data-overlay-modal>
-            <button class="wt-btn wt-btn--icon wt-btn--tertiary wt-btn--light wt-overlay__close-icon" data-wt-overlay-close aria-label="Close">
-                <span class="etsy-icon wt-icon--smaller"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-            </button>
-            <div data-report-item-form-container class="wt-display-none">
-    <div class="wt-overlay__header report-item-step">
-        <h2 class="wt-text-heading" id="report-item-overlay-title">What’s wrong with this listing?</h2>
-    </div>
-    <div class="wt-overlay__header report-item-step wt-display-none">
-        <h3 class="wt-text-heading" id="report-item-overlay-title-more">Add more details</h3>
-        <h3 class="wt-text-body-01 wt-mt-xs-3">Share more specifics to help us review this item and protect our marketplace.</h3>
-    </div>
-    <form data-report-item-form
-          action="/"
-          method="post">
-        <div class="report-item-step">
-            <div class="wt-select wt-mb-xs-3">
-                <select class="wt-select__element"
-                        id="report-item-choices"
-                        data-report-item-choices>
-                    <optgroup>
-                        <option value="default">Choose a reason…</option>
-                        <option value="order-problem">There’s a problem with my order</option>
-                        <option value="ip-policy">It uses my intellectual property without permission</option>
-                        <option value="flag-item">I don’t think it meets Etsy’s policies</option>
-                    </optgroup>
-                </select>
-                <label for="report-item-choices" class="wt-screen-reader-only">Choose a reason…</label>
-            </div>
-            <div data-report-choice="order-problem" id="order-problem" class="wt-display-none">
-                <p class="wt-mb-xs-2 prose">The first thing you should do is contact the seller directly.</p>
-                <p class="wt-mb-xs-2 ip-policy prose">If you’ve already done that, your item hasn’t arrived, or it’s not as described, you can report that to Etsy by opening a case.</p>
-                <p class="wt-mb-xs-2 prose">
-                    <a href="/" target="_blank">
-                        Report a problem with an order
-                    </a>
-                </p>
-            </div>
-            <div data-report-choice="ip-policy" id="ip-policy" class="wt-display-none">
-                <p class="wt-mb-xs-2 prose">We take intellectual property concerns very seriously, but many of these problems can be resolved directly by the parties involved. We suggest contacting the seller directly to respectfully share your concerns.</p>
-                <p class="wt-mb-xs-2 prose">If you’d like to file an allegation of infringement, you’ll need to follow the process described in our <a href='/legal/ip' target='_blank'>Copyright and Intellectual Property Policy</a>.</p>
-            </div>
-            <div data-report-choice="flag-item" id="flag-item" class="wt-display-none">
-                <div class="wt-mb-xs-2">
-                    <a href="/" target="_blank">
-                        Review how we define handmade, vintage and supplies
-                    </a>
-                </div>
-                <div class="wt-mb-xs-2">
-                    <a href="/" target="_blank">
-                        See a list of prohibited items and materials
-                    </a>
-                </div>
-                <div class="wt-mb-xs-4">
-                    <a href="/" target="_blank">
-                        Read our mature content policy
-                    </a>
-                </div>
-                <div data-report-reason class="wt-validation">
-                    <fieldset class="wt-mb-xs-4">
-                        <legend class="wt-label wt-mb-xs-2">Tell us why you're reporting this item</legend>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="not_handmade_vintage_or_craft"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_not_handmade_vintage_or_craft"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_CSV_MEMBER_FLAG">
-                                <label for="flag_not_handmade_vintage_or_craft">It's not handmade, vintage, or craft supplies</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="pornographic"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_pornographic"
-                                        name="flag_type_mnemonic"
-                                        value="OC_PORNOGRAPHY">
-                                <label for="flag_pornographic">It's pornographic</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="hate_speech_or_harassment"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_hate_speech_or_harassment"
-                                        name="flag_type_mnemonic"
-                                        value="OC_HATE_VIOLENT_HARMFUL">
-                                <label for="flag_hate_speech_or_harassment">It's hate speech or harassment</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="minor_safety"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_minor_safety"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_MINOR_SAFETY">
-                                <label for="flag_minor_safety">It's a threat to minor safety</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violence_or_self_harm"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violence_or_self_harm"
-                                        name="flag_type_mnemonic"
-                                        value="OC_HATE_VIOLENT_HARMFUL">
-                                <label for="flag_violence_or_self_harm">It promotes violence or self-harm</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="dangerous_or_hazardous"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_dangerous_or_hazardous"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_PROHIBITED">
-                                <label for="flag_dangerous_or_hazardous">It's dangerous or hazardous</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violates_law"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violates_law"
-                                        name="flag_type_mnemonic"
-                                        value="CC_REPORTED_ILLEGAL_CONTENT">
-                                <label for="flag_violates_law">It's violating a specific law or regulation</label>
-                            </div>
-                            <div class="wt-radio wt-mb-xs-1">
-                                <input
-                                        data-report-reason-input
-                                        data-flag-name="violates_not_listed_policy"
-                                        type="radio"
-                                        class="wt-radio"
-                                        id="flag_violates_not_listed_policy"
-                                        name="flag_type_mnemonic"
-                                        value="LISTING_PROHIBITED">
-                                <label for="flag_violates_not_listed_policy">It violates a policy that's not listed here</label>
-                            </div>
-                        <div data-error="no-report-reason" id="no-report-reason" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical">Please choose a reason</div>
-                    </fieldset>
-                </div>
-            </div>
-        </div>
-        <div class="report-item-step wt-display-none">
-            <div data-report-comment class="wt-validation" tabindex="0">
-                <label class="wt-screen-reader-only" for="report-item-reason">Include anything else we should know about this item</label>
-                <textarea id="report-item-reason" data-report-comment-input name="reason" class="wt-textarea" placeholder="Include anything else we should know about this item"></textarea>
-                <div data-error="no-report-comment" id="no-report-comment" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical wt-mt-xs-2">
-                    <span class="wt-icon wt-sem-text-on-surface-dark wt-validation__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 6v8h2V6zm1 9.25a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5"/></svg></span>&nbsp;Make sure to add more details.
-                </div>
-                <div data-error="comment-min-length-illegal-content" id="comment-min-length-illegal-content" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical wt-mt-xs-2">
-                    <span class="wt-icon wt-sem-text-on-surface-dark wt-validation__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M11 6v8h2V6zm1 9.25a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5"/></svg></span>&nbsp;Add more details, including a law or regulation name (10 characters min).
-                </div>
-            </div>
-        </div>
-        <div data-report-bonafide class="wt-mt-xs-2 wt-mb-xs-2 wt-sem-text-secondary wt-display-none">
-            By submitting this report, you confirm the information and claims in this form are accurate.
-        </div>
-        <div data-report-item-overlay-footer class="wt-overlay__footer wt-pt-xs-0 wt-display-none" id="overlay-footer">
-            <input type="hidden" name="_nnc" value="3:1758149097:4GUgvh8y5DkVyZZtcEO3WxW_bLVi:fb034c7c38a6074451032687692e755919fbe37e1c1c835e8258dc34b14fb936" class="hidden csrf" />
-            <input type="hidden"
-                   name="target_id"
-                   value="1790774795"/>
-            <input type="hidden"
-                   name="target_type"
-                   value="listing"/>
-            <input type='hidden'
-                   name='send_report'
-                   value='true'/>
-            <input type='hidden'
-                   name='ref'
-                   value="rlp-listing-grid-2"/>
-            <input type='hidden'
-                   name='platform'
-                   value="web"/>
-            <input type='hidden'
-                   name='search_query'
-                   value=""/>
-            <div class="wt-overlay__footer__cancel">
-                <button data-report-back-button type="button"
-                        class="wt-btn wt-btn-transparent report-item-step wt-display-none">
-                    Go back
-                </button>
-            </div>
-            <div class="wt-overlay__footer__action">
-                <button data-report-next-button type="button"
-                        class="wt-btn wt-btn--primary report-item-step">
-                    Next
-                </button>
-                <button data-report-submit-button type="submit"
-                        class="wt-btn wt-btn--primary report-item-step wt-display-none">
-                    Submit report
-                </button>
-            </div>
-        </div>
-    </form>
-</div>
-        </div>
-    </div>
-                        </div>
-                    </div>
-
-					<div class="cart-col wt-order-xs-2 wt-mb-lg-5">
-    <div id="listing-page-cart" class="wt-display-flex-lg wt-flex-direction-column-md wt-flex-lg-3 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-0 wt-pr-lg-5 wt-pl-xs-2 wt-pr-xs-2">
-        
-        <div class="wt-mb-xs-1 wt-mt-xs-1">
-            <div 
-                data-appears-component-name="Etsy-Modules-ListingPage-UrgencySignal-RecsRankingApiSpec"
-                data-appears-event-data='{
-                    "module_placement":"lp_urgency_signals",
-                    "datasets":["Common_Signal_CustomCandidatesSignalRankerV0"],
-                    "targets":[],
-                    "logging_class":"Etsy\\Modules\\ListingPage\\UrgencySignal\\RecsRankingApiSpec",
-                    "page_listing_id":1790774795,
-                    "mmx_request_uuid_map":{"51316eeb-34a2-4c96-9fa3-3a44d56e2d4d":[0,1]},
-                    "candidate_source_map":{"signals-extractor":[0,1]},
-                    "second_pass_ranker_map":{"signals-ranker-v0":[0,1]},
-                    "client_provided_features":{
-                        "browser":{
-                            "acceptLanguage":"en-GB",
-                            "browser":"Chrome",
-                            "currency":"IDR",
-                            "localeRegion":"ID",
-                            "operatingSystem":"Windows 11",
-                            "platform":"desktop",
-                            "platformEtsyApp":"web",
-                            "platformMobileDevice":"unidentified",
-                            "source":"directLanding"
-                        },
-                        "date_time":{"dayOfWeek":"3","hourOfDay":"22"},
-                        "user":{
-                            "locationLatitude":null,
-                            "locationLongitude":null,
-                            "locationZip":"unidentified",
-                            "userPreferredLanguage":"en-GB"
-                        }
-                    },
-                    "scores":[0.47744357585906982421875,0.222189426422119140625],
-                    "datasets_map":{"Common_Signal_CustomCandidatesSignalRankerV0":[0,1]},
-                    "target_listing_id":1790774795,
-                    "candidates":["in_cart_only","lp_views_only"],
-                    "refTag":"lp_urgency_signals",
-                    "signals":["in_cart_only","lp_views_only"],
-                    "rec_event_name":"recommendations_module"
-                }'
-                class="recs-appears-logger"
-            >
-                <p class="wt-text-title-01 wt-sem-text-critical">
-                    200,654 Orang Menyukai !!
-                </p>
-            </div>
-        </div>
-
-        <div class="wt-display-flex-xs wt-align-items-center">
-            <div data-appears-component-name="price">
-                <div class="wt-display-flex-xs wt-align-items-center wt-flex-wrap"
-                     data-selector="price-only"
-                     data-buy-box-region="price">
-
-                    <p class="wt-text-title-larger wt-mr-xs-1">
-                        <span class="wt-screen-reader-only">Price:</span>Rp 10,000
-                    </p>
-
-                    <div data-clg-id="WtSpinner" 
-                         class="wt-spinner wt-spinner--01 wt-display-none" 
-                         aria-live="assertive" 
-                         data-buy-box-price-spinner="">
-                        <span class="wt-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                <circle fill="transparent" cx="12" cy="12" r="10" />
-                            </svg>
-                        </span>
-                        Loading
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div data-buy-box-region="vat_messaging">
-            <div class="wt-sem-text-secondary wt-text-caption wt-pt-xs-1 wt-pb-xs-1">
-               Slot Mahjong Ways 2
-            </div>
-        </div>
-
-        <div class="wt-mt-xs-1 wt-mb-xs-1">
-            <h1>IDEBET: Situs Slot Mahjong Ways 2 Link Slot Gacor 2026 Terpercaya
-</h1>
-        </div><br>
-        <p>IDEBET merupakan situs slot Mahjong Ways 2 dengan link slot gacor 2026 terpercaya yang menawarkan akses bermain stabil serta didukung server handal serta system aman modern.</p><br>
-		<!-- WRAPPER UTAMA -->
-<div class="shura">
-
-  <!-- =======================
-       1. CAROUSEL
-  ======================== -->
-  <div class="shura-daftar">
-      <a rel="nofollow noopener" href="https://slot-mahjong-gacor-a84.pages.dev/amp">
-          <img src="https://i.imgur.com/cB9VTUb.png" width="100%" height="auto" alt="Daftar Sekarang">
-      </a>
-  </div>
-
-  <!-- =======================
-       3. NUMBER GENERATOR
-  ======================== -->
-    <!-- 🎰 Compact Cyberpunk toto 4d Generator -->
-        <div class="generator-container">
-            <div class="machine">
-            <h2>GENERATOR PREDIKSI TOTO 4D</h2>
-            <div class="display" id="display">
-             <div class="ball">7</div>
-             <div class="ball">7</div>
-             <div class="ball">7</div>
-             <div class="ball">7</div>
-         </div>
-         <button onclick="generateNumbers(this)">Generate Numbers</button>
-         </div>
-         </div>
-
-<!-- ======================================
-     CSS SEMUA DALAM SATU TEMPAT
-======================================= -->
-<style>
-/* CONTAINER GLOBAL */
-.shura {
-  width: 100%;
-  max-width: 700px;
-  margin: 0 auto;
+/* HORMATI prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .snowflake,
+  .firework,
+  .firework::before {
+    animation: none !important;
+  }
 }
-
-/* ------------------------------
-   CAROUSEL
------------------------------- */
-.shura-carousel {
-  width: 100%;
-  overflow: hidden;
-  border-radius: 6px;
-  margin-bottom: 20px;
-}
-
-.shura-carousel .carousel-track {
-  display: flex;
-  width: calc(300px * 2);
-  animation: shura-slide 15s infinite;
-}
-
-.shura-carousel .slide {
-  width: 300px;
-}
-
-.shura-carousel .slide img {
-  width: 100%;
-  border-radius: 6px;
-}
-
-@keyframes shura-slide {
-  0%   { transform: translateX(0); }
-  50%  { transform: translateX(-300px); }
-  100% { transform: translateX(0); }
-}
-
-
-/* ------------------------------
-   CYBER SLOT MACHINE (asli)
------------------------------- */
-
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
-
-.cyber-reel {
-  width: 100px;
-  height: 110px;
-  background: radial-gradient(circle at 30% 30%, #ffffff, #ffffff);
-  border-radius: 12px;
-  font-size: 42px;
-  font-weight: bold;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-
-@keyframes shineSlot {
-  0% { left: -150%; }
-  100% { left: 150%; }
-}
-</style>
-
-
-<!-- ======================================
-     JAVASCRIPT
-======================================= -->
-<script>
-  const cyberSymbols = ["7️⃣", "🍒", "88", "🍋", "🔔", "💎"];
-  
-  function spinCyberReels() {
-    const reels = document.querySelectorAll('.cyber-reel');
-    const resultEl = document.querySelector('.cyber-result');
-    const button = document.querySelector('.cyber-spin-btn');
-  
-    resultEl.textContent = "";
-    button.disabled = true;
-    button.textContent = "SPINNING... 🎰";
-  
-    const results = Array.from({length: reels.length}, () => 
-        cyberSymbols[Math.floor(Math.random() * cyberSymbols.length)]
-    );
-  
-    reels.forEach((reel, index) => {
-        setTimeout(() => {
-            reel.querySelector('.cyber-symbol').textContent = results[index];
-  
-            if (index === reels.length - 1) {
-                button.disabled = false;
-                button.textContent = "SPIN 🎲";
-  
-                if (results.every(s => s === results[0])) {
-                    resultEl.textContent = "🎉 JACKPOT! 🎉";
-                } else {
-                    resultEl.textContent = "Better luck next time!";
-                }
-            }
-        }, 700 + index * 500);
-    });
-  }
-  </script>
-
-        <div class="wt-mb-xs-3">
-            <div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header"></div>
-        </div>
-
-        <div class="wt-mb-xs-6 wt-mb-lg-0">
-            <div data-buy-box>
-                <div class="wt-mb-xs-3">
-                    <div data-appears-component-name="variations">
-                        <div data-selector="listing-page-variations"></div>
-                    </div>
-                </div>
-                <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-flex-wrap wt-flex-direction-column-lg wt-flex-gap-xs-2">
-                    <div class="wt-flex-xs-1 wt-mr-lg-0"
-                         data-buy-box-region="express_checkout_button"
-                         data-shop-currency="IDR"
-                         data-shop-id="54267703"
-                         data-is-eu-buyer="false"
-                         data-listing-id="1790774795"
-                         data-buyer-currency=""
-                         data-is-guest-checkout="false">
-
-                        <form action="/cart/listing/1790774795"
-                              method="post"
-                              class="add-to-cart-form checkout-single-listing-form">
-
-                            <input type="hidden" name="_nnc" value="3:1758149097:qZIltsybkZo_woVcQ6GhSBioQEaY:3a59f90f2019ccffb3700cb9dba97128064c900f44ffca5c723523809a2f9267"
-                                   class="hidden csrf" />
-
-                            <input type="hidden" name="listing_id" value="1790774795" />
-                            <input type="hidden" name="quantity" value="1" />
-                            <input type="hidden" name="shipping_method_id" value="" />
-                            <input type="hidden" name="listing_inventory_id" value="22156848895" />
-                            <input type="hidden" name="payment_method" value="cc" />
-
-                        </form>
-                    </div>
-                </div>
-
-                <p class="purchase-accept-terms wt-display-none wt-mt-xs-2 wt-sem-text-primary wt-text-body-small wt-width-full"></p>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-</div>
-    </div>
-</div>
-            <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-flex-direction-row-md wt-flex-direction-column-lg wt-flex-gap-md-2 wt-flex-gap-lg-0 wt-justify-content-space-between">
-                
-                
-            </div>
-
-                <div class="wt-mt-xs-3">
-                    <div data-appears-component-name="secondary_nudges">
-<div class="wt-display-flex-xs wt-align-items-center wt-mt-xs-2">
-       
-</div>
-
-
-<div class="listing-info info-col description-right wt-order-xs-5">
-
-</div>
-<div class="listing-info wider-review-col wt-order-xs-6">
-    <div
-        class="wt-flex-lg-5 wt-align-items-flex-start wt-max-width-full wt-pl-md-4 wt-pr-md-4 wt-pr-lg-0 wt-pl-lg-5 wt-pl-xs-2 wt-pr-xs-2"
-        data-appears-component-name="listing_page_reviews_container_top"
-        data-offset="0.01"
-            data-appears-event-data='{"transaction_ids":[4556938481,4559852869,4455685549],"reviews_with_text":3,"reviews_older_than_three_months":3,"reviews_under_three_stars":0,"fired_on_plus_more":false,"tab_fetched":"same_listing_reviews","listing_rating_count":8,"shop_rating_count":129,"page":"listing","listing_id":1790774795,"page_number":1,"sort_option":"Relevancy","is_mobile_or_tablet":false,"is_reviews_untabbed":false,"is_initial_load":true,"tag_filters":[]}'
-    >
-        <div class="wt-mb-xs-3">
-            <div data-lazy-loaded-bottom-section-before-reviews-trigger></div>
-            <div data-appears-component-name="listing_page_reviews" data-appears-event-data='{"transaction_ids":[4556938481,4559852869,4455685549],"reviews_with_text":3,"reviews_older_than_three_months":3,"reviews_under_three_stars":0,"fired_on_plus_more":false,"tab_fetched":"same_listing_reviews","listing_rating_count":8,"shop_rating_count":129,"page":"listing","listing_id":1790774795,"page_number":1,"sort_option":"Relevancy","is_mobile_or_tablet":false,"is_reviews_untabbed":false,"is_initial_load":true,"tag_filters":[]}'>
-
-<div id="deep-dive-root"></div>
-</div>
-            <div data-lazy-loaded-bottom-section-after-reviews-trigger></div>
-            
-                
-
-
-        </div>
-    </div>
-</div>
-                </div>
-            </div> 
-        </div> 
-    </div>
-
-    <div class="listing-page-content-container-wider wt-horizontal-center">
-        <div data-lazy-loaded-collection-section-trigger></div>
-
-    <div class="other-info">
-
-        
-        
-        <div id="recs_ribbon_container">
-    <div class="wt-position-relative wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-5 wt-pr-lg-5">
-            <div data-listing-page-lazy-loaded-bottom-section data-ymal-and-prolist-section>
-                <div class="wt-pt-xs-0 wt-mb-xs-8">
-                    <div data-neu-spec-placeholder="1" id="569e011a1e24cf28711f5a7429944dc3">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Etsy\\Modules\\ListingPage\\Recommendations\\CombinedAdsAndRecs\\ApiSpec","args":{"listing_id":1790774795,"user_id":1135369000,"module_placement":"external_bot","ymal_offset":2,"is_external_landing":true,"force_set_offset":true,"is_external_referrer":false,"hide_favorite_hearts":false,"is_from_OSA":false,"is_elp":false,"shop_id":54267703,"vat_region":"ID","ship_to_country":121,"selected_listing_variation_ids":[],"should_open_all_links_as_external":false,"swap_lp_recs_for_search":false}}</script>
-    <p class="wt-screen-reader-only">Loading...</p>
-
-
-</div>
-                </div>
-            </div>
-    </div>
-</div>
-            <div class="wt-body-max-width wt-mb-xs-8" data-listing-page-lazy-loaded-bottom-section>
-
-            </div>
-    </div>
-</div>
-
-<div class="wt-body-max-width wt-mb-xs-6 wt-pr-xs-2 wt-pl-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-5 wt-pr-lg-5">
-        <div data-listing-page-lazy-loaded-collection-section>
-            <div data-neu-spec-placeholder="1" id="681d824159ab046d042eda509ac40181">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Etsy\\Modules\\CollectionRecs\\Recommendations\\ListingPage\\ApiSpec","args":{"listing_ids":[1790774795],"is_external":true,"display_browsy_elp_collection_recs":false,"set_is_eligible_compare_lp_collections":false}}</script>
-</div>
-        </div>
-
-        <footer>
-<div class="listing-info wider-review-col">
-            <div class="wt-bb-xs wt-mt-xs-3 wt-mb-xs-3 wt-ml-xs-2 wt-ml-md-4 wt-ml-lg-5 wt-order-xs-3">
-            </div>
-        </div>
-        
-        <!-- ⚡ Cyberpunk Random Slot Online Game Gacor (with simulated Live RTP) -->
-        <div class="generator-container">
-  <div class="machine">
-    <h2>RTP SLOT GACOR</h2>
-
-    <div class="controls">
-      <label>
-        Provider
-        <select id="providerFilter">
-          <option value="ALL">ALL PROVIDERS</option>
-        </select>
-      </label>
-      <label>
-        Min RTP
-        <input id="minRtp" type="number" min="80" max="99.9" step="0.1" value="0">
-      </label>
-      <label>
-        Max RTP
-        <input id="maxRtp" type="number" min="80" max="99.9" step="0.1" value="100">
-      </label>
-      <button id="btnRandom">Randomize</button>
-    </div>
-
-    <div class="result-card" id="result">
-      <div class="result-title">— Ready —</div>
-      <div class="result-grid">
-        <div>
-          <div class="k">Game</div>
-          <div class="v" id="rGame">-</div>
-        </div>
-        <div>
-          <div class="k">Provider</div>
-          <div class="v" id="rProv">-</div>
-        </div>
-        <div>
-          <div class="k">Base RTP</div>
-          <div class="v" id="rBase">-</div>
-        </div>
-        <div>
-          <div class="k">Live RTP (sim)</div>
-          <div class="v big" id="rLive">-</div>
-        </div>
-        <div>
-          <div class="k">Volatility</div>
-          <div class="v" id="rVol">-</div>
-        </div>
-        <div>
-          <div class="k">Reels</div>
-          <div class="v" id="rReels">-</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="alts">
-      <div class="alts-title">Hasil</div>
-      <div class="alt-list" id="altList"></div>
-    </div>
-
-    <div class="mini-note">*Live RTP disimulasikan ±1.5% dari base RTP untuk keperluan slot.</div>
-
-<style>
-  .generator-container {
-    display: flex; justify-content: center; align-items: center; padding: 22px 10px;
-    font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-  }
-  .machine {
-    background: radial-gradient(circle farthest-corner at -4% -12.9%, #ffae00 40%, #000000 90.2%);
-    border-radius: 18px; width: 760px; color: #000000; position: relative; padding: 18px 18px 22px;
-    box-shadow: 0 0 28px #ffd000;
-    text-align: center;
-    padding: 20px 15px 25px;
-    color: #fff;
-    
-  }
-.generator-container .machine h2 {
-    font-size: 20px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    margin-bottom: 15px;
-    color: #ffffff;
-    text-shadow: 0 0 6px #fff;
-    }
-                
-    .generator-container .display {
-    background: #ffffff;
-    border-radius: 10px;
-    padding: 10px;
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    box-shadow: inset 0 0 10px rgba(0, 0, 255, 0.2);
-    }
-                
-    .generator-container .ball {
-    width: 60px;
-    height: 60px;
-    background: linear-gradient(to bottom, #00110c 0%, #ffd000 50%, #00110c 100%);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 28px;
-    font-weight: bold;
-    color: #fff;
-    box-shadow: 0 0 8px #ffd000,
-    inset -3px -3px 6px rgba(0,0,0,0.4),
-    inset 3px 3px 6px rgba(255,255,255,0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    text-shadow: 0 0 4px #ffd000;
-    }
-                
-    .generator-container .ball.spin {
-    animation: roll 0.6s ease infinite;
-    }
-                
-    @keyframes roll {
-    0% { transform: rotateY(0deg) scale(1); }
-    50% { transform: rotateY(180deg) scale(1.1); }
-    100% { transform: rotateY(360deg) scale(1); }
-    }
-                
-    .generator-container button {
-    margin-top: 18px;
-    background: linear-gradient(to bottom, #00110c 0%, #ffd000 50%, #00110c 100%);
-    border: none;
-    color: #fff;
-    padding: 8px 24px;
-    font-size: 15px;
-    font-weight: bold;
-    border-radius: 16px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    box-shadow: 0 0 10px #ffd000;
-    font-family: 'Orbitron', sans-serif;
-  }
-                
-    .generator-container button:hover {
-    background: linear-gradient(to bottom, #00110c 0%, #ffd000 50%, #00110c 100%);
-    transform: translateY(-2px);
-    box-shadow: 0 0 15px #ffd000;
-                    }  
-  .machine::before {
-    content: ""; position: absolute; inset: 0 0 auto 0; height: 4px;
-    background: linear-gradient(to right, #ffd000, #000000);
-    border-radius: 18px 18px 0 0;
-  }
-  .machine h2 {
-    margin: 8px 0 16px; text-align: center; letter-spacing: 1.5px; color: #fff; text-shadow: 0 0 6px #ffd000;
-    font-weight: 800;
-  }
-  .controls {
-    display: grid; grid-template-columns: 1fr 140px 140px 160px; gap: 10px; align-items: end;
-    background: rgba(0,0,0,0.25); padding: 12px; border-radius: 12px; border: 1px solid #ffd000;
-  }
-  .controls label { display: grid; gap: 6px; font-size: 12px; text-transform: uppercase; color: #ffffff; }
-  .controls select, .controls input {
-    background: #071a09; color: #ffffff; border: 1px solid #ffd000; border-radius: 10px; padding: 8px 10px; font-weight: 600;
-    outline: none; box-shadow: inset 0 0 8px #000000;
-  }
-  .controls #btnRandom {
-    align-self: center;
-    background: linear-gradient(to right, #ffffff, #ffffff); border: none; color: #000000; padding: 10px 16px;
-    font-size: 14px; font-weight: 800; border-radius: 14px; cursor: pointer;
-    box-shadow: 0 0 12px #ffd000; transition: transform .2s ease, box-shadow .2s ease;
-  }
-  .controls #btnRandom:hover { transform: translateY(-1px); box-shadow: 0 0 16px #ffd000; }
-  .result-card {
-    margin-top: 14px; background: #ffffff; color: #000000; border-radius: 14px; padding: 14px 14px 10px;
-    box-shadow: inset 0 0 12px #ffffff;
-  }
-  .result-title { font-weight: 800; color: #000000; margin-bottom: 8px; letter-spacing: .6px; }
-  .result-grid {
-    display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;
-  }
-  .k { font-size: 12px; color: #000000; opacity: .8; text-transform: uppercase; }
-  .v { font-weight: 700; font-size: 15px; color: #000000; }
-  .v.big { font-size: 22px; color: #000000; text-shadow: 0 0 6px #ffffff; }
-  .alts { margin-top: 14px; background: #000000; border: 1px solid #ffffff; border-radius: 12px; padding: 10px; }
-  .alts-title { font-weight: 800; color: #ffffff; margin-bottom: 8px; }
-  .alt-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
-  .alt-item {
-    background: #ffffff; border-radius: 10px; padding: 10px; box-shadow: inset 0 0 10px #ffffff;
-  }
-  .alt-item .g { font-weight: 800; color: #000000; }
-  .alt-item .p { font-size: 12px; color: #000000; margin-top: 2px; }
-  .alt-item .r { font-weight: 700; margin-top: 6px; color: #ffffff; }
-  .mini-note { margin-top: 10px; font-size: 11px; color: #ffffff; opacity: .9; text-align: center; }
-  @media (max-width: 820px) {
-    .machine { width: 100%; }
-    .controls { grid-template-columns: 1fr 1fr; }
-    .result-grid { grid-template-columns: 1fr 1fr; }
-    .alt-list { grid-template-columns: 1fr; }
-  }
 </style>
 
 <script>
-/** =========================
- *  DATASET: Puluhan game lintas provider
- *  baseRTP = RTP teoritis; live RTP akan disimulasikan ±1.5%
- *  reels & volatility untuk info tambahan
- *  ========================= */
-const GAMES = [
-  // Pragmatic Play
-  {game:"Gates of Olympus", provider:"Pragmatic Play", baseRTP:96.5, volatility:"High", reels:"6x5"},
-  {game:"Starlight Princess", provider:"Pragmatic Play", baseRTP:96.5, volatility:"High", reels:"6x5"},
-  {game:"Sweet Bonanza", provider:"Pragmatic Play", baseRTP:96.5, volatility:"Medium-High", reels:"6x5"},
-  {game:"Sugar Rush", provider:"Pragmatic Play", baseRTP:96.5, volatility:"High", reels:"7x7"},
-  {game:"Power of Thor Megaways", provider:"Pragmatic Play", baseRTP:96.55, volatility:"High", reels:"Megaways"},
+// ==== GENERATE SALJU & KEMBANG API OTOMATIS ====
+(function() {
+  const wrap = document.getElementById('fx-overlay');
+  if (!wrap) return;
 
-  // PG Soft
-  {game:"Mahjong Ways", provider:"PG Soft", baseRTP:96.92, volatility:"Medium", reels:"5x4"},
-  {game:"Mahjong Ways 2", provider:"PG Soft", baseRTP:96.95, volatility:"Medium", reels:"5x4"},
-  {game:"Treasures of Aztec", provider:"PG Soft", baseRTP:96.71, volatility:"High", reels:"6x5"},
-  {game:"Wild Bandito", provider:"PG Soft", baseRTP:96.73, volatility:"Medium", reels:"5x4"},
-  {game:"Lucky Neko", provider:"PG Soft", baseRTP:96.73, volatility:"High", reels:"6x5"},
+  // generate beberapa salju
+  for (let i = 0; i < 45; i++) {
+    const flake = document.createElement('span');
+    flake.className = 'snowflake';
+    if (Math.random() < 0.25) flake.classList.add('-sm');
+    if (Math.random() > 0.80) flake.classList.add('-lg');
 
-  // Habanero
-  {game:"Hot Hot Fruit", provider:"Habanero", baseRTP:96.7, volatility:"Medium", reels:"5x3"},
-  {game:"Koi Gate", provider:"Habanero", baseRTP:96.0, volatility:"Medium", reels:"5x3"},
-  {game:"Santa’s Village", provider:"Habanero", baseRTP:96.7, volatility:"Medium-High", reels:"5x3"},
+    flake.style.left   = Math.random() * 100 + '%';
+    flake.style.setProperty('--dur', (10 + Math.random() * 10) + 's');
+    flake.style.setProperty('--delay', (Math.random() * 8) + 's');
+    flake.style.setProperty('--drift', (Math.random() * 60 - 30) + 'px');
+    flake.style.setProperty('--rot', (Math.random() * 360) + 'deg');
+    flake.style.setProperty('--sway', (4 + Math.random() * 4) + 's');
 
-  // Spadegaming
-  {game:"Candy Pop", provider:"Spadegaming", baseRTP:96.2, volatility:"Medium", reels:"Cluster"},
-  {game:"Brothers Kingdom", provider:"Spadegaming", baseRTP:97.2, volatility:"Medium-High", reels:"5x3"},
-  {game:"Princess Wang", provider:"Spadegaming", baseRTP:96.0, volatility:"Medium", reels:"5x3"},
-
-  // Joker
-  {game:"Roma", provider:"Joker", baseRTP:95.0, volatility:"Medium", reels:"5x3"},
-  {game:"Roma X", provider:"Joker", baseRTP:95.3, volatility:"Medium", reels:"5x3"},
-  {game:"Octagon Gem", provider:"Joker", baseRTP:95.3, volatility:"Medium", reels:"5x3"},
-
-  // Nolimit City
-  {game:"Deadwood", provider:"Nolimit City", baseRTP:96.03, volatility:"Extreme", reels:"5x3"},
-  {game:"Fire in the Hole", provider:"Nolimit City", baseRTP:96.06, volatility:"Extreme", reels:"6x3-6"},
-  {game:"San Quentin", provider:"Nolimit City", baseRTP:96.03, volatility:"Extreme", reels:"5x3"},
-
-  // Hacksaw
-  {game:"Wanted Dead or a Wild", provider:"Hacksaw", baseRTP:96.38, volatility:"High", reels:"5x5"},
-  {game:"Chaos Crew", provider:"Hacksaw", baseRTP:96.3, volatility:"High", reels:"5x5"},
-  {game:"Stack ‘Em", provider:"Hacksaw", baseRTP:96.2, volatility:"High", reels:"5x4"},
-
-  // Relax Gaming
-  {game:"Money Train 2", provider:"Relax Gaming", baseRTP:96.4, volatility:"High", reels:"5x4"},
-  {game:"Money Train 3", provider:"Relax Gaming", baseRTP:96.1, volatility:"High", reels:"5x4"},
-  {game:"Temple Tumble", provider:"Relax Gaming", baseRTP:96.25, volatility:"High", reels:"6x6"},
-
-  // Play'n GO
-  {game:"Book of Dead", provider:"Play'n GO", baseRTP:96.21, volatility:"High", reels:"5x3"},
-  {game:"Rise of Olympus", provider:"Play'n GO", baseRTP:96.5, volatility:"High", reels:"5x5"},
-  {game:"Moon Princess", provider:"Play'n GO", baseRTP:96.5, volatility:"High", reels:"5x5"},
-
-  // Microgaming
-  {game:"Thunderstruck II", provider:"Microgaming", baseRTP:96.65, volatility:"Medium-High", reels:"5x3"},
-  {game:"Immortal Romance", provider:"Microgaming", baseRTP:96.86, volatility:"High", reels:"5x3"},
-  {game:"9 Masks of Fire", provider:"Microgaming", baseRTP:96.24, volatility:"Medium", reels:"5x3"},
-
-  // Red Tiger
-  {game:"Gonzo’s Quest Megaways", provider:"Red Tiger", baseRTP:96.0, volatility:"High", reels:"Megaways"},
-  {game:"Pirates’ Plenty", provider:"Red Tiger", baseRTP:96.12, volatility:"High", reels:"5x3"},
-  {game:"Dragon’s Fire", provider:"Red Tiger", baseRTP:96.07, volatility:"High", reels:"5x4"},
-
-  // Yggdrasil
-  {game:"Valley of the Gods", provider:"Yggdrasil", baseRTP:96.2, volatility:"Medium-High", reels:"5x5"},
-  {game:"Holmes and the Stolen Stones", provider:"Yggdrasil", baseRTP:96.8, volatility:"Medium-High", reels:"5x3"},
-  {game:"Vikings Go Berzerk", provider:"Yggdrasil", baseRTP:96.1, volatility:"High", reels:"5x4"},
-];
-
-/* ======= Helpers ======= */
-const $ = (q) => document.querySelector(q);
-const $$ = (q) => document.querySelectorAll(q);
-
-function clamp(n, min, max){ return Math.max(min, Math.min(max, n)); }
-function simulateLiveRTP(base){
-  const delta = (Math.random() * 3) - 1.5; // -1.5% to +1.5%
-  const live = clamp(base + delta, 80, 99.9);
-  return Number(live.toFixed(2));
-}
-
-function uniqueProviders(){
-  return [...new Set(GAMES.map(g => g.provider))].sort();
-}
-
-function applyFilters(){
-  const prov = $("#providerFilter").value;
-  const minR = parseFloat($("#minRtp").value || "0");
-  const maxR = parseFloat($("#maxRtp").value || "100");
-  return GAMES.filter(g =>
-    (prov === "ALL" || g.provider === prov) &&
-    g.baseRTP >= minR && g.baseRTP <= maxR
-  );
-}
-
-function pickRandom(arr, n=1){
-  const copy = [...arr];
-  const out = [];
-  for(let i=0; i<n && copy.length; i++){
-    const idx = Math.floor(Math.random()*copy.length);
-    out.push(copy.splice(idx,1)[0]);
+    wrap.appendChild(flake);
   }
-  return out;
-}
 
-function renderMain(game){
-  $("#rGame").textContent = game.game;
-  $("#rProv").textContent = game.provider;
-  $("#rBase").textContent = `${game.baseRTP.toFixed(2)}%`;
-  $("#rVol").textContent = game.volatility;
-  $("#rReels").textContent = game.reels;
-  $("#rLive").textContent = `${simulateLiveRTP(game.baseRTP)}%`;
-}
+  // fungsi spawn kembang api
+  function spawnFirework() {
+    const fw = document.createElement('span');
+    fw.className = 'firework';
 
-function renderAlts(list){
-  const wrap = $("#altList");
-  wrap.innerHTML = "";
-  list.forEach(g=>{
-    const live = simulateLiveRTP(g.baseRTP);
-    const el = document.createElement("div");
-    el.className = "alt-item";
-    el.innerHTML = `
-      <div class="g">${g.game}</div>
-      <div class="p">${g.provider}</div>
-      <div class="r">Live RTP (sim): <strong>${live}%</strong></div>
-    `;
-    wrap.appendChild(el);
-  });
-}
+    const x = 10 + Math.random() * 80; // antara 10% - 90%
+    const y = 10 + Math.random() * 30; // di area atas layar
 
-function spinButton(btn, on){
-  if(on){ btn.disabled = true; btn.dataset.text = btn.textContent; btn.textContent = "Rolling..."; }
-  else { btn.disabled = false; btn.textContent = btn.dataset.text || "Randomize"; }
-}
+    fw.style.left = x + '%';
+    fw.style.top  = y + '%';
 
-/* ======= Init ======= */
-(function init(){
-  // Fill provider dropdown
-  const sel = $("#providerFilter");
-  uniqueProviders().forEach(p=>{
-    const o = document.createElement("option");
-    o.value = p; o.textContent = p;
-    sel.appendChild(o);
-  });
+    wrap.appendChild(fw);
 
-  // Bind randomize
-  $("#btnRandom").addEventListener("click", (e)=>{
-    const btn = e.currentTarget;
-    const filtered = applyFilters();
-    if(!filtered.length){
-      renderMain({game:"No result", provider:"-", baseRTP:0, volatility:"-", reels:"-"});
-      renderAlts([]);
-      return;
-    }
-    spinButton(btn, true);
+    // hapus elemen setelah animasi selesai
+    setTimeout(() => {
+      fw.remove();
+    }, 1900);
+  }
 
-    // simple spin animation: flash the title
-    const title = $(".result-title");
-    title.textContent = "— Rolling —";
-    title.style.animation = "pulse .6s linear infinite";
-    title.style.color = "#ffd000";
-
-    const t0 = setInterval(()=>{
-      const temp = pickRandom(filtered,1)[0];
-      $("#rGame").textContent = temp.game;
-      $("#rProv").textContent = temp.provider;
-      $("#rBase").textContent = `${temp.baseRTP.toFixed(2)}%`;
-      $("#rVol").textContent = temp.volatility;
-      $("#rReels").textContent = temp.reels;
-      $("#rLive").textContent = `${simulateLiveRTP(temp.baseRTP)}%`;
-    }, 100);
-
-    setTimeout(()=>{
-      clearInterval(t0);
-      const picks = pickRandom(filtered, 4);
-      renderMain(picks[0]);
-      renderAlts(picks.slice(1));
-      title.textContent = "— Result —";
-      title.style.animation = "";
-      spinButton(btn, false);
-    }, 1400);
-  });
-
-  // Initial alt blank state
-  renderAlts([]);
+  // panggil berkala, tapi tidak terlalu rame
+  spawnFirework();
+  setInterval(spawnFirework, 1700);
 })();
+</script>
 
-// Tiny pulse keyframes injected dynamically
-const style = document.createElement("style");
-style.textContent = `
-@keyframes pulse {
-  0%{opacity:.6} 50%{opacity:1} 100%{opacity:.6}
-}`;
-document.head.appendChild(style);
-</script></footer>
 
-<script>
-function generateNumbers(button) {
-const container = button.closest('.generator-container');
-const balls = container.querySelectorAll('.ball');
-balls.forEach(ball => ball.classList.add('spin'));
-const interval = setInterval(() => {
-balls.forEach(ball => {
-ball.textContent = Math.floor(Math.random() * 10); });
-}, 100);
-setTimeout(() => {
-clearInterval(interval);
-balls.forEach(ball => {
-ball.textContent = Math.floor(Math.random() * 10);
-ball.classList.remove('spin');
-});
-}, 1500);
+      </div>
+      <!-- BEGIN sections: header-group -->
+      <div id="shopify-section-sections--17605520031924__header" class="shopify-section shopify-section-group-header-group section-header">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888" media="print" onload="this.media='all'">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887" media="print" onload="this.media='all'">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887" media="print" onload="this.media='all'">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887" media="print" onload="this.media='all'">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889" media="print" onload="this.media='all'">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" media="print" onload="this.media='all'">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889" media="print" onload="this.media='all'">
+         <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889" media="print" onload="this.media='all'">
+         <noscript>
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889" rel="stylesheet" type="text/css" media="all" />
+         </noscript>
+         <noscript>
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888" rel="stylesheet" type="text/css" media="all" />
+         </noscript>
+         <noscript>
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887" rel="stylesheet" type="text/css" media="all" />
+         </noscript>
+         <noscript>
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887" rel="stylesheet" type="text/css" media="all" />
+         </noscript>
+         <noscript>
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887" rel="stylesheet" type="text/css" media="all" />
+         </noscript>
+         <noscript>
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889" rel="stylesheet" type="text/css" media="all" />
+         </noscript>
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888" rel="stylesheet" type="text/css" media="all" />
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cto-cart-drawer.css?v=87861508187535145881742784888" rel="stylesheet" type="text/css" media="all" />
+         <style>
+            header-drawer,
+            .header-drawer-lazyload {
+            justify-self: start;
+            height:48px;
+            width:48px;
+            margin-left:0
+            }@media screen and (min-width: 1024px) {
+            header-drawer,
+            .header-drawer-lazyload {
+            display: none;
+            }
+            }@media only screen and (width:375px){
+            input[type=search]::placeholder{
+            color:rgba(18,18,18,.75);
+            position:relative;
+            width:51px;
+            left:5px;
+            top:2px;
+            font-style:normal;
+            font-weight:500;
+            font-size:15px;
+            line-height:15px;
+            opacity:.75
+            }
+            }
+            .menu-drawer-container {
+            display: flex;
+            }
+            .list-menu {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            }
+            .list-menu--inline {
+            display: inline-flex;
+            flex-wrap: wrap;
+            }
+            summary.list-menu__item {
+            padding-right: 2.7rem;
+            }
+            .list-menu__item {
+            align-items: center;
+            line-height: calc(1 + 0.3 / var(--font-body-scale));
+            }
+            .list-menu__item--link {
+            text-decoration: none;
+            padding-bottom: 1rem;
+            padding-top: 1rem;
+            line-height: calc(1 + 0.8 / var(--font-body-scale));
+            }
+            @media screen and (min-width: 750px) {
+            .list-menu__item--link {
+            padding-bottom: 0.5rem;
+            padding-top: 0.5rem;
+            }
+            }
+            .my-store-locator {
+            display: none;
+            }
+         </style>
+         <style data-shopify>.header {
+            padding: 10px 3rem 10px 3rem;
+            }
+            .section-header {
+            position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
+            margin-bottom: 0px;
+            }
+            @media screen and (min-width: 750px) {
+            .section-header {
+            margin-bottom: 0px;
+            }
+            }
+            @media screen and (min-width: 990px) {
+            .header {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            }
+            }
+            @media  screen and (min-width: 1024px) {
+            .header-menu-wrapper {
+            min-height: 140px;
+            }
+            }
+            .menu-drawer__menu li {--color-foreground: #121212;color: #121212;}
+            #right_menu_items {justify-content: space-between;list-style: none;display: contents;flex-direction: row;}
+            #right_menu_items li a{color:#383131}
+            #right_menu_mobile_items li a{color:#383131}
+            .right_menu_divider { }
+            #right_menu_items li:nth-child(2) {background: ;}
+            #right_menu_items li:nth-child(3) {background: ;}
+            #right_menu_items li:nth-child(4) {background: ;}
+            #right_menu_items li:nth-child(5) {background: ;}
+            #right_menu_items li:nth-child(6) {background: ;}
+            #right_menu_items li:nth-child(7) {background: ;}
+            #right_menu_mobile_items li:nth-child(1) {background: ;}
+            #right_menu_mobile_items li:nth-child(2) {background: ;}
+            #right_menu_mobile_items li:nth-child(3) {background: ;}
+            #right_menu_mobile_items li:nth-child(4) {background: ;}
+            #right_menu_mobile_items li:nth-child(5) {background: ;}
+            #right_menu_mobile_items li:nth-child(6) {background: ;}
+         </style>
+         <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-disclosure.js?v=13653116266235556501742784889" defer="defer"></script>
+         <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-modal.js?v=25581673532751508451742784889" defer="defer"></script>
+         <script src="//www.istudiosg.com/cdn/shop/t/14/assets/cart-notification.js?v=138585423170270737471742784887" defer="defer"></script>
+         <script src="//www.istudiosg.com/cdn/shop/t/14/assets/search-form.js?v=35015649889156673281742784888" defer="defer"></script>
+         <svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+            <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
+               <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
+            </symbol>
+            <symbol id="icon-reset" class="icon icon-close"  fill="none" viewBox="0 0 18 18" stroke="currentColor">
+               <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/>
+               <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
+               <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
+            </symbol>
+            <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
+               <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor">
+            </symbol>
+         </svg>
+         <sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-background-1 gradient header-wrapper--border-bottom header-menu-wrapper">
+            <my-store-locator-mobile
+               class="no-js-hidden my-store-locator my-store-locator--mobile"
+               data-error-text="Error: Try again"
+               data-select-text="Select your store"
+               >
+               <button
+                  class="js-my-store-locator-btn my-store-locator__btn"
+                  disabled
+                  aria-haspopup="dialog"
+                  >
+                  <div class="my-store-locator__icon">
+                     <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none">
+                        <path d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z" fill="#1D1D1F"/>
+                        <path d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z" fill="#1D1D1F"/>
+                        <path d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z" fill="#1D1D1F"/>
+                        <path d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z" fill="#1D1D1F"/>
+                        <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F"/>
+                        <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864" stroke="black" stroke-width="0.713153"/>
+                     </svg>
+                  </div>
+                  <p class="js-my-store-locator-info my-store-locator__info">
+                     Loading store
+                     <i class="fa fa-spinner fa-spin"></i>
+                  </p>
+               </button>
+               <div
+                  class="js-my-store-locator-details my-store-locator__details"
+                  tabindex="-1"
+                  role="dialog"
+                  aria-modal="true"
+                  aria-labelledby="MyStoreDetailsMobileHeading"
+                  >
+                  <button
+                     class="js-my-store-locator-close my-store-locator__close"
+                     type="button"
+                     aria-label="Close"
+                     >
+                     <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        aria-hidden="true"
+                        focusable="false"
+                        class="icon icon-close"
+                        fill="none"
+                        viewBox="0 0 18 17"
+                        width="18"
+                        height="17"
+                        >
+                        <path
+                           d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                           fill="currentColor"
+                           >
+                     </svg>
+                  </button>
+                  <div class="my-store-locator__details-header">
+                     <h2 class="my-store-locator__details-title" id="MyStoreDetailsMobileHeading"></h2>
+                     <span class="js-my-store-locator-distance my-store-locator__details-distance hidden">
+                     <i class="fa fa-spinner fa-spin"></i>
+                     </span>
+                  </div>
+                  <div class="js-my-store-locator-location my-store-locator__details-location"></div>
+                  <div class="my-store-locator-content">
+                     <div class="js-my-store-locator-address my-store-locator__details-info hidden">
+                        Address: <a href="#"></a>
+                     </div>
+                     <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
+                        Telephone: <a href="#"></a>
+                     </div>
+                     <div class="js-my-store-locator-email my-store-locator__details-info hidden">
+                        Email: <a href="#"></a>
+                     </div>
+                     <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
+                        Hours: <span></span>
+                     </div>
+                     <div class="js-my-store-locator-services hidden"></div>
+                  </div>
+                  <div class="my-store-locator__details-footer"><a
+                     class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
+                     href="/pages/store-locator"
+                     >
+                     View store map
+                     </a><button
+                        class="js-my-store-locator-drawer-btn my-store-locator__details-btn button button--full-width"
+                        aria-haspopup="dialog"
+                        >
+                     Select another store
+                     </button>
+                  </div>
+               </div>
+            </my-store-locator-mobile>
+            <header class="header header--middle-left header--mobile-center page-width header--has-menu header--has-social header--has-account">
+               <lazyload-section
+                  class="header-drawer-lazyload"
+                  data-render-on-load="true"
+                  data-selector=".js-header-drawer"
+                  data-callback="if (window.initHeaderDrawerAria) window.initHeaderDrawerAria()"
+                  >
+                  <header-drawer
+                     data-breakpoint="tablet"
+                     >
+                     <details id="Details-menu-drawer-container" class="menu-drawer-container">
+                        <summary
+                           class="header__icon header__icon--menu header__icon--summary link focus-inset"
+                           aria-label="Menu"
+                           >
+                           <span>
+                              <svg
+                                 xmlns="http://www.w3.org/2000/svg"
+                                 aria-hidden="true"
+                                 focusable="false"
+                                 class="icon icon-hamburger"
+                                 fill="none"
+                                 viewBox="0 0 18 16"
+                                 width="18"
+                                 height="16"
+                                 >
+                                 <path
+                                    d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z"
+                                    fill="currentColor"
+                                    >
+                              </svg>
+                              <svg
+                                 xmlns="http://www.w3.org/2000/svg"
+                                 aria-hidden="true"
+                                 focusable="false"
+                                 class="icon icon-close"
+                                 fill="none"
+                                 viewBox="0 0 18 17"
+                                 width="18"
+                                 height="17"
+                                 >
+                                 <path
+                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                    fill="currentColor"
+                                    >
+                              </svg>
+                           </span>
+                        </summary>
+                        <div
+                           id="menu-drawer"
+                           class="gradient menu-drawer motion-reduce color-background-1"
+                           tabindex="-1"
+                           style="background-color:#ffffff"
+                           ></div>
+                     </details>
+                  </header-drawer>
+               </lazyload-section>
+               <script>
+                  window.initHeaderDrawerAria = function () {
+                    document.querySelectorAll('.js-header-drawer [id^="Details-"] summary').forEach((summary) => {
+                      summary.setAttribute('role', 'button');
+                      summary.setAttribute('aria-expanded', summary.parentNode.hasAttribute('open'));
+                  
+                      if (summary.nextElementSibling.getAttribute('id')) {
+                        summary.setAttribute('aria-controls', summary.nextElementSibling.id);
+                      }
+                  
+                      summary.addEventListener('click', (event) => {
+                        event.currentTarget.setAttribute('aria-expanded', !event.currentTarget.closest('details').hasAttribute('open'));
+                      });
+                  
+                      if (summary.closest('header-drawer, menu-drawer')) return;
+                      summary.parentElement.addEventListener('keyup', onKeyUpEscape);
+                    });
+                  };
+               </script>
+               <div class="header__heading">
+                  <div class="brand--logo">
+                     <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
+                        <div class="ratio" style="--ratio-percent: 25.875000000000004%">
+                           <img
+                              src="https://i.imgur.com/mt1QU05.png"
+                              loading="lazy"
+                              class="header__heading-logo company_logo ratio"
+                              width="700"
+                              height="200"
+                              alt="IDEBET"
+                              >
+                        </div>
+                     </a>
+                  </div>
+                  <div class="apple_logo">
+                     <a href="#" class="header__heading-link link link--text focus-inset" aria-label="Home">
+                        <svg width="78" height="36" viewbox="0 0 78 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M67.3956 0.551707C68.5859 0.553638 69.3535 0.556397 69.9332 0.561638C70.5052 0.566603 70.8971 0.573776 71.2123 0.583982C71.8133 0.603292 72.2433 0.638325 72.6165 0.691289C73.243 0.78039 73.7505 0.930454 74.2151 1.15555C74.6777 1.37927 75.0969 1.67912 75.4562 2.04132C75.8154 2.40351 76.1117 2.82557 76.333 3.29093C76.5553 3.75878 76.7043 4.26966 76.7927 4.90192C76.8453 5.27818 76.8806 5.71293 76.9004 6.31981C76.9105 6.63814 76.9179 7.03344 76.9228 7.6108C76.928 8.19561 76.931 8.96966 76.9329 10.1691V25.8318C76.931 27.0312 76.928 27.8052 76.9228 28.39C76.9176 28.9671 76.9105 29.3627 76.9004 29.681C76.8806 30.2882 76.8456 30.7226 76.7927 31.0989C76.7043 31.7309 76.5553 32.242 76.333 32.7099C76.1117 33.1753 75.8152 33.5976 75.4562 33.9595C75.0969 34.3217 74.6777 34.6213 74.2151 34.8453C73.7505 35.0701 73.243 35.2204 72.6165 35.3095C72.2435 35.3625 71.8136 35.3975 71.2123 35.4168C70.8971 35.4271 70.5052 35.4342 69.9332 35.4392C69.3535 35.4442 68.5859 35.4472 67.3956 35.4491H10.8639C9.67355 35.4472 8.90599 35.4444 8.32628 35.4392C7.75425 35.4342 7.36239 35.4271 7.04721 35.4168C6.44614 35.3975 6.01622 35.3625 5.64298 35.3095C5.01645 35.2204 4.50904 35.0704 4.04434 34.8453C3.58184 34.6216 3.1626 34.3217 2.80332 33.9595C2.44405 33.5973 2.14777 33.1753 1.92651 32.7099C1.70415 32.242 1.55519 31.7312 1.46674 31.0989C1.41416 30.7226 1.37884 30.2879 1.3594 29.681C1.34927 29.3627 1.34187 28.9674 1.33694 28.39C1.33174 27.8052 1.32873 27.0312 1.32681 25.8318V10.1688C1.32873 8.96938 1.33174 8.19533 1.33694 7.61053C1.34215 7.03344 1.34927 6.63787 1.3594 6.31953C1.37911 5.71238 1.41416 5.27791 1.46674 4.90164C1.55519 4.26966 1.70415 3.75851 1.92651 3.29066C2.14777 2.82529 2.44433 2.40296 2.80332 2.04104C3.16232 1.67912 3.58184 1.37927 4.04434 1.15527C4.50904 0.930454 5.01645 0.780114 5.64298 0.691013C6.01595 0.638049 6.44587 0.603016 7.04721 0.583706C7.36239 0.5735 7.75425 0.566327 8.32628 0.561362C8.90599 0.556397 9.67355 0.553362 10.8639 0.551431H67.3956V0.551707ZM67.3964 0H67.3959H67.3953H10.8639C9.67081 0.00193098 8.90216 0.00496536 8.32136 0.00993073C7.75589 0.0148961 7.35746 0.0217924 7.02941 0.0325507C6.42916 0.0518605 5.97788 0.086618 5.56658 0.144823C4.89131 0.24082 4.33214 0.40385 3.80693 0.657911C3.28856 0.908938 2.8203 1.243 2.41585 1.65098C2.01167 2.05842 1.68088 2.52985 1.43251 3.05232C1.18113 3.58113 1.01957 4.14415 0.924276 4.8244C0.865949 5.24177 0.831172 5.6972 0.81173 6.3016C0.80105 6.63704 0.793931 7.03896 0.789001 7.60556C0.784072 8.18127 0.780786 8.94759 0.77887 10.1677V25.8312C0.780786 27.0521 0.784072 27.8185 0.789001 28.3944C0.793931 28.9608 0.80105 29.363 0.81173 29.6981C0.831172 30.3025 0.865949 30.758 0.924276 31.1753C1.01957 31.8556 1.18086 32.4189 1.43251 32.9477C1.68088 33.4701 2.01167 33.9416 2.41585 34.349C2.8203 34.757 3.28856 35.0911 3.80693 35.3421C4.33187 35.5964 4.89104 35.7595 5.56631 35.8552C5.97788 35.9137 6.42916 35.9481 7.02941 35.9674C7.35719 35.9782 7.75561 35.9851 8.32108 35.9901C8.90161 35.995 9.67054 35.9981 10.8628 36H67.3953C68.5884 35.9981 69.3571 35.9953 69.9379 35.9901C70.5033 35.9851 70.9018 35.9782 71.2298 35.9674C71.83 35.9481 72.2813 35.9134 72.6926 35.8552C73.3679 35.7592 73.9271 35.5961 74.4523 35.3421C74.9707 35.0911 75.4389 34.757 75.8434 34.349C76.2475 33.9416 76.5783 33.4701 76.8267 32.9477C77.0781 32.4189 77.2396 31.8559 77.3349 31.1756C77.3933 30.7585 77.428 30.3031 77.4475 29.6984C77.4582 29.363 77.4653 28.9608 77.4702 28.3944C77.4754 27.8182 77.4784 27.0519 77.4803 25.8323V10.1688C77.4784 8.94814 77.4751 8.18182 77.4702 7.60556C77.4653 7.03923 77.4582 6.63704 77.4475 6.30188C77.428 5.6972 77.3933 5.24177 77.3349 4.82468C77.2396 4.14442 77.0784 3.58113 76.8267 3.05232C76.5783 2.52985 76.2475 2.05842 75.8434 1.65098C75.4389 1.243 74.9707 0.908938 74.4523 0.657911C73.9273 0.40385 73.3682 0.240544 72.6929 0.144823C72.2813 0.0863422 71.83 0.0518605 71.2298 0.0325507C70.9018 0.0220683 70.5033 0.0148961 69.9381 0.00993073C69.3573 0.00496536 68.5887 0.00193098 67.3964 0ZM22.5344 11.7168C21.5471 11.6432 20.6516 12.0003 19.9308 12.2877C19.4756 12.4692 19.09 12.623 18.7949 12.623C18.4598 12.623 18.0462 12.4578 17.5821 12.2725C16.9748 12.03 16.2811 11.753 15.5645 11.7667C13.9039 11.7913 12.3737 12.7399 11.5177 14.2375C9.79313 17.2529 11.0774 21.7215 12.7574 24.1683C13.5792 25.3638 14.5592 26.7114 15.8462 26.6623C16.4215 26.6395 16.8308 26.4638 17.254 26.2821C17.7424 26.0725 18.2494 25.8548 19.0517 25.8548C19.8172 25.8548 20.3017 26.066 20.7676 26.2691C21.2127 26.4632 21.6409 26.6499 22.2811 26.638C23.6146 26.6132 24.4597 25.4176 25.2754 24.2152C26.1766 22.8902 26.5709 21.6054 26.6247 21.4299L26.6301 21.4125C26.6005 21.4012 24.0306 20.4078 24.0048 17.425C23.982 14.9773 25.9504 13.7774 26.1114 13.6792L26.1186 13.6748C24.9578 11.9537 23.1658 11.764 22.5344 11.7168ZM22.5559 6.95508C22.6827 8.1087 22.2224 9.26866 21.5384 10.1015C20.8549 10.9348 19.7349 11.582 18.6374 11.4962C18.4865 10.3663 19.0421 9.18536 19.6744 8.448C20.3806 7.61575 21.5715 6.99453 22.5559 6.95508Z" fill="#121212"></path>
+                           <path d="M32.4756 10.1289H34.8561C36.1108 10.1289 36.9797 10.9774 36.9797 12.2411V12.2502C36.9797 13.5095 36.1108 14.3715 34.8561 14.3715H33.4686V16.5731H32.4756V10.1289ZM33.4686 10.9727V13.5318H34.608C35.4725 13.5318 35.9689 13.0629 35.9689 12.2546V12.2458C35.9689 11.4417 35.4728 10.973 34.608 10.973H33.4686V10.9727Z" fill="#121212"></path>
+                           <path d="M37.8961 11.8765H38.8537V12.6803H38.8758C39.0264 12.1311 39.4167 11.7871 39.9487 11.7871C40.0859 11.7871 40.2056 11.8095 40.2812 11.823V12.7206C40.2059 12.6894 40.0372 12.6671 39.8512 12.6671C39.2348 12.6671 38.8537 13.0737 38.8537 13.7746V16.5748H37.8961V11.8765Z" fill="#121212"></path>
+                           <path d="M40.7574 14.2433V14.2389C40.7574 12.7697 41.5997 11.7871 42.9075 11.7871C44.2154 11.7871 45.0177 12.7341 45.0177 14.1451V14.4712H41.715C41.7325 15.36 42.2158 15.878 42.9782 15.878C43.5456 15.878 43.9224 15.5831 44.0423 15.2303L44.0557 15.1947H44.9643L44.9555 15.2438C44.8049 15.9897 44.0867 16.6686 42.956 16.6686C41.5863 16.6683 40.7574 15.726 40.7574 14.2433ZM41.7279 13.7879H44.0689C43.9889 12.9752 43.5368 12.5777 42.9116 12.5777C42.2911 12.5774 41.8122 13.0017 41.7279 13.7879Z" fill="#121212"></path>
+                           <path d="M45.9835 11.8765H46.9411V12.6045H46.9633C47.1629 12.1132 47.6369 11.7871 48.2487 11.7871C48.8916 11.7871 49.3613 12.122 49.5477 12.7118H49.5699C49.8093 12.1402 50.3588 11.7871 51.024 11.7871C51.946 11.7871 52.549 12.4034 52.549 13.3457V16.5745H51.587V13.5779C51.587 12.9661 51.263 12.6133 50.6957 12.6133C50.1283 12.6133 49.7337 13.042 49.7337 13.6362V16.5748H48.7936V13.5065C48.7936 12.9617 48.4524 12.6133 47.9113 12.6133C47.3439 12.6133 46.9406 13.0643 46.9406 13.6717V16.5745H45.983V11.8765H45.9835Z" fill="#121212"></path>
+                           <path d="M53.6573 10.5993C53.6573 10.2912 53.9054 10.041 54.2156 10.041C54.5305 10.041 54.7743 10.2912 54.7743 10.5993C54.7743 10.9031 54.5305 11.153 54.2156 11.153C53.9054 11.153 53.6573 10.9031 53.6573 10.5993ZM53.737 11.8765H54.6946V16.5746H53.737V11.8765Z" fill="#121212"></path>
+                           <path d="M55.8882 14.9207V11.875H56.8458V14.7331C56.8458 15.4432 57.1739 15.8363 57.8388 15.8363C58.5127 15.8363 58.9472 15.3494 58.9472 14.6173V11.8753H59.9092V16.5733H58.9472V15.8677H58.9251C58.6811 16.3411 58.2068 16.6671 57.4976 16.6671C56.4734 16.6669 55.8882 16.0015 55.8882 14.9207Z" fill="#121212"></path>
+                           <path d="M61.0338 11.8765H61.9914V12.6045H62.0136C62.2132 12.1132 62.6872 11.7871 63.299 11.7871C63.9419 11.7871 64.4116 12.122 64.598 12.7118H64.6202C64.8596 12.1402 65.4091 11.7871 66.0743 11.7871C66.9963 11.7871 67.5993 12.4034 67.5993 13.3457V16.5745H66.6373V13.5779C66.6373 12.9661 66.3133 12.6133 65.746 12.6133C65.1786 12.6133 64.784 13.042 64.784 13.6362V16.5748H63.8439V13.5065C63.8439 12.9617 63.5027 12.6133 62.9616 12.6133C62.3942 12.6133 61.9909 13.0643 61.9909 13.6717V16.5745H61.0333V11.8765H61.0338Z" fill="#121212"></path>
+                           <path d="M32.4756 19.6562H34.8561C36.1108 19.6562 36.9797 20.5045 36.9797 21.7685V21.7773C36.9797 23.0366 36.1108 23.8986 34.8561 23.8986H33.4686V26.1002H32.4756V19.6562ZM33.4686 20.5004V23.0592H34.608C35.4725 23.0592 35.9689 22.5902 35.9689 21.782V21.7732C35.9689 20.969 35.4728 20.5004 34.608 20.5004H33.4686Z" fill="#121212"></path>
+                           <path d="M37.4825 24.7629V24.754C37.4825 23.9367 38.112 23.4365 39.2159 23.3695L40.4837 23.2937V22.9408C40.4837 22.4228 40.1513 22.11 39.5571 22.11C39.0031 22.11 38.6613 22.3737 38.5817 22.7486L38.5729 22.7888H37.6684L37.6728 22.7397C37.7393 21.9312 38.4354 21.3105 39.5839 21.3105C40.723 21.3105 41.4457 21.918 41.4457 22.8603V26.0983H40.4837V25.3568H40.4662C40.1956 25.8613 39.6548 26.1829 39.0384 26.1829C38.1076 26.1832 37.4825 25.607 37.4825 24.7629ZM39.3002 25.4106C39.9738 25.4106 40.4837 24.9504 40.4837 24.3386V23.9725L39.3443 24.044C38.7681 24.0796 38.4488 24.3342 38.4488 24.7317V24.7405C38.4491 25.1515 38.7859 25.4106 39.3002 25.4106Z" fill="#121212"></path>
+                           <path d="M42.5538 21.4038H43.5114V22.2077H43.5335C43.6842 21.6584 44.0744 21.3145 44.6064 21.3145C44.7436 21.3145 44.8633 21.3368 44.9389 21.3503V22.2479C44.8636 22.2168 44.6949 22.1944 44.5089 22.1944C43.8925 22.1944 43.5114 22.6008 43.5114 23.302V26.1019H42.5538V21.4038Z" fill="#121212"></path>
+                           <path d="M46.3461 24.8628V22.1697H45.6768V21.4017H46.3461V20.1777H47.3258V21.4017H48.1991V22.1697H47.3258V24.8046C47.3258 25.2824 47.5386 25.4253 47.942 25.4253C48.0441 25.4253 48.1285 25.4165 48.1991 25.4076V26.1536C48.0882 26.1712 47.9067 26.1938 47.7114 26.1938C46.7894 26.1936 46.3461 25.8005 46.3461 24.8628Z" fill="#121212"></path>
+                           <path d="M49.2159 21.4038H50.1735V22.1136H50.1957C50.4394 21.6361 50.9183 21.3145 51.6232 21.3145C52.647 21.3145 53.2369 21.9798 53.2369 23.0606V26.1019H52.2749V23.2438C52.2749 22.5379 51.9468 22.1406 51.2817 22.1406C50.6078 22.1406 50.1735 22.6319 50.1735 23.3643V26.1022H49.2159V21.4038Z" fill="#121212"></path>
+                           <path d="M54.1758 23.767V23.7623C54.1758 22.2931 55.0182 21.3105 56.326 21.3105C57.6338 21.3105 58.4362 22.2576 58.4362 23.6685V23.9946H55.1334C55.151 24.8834 55.6343 25.4017 56.3966 25.4017C56.964 25.4017 57.3408 25.1068 57.4608 24.754L57.4742 24.7182H58.3828L58.374 24.7673C58.2234 25.5132 57.5051 26.1921 56.3745 26.1921C55.005 26.1921 54.1758 25.2497 54.1758 23.767ZM55.1466 23.3116H57.4876C57.4076 22.4989 56.9555 22.1011 56.3304 22.1011C55.7099 22.1011 55.2309 22.5254 55.1466 23.3116Z" fill="#121212"></path>
+                           <path d="M59.4498 21.4038H60.4074V22.2077H60.4295C60.5802 21.6584 60.9704 21.3145 61.5024 21.3145C61.6396 21.3145 61.7593 21.3368 61.8349 21.3503V22.2479C61.7596 22.2168 61.5909 22.1944 61.4049 22.1944C60.7885 22.1944 60.4074 22.6008 60.4074 23.302V26.1019H59.4498V21.4038Z" fill="#121212"></path>
+                        </svg>
+                     </a>
+                  </div>
+               </div>
+               <div class="search-container">
+                  <div class="container_search container_search_port">
+                     <predictive-search class="search-modal__form" data-loading-text="Loading...">
+                        <form
+                           class="nosubmit_form search search-modal__form"
+                           action="/search"
+                           id="nosubmit_form2"
+                           method="get"
+                           role="search"
+                           >
+                           <input type="hidden" name="type" value="product">
+                           <input
+                              class="nosubmit"
+                              id="Search-In-Modal"
+                              type="search"
+                              name="q"
+                              value="Slot Gacor"
+                              placeholder="Search"
+                              aria-label="Search"role="combobox"
+                              aria-expanded="false"
+                              aria-owns="predictive-search-results-list"
+                              aria-controls="predictive-search-results-list"
+                              aria-haspopup="listbox"
+                              aria-autocomplete="list"
+                              autocorrect="off"
+                              autocomplete="off"
+                              autocapitalize="off"
+                              spellcheck="false">
+                           <div
+                              class="predictive-search predictive-search--header"
+                              tabindex="-1"
+                              data-predictive-search
+                              style="max-height: 540px;"
+                              >
+                              <div class="predictive-search__loading-state">
+                                 <svg
+                                    aria-hidden="true"
+                                    focusable="false"
+                                    role="presentation"
+                                    class="spinner"
+                                    viewBox="0 0 66 66"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    >
+                                    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                                 </svg>
+                              </div>
+                           </div>
+                           <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span>
+                        </form>
+                        <button type="button" class="btn_close btn_close_desktop" id="btn_close2" aria-label="Close">
+                           <svg
+                              class="icon icon-close"
+                              aria-hidden="true"
+                              focusable="false"
+                              role="presentation"
+                              width="16.61px"
+                              height="16.61px"
+                              >
+                              <use href="#icon-close"/>
+                           </svg>
+                        </button>
+                     </predictive-search>
+                  </div>
+               </div>
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-my-store-locator.css?v=39324846110998923741742784888" rel="stylesheet" type="text/css" media="all" />
+               <my-store-locator
+                  class="no-js-hidden my-store-locator"
+                  data-limit-search-to-countries="us"
+                  data-storefront-api-access-token="962d1ff668df08fb12a218f6d7553a2e"
+                  data-default-location-id="94099734846"
+                  data-number-of-locations-to-fetch="24"
+                  data-apple-maps-access-token="eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg"
+                  data-distance-unit="miles"
+                  data-distance-miles-label="miles"
+                  data-distance-km-label="km"
+                  data-error-text="Error: Try again"
+                  data-select-text="Select your store"
+                  data-low-stock-html="Only {{ quantity }} left"
+                  data-unavailable-text="Unavailable"
+                  data-view-store-availability-text="View store availability"
+                  data-loading-text="Loading store"
+                  >
+                  <button
+                     class="js-my-store-locator-btn my-store-locator__btn"
+                     disabled
+                     aria-haspopup="dialog"
+                     >
+                     <div class="my-store-locator__icon">
+                        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none">
+                           <path d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z" fill="#1D1D1F"/>
+                           <path d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z" fill="#1D1D1F"/>
+                           <path d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z" fill="#1D1D1F"/>
+                           <path d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z" fill="#1D1D1F"/>
+                           <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F"/>
+                           <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864" stroke="black" stroke-width="0.713153"/>
+                        </svg>
+                     </div>
+                     <p class="js-my-store-locator-info my-store-locator__info">
+                        Loading store
+                        <i class="fa fa-spinner fa-spin"></i>
+                     </p>
+                  </button>
+                  <div
+                     class="js-my-store-locator-details my-store-locator__details"
+                     tabindex="-1"
+                     role="dialog"
+                     aria-modal="true"
+                     aria-labelledby="MyStoreDetailsHeading"
+                     >
+                     <button
+                        class="js-my-store-locator-close my-store-locator__close"
+                        type="button"
+                        aria-label="Close"
+                        >
+                        <svg
+                           xmlns="http://www.w3.org/2000/svg"
+                           aria-hidden="true"
+                           focusable="false"
+                           class="icon icon-close"
+                           fill="none"
+                           viewBox="0 0 18 17"
+                           width="18"
+                           height="17"
+                           >
+                           <path
+                              d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                              fill="currentColor"
+                              >
+                        </svg>
+                     </button>
+                     <div class="my-store-locator__details-header">
+                        <h2 class="my-store-locator__details-title" id="MyStoreDetailsHeading"></h2>
+                        <span class="js-my-store-locator-distance my-store-locator__details-distance hidden">
+                        <i class="fa fa-spinner fa-spin"></i>
+                        </span>
+                     </div>
+                     <div class="js-my-store-locator-location my-store-locator__details-location"></div>
+                     <div class="my-store-locator-content">
+                        <div class="js-my-store-locator-address my-store-locator__details-info hidden">
+                           Address: <a href="#" target="_blank"></a>
+                        </div>
+                        <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
+                           Telephone: <a href="#"></a>
+                        </div>
+                        <div class="js-my-store-locator-email my-store-locator__details-info hidden">
+                           Email: <a href="#" target="_blank"></a>
+                        </div>
+                        <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
+                           Hours: <span></span>
+                        </div>
+                        <div class="js-my-store-locator-services hidden"></div>
+                     </div>
+                     <div class="my-store-locator__details-footer"><a
+                        class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
+                        href="/pages/store-locator"
+                        >
+                        View store map
+                        </a><button
+                           class="js-my-store-locator-drawer-btn my-store-locator__details-btn button button--full-width"
+                           aria-haspopup="dialog"
+                           >
+                        Select another store
+                        </button>
+                     </div>
+                  </div>
+               </my-store-locator>
+               <script src="//www.istudiosg.com/cdn/shop/t/14/assets/my-store-locator.js?v=14296370560110765121259103666" defer="defer"></script>
+               <script>
+                  SDG.Data.mapsToken = "eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg";
+                  SDG.Data.googleMapsToken = "";
+                  SDG.Data.mapProvider = "apple_maps";
+                  
+                    SDG.Data.mapPage = false;
+                  
+                  SDG.Data.storeServiceTrigger = 'View store services';
+                  SDG.Data.storeHours =  'Hours';
+                  SDG.Data.storeAddress = 'Address';
+                  SDG.Data.storeEmail = 'Email';
+                  SDG.Data.storePhone = 'Telephone';
+                  SDG.Data.myStore = 'My store';
+                  SDG.Data.makeThisMyStore = 'Make this my store';
+                  SDG.Data.shopCountry = 'Singapore';
+               </script>
+               <script src="//www.istudiosg.com/cdn/shop/t/14/assets/mapkit.js?v=2554415917941391361742784889" defer></script><script async>
+                  document?.addEventListener('DOMContentLoaded', function() {
+                    if (window?.mapkit) {
+                     mapkit.init({
+                       authorizationCallback: function (done) {
+                         done("eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg");
+                       },
+                       language: 'en',
+                     });
+                    }
+                  
+                    if (window?.google) {
+                      google.maps.importLibrary('geocoding');
+                      google.maps.importLibrary('places');
+                    }
+                  });
+               </script>
+               <div class="header__icons">
+                  <div class="desktop-localization-wrapper">
+                  </div>
+                  <a href="/account/login" class="header__icon header__icon--account link focus-inset small-hide">
+                     <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        aria-hidden="true"
+                        focusable="false"
+                        class="icon icon-account"
+                        fill="none"
+                        viewBox="0 0 18 19"
+                        width="18"
+                        height="19"
+                        >
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6 4.5a3 3 0 116 0 3 3 0 01-6 0zm3-4a4 4 0 100 8 4 4 0 000-8zm5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15zM9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35z" fill="currentColor">
+                     </svg>
+                     <span class="visually-hidden">Log in</span>
+                  </a>
+                  <a href="javascript: void(0)" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
+                     <svg width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 4.25C6.5 2.93882 7.76806 1.75 9.5 1.75C11.2319 1.75 12.5 2.93882 12.5 4.25H6.5ZM5.5 4.25C5.5 2.24747 7.36595 0.75 9.5 0.75C11.6341 0.75 13.5 2.24747 13.5 4.25H17C18.1046 4.25 19 5.14543 19 6.25V19.25C19 20.3546 18.1046 21.25 17 21.25H2C0.895431 21.25 0 20.3546 0 19.25V6.25C0 5.14543 0.895431 4.25 2 4.25H5.5ZM1 6.25C1 5.69772 1.44772 5.25 2 5.25H17C17.5523 5.25 18 5.69772 18 6.25V19.25C18 19.8023 17.5523 20.25 17 20.25H2C1.44772 20.25 1 19.8023 1 19.25V6.25Z" fill="currentColor"/>
+                     </svg>
+                     <span class="visually-hidden">Cart</span>
+                  </a>
+               </div>
+            </header>
+            <div class="header_nav">
+               <lazyload-section data-selectors='[".js-header-dropdown-menu-list"]'>
+                  <nav class="header__inline-menu">
+                     <ul class="list-menu list-menu--inline">
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-1"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-mac"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                    <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">IDEBET</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-1"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-2"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-ipad"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                   <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">SLOT777</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-2"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-3"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-iphone"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                    <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">SLOT GACOR</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-3"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-4"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-watch"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                    <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">BANDAR SLOT</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-4"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-5"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-music"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                    <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">SLOT 4D</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-5"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-6"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-tv-home"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                   <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">SLOT ONLINE</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-6"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-7"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-accessories"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                    <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">SITUS SLOT</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-7"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-8"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-services"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                    <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">SLOT GACOR HARI INI</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-8"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li>
+                           <header-menu>
+                              <details
+                                 id="Details-HeaderMenu-9"
+                                 class="mainMenuUpdate2"
+                                 >
+                                 <summary
+                                    id="headerCss HeaderMenu-offers"
+                                    class="header__menu-item list-menu__item link focus-inset"
+                                    >
+                                    <p><a href="https://kamimadrasah.com/jasa-pembuatan-website/">SLOT RESMI</a></p>
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                    </svg>
+                                 </summary>
+                                 <ul
+                                    id="HeaderMenu-MenuList-9"
+                                    class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
+                                    tabindex="-1"
+                                    ></ul>
+                              </details>
+                           </header-menu>
+                        </li>
+                        <li class="right_header_division right_menu_divider"></li>
+                        <li><a
+                           href="https://kamimadrasah.pages.dev/jasa-pembuatan" target="_blank" rel="nofollow noopener noreferrer"
+                           class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
+                           >
+                           <span
+                              >Daftar</span>
+                           </a>
+                        </li>
+                        <li><a
+                           href="https://kamimadrasah.pages.dev/jasa-pembuatan" target="_blank" rel="nofollow noopener noreferrer"
+                           class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
+                           >
+                           <span
+                              >Login</span>
+                           </a>
+                        </li>
+                     </ul>
+                  </nav>
+               </lazyload-section>
+            </div>
+         </sticky-header>
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888" rel="stylesheet" type="text/css" media="all" />
+         <lazyload-section data-render-on-load="true" data-selector="cart-notification"></lazyload-section>
+         <style>
+            .cart-notification {
+            display: none;
+            }
+         </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "IDEBET",
+  "url": "https://kamimadrasah.com/jasa-pembuatan-website/",
+  "sameAs": [
+    "https://www.facebook.com/IDEBET",
+    "https://www.instagram.com/IDEBET/",
+    "https://www.youtube.com/channel/IDEBET/"
+  ]
 }
 </script>
-
-    <div data-listing-page-lazy-loaded-bottom-section>
-        <div data-neu-spec-placeholder="1" id="6cda9cae1b041561742fb61d89cecec3">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"Listzilla_ApiSpecs_Tags_Landing","args":{"listing_id":1790774795,"shop_id":54267703,"is_raised_tags":false,"click_queries":[],"visual_internal_enabled":false,"visual_external_enabled":false}}</script>
-    <div>
-</div>
-</div>
-    </div>
-    <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
-</div>
-
-    <div data-wt-overlay id="user-lists-overlay" class="wt-overlay wt-display-none wt-position-fixed wt-position-bottom wt-overlay--has-close-icon collection-list-overlay " role="dialog" aria-hidden="true" aria-modal="false" aria-labelledby="collection-modal-title"
-    data-animations='{ "open": { "mask": "wt-animated wt-animated--appear-02", "content": "wt-animated wt-animated--appear-02" }, "close": { "mask": "wt-animated wt-animated--disappear-02", "content": "wt-animated wt-animated--disappear-02" } }'
->
-    <div class="wt-overlay__modal collection-list-overlay-view wt-display-flex-xs wt-pb-xs-0 wt-pb-md-4 " data-overlay-modal>
-        <div data-collection-list data-max-characters="50" class="wt-overflow-hidden favorites-modal-collection-list wt-width-full">
-    <button class="wt-btn wt-btn--icon wt-btn--tertiary wt-btn--light  wt-overlay__close-icon
-        "
-        data-wt-overlay-close data-overlay-initial-focus aria-label="Close">
-        <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
-    </button>
-    <div data-collection-list-section class="favorites-modal--collection-list-section wt-position-relative wt-flex-direction-column-xs wt-height-full wt-align-items-center">
-        <div class="wt-overlay__header wt-display-flex-xs wt-align-items-center wt-justify-content-center ">
-
-            <img src="https://www.etsy.com/https://www.nissanpartsforyou.com/assets/images/grey.gif" alt="An image of the listing you can save" class="wt-mr-xs-2 wt-mr-md-3 add-to-list-overlay--img" />
-
-            <h2 class="wt-text-heading" id="collection-modal-title">
-                <span data-collections-modal-title class="">
-                    Add to collection
-                </span>
-                <span data-registry-modal-title class="wt-display-none">
-                    Add to registry
-                </span>
-            </h2>
-        </div>
-        <div class="collection-list-loading-container" data-spinner-container>
-            <div class="wt-spinner wt-spinner--02">
-                <div>Loading</div>
-            </div>
-        </div>
-        <div class="wt-display-none collection-list-loading-container" data-collection-list-fail-state>
-            <div class="wt-vertical-center wt-text-center-xs wt-sem-text-secondary">
-                <p>Hmm, something went wrong.</p>
-                <p>Try that again.</p>
-            </div>
-        </div>
-        <fieldset class="wt-max-width-full wt-pr-xs-2 wt-overflow-scroll">
-            <div class="wt-display-none wt-width-full wt-action-group wt-action-group--image wt-list-inline wt-mb-xs-0" data-collection-list-content>
-                <span class="wt-p-xs-0 wt-width-full wt-mb-xs-2" >
-                    <input type="checkbox" id="create_new_list" hidden />
-                    <label role="button" tabindex="0" data-add-list-trigger class="add-to-list-overlay-row wt-width-full wt-display-flex-xs wt-align-items-center">
-                        <div class="add-list--trigger add-to-list-overlay-row--icon wt-sem-text-on-surface-dark wt-rounded-02 wt-overflow-hidden wt-display-flex-xs wt-justify-content-center wt-align-items-center">
-                            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20,11H13V4a1,1,0,0,0-2,0v7H4a1,1,0,0,0,0,2h7v7a1,1,0,0,0,2,0V13h7A1,1,0,0,0,20,11Z"/></svg></span>
+         <script>
+            $("input").focus(function() {
+              $(".btn_close").css("visibility", "visible");
+            });
+            $(".btn_close").on("mousedown ", function() {
+              $(".nosubmit").val("");
+            });
+            $("input").focusout(function() {
+              $(".btn_close").css("visibility", "hidden");
+            });
+            $("input").focus(function() {
+              if (document.querySelector('.gl-fullscreen-header') !== null) {
+              $(".btn_close").css("visibility", "hidden");
+            }
+            });
+            $("#Details-menu-drawer-container").on("click", function() {
+              if($("#cart-notification").hasClass("minicart-active")) {
+                $("#cart-notification").hide();
+                $('#cart-notification').removeClass('minicart-active');
+              }
+            });
+            $('body,html').click(function(e){
+              if($("#cart-notification").hasClass("minicart-active")) {
+                $("#cart-notification").hide();
+                $('#cart-notification').removeClass('minicart-active');
+              }
+            });
+         </script>
+      </div>
+      <!-- END sections: header-group -->
+      <div class="hidden">
+         <div id="shopify-section-predictive-search" class="shopify-section">
+         </div>
+      </div>
+      <div id="shopify-section-navigation_stripe" class="shopify-section slider-container">
+         <style>
+            div#shopify-section-navigation_stripe {
+            display: flex;
+            width: 100%;
+            background: #fff;
+            padding: 12px 0;
+            box-shadow: inset 0px -0.5px 0px #d2d2d2;
+            height: 108px;
+            max-height: 108px;
+            overflow: hidden;
+            }
+         </style>
+         <div class="nav-left-arrow"></div>
+         <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
+            <div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757657996&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757657996&width=90https://i.imgur.com/3mqYgjH.png?v=1757657996&width=180https://i.imgur.com/3mqYgjH.png?v=1757657996&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                           <div class="apl_label_attr" style="color: #BF4800">
+                              NEW
+                           </div>
                         </div>
-                        <p class="wt-pl-xs-2 wt-text-title-01">
-                            Create new collection
+                        <p class="apl_lob_title">IDEBET</p>
+                        <p class="prod apl_lob_price">
+                           From
+                           $8.008 SGD
                         </p>
-                    </label>
-                </span>
-                
-                
-                
+                     </div>
+                  </div>
+               </a>
             </div>
-        </fieldset>
-        <div class="wt-overlay__sticky-footer-container wt-bt-xs wt-width-full">
-            <div class="wt-overlay__footer wt-justify-content-flex-end wt-pt-md-4">
-                <div class="wt-overlay__footer__action">
-                    <button type="button" class="wt-btn wt-btn--primary wt-pr-md-7 wt-pl-md-7" data-wt-overlay-close>Done</button>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="wt-display-none" data-add-collection-section data-listing-id="">
-        <div data-collection-list-add>
-    <div class="wt-overlay__header">
-        <h3 class="wt-text-heading wt-text-center-xs">
-            Create new collection
-        </h3>
-    </div>
-    <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-align-items-baseline">
-        <div class="wt-validation wt-width-full">
-            <label class="wt-label" for="edit-list">Name</label>
-            <input data-add-collection-input autofocus aria-invalid="false" type="text" class="wt-input" id="edit-list" placeholder="Gifts, Home, Wedding, etc.">
-            <div class="wt-display-flex-xs wt-justify-content-space-between">
-                <div>
-                    <div data-duplicated-name-alert data-error="duplicate_name" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical">You've already used that name</div>
-                    <div data-too-long-alert data-error="too_long" class="wt-validation__message wt-validation__message--is-hidden wt-sem-text-critical">
-                        Collection name is too long
-                    </div>
-                </div>
-                <p class="wt-text-right-xs wt-sem-text-secondary wt-mt-md-1" data-character-count>50</p>
-            </div>
-        </div>
-    </div>
-    <div class="wt-display-flex-sm wt-flex-direction-column-xs wt-flex-direction-row-md wt-justify-content-space-between wt-mt-xs-1">
-            <div class="wt-mb-xs-5 wt-mb-md-0">
-                <legend class="wt-text-title-01 wt-mt-xs-1">
-                    Set to private?
-                </legend>
-                <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
-                    Keep collections to yourself or inspire other shoppers! Keep in mind that anyone can view public collections – they may also appear in recommendations and other places.
-                    <a href="https://www.etsy.com/legal/privacy/" target="_blank">View Etsy’s Privacy Policy</a></p>
-            </div>
-            <div>
-                    <div
-                        id="collection-privacy-control"
-                        class="wt-display-flex-md wt-flex-direction-column-xs wt-align-items-center"
-                        data-label-yes="Private"
-                        data-label-no="Public"
-                        data-selector="toggle-switch">
-                        <div data-clg-id="WtSwitchInput" class="wt-switch__wrapper" data-wt-props-small="true" data-wt-props-label-text="Set to private?" data-wt-props-label-type="hidden" data-wt-neu-rendered>
-    
-    <div class="wt-switch__frame">
-        <input
-            type="checkbox"
-            class="wt-switch wt-switch--small"
-            id="wt-switch-68cb39e956853"
-        />
-        <label class="wt-switch__toggle" for="wt-switch-68cb39e956853">
-            <span class="wt-screen-reader-only">
-                Set to private? 
-            </span>
-        </label>
-    </div>
-
-</div>
-
-                        <div class="wt-display-flex-xs wt-flex-direction-row-reverse-xs wt-align-items-center wt-justify-content-flex-end wt-nudge-t-2">
-                            <span data-toggle-private-text class="wt-text-body">
-                                Public
-                            </span>
-                            <span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1 wt-display-none" data-toggle-private-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13 13v5h-2v-5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M4 9.25A.25.25 0 0 1 4.25 9H7.5V6.5a4.5 4.5 0 0 1 9 0V9h3.25a.25.25 0 0 1 .25.25V18a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4zM9.5 6.5a2.5 2.5 0 0 1 5 0V9h-5zM8 20a2 2 0 0 1-2-2v-7h12v7a2 2 0 0 1-2 2z"/></svg></span>
-                            <span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1" data-toggle-public-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2a10 10 0 1 0 10 10A10.01 10.01 0 0 0 12 2M9 18.883v.528a7.94 7.94 0 0 1-4.94-8.351l3.385 3.385a2.967 2.967 0 0 0 1.649 4.4zM17.5 15q.252 0 .5-.05V15a.99.99 0 0 0 .927.985A8 8 0 0 1 12 20c-.216 0-.427-.016-.639-.032l1.254-2.5-.015.006a2.97 2.97 0 0 0-.08-3.11A2.988 2.988 0 0 0 8 13.78V11h1a1 1 0 0 0 1-1V9a1 1 0 0 0 1-1 1 1 0 1 0 0-2H6.726A7.9 7.9 0 0 1 14 4.263V6a1 1 0 0 0 2 0v-.918a8 8 0 0 1 2 1.649V7h-1a1 1 0 1 0 0 2h2.411q.196.49.326 1H17a2.556 2.556 0 0 0-2 2.5 2.5 2.5 0 0 0 2.5 2.5"/></svg></span>
+            <div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757657995&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757657995&width=90https://i.imgur.com/3mqYgjH.png?v=1757657995&width=180https://i.imgur.com/3mqYgjH.png?v=1757657995&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                           <div class="apl_label_attr" style="color: #BF4800">
+                              NEW
+                           </div>
                         </div>
-                    </div>
+                        <p class="apl_lob_title">SLOT GACOR</p>
+                        <p class="prod apl_lob_price">
+                           From
+                           $807.77 SGD
+                        </p>
+                     </div>
+                  </div>
+               </a>
             </div>
-        </div>
-    <div data-collection-list-add-footer >
-        <div class="wt-overlay__footer">
-            <div class="wt-overlay__footer__cancel">
-                <button type="button" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right" data-overlay-back>Cancel</button>
-            </div>
-            <div class="wt-overlay__footer__action">
-                <button type="button" class="wt-btn wt-btn--primary" data-add-collection-button disabled="true">
-                    Create collection
-                </button>
-            </div>
-        </div>
-    </div>
-</div>
-<div
-    class="wt-overlay wt-overlay--alert"
-    id="make-public-list-modal"
-    data-wt-overlay
-    aria-hidden="true"
-    role="alertdialog"
-    aria-modal="false">
-    <div class="wt-overlay__modal" data-overlay-modal>
-        <div class="wt-overlay__header">
-            <h2 class="wt-text-heading wt-text-center-xs">
-                Make your collection public?
-            </h2>
-        </div>
-        <div class="wt-display-flex-xs wt-justify-content-space-between">
-            <div>
-                <p>
-                    Public collections can be seen by the public, including other shoppers, and may show up in recommendations and other places.
-                </p>
-            </div>
-        </div>
-        <div class="wt-overlay__footer">
-            <div class="wt-overlay__footer__cancel">
-                <button type="button" data-selector="cancel-make-public-button" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right" >Cancel</button>
-            </div>
-            <div class="wt-overlay__footer__action">
-                <button type="button" data-selector="make-public-button" class="wt-btn wt-btn--primary" >Make Public</button>
-            </div>
-        </div>
-    </div>
-</div>
-    </div>
-</div>
-    </div>
-</div>
-    
-</div>
-
-<div id="listing-page-post-add-to-cart-overlay">
-    
-</div>
-
-<div class="wt-overlay wt-overlay--peek" id="conditional-sale-interstitial-overlay" aria-hidden="true"
-    data-wt-overlay role="dialog" aria-modal="false" aria-label="">
-    <div class="wt-overlay__modal" data-overlay-modal>
-        <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light" data-wt-overlay-close>
-            <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3.793 5.207 10.586 12l-6.793 6.793 1.414 1.414L12 13.414l6.793 6.793 1.414-1.414L13.414 12l6.793-6.793-1.414-1.414L12 10.586 5.207 3.793z"/></svg></span>
-        </button>
-
-        <div data-conditional-sale-content></div>
-        <div data-conditional-sale-loading class="wt-width-full wt-height-full wt-z-index-3">
-            
-    <div data-clg-id="WtSpinner" class="wt-spinner wt-spinner--02" aria-live="assertive" >
-        <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" aria-hidden="true" focusable="false"><circle fill="transparent" cx="24" cy="24" r="21"/></svg></span>
-        Loading
-    </div>
-
-        </div>
-        <div data-conditional-sale-load-failure>
-            <div data-clg-id="WtBanner" class="wt-banner wt-banner--warning-01" id="etsywebtoolkitbannerswtbanner68cb39e952e2d" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e952e2d" data-prop-type="static" data-prop-style-type="warning-01" data-prop-is-open="true"  data-wt-neu-rendered>
-    <div data-clg-id="WtBannerContent" class="wt-banner__layout">
-    <div class="wt-display-flex-xs wt-align-items-center">
-        <div class="wt-banner__icon-frame wt-hide-xs wt-show-sm ">
-            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.035 2.627a2 2 0 0 1 3.93 0 6.7 6.7 0 0 1 4.56 4.905L21 18.333H3L5.475 7.532a6.7 6.7 0 0 1 4.56-4.905m1.921 1.706a4.694 4.694 0 0 0-4.531 3.645L5.51 16.333h12.98l-1.915-8.355a4.694 4.694 0 0 0-4.531-3.645z"/><path d="M12 22a2 2 0 0 0 2-2h-4a2 2 0 0 0 2 2"/></svg></span>
-        </div>
-        <div>
-            <div >
-                <p class="wt-banner__title">
-                    There was a problem loading the content
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="wt-banner__buttons">
-        <button data-clg-id="WtButton" class="wt-btn wt-btn--primary wt-btn--small" data-wt-banner-cta-button="" type="button">
-    Try again
-</button>
-
-    </div>
-</div>
-</div>
-        </div>
-
-    </div>
-</div>
-
-
-
-<div id="footer" class="content-wrap-inner-blank-noborder"></div>
-
-<div id="ad-1"></div>
-
-</div>
-        </main>
-
-
-</div>
-
-        <div
-        data-gdpr-consent-prompt
->
-    <div
-    id="gdpr-privacy-settings"
-    class="wt-overlay third-party-settings wt-text-left-xs"
-    aria-labelledby="gdpr-full-settings-overlay-title"
-    aria-hidden="true"
-    role="dialog"
-    data-gdpr-settings-overlay
-    data-wt-overlay
->
-    <div class="wt-overlay__modal gdpr-overlay-view" data-overlay-modal>
-        <div class="wt-overlay__header gdpr-overlay-header">
-            <h3 class="wt-text-heading" id="gdpr-full-settings-overlay-title">Privacy Settings</h3>
-        </div>
-
-
-        <div class="gdpr-overlay-body wt-pb-xl-2 wt-pb-lg-2 wt-pb-md-2 wt-pb-sm-2 wt-pb-xs-2">
-            <div>
-    <div data-section="intro">
-        <p>Etsy uses cookies and similar technologies to give you a better experience, enabling things like:</p>
-<ul><li>basic site functions</li>
-<li>ensuring secure, safe transactions</li>
-<li>secure account login</li>
-<li>remembering account, browser, and regional preferences</li>
-<li>remembering privacy and security settings</li>
-<li>analysing site traffic and usage</li>
-<li>personalised search, content, and recommendations</li>
-<li>helping sellers understand their audience</li>
-<li>showing relevant, targeted ads on and off Etsy</li>
-</ul><p>Detailed information can be found in Etsy’s <a href="/legal/cookies-and-tracking-technologies">Cookies &amp; Similar Technologies Policy</a> and our <a href="/legal/privacy">Privacy Policy</a>.</p>
-    </div>
-
-    <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
-        <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
-            <h2>Required Cookies &amp; Technologies</h2>
-<p>Some of the technologies we use are necessary for critical functions like security and site integrity, account authentication, security and privacy preferences, internal site usage and maintenance data, and to make the site work correctly for browsing and transactions.</p>
-        </div>
-        <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
-            <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
-                <span class="wt-text-caption">Always on</span>
-            </div>
-        </div>
-    </div>
-
-    <div class="wt-text-caption wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="third_party_consent">
-        <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
-            <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Personalised Advertising</h2>
-<p class="wt-text-caption wt-mb-xs-2">To enable personalised advertising (like interest-based ads), we may share your data with our marketing and advertising partners using cookies and other technologies. Those partners may have their own information they’ve collected about you. Turning off the personalised advertising setting won’t stop you from seeing Etsy ads, but it may make the ads you see less relevant or more repetitive.</p>
-<p class="wt-text-caption wt-mb-xs-2"> Personalised advertising may be considered a “sale” or “sharing” of information under California and other state privacy laws, and you may have a right to opt out. Turning off personalised advertising allows you to exercise your right to opt out. Learn more in our <a class="wt-text-link" href="https://www.etsy.com/legal/privacy/">Privacy Policy</a>, <a class="wt-text-link" href="https://help.etsy.com/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Centre</a>, and <a class="wt-text-link" href="https://www.etsy.com/legal/cookies">Cookies & Similar Technologies Policy</a>.</p>
-        </div>
-        <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
-            <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
-                <label for="third_party_consent" class="wt-text-caption wt-pt-xl-1 wt-pr-xl-2 wt-pt-lg-1 wt-pr-lg-2 wt-pt-md-1 wt-pr-md-2 wt-pt-sm-1 wt-pr-sm-2 wt-pt-xs-1 wt-pr-xs-2 wt-nudge-t-3" aria-hidden="true" data-gdpr-toggle-label>
-                        On
-                </label>
-                <input
-                        class="wt-switch wt-switch--small"
-                        type="checkbox"
-                        name="third_party_consent"
-                        id="third_party_consent"
-                        checked
-                        
-                        data-gdpr-toggle
-                        data-checked-label="On"
-                        data-unchecked-label="Off">
-                <label class="wt-switch__toggle" for="third_party_consent" aria-hidden="true"></label>
-            </div>
-        </div>
-    </div>
-</div>
-        </div>
-
-        <div class="wt-overlay__footer wt-align-items-center">
-            <div class="wt-overlay__footer__cancel">
-            </div>
-            <div class="wt-overlay__footer__action">
-                <div class="wt-display-flex-xl wt-flex-direction-row-xl wt-display-flex-lg wt-flex-direction-row-lg wt-display-flex-md wt-flex-direction-row-md wt-display-flex-sm wt-flex-direction-column-sm wt-display-flex-xs wt-flex-direction-column-xs">
-                    <div class="wt-pr-xl-7 wt-pt-xl-2 wt-pr-lg-7 wt-pt-lg-2 wt-pr-md-7 wt-pt-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saving-indicator>
-                        <div class="wt-spinner wt-spinner--01 wt-display-inline-block wt-vertical-align-middle">
-                            <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle fill="transparent" cx="12" cy="12" r="10"/></svg></span>
+            <div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757657995&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757657995&width=90https://i.imgur.com/3mqYgjH.png?v=1757657995&width=180https://i.imgur.com/3mqYgjH.png?v=1757657995&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                           <div class="apl_label_attr" style="color: #BF4800">
+                              NEW
+                           </div>
                         </div>
-                    </div>
-                    <div class="wt-pr-xl-7 wt-pt-xl-2 wt-pr-lg-7 wt-pt-lg-2 wt-pr-md-7 wt-pt-md-2 wt-pb-sm-4 wt-pb-xs-2 wt-horizontal-center wt-display-none" data-saved-indicator>
-                        <span class="etsy-icon wt-icon--smaller-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9.057,20.471L2.293,13.707a1,1,0,0,1,1.414-1.414l5.236,5.236,11.3-13.18a1,1,0,1,1,1.518,1.3Z"/></svg></span>
-                        <span class="wt-display-inline-block wt-vertical-align-middle wt-text-body-01 wt-pl-xs-1">Saved</span>
-                    </div>
-                    <div>
-                        <button data-wt-overlay-close class="wt-btn wt-btn--primary wt-pl-xs-8 wt-pr-xs-8 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-3 wt-pr-md-3 wt-pl-lg-3 wt-pr-lg-3 wt-pl-xl-3 wt-pr-xl-3 wt-pl-tv-3 wt-pr-tv-3">
-                            <p class="wt-pl-xs-10 wt-pr-xs-10 wt-pl-sm-10 wt-pr-sm-10 wt-pl-md-0 wt-pr-md-0 wt-pl-lg-0 wt-pr-lg-0 wt-pl-xl-0 wt-pr-xl-0 wt-pl-tv-0 wt-pr-tv-0">Done</p>
-                        </button>
-                    </div>
-                </div>
+                        <p class="apl_lob_title">Slot Gacor</p>
+                        <p class="prod apl_lob_price">
+                           From
+                           $752.00 SGD
+                        </p>
+                     </div>
+                  </div>
+               </a>
             </div>
-        </div>
+            <div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1740017919&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1740017919&width=90https://i.imgur.com/3mqYgjH.png?v=1740017919&width=180https://i.imgur.com/3mqYgjH.png?v=1740017919&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                           <div class="apl_label_attr" style="color: #BF4800">
+                              NEW
+                           </div>
+                        </div>
+                        <p class="apl_lob_title">SLOT777</p>
+                        <p class="prod apl_lob_price">
+                           From
+                           $999.00 SGD
+                        </p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1731047537&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1731047537&width=90https://i.imgur.com/3mqYgjH.png?v=1731047537&width=180https://i.imgur.com/3mqYgjH.png?v=1731047537&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                        </div>
+                        <p class="apl_lob_title">SLOT ONLINE</p>
+                        <p class="prod apl_lob_price">
+                           From
+                           $1285.00 SGD
+                        </p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1731636011&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1731636011&width=90https://i.imgur.com/3mqYgjH.png?v=1731636011&width=180https://i.imgur.com/3mqYgjH.png?v=1731636011&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                           <div class="apl_label_attr" style="color: #BF4800">
+                              NEW
+                           </div>
+                        </div>
+                        <p class="apl_lob_title">TOTO</p>
+                        <p class="collection apl_lob_price">
+                           From
+                           $99.00 SGD
+                        </p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+			<div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1731636011&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1731636011&width=90https://i.imgur.com/3mqYgjH.png?v=1731636011&width=180https://i.imgur.com/3mqYgjH.png?v=1731636011&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                           <div class="apl_label_attr" style="color: #BF4800">
+                              NEW
+                           </div>
+                        </div>
+                        <p class="apl_lob_title">BANDAR SLOT</p>
+                        <p class="collection apl_lob_price">
+                           From
+                           $99.00 SGD
+                        </p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+			<div class="apl_lob_list_item">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                  <div class="list-lob">
+                     <div
+                        class="imagecontainer ratio"
+                        style="--ratio-percent: 100%;"
+                        >
+                        <img
+                           src="https://i.imgur.com/3mqYgjH.png?v=1731636011&width=100"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1731636011&width=90https://i.imgur.com/3mqYgjH.png?v=1731636011&width=180https://i.imgur.com/3mqYgjH.png?v=1731636011&width=240 240w"
+                           sizes="(max-width): 90px,(max-width): 180px,100vw"
+                           height="84"
+                           width="84"
+                           loading="lazy"
+                           alt=""
+                           >
+                     </div>
+                     <div class="apl_lob_content">
+                        <div class="tagcontainer">
+                           <div class="apl_label_attr" style="color: #BF4800">
+                              NEW
+                           </div>
+                        </div>
+                        <p class="apl_lob_title">SLOT ONLINE</p>
+                        <p class="collection apl_lob_price">
+                           From
+                           $99.00 SGD
+                        </p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="apl_lob_list_item end_lob_text">
+               <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer" class="end_lob_title">
+                  <span class="end_title_anchor">
+                     View All iPhone
+                     <svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.649682 8.5L0 7.85032L3.35032 4.5L0 1.14968L0.649682 0.5L4.64968 4.5L0.649682 8.5Z" fill="#0071E3"/>
+                     </svg>
+                  </span>
+               </a>
+            </div>
+         </div>
+         <div class="nav-right-arrow"></div>
+         
+      </div>
+      <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+         <section id="shopify-section-template--17605519376564__main" class="shopify-section section">
+            <section
+               id="MainProduct-template--17605519376564__main"
+               class="product-page-width page-width section-template--17605519376564__main-padding"
+               data-section="template--17605519376564__main"
+               >
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/section-main-product.css?v=106354761565452021941742784887" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-accordion.css?v=114305622551526091581742784887" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-slider.css?v=102975581670085299341742784888" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-deferred-media.css?v=14096082462203297471742784888" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsecon.css?v=55192844502193137581742784889" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/fancybox-3-5-7.css?v=48221248546321444771742784887" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-sellto.css?v=107184028641227493051757586003" rel="stylesheet" type="text/css" media="all" />
+               <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-dialog.css?v=16175248172835987831757430081" rel="stylesheet" type="text/css" media="all" />
+               <style data-shopify>.section-template--17605519376564__main-padding {
+                  padding-top: 27px;
+                  padding-bottom: 9px;
+                  }
+                  @media screen and (min-width: 750px) {
+                  .section-template--17605519376564__main-padding {
+                  padding-top: 36px;
+                  padding-bottom: 12px;
+                  }
+                  }
+               </style>
+               <script src="//www.istudiosg.com/cdn/shop/t/14/assets/google_analytics_finacing.js?v=123767470501580560631742784889" defer="defer"></script>
+               <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-info.js?v=68469288658591082901742784888" defer="defer"></script>
+               <div class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
+                  <div class="product-page-width mobile-view_product-title">
+                     <div class="priceAndLabelTag">
+                        <div class="product_tag_display_container">
+                           <span class="product_tag_display" style="color:#BF4800;">NEW</span>
+                        </div>
+                     </div>
+                     <div class="product-title-style product__title" >
+                        <h1>IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil</h1>
+                     </div>
+                     <div class="product-subtitle-style"></div>
+                     <div class="skuAndBarcode">
+                        <span class="sku-pdp" id="skumob-template--17605519376564__main">
+                        <span id="skutitle1">
+                        SKU: </span>9600005409</span>
+                        <span class="barcode-pdp" id="barcmob-template--17605519376564__main">
+                        <label id="barcodetitle1"  >
+                        Barcode:</label>
+                        <span class="barcodeinput" id="main-pro-barcode-mobile">9600005409</span>
+                        </span>
+                     </div>
+                     <p class="product__preorder-message"></p>
+                  </div>
+                  <div class="grid__item product__media-wrapper">
+                     <media-gallery
+                        id="MediaGallery-template--17605519376564__main"
+                        role="region"
+                        class="product__media-gallery product-custom-media"
+                        aria-label="Gallery Viewer"
+                        data-desktop-layout="stacked"
+                        >
+                        <div id="GalleryStatus-template--17605519376564__main" class="visually-hidden" role="status"></div>
+                        <slider-component id="GalleryViewer-template--17605519376564__main" class="slider-mobile-gutter">
+                           <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="#ProductInfo-template--17605519376564__main">
+                           Skip to product information
+                           </a>
+                           <ul
+                              id="Slider-Gallery-template--17605519376564__main"
+                              class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
+                              >
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040123572"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide is-active"
+                                 data-media-id="template--17605519376564__main-32122040123572"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040123572">
+                                       <span class="visually-hidden">
+                                       Open media 1 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040156340"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040156340"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040156340">
+                                       <span class="visually-hidden">
+                                       Open media 2 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040189108"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040189108"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450055&amp;width=823" alt="IDEBET" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450055&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450055&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450055&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450055&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450055&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040189108">
+                                       <span class="visually-hidden">
+                                       Open media 3 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040221876"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040221876"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="IDEBET Terpercaya" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040221876">
+                                       <span class="visually-hidden">
+                                       Open media 4 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040254644"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040254644"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="Situs IDEBET" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040254644">
+                                       <span class="visually-hidden">
+                                       Open media 5 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040287412"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040287412"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="Link IDEBET Gampang Menang" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040287412">
+                                       <span class="visually-hidden">
+                                       Open media 6 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040320180"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040320180"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="GIM777" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040320180">
+                                       <span class="visually-hidden">
+                                       Open media 7 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040352948"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040352948"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="SL777" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040352948">
+                                       <span class="visually-hidden">
+                                       Open media 8 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                              <li
+                                 id="Slide-template--17605519376564__main-32122040385716"
+                                 class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
+                                 data-media-id="template--17605519376564__main-32122040385716"
+                                 >
+                                 <div
+                                    class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
+                                    style="--ratio: 1.0; --preview-ratio: 1.0;"
+                                    >
+                                    <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17605519376564__main">
+                                       <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="icon icon-plus"
+                                             width="19"
+                                             height="19"
+                                             viewBox="0 0 19 19"
+                                             fill="none"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
+                                             <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
+                                          </svg>
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="4" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                       <div class="product__media media media--transparent">
+                                          <img src="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823" alt="RR999" srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=246 246w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=493 493w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=600 600w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=713 713w, https://i.imgur.com/3mqYgjH.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                       </div>
+                                       <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040385716">
+                                       <span class="visually-hidden">
+                                       Open media 9 in modal
+                                       </span>
+                                       </button>
+                                    </modal-opener>
+                                 </div>
+                              </li>
+                             
+                           <div class="slider-buttons no-js-hidden quick-add-hidden">
+                              <button
+                                 type="button"
+                                 class="slider-button slider-button--prev"
+                                 name="previous"
+                                 aria-label="Slide left"
+                                 >
+                                 <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                 </svg>
+                              </button>
+                              <div class="slider-counter caption">
+                                 <span class="slider-counter--current">1</span>
+                                 <span aria-hidden="true"> / </span>
+                                 <span class="visually-hidden">of</span>
+                                 <span class="slider-counter--total">12</span>
+                              </div>
+                              <button
+                                 type="button"
+                                 class="slider-button slider-button--next"
+                                 name="next"
+                                 aria-label="Slide right"
+                                 >
+                                 <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                 </svg>
+                              </button>
+                           </div>
+                        </slider-component>
+                     </media-gallery>
+                  </div>
+                  <div class="product__info-wrapper grid__item">
+                     <product-info
+                        id="ProductInfo-template--17605519376564__main"
+                        data-section="template--17605519376564__main"
+                        data-url="/products/iphone-17-pro-mg8h4x-a"
+                        class="product__info-container"
+                        >
+                        <div class="desktop-view_Product-title">
+                           <div class="priceAndLabelTag">
+                              <div class="product_tag_display_container">
+                                 <span class="product_tag_display" style="color:#BF4800;">NEW</span>
+                              </div>
+                           </div>
+                           <div class="product-title-style product__title" >
+                              <h1> IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil</h1>
+                           </div>
+                           <div class="product-subtitle-style"></div>
+                           <div class="skuAndBarcode">
+                              <span class="sku-pdp" id="sku-template--17605519376564__main">
+                              <span id="skutitle2">
+                              SKU: 
+                              </span> 9600005409
+                              </span>
+                              <span class="barcode-pdp" id="barc-template--17605519376564__main">
+                              <label id="barcodetitle2">
+                              Barcode:</label>
+                              <span  class="barcodeinput"  id="main-pro-barcode" >9600005409</span>
+                              </span>
+                           </div>
+                           <p class="product__preorder-message"></p>
+                        </div>
+                        <div class="pricestyle no-js-hidden" id="price-template--17605519376564__main" role="status" >
+                           <style>
+                              .price-segment-discount {
+                              border-radius: 6px;
+                              background: #c31432;
+                              padding: 1px;
+                              padding-left: 5px;
+                              padding-right: 5px;
+                              color: white;
+                              display: inline-block;
+                              font-size: 15px;
+                              }
+                              #price-item-sale {
+                              font-family: var(--font-body-family);
+                              font-style: normal;
+                              font-weight: 600;
+                              font-size: 28px;
+                              line-height: 28px;
+                              letter-spacing: -0.02em;
+                              }
+                              .footerOr3 {
+                              display: none;
+                              }
+                              @media screen and (max-width: 767px) {
+                              #price-element .footerOr3 {
+                              display: inline-block;
+                              color: #000;
+                              }
+                              }
+                           </style>
+                           <div
+                              class="
+                              price price-product-pdp price--large price--sold-out price--show-badge"
+                              >
+                              <div class="price__container">
+                                 <p class="actual_price  ">
+                                    <span class="price--title">
+                                    </span>
+                                    <span
+                                       class="js-product-price-with-care-warranty actual_price_bold cto_actual_price_bold"
+                                       data-price="$259.00 SGD"
+                                       data-price-without-currency="259.00"
+                                       data-price-with-care="$1,596.00 SGD"
+                                       data-price-with-secWarranty="$259.00 SGD"
+                                       data-price-with-care-and-secWarranty="$1,596.00 SGD"
+                                       data-price-with-trade-in="0"
+                                       data-price-calculation="4"
+                                       >
+                                    $999.00 SGD
+                                    </span>
+                                 </p>
+                                 <small class="unit-price caption hidden">
+                                 <span class="visually-hidden">Unit price</span>
+                                 <span class="price-item price-item--last">
+                                 <span></span>
+                                 <span aria-hidden="true">/</span>
+                                 <span class="visually-hidden">&nbsp;per&nbsp;</span>
+                                 <span>
+                                 </span>
+                                 </span>
+                                 </small>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="product__tax caption rte">Tax included.
+                           <a href="/policies/shipping-policy">Shipping</a> calculated at checkout.
+                        </div>
+                        <div >
+                           <form method="post" action="/cart/add" id="product-form-installment-template--17605519376564__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="44033871610036">
+                              <input type="hidden" name="product-id" value="7986665160884" /><input type="hidden" name="section-id" value="template--17605519376564__main" />
+                           </form>
+                        </div>
+                        <input type="hidden" id="tax_free_campaign" value=0 />
+                        <div id="pdp_monthly_price_taxfree_false">
+                           <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-net-monthly-pricing.css?v=99277447350168012461742784889" rel="stylesheet" type="text/css" media="all" />
+                           <div class="net-monthly-pricing__conditional--pdp">
+                              <p class="net-monthly-pricing__conditional-text">
+                                 or
+                              </p>
+                           </div>
+                           <div class="net-monthly-pricing net-monthly-pricing--pdp first-party "><span>
+                              <span class="net-monthly-pricing__conditional--footer-only">
+                              <span class="net-monthly-pricing__conditional-text">
+                              or
+                              </span>
+                              </span>
+                              <span
+                                 class="js-product-price-with-care-warranty"
+                                 data-price="$95.59"
+                                 data-price-without-currency="259.00"
+                                 data-price-with-care="$517"
+                                 data-price-with-secWarranty="$68.25"
+                                 data-price-with-care-and-secWarranty="$517"
+                                 data-price-with-trade-in="0"
+                                 data-price-calculation="4"
+                                 >$68.25</span>/mo. for 4 mo.
+                              </span><a
+                                 class="net-monthly-pricing__modal-trigger ac-modal-trigger js-net-monthly-pricing-pdp-trigger"
+                                 data-modal-target="modal-net-monthly-pricing-modal"
+                                 data-product="iphone-17-pro-mg8h4x-a"
+                                 >
+                              Pelajari Selengkapnya
+                              <i class="fa-solid fa-angle-right billboard_icon"></i>
+                              </a>
+                           </div>
+                        </div>
+                        <div class="product__gwp-promo-wrapper js-gwp-replace"></div>
+                        <variant-radios1 class="no-js-hidden" data-section="template--17605519376564__main" data-url="/products/iphone-17-pro-mg8h4x-a" >
+                           <fieldset class="js product-form__input bottom-space js-product-option-form">
+                              <legend class="form__label form__label__bold">
+                                 Color
+                                 <span class="color-name">- Cosmic Orange </span>
+                              </legend>
+                              <input type="radio" id="template--17605519376564__main-Color-0"
+                                 name="Color"
+                                 data-option_count = "option1"
+                                 data-label_name = "Color"
+                                 value="Cosmic Orange"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_Cosmic Orange"
+                                 data-varient="Cosmic Orange"
+                                 data-color_present= color_present
+                                 data-option_name= Color                            
+                                 checked
+                                 />
+                              <label
+                                 data-option=  "Color" 
+                                 data-title="Cosmic Orange"
+                                 data-noproduct=""
+                                 class="title-tip-color-swatch color-swatch radio-label  cosmic-orangeoption1 cosmic-orange label- cust-Color-Cosmic Orange" for="template--17605519376564__main-Color-0"
+                                 aria-label="Color Cosmic Orange"
+                                 style="
+                                 background-color: orange;
+                                 background-size: cover;
+                                 background-image: url('//www.istudiosg.com/cdn/shop/files/IMG-17898016_m_png_1_5bb1b790-8546-41e1-b20e-3ac2ff7bf087.png?v=1757449788')
+                                 "
+                                 >
+                              <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305" class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled">
+                              &nbsp </label>
+                              <input type="radio" id="template--17605519376564__main-Color-1"
+                                 name="Color"
+                                 data-option_count = "option1"
+                                 data-label_name = "Color"
+                                 value="Deep Blue"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_Deep Blue"
+                                 data-varient="Deep Blue"
+                                 data-color_present= color_present
+                                 data-option_name= Color                            
+                                 />
+                              <label
+                                 data-option=  "Color" 
+                                 data-title="Deep Blue"
+                                 data-noproduct=""
+                                 class="title-tip-color-swatch color-swatch radio-label  deep-blueoption1 deep-blue label- cust-Color-Deep Blue" for="template--17605519376564__main-Color-1"
+                                 aria-label="Color Deep Blue"
+                                 style="
+                                 background-color: blue;
+                                 background-size: cover;
+                                 background-image: url('//www.istudiosg.com/cdn/shop/files/IMG-17898017_m_png_1.png?v=1757449914')
+                                 "
+                                 >
+                              <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305" class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled">
+                              &nbsp </label>
+                              <input type="radio" id="template--17605519376564__main-Color-2"
+                                 name="Color"
+                                 data-option_count = "option1"
+                                 data-label_name = "Color"
+                                 value="Silver"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_Silver"
+                                 data-varient="Silver"
+                                 data-color_present= color_present
+                                 data-option_name= Color                            
+                                 />
+                              <label
+                                 data-option=  "Color" 
+                                 data-title="Silver"
+                                 data-noproduct=""
+                                 class="title-tip-color-swatch color-swatch radio-label  silveroption1 silver label- cust-Color-Silver" for="template--17605519376564__main-Color-2"
+                                 aria-label="Color Silver"
+                                 style="
+                                 background-color: silver;
+                                 background-size: cover;
+                                 background-image: url('//www.istudiosg.com/cdn/shop/files/IMG-17898018_m_png_1.png?v=1757449722                                          ')
+                                 "
+                                 >
+                              <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305" class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled">
+                              &nbsp </label>
+                           </fieldset>
+                           <p>
+                             <a href="https://kamimadrasah.pages.dev/jasa-pembuatan" target="_blank">
+                             <img style="display:block;margin-left:auto;margin-right:auto;" src="https://methodistbinjai.com/yoorep/208.webp" width="400" height="150"/>
+                             </a>
+                           </p>
+                           <fieldset class="js product-form__input bottom-space js-product-option-form">
+                              <legend class="form__label form__label__bold">
+                                 Model
+                              </legend>
+                              <input type="radio" id="template--17605519376564__main-Model-0"
+                                 name="Model"
+                                 data-option_count = "option2"
+                                 data-label_name = "Model"
+                                 value="IDEBET"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_IDEBET"
+                                 data-varient="IDEBET"
+                                 data-color_present= no_color_present
+                                 data-option_name= No-color                            
+                                 checked
+                                 />
+                              <label data-option= "no-color"  data-title="IDEBET" aria-label="Model IDEBET" data-noproduct="" class="title-tip iphone-17-prooption2" for="template--17605519376564__main-Model-0">
+                              SLOT777
+                              </label>
+                              <input type="radio" id="template--17605519376564__main-Model-1"
+                                 name="Model"
+                                 data-option_count = "option2"
+                                 data-label_name = "Model"
+                                 value="IDEBET Max"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_IDEBET Max"
+                                 data-varient="IDEBET Max"
+                                 data-color_present= no_color_present
+                                 data-option_name= No-color                            
+                                 />
+                              <label data-option= "no-color"  data-title="IDEBET Max" aria-label="Model IDEBET Max" data-noproduct="" class="title-tip iphone-17-pro-maxoption2" for="template--17605519376564__main-Model-1">
+                              Slot Gacor
+                              </label>
+                           </fieldset>
+                           <fieldset class="js product-form__input bottom-space js-product-option-form">
+                              <legend class="form__label form__label__bold">
+                                 Capacity
+                              </legend>
+                              <input type="radio" id="template--17605519376564__main-Capacity-0"
+                                 name="Capacity"
+                                 data-option_count = "option3"
+                                 data-label_name = "Capacity"
+                                 value="256GB"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_256GB"
+                                 data-varient="256GB"
+                                 data-color_present= no_color_present
+                                 data-option_name= No-color                            
+                                 checked
+                                 />
+                              <label data-option= "no-color"  data-title="256GB" aria-label="Capacity 256GB" data-noproduct="" class="title-tip 256gboption3" for="template--17605519376564__main-Capacity-0">
+                              X 5000
+                              </label>
+                              <input type="radio" id="template--17605519376564__main-Capacity-1"
+                                 name="Capacity"
+                                 data-option_count = "option3"
+                                 data-label_name = "Capacity"
+                                 value="512GB"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_512GB"
+                                 data-varient="512GB"
+                                 data-color_present= no_color_present
+                                 data-option_name= No-color                            
+                                 />
+                              <label data-option= "no-color"  data-title="512GB" aria-label="Capacity 512GB" data-noproduct="" class="title-tip 512gboption3" for="template--17605519376564__main-Capacity-1">
+                              X 100
+                              </label>
+                              <input type="radio" id="template--17605519376564__main-Capacity-2"
+                                 name="Capacity"
+                                 data-option_count = "option3"
+                                 data-label_name = "Capacity"
+                                 value="1TB"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_1TB"
+                                 data-varient="1TB"
+                                 data-color_present= no_color_present
+                                 data-option_name= No-color                            
+                                 />
+                              <label data-option= "no-color"  data-title="1TB" aria-label="Capacity 1TB" data-noproduct="" class="title-tip 1tboption3" for="template--17605519376564__main-Capacity-2">
+                              X 50
+                              </label>
+                              <input type="radio" id="template--17605519376564__main-Capacity-3"
+                                 name="Capacity"
+                                 data-option_count = "option3"
+                                 data-label_name = "Capacity"
+                                 value="2TB"
+                                 form="product-form-template--17605519376564__main"
+                                 class="radio smart_radio varient_2TB"
+                                 data-varient="2TB"
+                                 data-color_present= no_color_present
+                                 data-option_name= No-color                            
+                                 />
+                              <label data-option= "no-color"  data-title="2TB" aria-label="Capacity 2TB" data-noproduct="" class="title-tip 2tboption3" for="template--17605519376564__main-Capacity-3">
+                              X 20
+                              </label>
+                           </fieldset>
+                        </variant-radios1>
+                        <noscript class="product-form__noscript-wrapper-template--17605519376564__main">
+                           <div class="product-form__input hidden">
+                              <label class="form__label form__label__bold" for="Variants-template--17605519376564__main">Product variants</label>
+                              <div class="select">
+                                 <select name="id" id="Variants-template--17605519376564__main" class="select__select" form="product-form-template--17605519376564__main">
+                                    <option
+                                       selected="selected"
+                                       disabled
+                                       value="44033871610036">
+                                       Default Title
+                                       - Out of Stock
+                                       - $259.00
+                                    </option>
+                                 </select>
+                                 <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                 </svg>
+                              </div>
+                           </div>
+                        </noscript>
+                        <div
+                           class="trade-in bottom-space"
+                           id="tradeIn"
+                           >
+                        </div>
+                        <div class="applecare-replace">
+                           <div class="add-on-product-style add-on-product-style-applecare">
+                              <input id="applecare-product-mpn" type="hidden" name="properties[applecare-product-mpn]" value="" />
+                              <input id="applecare-product-sku" type="hidden" name="properties[applecare-product-sku]" value="SWY42ZX/A" />
+                              <input id="applecare-product-handle" type="hidden" name="properties[applecare-product-handle]" value="apple-applecare-for-iphone-17-pro-protect-your-apple-product" />
+                              <div class="add-on-product-container1">
+                                 <h3>Protection+ for IDEBET (2 year plan)</h3>
+                                 <div class="container-box-2">
+                                    <div class="mobile-care-pdp">
+                                       <div class="left care-pdp-img">
+                                          <a class="care-img" href= "/pages/applecare-landing-page" >
+                                          <img src="https://i.imgur.com/FmgiCew.png" loading="lazy" class="add-on-image" width="100" height="100" alt="Care image">
+                                          </a>
+                                       </div>
+                                       <div class="care-pdp-title">
+                                          <span class="add-on-element care-info">
+                                             Protect your IDEBET product.
+                                             <span>$999.00 SGD</span>
+                                             <div class="care-info-learn-more">
+                                                <div class="seedkit-component-standalone">
+                                                   <a
+                                                      class="ac-modal-trigger icon"
+                                                      data-modal-target="modal-pdp-apple-care-modal"
+                                                      >
+                                                   Pelajari Selengkapnya
+                                                   <i class="fa-solid fa-angle-right billboard_icon"></i></a>
+                                                   <div
+                                                      id="modal-pdp-apple-care-modal"
+                                                      class="ac-modal"
+                                                      data-type="content"
+                                                      data-width="wide"
+                                                      data-variant="pageOverlay"
+                                                      data-modal-dialog-label="Modal"
+                                                      data-modal-close-label="Close Modal"
+                                                      >
+                                                      <p class="apple-care-modal__heading">Keuntungan bermain di IDEBET</p>
+                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://i.imgur.com/FmgiCew.png" alt="IDEBET" width="418" height="597" loading="lazy"></div>
+                                                      <div class="apple-care-modal__content">
+                                                         <div class="metafield-rich_text_field">
+                                                            <ul>
+                                                               <li>Slot Gacor Resmi Dengan Alternatif Terbaik Top #1</li>
+                                                               <li>Pasaran Slot Online Terlengkap</li>
+                                                               <li>SLOT777 Dengan Provider Terbaik</li>
+                                                               <li>Rtp Slot Gacor Akurat Setiap Hari</li>
+                                                               <li>Fitur Terbaik yang dapat bermain nikmati permainan lebih menguntungkan setiap hari</li>
+                                                            </ul>
+                                                         </div>
+                                                         <a class="apple-care-modal__cta" href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">
+                                                         <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+ IDEBET</span>
+                                                         <i class="fa-solid fa-angle-right billboard_icon"></i>
+                                                         </a>
+                                                         <div class="apple-care-modal__tcs">
+                                                            <div class="metafield-rich_text_field">
+                                                               <p>Syarat dan ketentuan berlaku, tapi kalau kamu JP tentu saja bisa WD tanpa syarat apapun langsung ke rekening!</p>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </span>
+                                       </div>
+                                       <input type="hidden" id="apple-care-varid" name="id" value="44034304409780" />
+                                       <span class="add-on-element" aria-hidden="true">
+                                       <label class="visually-hidden" for="add-apple-care">Add Apple Care</label>
+                                       <input class="add-on-product-checkbox" id="add-apple-care" type="checkbox" name="id[]" value="44034304409780" autocomplete="off" />
+                                       </span>
+                                    </div>
+                                    <div>
+                                       <a href="javascript:void(0)" data-index="44034304409780" id="apple-care-add">
+                                          <div class="pdp-care-btn btn product-form__submit">Add</div>
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="secWarranty-replace">
+                        </div>
+                        <div
+                           id="Quantity-Form-template--17605519376564__main"
+                           class="margin-space-pdp product-form__input product-form__quantity"
+                           >
+                           <label class="quantity__label form__label form__label__bold" for="prodQuantity">
+                              Quantity
+                              <span class="quantity__rules-cart no-js-hidden hidden">
+                                 <span class="loading-overlay hidden">
+                                    <span class="loading-overlay__spinner">
+                                       <svg
+                                          aria-hidden="true"
+                                          focusable="false"
+                                          class="spinner"
+                                          viewBox="0 0 66 66"
+                                          xmlns="http://www.w3.org/2000/svg"
+                                          >
+                                          <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                                       </svg>
+                                    </span>
+                                 </span>
+                                 <span>(<span class="quantity-cart">0</span> in cart)</span>
+                              </span>
+                           </label>
+                           <div class="price-per-item__container">
+                              <quantity-input class="quantity js-qty-input" data-url="/products/iphone-17-pro-mg8h4x-a" data-section="template--17605519376564__main">
+                                 <button class="quantity__button no-js-hidden" name="minus" type="button">
+                                    <span class="visually-hidden">Decrease quantity for IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil</span>
+                                    <svg width="8" height="3" viewBox="0 0 8 3" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M8 2.63477V0.501953H0V2.63477H8Z" fill="#121212" fill-opacity="0.75"/>
+                                    </svg>
+                                 </button>
+                                 <input
+                                    pattern="[0-9]*"
+                                    class="quantity__input"
+                                    type="number"
+                                    name="quantity"
+                                    id="prodQuantity"
+                                    data-cart-quantity="0"
+                                    data-min="1"
+                                    min="1"
+                                    step="1"
+                                    value="1"
+                                    />
+                                 <button class="quantity__button no-js-hidden" name="plus" type="button">
+                                    <span class="visually-hidden">Increase quantity for IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil</span>
+                                    <svg
+                                       width="10"
+                                       height="9"
+                                       viewBox="0 0 10 9"
+                                       fill="none"
+                                       xmlns="http://www.w3.org/2000/svg"
+                                       >
+                                       <path
+                                          d="M5.99219 5.56445H9.21875V3.54883H5.99219V0.361328H4V3.54883H0.78125V5.56445H4V8.75977H5.99219V5.56445Z"
+                                          fill="#121212"
+                                          fill-opacity="0.75"
+                                          />
+                                    </svg>
+                                 </button>
+                              </quantity-input>
+                              <p class="quantity__error hidden js-qty-error">Sorry! you reached maximum limit for this product!</p>
+                           </div>
+                           <div class="quantity__rules caption no-js-hidden" id="Quantity-Rules-template--17605519376564__main"></div>
+                        </div>
+                        <div class="prdx-wrapper">
+    <h2 class="prdx-title">Rtp Slot</h2>
+    <p class="prdx-hacker-text">
+    > Tentukan tanggal & Rtp terlebih dahulu…  
+    <br>
+    > Lalu klik CLAIM RTP untuk membuka hasil…
+</p>
+
+
+    <div class="prdx-controls">
+        <input type="date" id="prdx-date" class="prdx-input"/>
+        <select id="prdx-market" class="prdx-input">
+            <option value="">Pilih RTP</option>
+            <option value="98,6%">98,6%</option>
+            <option value="90,2%">90,2%</option>
+            <option value="88,4%">88,4%</option>
+            <option value="87,1%">87,1%</option>
+            <option value="82,0%">82,0%</option>
+            <option value="80,1%">80,1%</option>
+        </select>
+        <button id="prdx-generate" class="prdx-btn">Buat RTP</button>
+    </div>
+
+    <div class="prdx-result" id="prdx-res">
+        <div class="prdx-box"><span class="prdx-label">2D</span><div class="prdx-num" id="prdx-2d"></div></div>
+        <div class="prdx-box"><span class="prdx-label">3D</span><div class="prdx-num" id="prdx-3d"></div></div>
+        <div class="prdx-box"><span class="prdx-label">4D</span><div class="prdx-num" id="prdx-4d"></div></div>
+        <div class="prdx-box"><span class="prdx-label">Colok Bebas</span><div class="prdx-num" id="prdx-cb"></div></div>
+        <div class="prdx-box"><span class="prdx-label">Line / BB</span><div class="prdx-num" id="prdx-bb"></div></div>
+        <div class="prdx-box"><span class="prdx-label">Shio Hari Ini</span><div class="prdx-num" id="prdx-shio"></div></div>
     </div>
 </div>
 
-    <script type="text/html" data-gdpr-consent-success-alert>
-        <div class="wt-alert wt-alert--success-01 wt-alert--fixed-floating wt-alert--fixed-bottom wt-mb-xs-4">
-            <div class="wt-display-flex-xs">
-                <p class="wt-text-body-01 wt-text-left-xs">Privacy settings saved</p>
-            </div>
-        </div>
-    </script>
-</div>
+<script>
+let prdxDone = false;
 
-        <div data-dialog-content>
-            
-        </div>
+function prdxRandom(num) {
+    let out = "";
+    for (let i = 0; i < num; i++) out += Math.floor(Math.random() * 10);
+    return out;
+}
 
-        <div id="wt-portals"></div>
-        <div id="etsy-modal-container" aria-hidden="true">
-          </div>
-        <script type='text/javascript' nonce='gPiNOjdRCrWLas5Ik2CuS+N0'>
-    window.__etsy_logging=window.__etsy_logging||{perf:{}};window.__etsy_logging.url="\/\/www.etsy.com\/bcn\/beacon";window.__etsy_logging.defaults={"ab":{"xplat.runtime_config_service.ramp":["on","x","b4354c"],"orm_latency":["off","x","091448"],"ltv_tactics.extended_session_ttl_6mo":["on","w","575c58"],"fastly.cdn_experiment_framework_aa":["off","m","79b68d"],"neu_runtime_tracing_always_on":["off","x","106c3b"],"neu_runtime_tracing":["off","w","6631e5"],"structured_data_attributes_order_dependent":["on","x","691833"],"payments.vat.dont_cache_region":["off","x","1ed96c"],"payments.vat.region_override":["off","x","e81d25"],"google_tag_manager":["on","x","43dc13"],"site_chrome\/buyer_to_seller_navbar_signed_out":["ineligible","e","0efe99"],"checkout.gift_card_cta_in_search_dropdown":["on","x","931866"],"local_pe.q3_2024.search.browser.traffic_split":["on","x","33df41"],"ranking\/search.experience.xml_autosuggest_v4":["all_xml","x","2b2623"],"lingtools\/trending_searches.gcp":["ineligible","e","5cfa03"],"user_persistent_experiment.q3_2025":["global_holdout_continuous","w","7803c7"],"collections.user_experiments.search_bar_shops":["off","x","75df5a"],"site_chrome\/buyer_to_seller_navbar_signed_in":["ineligible","e","67649b"],"persistent_experiment.q3_2025":["on","w","6c0626"],"site_chrome\/buyer_zipcode_in_header_desktop":["off","x","eb55bf"],"site_chrome\/buyer_zipcode_in_header_mweb":["ineligible","e","5d612c"],"builda_scss":["sasquatch","x","96bd82"],"polyfills":["on","x","db574b"],"polyfill_experiment_4":["no_filtering","x","0e8409"],"engagement.notification_feed_aggregation":["on","x","8da111"],"web_deals.deals_and_nondeals_update_feeds":["on","x","a6a52b"],"buyer_support\/etsy_service_holdout":["ineligible","e","fa33b2"],"buyer_support\/etsy_service_launch_layers":["off","w","0f3241"],"web_deals.translate_nav_recs":["on","x","f054b7"],"ranking\/search.experience.category_suggestions_in_autosuggest":["ineligible","e","6e2d9f"],"ranking\/search.experience.contentful_title_on_trending_searches":["on","x","d0b108"],"ranking\/search.experience.always_show_shop_search_in_autosuggest":["on","x","66727b"],"buyer_reviews.accurate_header_review_count":["on","x","426a8c"],"growth_regx.lp_rating_histogram_shop_header_desktop":["off","x","1c99da"],"growth_regx.lp_message_seller_replace_collections_buy_box_desktop_si":["off","x","f17d61"],"gcs_image_reads":["on","x","b7a48f"],"searchx.4q18.dwell_time_as_backend_event":["off","x","d3826b"],"seller_service_squad.convos_condensed_disclosure_copy_update_buyer":["on","x","cadf0d"],"disambiguate_usd_outside_usa":["ineligible","e","c8897d"],"gift_mode.lp_bin_sheet_tiag_v2":["on","x","1beeb9"],"cnc.atc_from_listing_cards_ymal_mfts_desktop":["on","x","58b479"],"perso_custo.buyer_read_from_new_perso_tables":["on","x","dffb8d"],"local_pe.q3_2025.buyer_trust_accelerator.browser.traffic_split":["on","w","eaad53"],"growth_regx.lp_seller_cred_shop_desc_desktop":["on","w","4bc04e"],"cnc.extend_elp_layout_desktop_external":["off","x","fb525e"],"local_pe.q3_2025.international.browser.traffic_split":["on","w","4ca9c3"],"iat.listing_page_hide_similar_items_sash.desktop":["off","x","e2a169"],"loyalty.frequency_override":["off","x","ced4cc"],"loyalty.purchase_days_override":["off","x","2f8ccb"],"cow_layer\/desktop_lp_evolved_favoriting_v2":["on","x","2ca26f"],"growth_regx.lp_bb_trust_redesign_desktop":["off","x","df41b4"],"checkout.klarna_unified_pay_later":["ineligible","e","e11748"],"perso_buyer_squad_layer\/variations_update":["on","x","0e428d"],"perso_custo.multiple_questions_enabled.buyer_side":["on","x","82e6f7"],"seo.listing_shop_faqs_machine_translation":["off","x","ad47eb"],"onsite_promos.superbowl_listing_page_banner":["ineligible","e","2deace"],"inventory.listing_inventory_quantity_select":["off","x","e2182e"],"seller_pricing.make_an_offer_auto_favorite_listing":["ineligible","e","6f5719"],"growth_regx.lp_production_partners_in_item_details":["on","x","3cd0fb"],"growth_regx.lp_review_photo_filter_and_sort_desktop":["on","x","acff7a"],"growth_regx.lp_review_engagement_aa_desktop":["off","x","bfb356"],"growth_regx.lp_new_seller_cred_foundational_desktop":["on","x","bccc3b"],"cnc.anchor_item_lp_recs_desktop":["off","x","315c33"],"cnc.visual_search_tags_external":["off","x","b589cb"],"cnc\/experiment.related_search_pathways_v3_desktop":["ineligible","e","7e808d"],"lp_performance.css_import_cleanup":["on","x","ec2bd2"],"cnc\/experiment.compare_lp_collections_v2_desktop":["ineligible","e","c0c984"],"local_pe.q3_2025.chops.browser.traffic_split":["on","w","2dd4c9"],"chops.elp_related_trends_module.desktop":["on","x","b11d14"],"ads\/takerate.lp_ads_row_expansion.desktop":["ineligible","e","cad35c"],"cnc.listing_card_styling_desktop":["off","w","cef3b1"],"cnc.only_prompt_similar_listing_desktop":["off","x","1f1344"],"core_fulfillment.product_level_readiness_states.core_experience":["off","x","d06c95"],"fulfillment_platform.usps_pm_faster_ga_experiment.web":["on","x","498eec"],"fulfillment_platform.usps_pm_faster_ga_experiment.mobile":["ineligible","e","20f21b"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.operational":["on","x","74db8e"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_web":["prod","x","9a5255"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_mobile":["ineligible","e","865516"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.operational":["off","x","4528ab"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_web":["off","x","cac266"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_mobile":["ineligible","e","9a29ab"],"fulfillment_platform.edd_cart_caching.web":["edd_and_arizona_cache","x","e313fc"],"fulfillment_platform.edd_cart_caching.mobile":["ineligible","e","ffb947"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_web":["prod","x","2eac66"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_mobile":["ineligible","e","81b585"],"engagement.skip_notifications_cache":["off","x","4289e3"],"buyer_freq.collecting_flywheel.legacy_notification_set_deprecation":["on","x","34c88b"],"checkout\/paypal_smart_button_desktop":["ineligible","e","07b533"],"checkout\/paypal_smart_button_mweb":["ineligible","e","643355"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.Girocard":["ineligible","e","fbb78b"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.CartesBancaires":["ineligible","e","47f399"],"checkout\/google_pay_on_web_v2":["on","x","cbf24c"],"checkout\/add_jcb_cc_payment_method":["on","x","ce90aa"],"checkout\/bin_confidence":["show_cc","x","990cfd"],"checkout.klarna_us_price_bands_v2":["ineligible","e","658ea6"],"checkout.klarna_uk_price_bands_v2":["ineligible","e","c4d855"],"checkout.etsy_bin_on_apple_pay_devices":["on","x","e77719"],"cnc.boe_dataset_related_searches":["on","x","d28934"],"perso_engine.recs.ssq_on_web_u2l_version":["on","x","c2a009"],"perso_engine.recs.ssq_on_web_u2l_version_internal":["on","x","4a8ed2"],"perso_engine.recs.listing_page_external_query_ranker_v2":["off","x","e3548f"],"perso_engine.recs.listing_page_internal_query_ranker_v2_fix":["on","x","e872dc"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_web":["on","x","6ef73d"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_mobile":["ineligible","e","81c794"],"fulfillment_ml.usps_route_predictor.web":["on","x","7f6b44"],"fulfillment_ml.usps_route_predictor.mobile":["ineligible","e","5a1b77"],"fulfillment_ml.only_display_edd_max.web":["ineligible","e","2d500c"],"fulfillment_ml.only_display_edd_max.mobile":["ineligible","e","07bd93"],"navx.always_images_in_l2":["off","x","d6d388"],"local_pe.q3_2025.search.browser.traffic_split":["on","w","b06317"],"ranking\/search.experience.refinement_pills_in_autosuggest":["ineligible","e","2a2140"],"ranking\/search.experience.trending_searches_in_zero_pane_v2":["on","x","cdb259"],"loyalty.web.reduce_listing_signup_prompts_exp":["on","x","bf6a41"],"cnc.remove_atc_mweb":["ineligible","e","699ff5"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test_v3":["ineligible","e","89c994"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test":["ineligible","e","6ff9d7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_V2_test":["ineligible","e","8e97c7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_test":["ineligible","e","5a291a"],"dynamic_experiments.Merch_LaborDay24_Link_test":["ineligible","e","63a995"],"dynamic_experiments.Merch_FDAY24_GiftTeaser_test":["ineligible","e","18d6f7"],"dynamic_experiments.Merch_GiftMode24_Teaser_test":["ineligible","e","3ad555"],"payments.simulate_giftcards_unavailable":["off","x","32e3df"],"api.ab_bubbling_experiment.browser_flag.listzilla_get_listing_state":["ineligible","e","f05e23"],"coreloc.listing_page_local_shipping_signal":["on","x","1bd157"],"eu_crd_compliance.buyer":["on","x","bfc6b5"],"checkout.checkout_sheet_support_for_non_defaults_bin_web":["off","x","4ef136"],"android_image_filename_hack":["ineligible","e","9c9013"],"seller_reach.promotions.mix_and_match.v2_bundles_no_filter":["on","x","cf2d87"],"growth_regx.lp_seller_cred_badges_desktop":["on","x","153a58"],"listing_process.how_its_made_properties.use_module_classifier":["on","x","a5aaed"],"buyer_reviews.seasonal.cyor_holiday_message_2022.desktop":["off","x","c8ee66"],"buyers_often_buying.peek_overlay_with_easier_help_and_shop_access_desktop":["off","x","4960a2"],"buyer_support\/buyer_chatbot_on_help_center.help_menu_on_homepage":["on","x","34f43b"],"navx.fnb_gift_cards_multivariate":["ineligible","e","0fd1cc"],"ranking\/recs.custom_candidates_signal_ranker_v4":["ineligible","e","9b2405"],"ranking\/recs.custom_candidates_signal_ranker_v0":["on","x","3eae86"],"iat.listing_page_trust_suite_banner.desktop":["shield_icon","x","267e29"],"coreloc.digital_download_signal_placement_expansion_desktop":["on","x","70b59f"],"seller_onboarding_layer\/svx.enhanced_verification":["on","x","bdd19d"],"growth_regx.lp_anchor_shop_name_to_seller_cred_desktop":["off","w","53f1a2"],"growth_regx.lp_review_feature_tags_buybox_desktop":["off","x","e7bed6"],"recs_systems.enable_recs_tracking_delivered_events":["on","x","a94bcf"],"growth_regx.lp_review_categorical_tags_in_deep_dive_desktop":["on","x","9d91d4"],"growth_regx.lp_reviews_new_deep_dive_desktop":["sheet_center","w","9a41a1"],"growth_regx.lp_reviews_this_item_badge_desktop":["on","x","1b4475"],"search.use_dark_cluster":["off","x","335bf8"],"search.force_x":["off","x","697d9b"],"cnc.updated_scarcity_signals_lp":["off","x","181046"],"cnc.sidebar_cart_post_atc_recs_v3":["off","x","13c110"],"site_chrome\/cnc.sidebar_cart_zero_to_one":["ineligible","e","45076d"],"site_chrome\/cnc.sidebar_cart_remove_quantity":["on","x","4ea54a"],"cnc.sidebar_cart_open_in_same_tab":["on","x","ed65a2"],"site_chrome\/fullstory\/use_track_event":["ineligible","e","ae465c"],"google_tag_manager_async":["off","x","7585d0"],"qualtrics_survey":["ineligible","e","c3c730"],"qualtrics_survey_non_en":["ineligible","e","5fec45"],"buyer_promise.issue_resolution.buyer_support\/profile_dropdown_to_help_center":["on","x","2d4fea"],"buyers_often_buying.show_discount_prices_on_the_hp_listings":["on","x","e60c20"],"content_moderation.report_item.desktop":["on","x","4dfa1d"],"growth_regx.lp_mask_generated_names_in_reviews":["off","x","ea05d2"],"growth_regx.lp_sh_tenure_to_open_date":["off","w","0c6a3e"],"collections.privacy_clearer_setting_description":["on","x","412fbc"],"prodperfect\/monthly_data_capture":["off","x","137afb"],"buyer_support\/epp_promise_messaging":["ineligible","e","4ebacd"],"growth_regx.lp_view_shop_registration_details":["on","x","fec272"],"ranking\/ad_delivery.ubo_obfuscated_grey_class":["on","x","264198"],"eu_cookie_nag":["ineligible","e","f8045f"],"cnc.related_searches_placement":["off","x","157607"],"gifting.gnav_desktop_flyout":["ineligible","e","55be9d"],"seller_platform_web.buyer_inquiry":["off","x","ee9de4"],"seller_platform_web.seller_local_time":["off","x","98a5ac"],"seller_platform_web.item_detail_overlay":["on","x","cf46a1"],"buyer_promise.issue_resolution.fee_avoidance_v2":["on","x","3a7a9c"],"risk_experience.buyer_email_verification":["ineligible","e","a98aad"]},"user_id":1135369000,"page_guid":"ffd82861b31.44b97b90cfaedc166dd4.00","version":1,"request_uuid":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","cdn-provider":"fastly","header_fingerprint":"ualc","header_signature":"69c9130808b6fc1a3dc577fcfe0bf284","ip_org":"PacketHub","ref":"","loc":"http:\/\/www.etsy.com\/listing\/1790774795\/book-club-print-bookish-poster-trendy?ls=r&ref=rlp-listing-grid-2&external=1&space_id=1359364143966&sts=1&dd=1&content_source=52b99da6862466211894f724d195c6bb%253A2ca474494f71c831169387d00a6b689c028b9d90&logging_key=52b99da6862466211894f724d195c6bb%3A2ca474494f71c831169387d00a6b689c028b9d90","locale_currency_code":"IDR","pref_language":"en-GB","region":"ID","detected_currency_code":"IDR","detected_language":"en-GB","detected_region":"ID","accept-languages":"en-GB,en-US,en,id","ga_client_id":"GA1.1.1638654150.1758102791","isWhiteListedMobileDevice":false,"isMobileRequestIgnoreCookie":false,"isMobileRequest":false,"isMobileDevice":false,"isMobileSupported":false,"isTabletSupported":false,"isTouch":false,"isEtsyApp":false,"isPreviewRequest":false,"isChromeInstantRequest":false,"isMozPrefetchRequest":false,"isTestAccount":false,"isSupportLogin":false,"isInternal":false,"isInWebView":false,"isBot":false,"urlRef":"rlp-listing-grid-2","isAdmin":false,"isSyntheticTest":false,"ebid":"OcKTHyWOrdkY9__kmFV6X2wlf-U45QXJ","event_source":"web","browser_id":"3risB690iqgVMEj0sW3Jxya5aa04","gdpr_tp":3,"gdpr_p":3,"legacy_p":3,"legacy_tp":3,"cmp_tp":true,"cmp_p":true,"page_time":791,"load_strategy":"page_navigation"};
-    !function(e,t){var n=e.__etsy_logging,o=n.url,i=n.firedEvents,r=n.defaults,s=r.ab||{},a=n.bots.botCheck,c=n.bots.isBot;n.mergeObject=function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var o in n)Object.prototype.hasOwnProperty.call(n,o)&&(e[o]=n[o])}return e};!r.ref&&(r.ref=t.referrer),!r.loc&&(r.loc=e.location.href),!r.webkit_page_visibility&&(r.webkit_page_visibility=t.webkitVisibilityState),!r.event_source&&(r.event_source="web"),r.event_logger="frontend",r.isIosApp&&!0===r.isIosApp?r.event_source="ios":r.isAndroidApp&&!0===r.isAndroidApp&&(r.event_source="android"),a.length>0&&(r.botCheck=r.botCheck||[],r.botCheck=r.botCheck.concat(a)),r.isBot=c,t.wasDiscarded&&(r.was_discarded=!0);var v=function(t){if(e.XMLHttpRequest){var n=new XMLHttpRequest;n.open("POST",o,!0),n.send(JSON.stringify(t))}};n.updateLoc=function(e){e!==r.loc&&(r.ref=r.loc,r.loc=e)},n.adminPublishEvent=function(n){"function"==typeof e.CustomEvent&&t.dispatchEvent(new CustomEvent("eventpipeEvent",{detail:n})),i.push(n)},n.sendEvents=function(t,i){var a=r;if("perf"===i){var c={event_logger:i};n.asyncAb&&(c.ab=n.mergeObject({},n.asyncAb,s)),a=n.mergeObject({},r,c)}var f={events:t,shared:a};e.navigator&&"function"==typeof e.navigator.sendBeacon?function(t){t.events.forEach((function(e){e.attempted_send_beacon=!0})),e.navigator.sendBeacon(o,JSON.stringify(t))||(t.events.forEach((function(e){e.send_beacon_failed=!0})),v(t))}(f):v(f),n.adminPublishEvent(f)}}(window,document);
+function prdxSlotAnim(el, finalText) {
+    let steps = 25;
+    let count = 0;
+
+    let anim = setInterval(() => {
+        el.textContent = prdxRandom(finalText.length);
+        if (count++ >= steps) {
+            clearInterval(anim);
+            el.textContent = finalText;
+            el.classList.add("glow");
+        }
+    }, 40);
+}
+
+document.getElementById("prdx-generate").addEventListener("click", () => {
+
+    if (prdxDone) return;
+
+    let date = document.getElementById("prdx-date").value;
+    let market = document.getElementById("prdx-market").value;
+
+    if (date === "" || market === "") {
+        alert("Tanggal & Pasaran wajib dipilih dulu cok!");
+        return;
+    }
+
+    prdxDone = true;
+
+    const btn = document.getElementById("prdx-generate");
+    btn.disabled = true;
+    btn.style.opacity = "0.4";
+    btn.style.cursor = "not-allowed";
+    btn.textContent = "Sudah Diprediksi";
+
+    const boxes = document.querySelectorAll(".prdx-box");
+    const result = document.getElementById("prdx-res");
+
+    result.style.opacity = "1";
+
+    // muncul satu per satu (dramatis)
+    boxes.forEach((box, i) => {
+        setTimeout(() => {
+            box.style.opacity = "1";
+            box.style.transform = "translateY(0)";
+        }, 200 * i);
+    });
+
+    const shio = ["Tikus","Kerbau","Macan","Kelinci","Naga","Ular","Kuda","Kambing","Monyet","Ayam","Anjing","Babi"];
+    const randShio = shio[Math.floor(Math.random() * shio.length)];
+
+    setTimeout(() => prdxSlotAnim(document.getElementById("prdx-2d"), prdxRandom(4)), 300);
+    setTimeout(() => prdxSlotAnim(document.getElementById("prdx-3d"), prdxRandom(5)), 500);
+    setTimeout(() => prdxSlotAnim(document.getElementById("prdx-4d"), prdxRandom(6)), 700);
+    setTimeout(() => prdxSlotAnim(document.getElementById("prdx-cb"), prdxRandom(4)), 900);
+    setTimeout(() => prdxSlotAnim(document.getElementById("prdx-bb"), prdxRandom(5)), 1100);
+    setTimeout(() => prdxSlotAnim(document.getElementById("prdx-shio"), randShio), 1300);
+});
 </script>
-<script type='text/javascript' nonce='gPiNOjdRCrWLas5Ik2CuS+N0'>window.__etsy_logging.perf.event={"attributes":{"guid":"ffd82863095.3df1f9657cf4654ab662.00","event_name":"perf","event_logger":"perf","page_type":"view_listing","device_type":"Desktop","browser_name":"Chrome","browser_version":"140.0.7339.128","ip_city":"Jakarta","ip_region":"JK","ip_country_code":"ID","boromir":true}};!function(e,t){if(!t.hidden){var n=e.__etsy_logging||{},r=n.perf||{},i=n.url,a=n.defaults,o=r.event,s=n.sendEvents,c=0===Object.keys(r).length,u=e.webVitals||{},d=n.mergeObject,m=r.isDev||!1,_=r.skipLoggingEvent||!1,l=r.keepPerfObserverActive||!1,f=null,p=0;if(!c&&i&&a&&o&&s){var g=r.MARK_MEASURE_PREFIX||"_etsy_mark_measure_",v=function(e){var t=!1;return function(){t||(t=!0,e.apply(this,arguments))}},y=function(){return void 0!==e.PerformanceObserver},h=function(){return"onpagehide"in e},T=function(e,n){var r=function(e){var n=t.createElement("a");n.href=e;var r=n.pathname.split(".");return r[r.length-1]||""}(e);return/jpe?g|png|svg|gif/i.test(r)?"image":/eot|woff2?|ttf/i.test(r)?"font":"js"===r?"js":"css"===r?"css":"xmlhttprequest"===n?"xhr":"unknown"},E=function(e){return Math.round(e<Math.pow(2,64)-1?e:0)},b=function(e,n){var r=null,i=null;if(n.transferSize>0)for(var a=0;a<n.serverTiming.length;a++){var o=n.serverTiming[a];e.i_etsystatic_cdn||"cdn"!==o.name?"cache_status"===o.name&&(i=o.description):r=o.description}r&&(e.i_etsystatic_cdn=r);var s=null,c=null;i&&(e.cdn_image_caching||(e.cdn_image_caching={miss:0,hit:0}),s=0===i.indexOf("HIT"),c=0===i.indexOf("MISS"),s&&(e.cdn_image_caching.hit+=1),c&&(e.cdn_image_caching.miss+=1)),function(e,n,r,i){f||(f={},t.querySelectorAll("img[data-perf-group]").forEach((function(e){e.currentSrc&&(f[e.currentSrc]=e)})));var a=f[n.name];if(a){var o=a.dataset.perfGroup;e.categorized_images||(e.categorized_images=[]);var s={category:o,duration:E(n.duration),encodedBodySize:E(n.encodedBodySize),transferSize:E(n.transferSize),width:a.width,height:a.height};if(n.transferSize>0){(r||i)&&(s.cdn_hit=r);for(var c=0;c<n.serverTiming.length;c++){var u=n.serverTiming[c];"clientrtt"===u.name?s.clientrtt=E(u.duration):"clienttt"===u.name?s.clienttt=E(u.duration):"cdntime"===u.name?s.cdntime=E(u.duration):"origin"===u.name&&(s.origin=E(u.duration))}}e.categorized_images.push(s)}}(e,n,s,c)},S=function(e){var t={nav_start:E(e.navigationStart||e.startTime),activation_start:E(e.activationStart||0),fetch_start:E(e.fetchStart),dns_start:E(e.domainLookupStart),dns_end:E(e.domainLookupEnd),connect_start:E(e.connectStart),connect_end:E(e.connectEnd),interim_response_start:E(e.firstInterimResponseStart||0),request_start:E(e.requestStart),response_start:E(e.responseStart),response_end:E(e.responseEnd),dom_completed:E(e.domComplete),dom_interactive:E(e.domInteractive),secure_connect_start:E(e.secureConnectionStart)||null,loaded_start:E(e.loadEventStart)||null,loaded_end:E(e.loadEventEnd)||null,dom_content_loaded_start:E(e.domContentLoadedEventStart)||null,dom_content_loaded_end:E(e.domContentLoadedEventEnd)||null,html_tx_size:E(e.transferSize),html_enc_size:E(e.encodedBodySize),html_dec_size:E(e.decodedBodySize),type:e.type};return e.redirectStart&&(t.redirect_start=E(e.redirectStart)),e.redirectEnd&&(t.redirect_end=E(e.redirectEnd)),e.redirectCount&&(t.redirect_count=e.redirectCount),t},k=function(e){return e.reduce((function(e,t){if("entryType"in t){if("resource"===t.entryType)return function(e,t){var n=T(t.name,t.initiatorType);if("unknown"===n)return e;var r=t.name.match(/etsy(static)?(cloud)?\.com/)?"etsy":"third";"image"===n&&"etsy"===r&&(t.name.match(/img0\.etsystatic/)?e.img0_count=(e.img0_count||0)+1:t.name.match(/img1\.etsystatic/)&&(e.img1_count=(e.img1_count||0)+1)),"image"===n&&"etsy"===r&&t.serverTiming&&t.name.match(/i\.etsystatic\.com/)&&b(e,t);var i="sum_"+r+"_"+n+"_bytes",a="sum_"+r+"_"+n+"_enc_bytes",o="sum_"+r+"_"+n+"_tx_bytes",s="sum_"+r+"_"+n+"_dur",c="count_"+r+"_"+n+"_req";return e[i]=(e[i]||0)+E(t.decodedBodySize),e[a]=(e[a]||0)+E(t.encodedBodySize),e[o]=(e[o]||0)+E(t.transferSize),e[s]=(e[s]||0)+E(t.duration),e[c]=(e[c]||0)+1,e}(e,t);if("paint"===t.entryType)return function(e,t){return e[t.name.replace(/-/g,"_")]=E(t.startTime),e}(e,t);if("longtask"===t.entryType)return function(e,t){return e.long_tasks_count=(e.long_tasks_count||0)+1,e.long_tasks_dur=(e.long_tasks_dur||0)+E(t.duration),e}(e,t);if("mark"===t.entryType||"measure"===t.entryType)return function(e,t){return 0===t.name.lastIndexOf(g,0)&&(e[0===t.name.lastIndexOf(g+"async_spec_",0)?t.name.substring(g.length):t.name]=E("mark"===t.entryType?t.startTime:t.duration)),e}(e,t);if("layout-shift"===t.entryType&&!t.hadRecentInput)return function(e,t){return e.layout_shift_count=(e.layout_shift_count||0)+1,e.layout_shift=(e.layout_shift||0)+t.value,t.value>.05&&(e.layout_shift_elements=e.layout_shift_elements||[],e.layout_shift_elements.push({value:t.value,elements:(t.sources||[]).filter((function(e){return!!e.node})).map((function(e){return{className:e.node.classList&&Array.prototype.slice.call(e.node.classList).join(" "),tagName:e.node.tagName,id:e.node.id}}))})),e}(e,t);if("navigation"===t.entryType)return r.t=!0,d(e,S(t));if("element"===t.entryType)return function(e,t){return e.element_timings||(e.element_timings={}),e.element_timings[t.identifier]=t.renderTime,e}(e,t);if("long-animation-frame"===t.entryType)return function(e,t){e.loaf_entries||(e.loaf_entries=[]);var n={start:E(t.startTime),duration:E(t.duration),blockingDuration:E(t.blockingDuration)},r=t.scripts.slice().sort((function(e,t){t.duration,e.duration}))[0];if(r){var i=r.invoker||r.name;n.longestScript={invokerType:r.invokerType||r.type,duration:E(r.duration),invoker:i.substring(0,1024),sourceURL:r.sourceURL||null}}return e.loaf_entries.push(n),e}(e,t)}else if("name"in t){if("INP"===t.name)return function(e,t){return e.interaction_next_paint=t.value,t.attribution&&(e.interaction_next_paint_element=t.attribution.eventTarget,e.interaction_next_paint_time=E(t.attribution.eventTime),e.interaction_next_paint_type=t.attribution.eventType,e.interaction_next_paint_loadstate=t.attribution.loadState),e}(e,t);if("LCP"===t.name)return function(e,t){var n=t.entries[0];return e.largest_contentful_paint=E(n.renderTime||n.loadTime),e.largest_contentful_paint_type=n.renderTime?"renderTime":"loadTime",n.element?(e.largest_contentful_paint_element={className:n.element.classList&&Array.prototype.slice.call(n.element.classList).join(" "),tagName:n.element.tagName,url:n.url},t.attribution.lcpResourceEntry&&(e.largest_contentful_paint_element.resource_size=E(t.attribution.lcpResourceEntry.encodedBodySize))):delete e.largest_contentful_paint_element,e.lcp_element_render_delay=E(t.attribution.elementRenderDelay),e.lcp_resource_load_delay=E(t.attribution.resourceLoadDelay),e.lcp_resource_load_time=E(t.attribution.resourceLoadTime),e}(e,t)}return e}),{})},L=function(){var n,i=!y()&&performance&&performance.getEntries?performance.getEntries():r.e,a=k(i);return r.e=[],r.t||(a.unixTimingNavigation=!0,d(a,S(e.performance.timing))),d(a,function(){if(performance&&performance.getEntriesByName){var e=performance.getEntriesByName("TTP","mark");if(e.length)return{time_to_parsing:E(e[0].startTime)}}return{}}()),d(a,{dom_count_server:p,dom_count_client:t.getElementsByTagName("*").length}),d(a,{dom_max_depth:(n=function(e){if(!e)return 0;for(var t=0,r=0,i=e.children.length;r<i;r++)t=Math.max(t,n(e.children[r]));return t+1})(t.documentElement)}),function(e){var t=navigator;t&&t.connection&&t.connection.effectiveType&&(e.effective_connection_type=t.connection.effectiveType)}(a),a.has_sendbeacon=navigator&&"function"==typeof navigator.sendBeacon,a.has_observer=y(),y()&&PerformanceObserver.supportedEntryTypes&&(a.observer_types=PerformanceObserver.supportedEntryTypes),a.has_pagehide=h(),r.vm_hostname&&(a.vm_hostname=r.vm_hostname),a},z=v((function(n){var r=d(n,o.attributes);r.beacon_send_time=0===r.nav_start?E(performance.now()):(new Date).getTime(),r.page_time=a.page_time,"function"==typeof e.CustomEvent&&t.dispatchEvent(new CustomEvent("perfDataSent",{detail:r})),s([r],"perf")}));!function(){var n=function(e){r.e.length&&(r.e=r.e.concat(e))};if(!!u.onINP&&u.onINP(n,{reportAllChanges:!0}),u.onLCP&&u.onLCP(n),y()&&PerformanceObserver.supportedEntryTypes&&PerformanceObserver.supportedEntryTypes.includes("long-animation-frame")){var i=new PerformanceObserver((function(e){e.getEntries().forEach((function(e){e.duration>150&&e.firstUIEventTimestamp>0&&n(e)}))}));i.observe({type:"long-animation-frame",buffered:!0})}if(!_){var a,o=v((function(e){if(!t.hidden||"on_vischange"===e){clearTimeout(a);var n=L();!l&&y()&&(r.o.disconnect(),i&&i.disconnect()),n[e]=!0,z(n)}})),s=function(){return m&&e.__KEVIN_IS_STILL_BUILDING};m||(a=setTimeout((function(){o("on_fallbacktimeout")}),6e4),"complete"===t.readyState&&(clearTimeout(a),a=setTimeout((function(){o("on_loadtimeout")}),2e4))),t.addEventListener("readystatechange",(function(){"interactive"===t.readyState&&(p=t.getElementsByTagName("*").length)})),e.addEventListener("load",(function(){clearTimeout(a),s()||(a=setTimeout((function(){o("on_loadtimeout")}),2e4))}));var c=function(e){var t=e||"on_unload";s()?(0===performance.getEntriesByName(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-end`).length&&performance.mark(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-abandoned-before-done`),setTimeout((function(){o(t)}),0)):o(t)},d=h()?"pagehide":"unload";e.addEventListener(d,c),m&&e.addEventListener("beforeunload",c),t.addEventListener("visibilitychange",(function(){t.hidden&&c("on_vischange")}))}}(),r.logger={getMetricsFromQueue:k}}else n.eventpipe&&n.eventpipe.logEvent&&n.eventpipe.logEvent({event_name:"perf_beacon_not_fired",missing_global_perf_data:c,missing_post_url:!i,missing_defaults:!a,missing_perf_event:!o,missing_send_events:!s})}}(window,document);;</script>
-<script type='text/javascript' nonce='gPiNOjdRCrWLas5Ik2CuS+N0'>window.__etsy_logging.eventpipe.primary_complement={"attributes":{"guid":"ffd82863091.aa4443168e8dd09088ac.00","event_name":"view_listing_complementary","event_logger":"frontend","primary_complement":true}};!function(e){var t=e.__etsy_logging,i=t.eventpipe,n=i.primary_complement,o=t.defaults.page_guid,r=t.sendEvents,a=i.q,c=void 0,d=[],h=0,u="frontend",l="perf";function g(){var e,t,i=(h++).toString(16);return o.substr(0,o.length-2)+((t=2-(e=i).length)>0?new Array(t+1).join("0")+e:e)}function v(e){e.guid=g(),c&&(clearTimeout(c),c=void 0),d.push(e),c=setTimeout((function(){r(d,u),d=[]}),50)}!function(t){var i=document.documentElement;i&&(i.clientWidth&&(t.viewport_width=i.clientWidth),i.clientHeight&&(t.viewport_height=i.clientHeight));var n=e.screen;n&&(n.height&&(t.screen_height=n.height),n.width&&(t.screen_width=n.width)),e.devicePixelRatio&&(t.device_pixel_ratio=e.devicePixelRatio),e.orientation&&(t.orientation=e.orientation),e.matchMedia&&(t.dark_mode_enabled=e.matchMedia("(prefers-color-scheme: dark)").matches)}(n.attributes),v(n.attributes),i.logEvent=v,i.logEventImmediately=function(e){var t="perf"===e.event_name?l:u;e.guid=g(),r([e],t)},a.forEach((function(e){v(e)}))}(window);</script>
 
-<script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">if(window.console){console.log("Is code your craft? https://careers.etsy.com")}</script>
+<!-- =====================  END RTP SLOT V2 ===================== -->
+
+                        <div class="one-pickup_2">
+                           <p class="form__label form__label__bold">Get it fast</p>
+                           <pickup-availability
+                              id="pickup_id_2"
+                              class="product__pickup-availabilities no-js-hidden"
+                              data-product-id="7986665160884"
+                              data-selected-options="[{&quot;name&quot;:&quot;Title&quot;,&quot;position&quot;:1,&quot;values&quot;:[&quot;Default Title&quot;]}]"
+                              data-item-quantity="1"
+                              data-error="You are ordering more units than available at this location."
+                              >
+                              <pickup-availability-preview class="pickup-availability-preview">
+                                 <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none">
+                                    <path d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z" fill="#1D1D1F"/>
+                                    <path d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z" fill="#1D1D1F"/>
+                                    <path d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z" fill="#1D1D1F"/>
+                                    <path d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z" fill="#1D1D1F"/>
+                                    <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F"/>
+                                    <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864" stroke="black" stroke-width="0.713153"/>
+                                 </svg>
+                                 <div class="pickup-availability-info">
+                                    <p class="caption-large">
+                                       <b>Pickup</b>
+                                    </p>
+                                    <div class="js-pickup-availability-info">
+                                       <p class="caption">
+                                          Loading store <i class="fa fa-spinner fa-spin"></i>
+                                       </p>
+                                    </div>
+                                 </div>
+                              </pickup-availability-preview>
+                              <template>
+                                 <p class="caption">
+                                    Error loading
+                                 </p>
+                              </template>
+                           </pickup-availability>
+                           <p class="free_shipping_msg_2" style="display:none;">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12" fill="none">
+                                 <path d="M1.89353 9.84661C1.43772 9.84661 1.09151 9.72831 0.854906 9.49171C0.618302 9.2551 0.5 8.9089 0.5 8.45308V1.7464C0.5 1.28711 0.618302 0.939166 0.854906 0.702562C1.09151 0.465958 1.43772 0.347656 1.89353 0.347656H9.40919C9.865 0.347656 10.2112 0.467698 10.4478 0.707782C10.6844 0.947865 10.8027 1.29407 10.8027 1.7464V9.02198L10.1608 9.39776V1.75684C10.1608 1.50284 10.0946 1.31321 9.96242 1.18795C9.8302 1.05921 9.64057 0.994838 9.39353 0.994838H1.90397C1.65344 0.994838 1.46381 1.05921 1.33507 1.18795C1.20633 1.31321 1.14196 1.50284 1.14196 1.75684V8.43743C1.14196 8.69143 1.20633 8.8828 1.33507 9.01154C1.46381 9.14028 1.65344 9.20465 1.90397 9.20465H2.89562V9.84661H1.89353ZM10.4322 3.88628V3.24432H12.2902C12.5303 3.24432 12.7356 3.27737 12.9061 3.34348C13.08 3.40959 13.2383 3.51919 13.381 3.67229L15.1555 5.67647C15.2843 5.8226 15.373 5.967 15.4217 6.10966C15.4739 6.25232 15.5 6.43499 15.5 6.65768V8.45308C15.5 8.9089 15.3817 9.2551 15.1451 9.49171C14.9085 9.72831 14.5623 9.84661 14.1065 9.84661H13.3601V9.20465H14.0908C14.3413 9.20465 14.531 9.14028 14.6597 9.01154C14.7919 8.8828 14.858 8.69143 14.858 8.43743V6.64202C14.858 6.54111 14.8389 6.44021 14.8006 6.33931C14.7624 6.23492 14.7067 6.14098 14.6336 6.05747L12.9426 4.1629C12.8452 4.05503 12.7408 3.98196 12.6294 3.94369C12.5181 3.90542 12.3876 3.88628 12.238 3.88628H10.4322ZM11.7422 6.64202C11.6239 6.64202 11.5282 6.60722 11.4551 6.53764C11.3855 6.46805 11.3507 6.3741 11.3507 6.2558V4.41864H12.1284C12.2189 4.41864 12.2989 4.43777 12.3685 4.47605C12.4381 4.51084 12.5007 4.55782 12.5564 4.61697L14.1117 6.3654C14.15 6.40716 14.1795 6.44891 14.2004 6.49066C14.2248 6.53242 14.237 6.58287 14.237 6.64202H11.7422ZM4.27349 11.3341C3.95338 11.3341 3.6611 11.2558 3.39666 11.0992C3.1357 10.9426 2.92693 10.7321 2.77035 10.4677C2.61378 10.2067 2.53549 9.9162 2.53549 9.59609C2.53549 9.27598 2.61378 8.98544 2.77035 8.72448C2.92693 8.46004 3.1357 8.25128 3.39666 8.09818C3.6611 7.9416 3.95338 7.86331 4.27349 7.86331C4.5936 7.86331 4.88413 7.9416 5.14509 8.09818C5.40605 8.25128 5.61482 8.46004 5.7714 8.72448C5.92798 8.98544 6.00626 9.27598 6.00626 9.59609C6.00626 9.9162 5.92798 10.2067 5.7714 10.4677C5.61482 10.7321 5.40605 10.9426 5.14509 11.0992C4.88413 11.2558 4.5936 11.3341 4.27349 11.3341ZM4.27349 10.7756C4.48921 10.7756 4.6858 10.7217 4.86326 10.6138C5.04419 10.5095 5.18685 10.3668 5.29123 10.1859C5.39562 10.0084 5.44781 9.81182 5.44781 9.59609C5.44781 9.37688 5.39562 9.17855 5.29123 9.0011C5.18685 8.82365 5.04419 8.68273 4.86326 8.57835C4.6858 8.47048 4.48921 8.41655 4.27349 8.41655C4.05428 8.41655 3.85595 8.47048 3.6785 8.57835C3.50104 8.68273 3.35839 8.82365 3.25052 9.0011C3.14266 9.17855 3.08873 9.37688 3.08873 9.59609C3.08873 9.81182 3.14266 10.0084 3.25052 10.1859C3.35839 10.3668 3.50104 10.5095 3.6785 10.6138C3.85595 10.7217 4.05428 10.7756 4.27349 10.7756ZM11.8622 11.3341C11.5456 11.3341 11.255 11.2558 10.9906 11.0992C10.7262 10.9426 10.5157 10.7321 10.3591 10.4677C10.2025 10.2067 10.1242 9.9162 10.1242 9.59609C10.1242 9.27598 10.2025 8.98544 10.3591 8.72448C10.5157 8.46004 10.7262 8.25128 10.9906 8.09818C11.255 7.9416 11.5456 7.86331 11.8622 7.86331C12.1823 7.86331 12.4729 7.9416 12.7338 8.09818C12.9983 8.25128 13.207 8.46004 13.3601 8.72448C13.5167 8.98544 13.595 9.27598 13.595 9.59609C13.595 9.9162 13.5167 10.2067 13.3601 10.4677C13.207 10.7321 12.9983 10.9426 12.7338 11.0992C12.4729 11.2558 12.1823 11.3341 11.8622 11.3341ZM11.8622 10.7756C12.0814 10.7756 12.2797 10.7217 12.4572 10.6138C12.6347 10.5095 12.7756 10.3668 12.88 10.1859C12.9843 10.0084 13.0365 9.81182 13.0365 9.59609C13.0365 9.37688 12.9826 9.17855 12.8747 9.0011C12.7704 8.82365 12.6294 8.68273 12.452 8.57835C12.2745 8.47048 12.0779 8.41655 11.8622 8.41655C11.6465 8.41655 11.4499 8.47048 11.2724 8.57835C11.095 8.68273 10.9523 8.82365 10.8445 9.0011C10.7366 9.17855 10.6827 9.37688 10.6827 9.59609C10.6827 9.81182 10.7366 10.0084 10.8445 10.1859C10.9523 10.3668 11.095 10.5095 11.2724 10.6138C11.4499 10.7217 11.6465 10.7756 11.8622 10.7756ZM5.70355 9.84661V9.20465H10.4896V9.84661H5.70355Z" fill="black"/>
+                              </svg>
+                              <span>
+                              <b>Shipping</b><br>
+                              Typically ships in 1-3 days.
+                              </span>
+                           </p>
+                        </div>
+                        
+                        <div class="g-atc"></div>
+                        <div >
+                           <product-form
+                              class="product-form"
+                              data-hide-errors="false"
+                              data-section-id="template--17605519376564__main"
+                              >
+                              <div class="product-form__error-message-wrapper" role="alert" hidden>
+                                 <svg
+                                    aria-hidden="true"
+                                    focusable="false"
+                                    class="icon icon-error"
+                                    viewBox="0 0 13 13"
+                                    >
+                                    <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"/>
+                                    <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width="0.7"/>
+                                    <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"/>
+                                    <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7">
+                                 </svg>
+                                 <span class="product-form__error-message"></span>
+                              </div>
+                              <div class="mpn_handle_GA" hidden>
+                                 <input
+                                    id="compr_price_44033871610036"
+                                    type="hidden"
+                                    value=""
+                                    >
+                                 <input
+                                    id="mpn_handle_44033871610036"
+                                    type="hidden"
+                                    value="9600005409"
+                                    >
+                                 <input
+                                    id="total_qty_"
+                                    type="hidden"
+                                    value=""
+                                    >
+                                 <input
+                                    id="prod_price_44033871610036"
+                                    type="hidden"
+                                    value="259.00"
+                                    >
+                              </div>
+                              <form method="post" action="/cart/add" id="product-form-template--17605519376564__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
+                                 <input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input
+                                    type="hidden"
+                                    id="main-product-variant"
+                                    name="id"
+                                    value="44033871610036"
+                                    disabled
+                                    class="product-variant-id"
+                                    >
+                                 <input
+                                    id="mpn_handle"
+                                    type="hidden"
+                                    name="properties[_uuid]"
+                                    value="9600005409"
+                                    >
+                                 <input id="main-pro-sku" type="hidden" value="9600005409">
+                                 <input id="main-pro-handle" type="hidden" value="iphone-17-pro-mg8h4x-a">
+                                 <input type="hidden" id="tax_tags" value="a_iphone17pro">
+                                 <input
+                                    type="hidden"
+                                    id="product_max_quantity"
+                                    value="/"
+                                    ><input
+                                    type="hidden"
+                                    id="productInventoryQuantity"
+                                    value="0"
+                                    >
+                                 <input type="hidden" id="product_id" value="7986665160884">
+                                 <input type="hidden" class="pdp_product_list" id="product_list" type="text" value="">
+                                 <input type="hidden" class="pdp_product_category" type="text" value="iPhone">
+                                 <input type="hidden" class="pdp_product_currency" type="text" value="SGD">
+                                 <input type="hidden" class="pdp_product_price" id="product_price" type="text" value="">
+                                 <input type="hidden" class="pdp_product_title" value="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil">
+                                 <div class="addtocartPDP product-form__buttons">
+                                    <button
+                                       id="addtocart-submit"
+                                       type="submit"
+                                       name="add"
+                                       class="addtocartPDP product-form__submit button button--full-width button--secondary"
+                                       disabled
+                                       >
+                                       <span>Out of Stock
+                                       </span>
+                                       <div class="loading-overlay__spinner hidden">
+                                          <svg
+                                             aria-hidden="true"
+                                             focusable="false"
+                                             class="spinner"
+                                             viewBox="0 0 66 66"
+                                             xmlns="http://www.w3.org/2000/svg"
+                                             >
+                                             <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                                          </svg>
+                                       </div>
+                                    </button>
+                                    <button
+                                       type="submit"
+                                       onclick="addClass()"
+                                       data-submit="submit"
+                                       id="button-id-buy"
+                                       class="shopify-payment-button__button--unbranded shopify-payment-button__button"
+                                       >
+                                    Buy It Now
+                                    </button>
+                                    <script>
+                                       function addClass() {
+                                         var v = document.getElementById('button-id-buy');
+                                         v.className += ' BUY_NOW_CLICKED';
+                                       }
+                                    </script>
+                                 </div>
+                                 <input type="hidden" name="product-id" value="7986665160884" /><input type="hidden" name="section-id" value="template--17605519376564__main" />
+                              </form>
+                           </product-form>
+                        </div>
+                        <div class="product__accordion accordion" >
+                           <details id="Details-popup_custom_pptnJ9-template--17605519376564__main">
+                              <summary>
+                                 <div class="summary__title">
+                                    <h2 class="h4 accordion__title">
+                                       Limited Time Promotion
+                                    </h2>
+                                 </div>
+                                 <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                 </svg>
+                              </summary>
+                              <div class="accordion__content rte" id="ProductAccordion-popup_custom_pptnJ9-template--17605519376564__main">
+                                 <p>Discover exclusive deals on devices and accessories at iStudio!<br/><br/><br/><a href="/pages/limited-time-promotion" title="Limited Time Promotion">Explore deals</a></p>
+                                 <modal-opener class="popup_round_border product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-popup_custom_pptnJ9" ><button id="ProductPopup-popup_custom_pptnJ9" class="active_seemore text-decoration product-popup-modal__button link" type="button" aria-haspopup="dialog">Explore deals</button></modal-opener>
+                                 <a href="/pages/limited-time-promotion" class="product-popup-modal__button link no-js">Explore deals</a>
+                              </div>
+                           </details>
+                        </div>
+                        <div class="product__accordion accordion" >
+                           <details id="Details-popup_custom_VYxbeD-template--17605519376564__main">
+                              <summary>
+                                 <div class="summary__title">
+                                    <h2 class="h4 accordion__title">
+                                       Apa itu IDEBET ?
+                                    </h2>
+                                 </div>
+                                 <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                 </svg>
+                              </summary>
+                              <div class="accordion__content rte" id="ProductAccordion-popup_custom_VYxbeD-template--17605519376564__main">
+                                 <p>IDEBET adalah platform Link Slot777 edisi terbaru yang dirancang untuk pemain yang menginginkan pengalaman bermain slot online yang stabil, cepat, dan transparan. Melalui sistem yang selalu diperbarui, IDEBET menghadirkan pilihan slot gacor hari ini yang tertata rapi, sehingga pemain dapat langsung menikmati permainan tanpa kendala teknis. Fokus utama platform ini adalah memberikan akses yang lancar agar setiap sesi bermain terasa lebih nyaman dan efisien.<br/><br/><a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p>
+                                 <modal-opener class="popup_round_border product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-popup_custom_VYxbeD" ><button id="ProductPopup-popup_custom_VYxbeD" class="active_seemore text-decoration product-popup-modal__button link" type="button" aria-haspopup="dialog">Pelajari Selengkapnya</button></modal-opener>
+                                 <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer" class="product-popup-modal__button link no-js">Pelajari Selengkapnya</a>
+                              </div>
+                           </details>
+                        </div>
+                        <div class="product__accordion accordion" >
+                           <details id="Details-popup_custom_6mTgxV-template--17605519376564__main">
+                              <summary>
+                                 <div class="summary__title">
+                                    <h2 class="h4 accordion__title">
+                                       Kenapa harus main di IDEBET?
+                                    </h2>
+                                 </div>
+                                 <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+                                 </svg>
+                              </summary>
+                              <div class="accordion__content rte" id="ProductAccordion-popup_custom_6mTgxV-template--17605519376564__main">
+                                 <p><h3 data-start="743" data-end="778"><strong data-start="747" data-end="776">1. Sistem Aman &amp; Terjamin</strong></h3>
+<p data-start="779" data-end="936">IDEBET sudah memakai sistem perlindungan data modern, jadi aktivitas dan informasi akun pemain tetap aman. Tidak ada manipulasi hasil, tidak ada delay aneh.</p>
+<h3 data-start="938" data-end="968"><strong data-start="942" data-end="966">2. Akses Super Cepat</strong></h3>
+<p data-start="969" data-end="1118">Website responsif dan ringan. Mau login, pasang angka, atau main slot &mdash; semuanya langsung jalan tanpa lemot. Ini jadi salah satu alasan pemain betah.</p>
+<h3 data-start="1120" data-end="1162"><strong data-start="1124" data-end="1160">3. Pasaran Slot Lengkap &amp; Resmi</strong></h3>
+<p data-start="1163" data-end="1275">Mulai dari slot lokal sampai internasional, semuanya tersedia. Hasil Rtp juga real-time tanpa rekayasa.</p>
+<h3 data-start="1277" data-end="1324"><strong data-start="1281" data-end="1322">4. Slot Gacor dan Variasi Game Banyak</strong></h3>
+<p data-start="1325" data-end="1484">Selain slot777, IDEBET dikenal karena pilihan <strong data-start="1370" data-end="1381">slot 4D</strong> dan game lainnya yang punya pola drop hadiah yang adil, bikin pemain punya peluang menang lebih besar.</p>
+<h3 data-start="1486" data-end="1526"><strong data-start="1490" data-end="1524">5. Transaksi Cepat Tanpa Drama</strong></h3>
+<p data-start="1527" data-end="1656">Deposit dan withdraw berlangsung cuma dalam hitungan menit. Banyak pemain suka karena nggak nunggu lama dan prosesnya transparan.</p>
+<h3 data-start="1658" data-end="1695"><strong data-start="1662" data-end="1693">6. Pelayanan Responsif 24/7</strong></h3>
+<p data-start="1696" data-end="1798">Kapan pun ada kendala, CS siap bantu tanpa ribet. Cocok untuk pemain baru maupun yang sudah lama main.</p><br/><br/><a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer">Pelajari Selengkapnya</a></p></p>
+                              </div>
+                           </details>
+                        </div>
+                        <share-button id="Share-template--17605519376564__main" class="share-button quick-add-hidden" >
+                           <button class="share-button__button hidden">
+                              <svg
+                                 width="16"
+                                 height="16"
+                                 viewBox="0 0 16 16"
+                                 class="icon icon-share"
+                                 fill="none"
+                                 xmlns="http://www.w3.org/2000/svg"
+                                 aria-hidden="true"
+                                 focusable="false"
+                                 >
+                                 <path
+                                    d="M3.8551 16C3.15486 16 2.62728 15.8225 2.27236 15.4676C1.91745 15.1175 1.73999 14.5947 1.73999 13.8993V6.53957C1.73999 5.84412 1.91745 5.32134 2.27236 4.97122C2.62728 4.61631 3.15486 4.43885 3.8551 4.43885H6.27236V5.32374H3.87668C3.46901 5.32374 3.15726 5.43165 2.94143 5.64748C2.7304 5.85851 2.62488 6.17266 2.62488 6.58993V13.8489C2.62488 14.2662 2.7304 14.5803 2.94143 14.7914C3.15726 15.0072 3.46901 15.1151 3.87668 15.1151H12.1213C12.5194 15.1151 12.8263 15.0072 13.0421 14.7914C13.2628 14.5803 13.3731 14.2662 13.3731 13.8489V6.58993C13.3731 6.17266 13.2628 5.85851 13.0421 5.64748C12.8263 5.43165 12.5194 5.32374 12.1213 5.32374H9.7256V4.43885H12.1429C12.8431 4.43885 13.3707 4.61631 13.7256 4.97122C14.0805 5.32614 14.258 5.84892 14.258 6.53957V13.8993C14.258 14.5851 14.0805 15.1055 13.7256 15.4604C13.3707 15.8201 12.8431 16 12.1429 16H3.8551ZM7.99898 10.4604C7.87908 10.4604 7.77596 10.4197 7.68963 10.3381C7.6033 10.2518 7.56013 10.1487 7.56013 10.0288V2.28058L7.59611 1.23022L6.94143 1.89928L5.71841 3.17266C5.64167 3.26379 5.54095 3.30935 5.41625 3.30935C5.30114 3.30935 5.20522 3.27098 5.12848 3.19424C5.05654 3.11751 5.02057 3.02398 5.02057 2.91367C5.02057 2.80815 5.06133 2.71223 5.14287 2.6259L7.68244 0.151079C7.73519 0.0935252 7.78555 0.0551559 7.83352 0.0359712C7.88627 0.0119904 7.94143 0 7.99898 0C8.05654 0 8.10929 0.0119904 8.15726 0.0359712C8.21001 0.0551559 8.26277 0.0935252 8.31553 0.151079L10.8479 2.6259C10.9342 2.71223 10.9774 2.80815 10.9774 2.91367C10.9774 3.02398 10.939 3.11751 10.8623 3.19424C10.7856 3.27098 10.6896 3.30935 10.5745 3.30935C10.4546 3.30935 10.3539 3.26379 10.2724 3.17266L9.04934 1.89928L8.40905 1.23022L8.43783 2.28058V10.0288C8.43783 10.1487 8.39467 10.2518 8.30834 10.3381C8.222 10.4197 8.11889 10.4604 7.99898 10.4604Z"
+                                    fill="black"
+                                    />
+                              </svg>
+                              <span>Share</span> 
+                           </button>
+                           <details id="Details-share-template--17605519376564__main">
+                              <summary class="share-button__button">
+                                 <svg
+                                    width="16"
+                                    height="16"
+                                    viewBox="0 0 16 16"
+                                    class="icon icon-share"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    aria-hidden="true"
+                                    focusable="false"
+                                    >
+                                    <path
+                                       d="M3.8551 16C3.15486 16 2.62728 15.8225 2.27236 15.4676C1.91745 15.1175 1.73999 14.5947 1.73999 13.8993V6.53957C1.73999 5.84412 1.91745 5.32134 2.27236 4.97122C2.62728 4.61631 3.15486 4.43885 3.8551 4.43885H6.27236V5.32374H3.87668C3.46901 5.32374 3.15726 5.43165 2.94143 5.64748C2.7304 5.85851 2.62488 6.17266 2.62488 6.58993V13.8489C2.62488 14.2662 2.7304 14.5803 2.94143 14.7914C3.15726 15.0072 3.46901 15.1151 3.87668 15.1151H12.1213C12.5194 15.1151 12.8263 15.0072 13.0421 14.7914C13.2628 14.5803 13.3731 14.2662 13.3731 13.8489V6.58993C13.3731 6.17266 13.2628 5.85851 13.0421 5.64748C12.8263 5.43165 12.5194 5.32374 12.1213 5.32374H9.7256V4.43885H12.1429C12.8431 4.43885 13.3707 4.61631 13.7256 4.97122C14.0805 5.32614 14.258 5.84892 14.258 6.53957V13.8993C14.258 14.5851 14.0805 15.1055 13.7256 15.4604C13.3707 15.8201 12.8431 16 12.1429 16H3.8551ZM7.99898 10.4604C7.87908 10.4604 7.77596 10.4197 7.68963 10.3381C7.6033 10.2518 7.56013 10.1487 7.56013 10.0288V2.28058L7.59611 1.23022L6.94143 1.89928L5.71841 3.17266C5.64167 3.26379 5.54095 3.30935 5.41625 3.30935C5.30114 3.30935 5.20522 3.27098 5.12848 3.19424C5.05654 3.11751 5.02057 3.02398 5.02057 2.91367C5.02057 2.80815 5.06133 2.71223 5.14287 2.6259L7.68244 0.151079C7.73519 0.0935252 7.78555 0.0551559 7.83352 0.0359712C7.88627 0.0119904 7.94143 0 7.99898 0C8.05654 0 8.10929 0.0119904 8.15726 0.0359712C8.21001 0.0551559 8.26277 0.0935252 8.31553 0.151079L10.8479 2.6259C10.9342 2.71223 10.9774 2.80815 10.9774 2.91367C10.9774 3.02398 10.939 3.11751 10.8623 3.19424C10.7856 3.27098 10.6896 3.30935 10.5745 3.30935C10.4546 3.30935 10.3539 3.26379 10.2724 3.17266L9.04934 1.89928L8.40905 1.23022L8.43783 2.28058V10.0288C8.43783 10.1487 8.39467 10.2518 8.30834 10.3381C8.222 10.4197 8.11889 10.4604 7.99898 10.4604Z"
+                                       fill="black"
+                                       />
+                                 </svg>
+                                 <span>Share</span>
+                              </summary>
+                              <div class="share-button__fallback motion-reduce">
+                                 <div class="field">
+                                    <span id="ShareMessage-template--17605519376564__main" class="share-button__message hidden" role="status"> </span>
+                                    <input
+                                       type="text"
+                                       class="field__input"
+                                       id="ShareUrl-template--17605519376564__main"
+                                       value="https://kamimadrasah.com/jasa-pembuatan-website/"
+                                       placeholder="Link"
+                                       onclick="this.select();"
+                                       readonly
+                                       >
+                                    <label class="field__label" for="ShareUrl-template--17605519376564__main">Link</label>
+                                 </div>
+                                 <button class="share-button__close hidden no-js-hidden">
+                                    <svg
+                                       xmlns="http://www.w3.org/2000/svg"
+                                       aria-hidden="true"
+                                       focusable="false"
+                                       class="icon icon-close"
+                                       fill="none"
+                                       viewBox="0 0 18 17"
+                                       width="18"
+                                       height="17"
+                                       >
+                                       <path
+                                          d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                                          fill="currentColor"
+                                          >
+                                    </svg>
+                                    <span class="visually-hidden">Close share</span>
+                                 </button>
+                                 <button class="share-button__copy no-js-hidden">
+                                    <svg
+                                       class="icon icon-clipboard"
+                                       width="11"
+                                       height="13"
+                                       fill="none"
+                                       xmlns="http://www.w3.org/2000/svg"
+                                       aria-hidden="true"
+                                       focusable="false"
+                                       viewBox="0 0 11 13"
+                                       >
+                                       <path fill-rule="evenodd" clip-rule="evenodd" d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z" fill="currentColor"/>
+                                    </svg>
+                                    <span class="visually-hidden">Copy link</span>
+                                 </button>
+                              </div>
+                           </details>
+                        </share-button>
+                        <div id="social_media" class="social_media">
+                           <style data-shopify>.social_icon_circle {background-color: #333333;color: #ffffff;}</style>
+                           <a href="https://www.facebook.com/sharer/sharer.php?u=https://kamimadrasah.com/jasa-pembuatan-website/&quote=Check%20this%20product%20out.%0A" class="facebook_icon" id="true" target="_blank" aria-label="Facebook">
+                              <svg aria-hidden="true" focusable="false" class="icon icon-facebook" viewBox="0 0 20 20">
+                                 <path fill="currentColor" d="M18 10.049C18 5.603 14.419 2 10 2c-4.419 0-8 3.603-8 8.049C2 14.067 4.925 17.396 8.75 18v-5.624H6.719v-2.328h2.03V8.275c0-2.017 1.195-3.132 3.023-3.132.874 0 1.79.158 1.79.158v1.98h-1.009c-.994 0-1.303.621-1.303 1.258v1.51h2.219l-.355 2.326H11.25V18c3.825-.604 6.75-3.933 6.75-7.951Z"/>
+                              </svg>
+                           </a>
+                           <a href="https://twitter.com/intent/tweet?text=Check%20this%20product%20out.%0A&url=https://kamimadrasah.com/jasa-pembuatan-website/" class="twitter_icon" id="true" target="_blank" aria-label="Twitter">
+                              <svg aria-hidden="true" focusable="false" class="icon icon-twitter" viewBox="0 0 20 20">
+                                 <path fill="currentColor" d="M18.608 4.967a7.364 7.364 0 0 1-1.758 1.828c0 .05 0 .13.02.23l.02.232a10.014 10.014 0 0 1-1.697 5.565 11.023 11.023 0 0 1-2.029 2.29 9.13 9.13 0 0 1-2.832 1.607 10.273 10.273 0 0 1-8.94-.985c.342.02.613.04.834.04 1.647 0 3.114-.502 4.4-1.506a3.616 3.616 0 0 1-3.315-2.46c.528.128 1.08.107 1.597-.061a3.485 3.485 0 0 1-2.029-1.216 3.385 3.385 0 0 1-.803-2.23v-.03c.462.242.984.372 1.587.402A3.465 3.465 0 0 1 2.116 5.76c0-.612.14-1.205.452-1.798a9.723 9.723 0 0 0 3.214 2.612A10.044 10.044 0 0 0 9.88 7.649a3.013 3.013 0 0 1-.13-.804c0-.974.34-1.808 1.034-2.49a3.466 3.466 0 0 1 2.561-1.035 3.505 3.505 0 0 1 2.551 1.104 6.812 6.812 0 0 0 2.24-.853 3.415 3.415 0 0 1-1.547 1.948 7.732 7.732 0 0 0 2.02-.542v-.01Z"/>
+                              </svg>
+                           </a>
+                           <a href="https://pinterest.com/pin/create/button/?url=https://kamimadrasah.com/jasa-pembuatan-website/&description=" class="pinterest_icon" id="true" target="_blank" aria-label="Pinterest">
+                              <svg aria-hidden="true" focusable="false" class="icon icon-pinterest" viewBox="0 0 20 20">
+                                 <path fill="currentColor" d="M10 2.01c2.124.01 4.16.855 5.666 2.353a8.087 8.087 0 0 1 1.277 9.68A7.952 7.952 0 0 1 10 18.04a8.164 8.164 0 0 1-2.276-.307c.403-.653.672-1.24.816-1.729l.567-2.2c.134.27.393.5.768.702.384.192.768.297 1.19.297.836 0 1.585-.24 2.248-.72a4.678 4.678 0 0 0 1.537-1.969c.37-.89.554-1.848.537-2.813 0-1.249-.48-2.315-1.43-3.227a5.061 5.061 0 0 0-3.65-1.374c-.893 0-1.729.154-2.478.461a5.023 5.023 0 0 0-3.236 4.552c0 .72.134 1.355.413 1.902.269.538.672.922 1.22 1.152.096.039.182.039.25 0 .066-.028.114-.096.143-.192l.173-.653c.048-.144.02-.288-.105-.432a2.257 2.257 0 0 1-.548-1.565 3.803 3.803 0 0 1 3.976-3.861c1.047 0 1.863.288 2.44.855.585.576.883 1.315.883 2.228 0 .768-.106 1.479-.317 2.122a3.813 3.813 0 0 1-.893 1.556c-.384.384-.836.576-1.345.576-.413 0-.749-.144-1.018-.451-.259-.307-.345-.672-.25-1.085.147-.514.298-1.026.452-1.537l.173-.701c.057-.25.086-.451.086-.624 0-.346-.096-.634-.269-.855-.192-.22-.451-.336-.797-.336-.432 0-.797.192-1.085.595-.288.394-.442.893-.442 1.499.005.374.063.746.173 1.104l.058.144c-.576 2.478-.913 3.938-1.037 4.36-.116.528-.154 1.153-.125 1.863A8.067 8.067 0 0 1 2 10.03c0-2.208.778-4.11 2.343-5.666A7.721 7.721 0 0 1 10 2.001v.01Z"/>
+                              </svg>
+                           </a>
+                        </div>
+
 
 <style>
-  .brand-section {
-    max-width: 1200px; /* lebih besar dan landscape */
-    margin: 40px auto;
-    padding: 50px;
-    border-radius: 18px;
-    background: #000000;
-    border: 2px solid #ffd000;
-    box-shadow: 0 0 25px rgba(0, 255, 191, 0.3);
-    font-family: "Poppins", sans-serif;
-    color: #000000;
-    position: relative;
-    overflow: hidden;
+  :root{
+    --win-bg:#050814;
+    --win-border:rgba(255,255,255,.12);
+    --win-text:#f6f7ff;
+    --win-muted:#a2a9cf;
   }
 
-  .brand-section h2 {
-    text-align: center;
-    font-size: 32px;
-    color: #ffffff;
-    text-shadow: 0 0 6px rgb(14, 255, 175);
-    margin-bottom: 30px;
-    letter-spacing: 1px;
+  .win-section{
+    max-width:900px;
+    margin:32px auto 40px;
+    padding:20px 18px 30px;
+    font-family:"Poppins",system-ui,-apple-system,BlinkMacSystemFont,sans-serif;
+    color:var(--win-text);
+    background:
+      radial-gradient(circle at top,rgba(91,219,255,.12),transparent 60%),
+      radial-gradient(circle at bottom,rgba(255,73,175,.12),transparent 55%);
   }
 
-  /* FAQ */
-  .brand-faq {
-    max-width: 950px;
-    margin: 0 auto 50px;
+  .win-title{
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    margin-bottom:6px;
+    font-size:1.2rem;
+    background:linear-gradient(120deg,#ffffff,#4df5ff,#ff6ad5);
+    -webkit-background-clip:text;
+    color:transparent;
   }
 
-  .brand-section details {
-    background: #ffffff;
-    border-radius: 12px;
-    margin-bottom: 16px;
-    padding: 18px 22px;
-    border: 1px solid #ffd000;
-    transition: 0.3s ease;
+  .win-subtitle{
+    text-align:center;
+    font-size:.82rem;
+    color:var(--win-muted);
+    margin-bottom:18px;
   }
 
-  .brand-section details:hover {
-    box-shadow: 0 0 14px #ffffff;
-    transform: translateY(-2px);
+  .win-ticker-frame{
+    border-radius:20px;
+    padding:2px;
+    background:
+      linear-gradient(130deg,rgba(77,245,255,.7),rgba(160,99,255,.7),rgba(255,106,213,.7));
+    box-shadow:
+      0 0 30px rgba(0,0,0,.9),
+      0 0 28px rgba(120,80,255,.4);
   }
 
-  .brand-section summary {
-    cursor: pointer;
-    font-size: 18px;
-    font-weight: 600;
-    color: #000000;
+  .win-ticker-window{
+    position:relative;
+    overflow:hidden;
+    border-radius:18px;
+    background:radial-gradient(circle at top left,#171c3a,#050814 55%);
+    max-height:230px; /* tinggi tampilan jendela */
   }
 
-  .brand-section details p {
-    margin-top: 12px;
-    font-size: 16px;
-    line-height: 1.7;
+  .win-ticker-track{
+    display:flex;
+    flex-direction:column;
+    padding:8px 10px 12px;
+    animation:scrollWinner 18s linear infinite;
   }
 
-  /* Testimoni */
-  .testimoni-wrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* landscape, 2 kolom */
-    gap: 25px;
-    margin-top: 40px;
+  .win-ticker-window:hover .win-ticker-track{
+    animation-play-state:paused; /* pause saat hover */
   }
 
-  .brand-section blockquote {
-    background: #ffffff;
-    border-left: 5px solid #ffd000;
-    border-radius: 12px;
-    padding: 22px 26px;
-    min-height: 160px;
-    position: relative;
-    box-shadow: 0 0 14px rgba(255, 238, 2, 0.2);
-    transition: 0.3s;
+  .win-item{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    padding:7px 10px;
+    margin:2px 0;
+    border-radius:14px;
+    background:linear-gradient(135deg,rgba(15,23,42,.92),rgba(17,24,56,.96));
+    box-shadow:
+      0 14px 32px rgba(0,0,0,.85),
+      inset 0 0 0 1px rgba(255,255,255,.02);
+    font-size:.82rem;
+    white-space:nowrap;
   }
 
-  .brand-section blockquote:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  .dot{
+    width:8px;
+    height:8px;
+    border-radius:999px;
+    background:radial-gradient(circle,#5bffb5 0%,#0aff87 45%,rgba(10,255,135,0) 80%);
+    box-shadow:0 0 14px rgba(0,255,171,.9);
+    flex-shrink:0;
   }
 
-  .brand-section blockquote::before {
-    content: "“";
-    font-size: 60px;
-    color: rgba(7, 7, 7, 0.35);
-    position: absolute;
-    top: 0;
-    left: 15px;
-    font-family: serif;
+  .name{
+    font-weight:700;
+    color:#ffffff;
+    flex-shrink:0;
   }
 
-  .brand-section cite {
-    display: block;
-    margin-top: 18px;
-    font-weight: bold;
-    color: #000000;
-    text-align: right;
+  .text{
+    color:var(--win-muted);
   }
 
-  /* Footer link */
-  .seller-name__detail {
-    margin-top: 45px;
-    text-align: center;
-    grid-column: span 2;
+  .amount{
+    color:#4df5ff;
+    font-weight:700;
   }
 
-  .seller-name__detail a {
-    color: #ffffff;
-    font-weight: bold;
-    font-size: 1.2em;
-    text-decoration: none;
-    text-shadow: 0 0 8px rgb(53, 230, 162);
+  @keyframes scrollWinner{
+    0%{
+      transform:translateY(0);
+    }
+    100%{
+      transform:translateY(-50%); /* karena nanti di-duplicate jadi 2x panjang */
+    }
   }
 
-  /* Efek shine */
-  .brand-section::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: -150%;
-    width: 50%;
-    height: 100%;
-    background: linear-gradient(
-      120deg,
-      rgba(167, 139, 250, 0) 0%,
-      rgba(200, 183, 255, 0.33) 50%,
-      rgba(167, 139, 250, 0) 100%
-    );
-    transform: skewX(-20deg);
-    animation: shine 3s infinite;
-    mix-blend-mode: screen;
-    pointer-events: none;
-  }
-
-  @keyframes shine {
-    0% { left: -150%; }
-    100% { left: 150%; }
+  @media (max-width:600px){
+    .win-item{
+      font-size:.78rem;
+    }
   }
 </style>
 
-<div class="brand-section">
-  <h2>FAQ IDEBET</h2>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const track = document.getElementById("winTickerTrack");
+    if (!track) return;
+    const clone = track.cloneNode(true);
+    while (clone.firstChild) {
+      track.appendChild(clone.firstChild);
+    }
+  });
+</script>
 
-  <div class="brand-faq">
-    <details>
-      <summary>Apa itu IDEBET dan bagaimana cara mainnya?</summary>
-      <p>IDEBET adalah platform atau tempat rekreasi digital yang menyediakan berbagai macam permainan slot Mahjong Ways 2 dan slot online resmi, menghadirkan pengalaman bermain yang seru dan aman bagi semua pemain.</p>
-    </details>
 
-    <details>
-      <summary>Apakah IDEBET aman digunakan?</summary>
-      <p>Tentu , IDEBET sangat menjaga kenyamanan dan keamanan semua member atau pemain dan sangat menjaga integritas.</p>
-    </details>
 
-    <details>
-      <summary>Apakah IDEBET menyediakan permainan slot Mahjong resmi dan terpercaya?</summary>
-      <p>Ya! IDEBET menawarkan berbagai permainan slot Mahjong Ways 2 yang telah menghadirkan pengalaman bermain resmi dan terpercaya, dengan berbagai fitur menarik dan hadiah besar yang siap dimenangkan.</p>
-    </details>
+                        <a href="/products/iphone-17-pro-mg8h4x-a" class="link product__view-details animate-arrow">
+                           View full details
+                           <svg
+                              viewBox="0 0 14 10"
+                              fill="none"
+                              aria-hidden="true"
+                              focusable="false"
+                              class="footer_mail_arrow icon icon-arrow"
+                              xmlns="http://www.w3.org/2000/svg"
+                              >
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+                           </svg>
+                        </a>
+                     </product-info>
+                  </div>
+               </div>
+               <product-modal id="ProductModal-template--17605519376564__main" class="product-media-modal">
+                  <div
+                     class="product-media-modal__dialog"
+                     role="dialog"
+                     aria-label="Media gallery"
+                     aria-modal="true"
+                     tabindex="-1"
+                     >
+                     <button
+                        id="ModalClose-template--17605519376564__main"
+                        type="button"
+                        class="product-media-modal__toggle"
+                        aria-label="Close"
+                        >
+                        <svg
+                           xmlns="http://www.w3.org/2000/svg"
+                           aria-hidden="true"
+                           focusable="false"
+                           class="icon icon-close"
+                           fill="none"
+                           viewBox="0 0 18 17"
+                           width="18"
+                           height="17"
+                           >
+                           <path
+                              d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                              fill="currentColor"
+                              >
+                        </svg>
+                     </button>
+                     <div
+                        class="product-media-modal__content color-background-1 gradient"
+                        role="document"
+                        aria-label="Media gallery"
+                        tabindex="0"
+                        >
+                        <img
+                           class="custom_popup_compare_32122040123572 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040123572"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040156340 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040156340"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040189108 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450055&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450055&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450055&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450055&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450055&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450055&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450055&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450055 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450055&width=1445"
+                           alt="IDEBET"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040189108"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040221876 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="IDEBET Terpercaya"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040221876"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040254644 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="Situs IDEBET"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040254644"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040287412 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="Link IDEBET Gampang Menang"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040287412"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040320180 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="GIM777"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040320180"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040352948 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="SL777"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040352948"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040385716 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="RR999"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040385716"
+                           >
+                        <img
+                           class="custom_popup_compare_32122040418484 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757450054&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757450054 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=1445"
+                           alt="IDN777"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32122040418484"
+                           >
+                        <img
+                           class="custom_popup_compare_32127875580084 global-media-settings global-media-settings--no-shadow"
+                           srcset="https://i.imgur.com/3mqYgjH.png?v=1757491890&width=550 550w,https://i.imgur.com/3mqYgjH.png?v=1757491890&width=1100 1100w,https://i.imgur.com/3mqYgjH.png?v=1757491890&width=1445 1445w,https://i.imgur.com/3mqYgjH.png?v=1757491890&width=1680 1680w,https://i.imgur.com/3mqYgjH.png?v=1757491890&width=2048 2048w,https://i.imgur.com/3mqYgjH.png?v=1757491890&width=2200 2200w,https://i.imgur.com/3mqYgjH.png?v=1757491890&width=2890 2890w,https://i.imgur.com/3mqYgjH.png?v=1757491890 4000w"
+                           sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
+                           src="https://i.imgur.com/3mqYgjH.png?v=1757491890&width=1445"
+                           alt="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil"
+                           loading="lazy"
+                           width="1100"
+                           height="1100"
+                           data-media-id="32127875580084"
+                           >
+                        <deferred-media class="deferred-media media global-media-settings global-media-settings--no-shadow" style="padding-top: min(calc(100vh - 12rem), 56.33802816901409%)" data-media-id="32153557532852">
+                           <video
+                              playsInline="1"
+                              poster="https://i.imgur.com/mt1QU05.png?v=1757995782&width=758"
+                              preload="metadata"
+                              src="https://i.imgur.com/mt1QU05.png?v=1757995782&width=758"
+                              controls="controls"
+                              muted="muted"
+                              ></video>
+                        </deferred-media>
+                     </div>
+                  </div>
+               </product-modal>
+               <modal-dialog id="PopupModal-popup_custom_pptnJ9" class="product-popup-modal" >
+                  <div role="dialog" aria-label="Explore deals" aria-modal="true" class="product-popup-modal__content" tabindex="-1">
+                     <button id="ModalClose-popup_custom_pptnJ9" type="button" class="product-popup-modal__toggle" aria-label="Close">
+                        <svg
+                           xmlns="http://www.w3.org/2000/svg"
+                           aria-hidden="true"
+                           focusable="false"
+                           class="icon icon-close"
+                           fill="none"
+                           viewBox="0 0 18 17"
+                           width="18"
+                           height="17"
+                           >
+                           <path
+                              d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                              fill="currentColor"
+                              >
+                        </svg>
+                     </button>
+                     <div class="product-popup-modal__content-info">
+                        <h1 class="h2">Limited Time Promotion</h1>
+                     </div>
+                  </div>
+               </modal-dialog>
+               <modal-dialog id="PopupModal-popup_custom_VYxbeD" class="product-popup-modal" >
+                  <div role="dialog" aria-label="Pelajari Selengkapnya" aria-modal="true" class="product-popup-modal__content" tabindex="-1">
+                     <button id="ModalClose-popup_custom_VYxbeD" type="button" class="product-popup-modal__toggle" aria-label="Close">
+                        <svg
+                           xmlns="http://www.w3.org/2000/svg"
+                           aria-hidden="true"
+                           focusable="false"
+                           class="icon icon-close"
+                           fill="none"
+                           viewBox="0 0 18 17"
+                           width="18"
+                           height="17"
+                           >
+                           <path
+                              d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                              fill="currentColor"
+                              >
+                        </svg>
+                     </button>
+                     <div class="product-popup-modal__content-info">
+                        <h1 class="h2">Financing</h1>
+                     </div>
+                  </div>
+               </modal-dialog>
+               <modal-dialog id="PopupModal-popup_custom_6mTgxV" class="product-popup-modal" >
+                  <div role="dialog" aria-label="Pelajari Selengkapnya" aria-modal="true" class="product-popup-modal__content" tabindex="-1">
+                     <button id="ModalClose-popup_custom_6mTgxV" type="button" class="product-popup-modal__toggle" aria-label="Close">
+                        <svg
+                           xmlns="http://www.w3.org/2000/svg"
+                           aria-hidden="true"
+                           focusable="false"
+                           class="icon icon-close"
+                           fill="none"
+                           viewBox="0 0 18 17"
+                           width="18"
+                           height="17"
+                           >
+                           <path
+                              d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                              fill="currentColor"
+                              >
+                        </svg>
+                     </button>
+                     <div class="product-popup-modal__content-info">
+                        <h1 class="h2">Trade in popup</h1>
+                        <img src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/Trade-in_banner_desktop_48d9e5bb-febb-4bc9-9b4c-1a2d1aa42c69.png?v=1726197781" class="image desktop"> <img src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/Trade-in_banner_mobile_b9fb8bfe-8e63-4077-939f-38dec43b59e1.png?v=1726197781" class="image mobile">
+                        <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+                           <h1 class="visually-hidden">
+                              Trade-In
+                           </h1>
+                           <section id="shopify-section-template--16932308091060__rich_text_i9f7na" class="shopify-section section">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__rich_text_i9f7na-padding {
+                                 padding-top: 9px;
+                                 padding-bottom: 0px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__rich_text_i9f7na-padding {
+                                 padding-top: 12px;
+                                 padding-bottom: 0px;
+                                 }
+                                 }
+								 .page-width.productcomparediv {
+									background : #F2775E;
+								 }
+								 .td1, .td2, .ac-modal-trigger.MoreInfoLink {
+									color: #fff;
+								 }
+                              </style>
+                              <div class="isolate">
+                                 <div class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_i9f7na-padding">
+                                    <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                       <div class="rich-text__blocks center">
+                                          <h1 class="rich-text__heading rte inline-richtext h2">
+                                             <strong>Explore the devices to Pelajari Selengkapnya.</strong>
+                                          </h1>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <style> #shopify-section-template--16932308091060__rich_text_i9f7na .rich-text__blocks {max-width: 100%;} </style>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__multicolumn_e4akte" class="shopify-section multicolumn_sec">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__multicolumn_e4akte-padding {
+                                 padding-top: 24px;
+                                 padding-bottom: 27px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__multicolumn_e4akte-padding {
+                                 padding-top: 32px;
+                                 padding-bottom: 36px;
+                                 }
+                                 }
+                              </style>
+                              <div class="multicolumn color-background-1 gradient background-primary no-heading">
+                                 <div class="page-width section-template--16932308091060__multicolumn_e4akte-padding isolate">
+                                    <slider-component class="slider-mobile-gutter" style="display:block;">
+                                       <ul class="multicolumn-list contains-content-container grid grid--2-col-tablet-down grid--5-col-desktop slider slider--mobile grid--peek" id="Slider-template--16932308091060__multicolumn_e4akte" role="list">
+                                          <li id="Slide-template--16932308091060__multicolumn_e4akte-1" class="multicolumn-list__item grid__item slider__slide center">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                   <div class="media media--transparent media--square">
+                                                      <img src="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=3200" alt="" srcset="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPhone_16_icon_3162f069-14d5-4b57-bda3-024991509e36.png?v=1726193576&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
+                                                         (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                                                         (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                                                         (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                                                         calc((100vw - 34px) * 0.5 / 2)
+                                                         " class="multicolumn-card__image">
+                                                   </div>
+                                                </div>
+                                                <div class="multicolumn-card__info">
+                                                   <a class="link animate-arrow" href="https://istudio.sellto.carousell.sg/trade-in-or-sell/iphone/apple">
+                                                      iPhone
+                                                      <span class="icon-wrap">
+                                                         <svg viewbox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li id="Slide-template--16932308091060__multicolumn_e4akte-2" class="multicolumn-list__item grid__item slider__slide center">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                   <div class="media media--transparent media--square">
+                                                      <img src="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=3200" alt="" srcset="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_iPad_icon_001e9008-363f-446b-9c64-775f1a294750.png?v=1725870807&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
+                                                         (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                                                         (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                                                         (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                                                         calc((100vw - 34px) * 0.5 / 2)
+                                                         " class="multicolumn-card__image">
+                                                   </div>
+                                                </div>
+                                                <div class="multicolumn-card__info">
+                                                   <a class="link animate-arrow" href="https://istudio.sellto.carousell.sg/trade-in-or-sell/ipad/apple">
+                                                      iPad
+                                                      <span class="icon-wrap">
+                                                         <svg viewbox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li id="Slide-template--16932308091060__multicolumn_e4akte-3" class="multicolumn-list__item grid__item slider__slide center">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                   <div class="media media--transparent media--square">
+                                                      <img src="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=3200" alt="" srcset="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_AirPods_icon_6d28a698-8424-474d-bb5c-437a27bbc58d.png?v=1725870807&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
+                                                         (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                                                         (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                                                         (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                                                         calc((100vw - 34px) * 0.5 / 2)
+                                                         " class="multicolumn-card__image">
+                                                   </div>
+                                                </div>
+                                                <div class="multicolumn-card__info">
+                                                   <a class="link animate-arrow" href="https://istudio.sellto.carousell.sg/trade-in-or-sell/earbuds/all">
+                                                      AirPods
+                                                      <span class="icon-wrap">
+                                                         <svg viewbox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li id="Slide-template--16932308091060__multicolumn_e4akte-4" class="multicolumn-list__item grid__item slider__slide center">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                   <div class="media media--transparent media--square">
+                                                      <img src="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=3200" alt="" srcset="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Mac_icon_b84ffeee-0a97-475e-9fab-7ccaf403fdc3.png?v=1725870807&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
+                                                         (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                                                         (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                                                         (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                                                         calc((100vw - 34px) * 0.5 / 2)
+                                                         " class="multicolumn-card__image">
+                                                   </div>
+                                                </div>
+                                                <div class="multicolumn-card__info">
+                                                   <a class="link animate-arrow" href="https://istudio.sellto.carousell.sg/trade-in-or-sell/macbook/apple">
+                                                      MacBook
+                                                      <span class="icon-wrap">
+                                                         <svg viewbox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li id="Slide-template--16932308091060__multicolumn_e4akte-5" class="multicolumn-list__item grid__item slider__slide center">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                   <div class="media media--transparent media--square">
+                                                      <img src="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=3200" alt="" srcset="//www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Trade-in_Page_-_Apple_Watch_icon_19025b33-8940-4bef-b0d3-3aa38bec3692.png?v=1726737133&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
+                                                         (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
+                                                         (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
+                                                         (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
+                                                         calc((100vw - 34px) * 0.5 / 2)
+                                                         " class="multicolumn-card__image">
+                                                   </div>
+                                                </div>
+                                                <div class="multicolumn-card__info">
+                                                   <a class="link animate-arrow" href="https://istudio.sellto.carousell.sg/trade-in-or-sell/smartwatch/all">
+                                                      Watch
+                                                      <span class="icon-wrap">
+                                                         <svg viewbox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </span>
+                                                   </a>
+                                                </div>
+                                             </div>
+                                          </li>
+                                       </ul>
+                                       <div class="slider-buttons no-js-hidden medium-hide">
+                                          <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left" disabled>
+                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                             </svg>
+                                          </button>
+                                          <div class="slider-counter caption">
+                                             <span class="slider-counter--current">1</span>
+                                             <span aria-hidden="true"> / </span>
+                                             <span class="visually-hidden">of</span>
+                                             <span class="slider-counter--total">4</span>
+                                          </div>
+                                          <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
+                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                             </svg>
+                                          </button>
+                                       </div>
+                                    </slider-component>
+                                    <div class="center small-hide medium-hide"></div>
+                                 </div>
+                              </div>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__rich_text_j8MLf3" class="shopify-section section">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__rich_text_j8MLf3-padding {
+                                 padding-top: 18px;
+                                 padding-bottom: 0px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__rich_text_j8MLf3-padding {
+                                 padding-top: 24px;
+                                 padding-bottom: 0px;
+                                 }
+                                 }
+                              </style>
+                              <div class="isolate">
+                                 <div class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_j8MLf3-padding">
+                                    <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                       <div class="rich-text__blocks center">
+                                          <h1 class="rich-text__heading rte inline-richtext h2">
+                                             <strong>Trade-in your device in 3 easy steps!</strong>
+                                          </h1>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <style> #shopify-section-template--16932308091060__rich_text_j8MLf3 .rich-text__blocks {max-width: 100%;} </style>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__multicolumn_BHFMrc" class="shopify-section multicolumn_sec">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__multicolumn_BHFMrc-padding {
+                                 padding-top: 21px;
+                                 padding-bottom: 21px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__multicolumn_BHFMrc-padding {
+                                 padding-top: 28px;
+                                 padding-bottom: 28px;
+                                 }
+                                 }
+                              </style>
+                              <div class="multicolumn color-background-1 gradient background-primary no-heading">
+                                 <div class="page-width section-template--16932308091060__multicolumn_BHFMrc-padding isolate">
+                                    <slider-component class="slider-mobile-gutter" style="display:block;">
+                                       <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--3-col-desktop slider slider--mobile grid--peek" id="Slider-template--16932308091060__multicolumn_BHFMrc" role="list">
+                                          <li id="Slide-template--16932308091060__multicolumn_BHFMrc-1" class="multicolumn-list__item grid__item slider__slide">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__info">
+                                                   <h3 class="inline-richtext"><span style="text-decoration:underline"><strong>Step 1</strong></span></h3>
+                                                   <div class="rte">
+                                                      <p>Disconnect your Apple device from your connected devices and iCloud. For detailed instructions, refer to the <a href="https://support.apple.com/en-sg/118412" target="_blank" title="https://support.apple.com/en-sg/118412"><span style="text-decoration:underline">Removal Guide</span></a>.</p>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li id="Slide-template--16932308091060__multicolumn_BHFMrc-2" class="multicolumn-list__item grid__item slider__slide">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__info">
+                                                   <h3 class="inline-richtext"><span style="text-decoration:underline"><strong>Step 2</strong></span></h3>
+                                                   <div class="rte">
+                                                      <p>Visit any <a href="https://www.istudiosg.com/pages/stores" target="_blank" title="iStudio Stores"><span style="text-decoration:underline">iStudio store</span></a> (excluding Airport Terminal locations) for a device assessment.</p>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li id="Slide-template--16932308091060__multicolumn_BHFMrc-3" class="multicolumn-list__item grid__item slider__slide">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__info">
+                                                   <h3 class="inline-richtext"><span style="text-decoration:underline"><strong>Step 3</strong></span></h3>
+                                                   <div class="rte">
+                                                      <p>Receive the trade-in value of your device and immediately apply it towards the purchase of a new device.</p>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </li>
+                                       </ul>
+                                       <div class="slider-buttons no-js-hidden medium-hide">
+                                          <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left" disabled>
+                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                             </svg>
+                                          </button>
+                                          <div class="slider-counter caption">
+                                             <span class="slider-counter--current">1</span>
+                                             <span aria-hidden="true"> / </span>
+                                             <span class="visually-hidden">of</span>
+                                             <span class="slider-counter--total">3</span>
+                                          </div>
+                                          <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
+                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                             </svg>
+                                          </button>
+                                       </div>
+                                    </slider-component>
+                                    <div class="center small-hide medium-hide"></div>
+                                 </div>
+                              </div>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__rich_text_BPHJaz" class="shopify-section section">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__rich_text_BPHJaz-padding {
+                                 padding-top: 15px;
+                                 padding-bottom: 15px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__rich_text_BPHJaz-padding {
+                                 padding-top: 20px;
+                                 padding-bottom: 20px;
+                                 }
+                                 }
+								.review-section{
+									max-width:850px;
+									margin:30px auto;
+									display:flex;
+									flex-direction:column;
+									gap:18px;
+									font-family:system-ui,Arial,sans-serif;
+								}
+								.review-card{
+									background:#f5f5f5;
+									padding:16px 20px;
+									border-radius:10px;
+									border-left:5px solid var(--brand);
+									box-shadow:0 3px 6px rgba(0,0,0,.05);
+									transition:all .25s ease-in-out;
+								}
+								.review-card:hover{
+									transform:translateY(-3px);
+									box-shadow:0 5px 10px rgba(0,0,0,.08);
+								}
+								.review-author{
+									font-weight:700;
+									color:var(--brand-dark);
+									margin-bottom:4px;
+									display:flex;
+									align-items:center;
+									gap:6px;
+									font-size:.96rem; /* naik sedikit */
+								}
+								.review-author::before{
+									content:"👤";
+									font-size:1rem;
+								}
+								.review-card p{
+									margin:0;
+									color:#222;
+									font-size:.98rem; /* naik sedikit */
+									line-height:1.6;
+								}
+								.review-rating{
+									margin-left:auto;
+									font-weight:700;
+								}
 
-    <details>
-      <summary>Apakah IDEBET menyediakan permainan slot gacor gampang jackpot?</summary>
-      <p>Ya, IDEBET sangat memberi kesempatan bagi semua member slot online dengan menyediakan rtp dengan winrate 98% sangat mudah untuk jackpot besar di IDEBET.</p>
-    </details>
+								.stars{
+									--rating:5;
+									--star-size:1rem;
+									--star-gap:2px;
+									--star-empty:#e5e7eb;
+									--star-fill:#ff3030; /* hijau -> merah */
+									position:relative;
+									display:inline-block;
+									font-size:var(--star-size);
+									line-height:1;
+									letter-spacing:var(--star-gap);
+								}
+								.stars::before{
+									content:"★★★★★";
+									color:var(--star-empty);
+								}
+								.stars::after{
+									content:"★★★★★";
+									color:var(--star-fill);
+									position:absolute;
+									left:0;
+									top:0;
+									width:calc((var(--rating)/5)*100%);
+									overflow:hidden;
+									white-space:nowrap;
+									pointer-events:none;
+								}
+								.stars.lg{
+									--star-size:1.15rem; /* naik sedikit */
+									letter-spacing:3px;
+								}
+								.badge{
+									display:inline-flex;
+									align-items:center;
+									gap:8px;
+									flex-wrap:wrap;
+								}
+								.badge small{
+									color:#555;
+									font-weight:600;
+								}
+                              </style>
+                              <div class="isolate">
+                                 <div class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_BPHJaz-padding">
+                                    <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                       <div class="rich-text__blocks left">
+                                          <div class="rich-text__text rte">
+                                             <p>Please contact us at <a href="https://www.istudiosg.com/site/contactus"><span class="__cf_email__" data-cfemail="f99f9c9c9d9b989a92b9908a8d8c9d90968a9ed79a9694">[email&#160;protected]</span></a> if you have other enquiries. Trade-in program is provided by "Carousell".</p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <style> #shopify-section-template--16932308091060__rich_text_BPHJaz .rich-text__blocks {max-width: 100%;} </style>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__collapsible_content_4VL7bw" class="shopify-section section">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/component-accordion.css?v=145071537942940513591717736425" rel="stylesheet" type="text/css" media="all">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/collapsible-content.css?v=127502585749033803951717736428" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__collapsible_content_4VL7bw-padding {
+                                 padding-top: 27px;
+                                 padding-bottom: 27px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__collapsible_content_4VL7bw-padding {
+                                 padding-top: 36px;
+                                 padding-bottom: 36px;
+                                 }
+                                 }
+                              </style>
+                              <div class="color-background-1 gradient">
+                                 <div class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
+                                    <div class="collapsible-content__wrapper section-template--16932308091060__collapsible_content_4VL7bw-padding">
+                                       <div class="collapsible-content-wrapper-narrow">
+                                          <div class="collapsible-content__header" style="text-align: center;">
+                                             <h2 class="collapsible-content__heading inline-richtext h2">
+                                                <strong>Frequently Asked Questions</strong>
+                                             </h2>
+                                          </div>
+                                          <div class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
+                                             <div class="grid__item">
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
+                                                      <summary id="Summary-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            What do I need to bring along?
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw" role="region" aria-labelledby="Summary-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <div class="accordion__content rte">
+                                                            <p>You will be required to bring your charger and cable for laptops.</p>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
+                                                      <summary id="Summary-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            What if I do not like the value after assessment?
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw" role="region" aria-labelledby="Summary-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <div class="accordion__content rte">
+                                                            <p>You can choose to not accept the trade-in value, but the value shown is final.</p>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
+                                                      <summary id="Summary-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            Can multiple devices be traded in during the same transaction?
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw" role="region" aria-labelledby="Summary-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <div class="accordion__content rte">
+                                                            <p>Unfortunately, only one device can be traded in per transaction.</p>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
+                                                      <summary id="Summary-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            Do I get to keep the memory card from the trade-in devices?
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw" role="region" aria-labelledby="Summary-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <div class="accordion__content rte">
+                                                            <p>We recommend that you remove and keep all your memory cards before you trade-in a device</p>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
+                                                      <summary id="Summary-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            Would I be able to get back my old device back after the trade-in?
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw" role="region" aria-labelledby="Summary-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <div class="accordion__content rte">
+                                                            <p>You would not be able to retrieve your old device as all trade-ins are final. Prior to trading in your device, we recommend backing up all your important content such as contacts, photos, videos, etc.</p>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
+                                                      <summary id="Summary-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            Can I trade-in my device if it does not work?
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw" role="region" aria-labelledby="Summary-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <div class="accordion__content rte">
+                                                            <p>We would not be able to assess your device if we are unable to power on your device.</p>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
+                                                      <summary id="Summary-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            What if my device is not found in the trade-in device list?
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw" role="region" aria-labelledby="Summary-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
+                                                         <div class="accordion__content rte">
+                                                            <p>You can head down to our stores to get your device assessed by our iStudio Experts to check if it is accepted.</p>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__collapsible_content_e7PxFi" class="shopify-section section">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/component-accordion.css?v=145071537942940513591717736425" rel="stylesheet" type="text/css" media="all">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/collapsible-content.css?v=127502585749033803951717736428" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__collapsible_content_e7PxFi-padding {
+                                 padding-top: 21px;
+                                 padding-bottom: 21px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__collapsible_content_e7PxFi-padding {
+                                 padding-top: 28px;
+                                 padding-bottom: 28px;
+                                 }
+                                 }
+                              </style>
+                              <div class="color-background-1 gradient">
+                                 <div class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
+                                    <div class="collapsible-content__wrapper section-template--16932308091060__collapsible_content_e7PxFi-padding">
+                                       <div class="collapsible-content-wrapper-narrow">
+                                          <div class="collapsible-content__header" style="text-align: center;">
+                                             <h2 class="visually-hidden">Collapsible content</h2>
+                                          </div>
+                                          <div class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
+                                             <div class="grid__item">
+                                                <div class="accordion">
+                                                   <details id="Details-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
+                                                      <summary id="Summary-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi" role="button" aria-expanded="false" aria-controls="CollapsibleAccordion-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
+                                                         <h3 class="accordion__title inline-richtext h4">
+                                                            Terms and Conditions
+                                                         </h3>
+                                                         <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                                         </svg>
+                                                      </summary>
+                                                      <div id="CollapsibleAccordion-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi" role="region" aria-labelledby="Summary-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
+                                                         <div class="accordion__content rte">
+                                                            <ul>
+                                                               <li>Customer affirms that s/he is at least legally 18 years of age.</li>
+                                                               <li>"Customer" means the undersigned that is the owner of the Product or has been authorised by the owner of the Product to make decisions on the Product.</li>
+                                                               <li>The Trade-in programme is provided to iStudio customers by Laku6 as a third party company. Apple is not a party in the transaction.</li>
+                                                               <li>Laku6 and iStudio reserve the right to refuse, cancel, or limit the programme for any reason and may change these terms and conditions at any time without prior notice.</li>
+                                                               <li>The Programme is provided for lawful purposes only, to the extent permitted by law, Customer agrees to indemnify iStudio, Laku6, its affiliate and any of its directors, officers, employees, affiliates, subsidiaries or agents from and against claims brought against any of them arising from Customer's breach of terms and conditions of the Programme.</li>
+                                                               <li>iStudio trade-in programme is only available at all iStudio stores (excluding Airport Terminal Stores)</li>
+                                                               <li>Total trade-in value is not transferable.</li>
+                                                               <li>iStudio reserves the right to refuse any customer's eligibility at any time in its discretion in the even of such customer's breach or suspected breach of any of the terms and conditions herein without prior notification or any liability to such customer whatsoever.</li>
+                                                               <li>iStudio reserves the right to vary any term or condition. iStudio will, where it is practicable to do so, give customers advance notice (which may be through written notice, electronic mail letters, iStudio website, or such other forms as iStudio deems appropriate) of such changes.</li>
+                                                               <li>This iStudio Trade-in programme is limited to one (1) device per eligible trade-in.</li>
+                                                            </ul>
+                                                         </div>
+                                                      </div>
+                                                   </details>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__rich_text_48PK4h" class="shopify-section section">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__rich_text_48PK4h-padding {
+                                 padding-top: 27px;
+                                 padding-bottom: 0px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__rich_text_48PK4h-padding {
+                                 padding-top: 36px;
+                                 padding-bottom: 0px;
+                                 }
+                                 }
+                              </style>
+                              <div class="isolate">
+                                 <div class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_48PK4h-padding">
+                                    <div class="rich-text__wrapper rich-text__wrapper--center page-width">
+                                       <div class="rich-text__blocks center">
+                                          <h1 class="rich-text__heading rte inline-richtext h2">
+                                             Why Shop Online
+                                          </h1>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </section>
+                           <section id="shopify-section-template--16932308091060__multicolumn_qrFXUg" class="shopify-section multicolumn_sec">
+                              <link href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425" rel="stylesheet" type="text/css" media="all">
+                              <style data-shopify="">.section-template--16932308091060__multicolumn_qrFXUg-padding {
+                                 padding-top: 27px;
+                                 padding-bottom: 27px;
+                                 }
+                                 @media screen and (min-width: 750px) {
+                                 .section-template--16932308091060__multicolumn_qrFXUg-padding {
+                                 padding-top: 36px;
+                                 padding-bottom: 36px;
+                                 }
+                                 }
+                              </style>
+                              <div class="multicolumn color-background-1 gradient background-primary no-heading">
+                                 <div class="page-width section-template--16932308091060__multicolumn_qrFXUg-padding isolate">
+                                    <slider-component class="slider-mobile-gutter" style="display:block;">
+                                       <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop slider slider--mobile grid--peek" id="Slider-template--16932308091060__multicolumn_qrFXUg" role="list">
+                                          <li id="Slide-template--16932308091060__multicolumn_qrFXUg-1" class="multicolumn-list__item grid__item slider__slide">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                   <div class="media media--transparent media--square">
+                                                      <img src="//www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=3200" alt="" srcset="//www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Click_Collect.png?v=1711090269&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
+                                                         (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
+                                                         (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
+                                                         (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
+                                                         calc((100vw - 30px) * 0.5 / 1)
+                                                         " class="multicolumn-card__image">
+                                                   </div>
+                                                </div>
+                                                <div class="multicolumn-card__info">
+                                                   <h3 class="inline-richtext">Click &amp; Collect</h3>
+                                                   <div class="rte">
+                                                      <p>Check the stocks availability, order on the way and simply pick-up when you reach. </p>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </li>
+                                          <li id="Slide-template--16932308091060__multicolumn_qrFXUg-2" class="multicolumn-list__item grid__item slider__slide">
+                                             <div class="multicolumn-card content-container">
+                                                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
+                                                   <div class="media media--transparent media--square">
+                                                      <img src="//www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=3200" alt="" srcset="//www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=50 50w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=75 75w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=100 100w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=150 150w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=200 200w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=300 300w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=400 400w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=500 500w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=750 750w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=1000 1000w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=1250 1250w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=1500 1500w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=1750 1750w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=2000 2000w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=2250 2250w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=2500 2500w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=2750 2750w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=3000 3000w, //www.istudiosg.com/cdn/shop/files/Standard_Delivery.png?v=1711090273&amp;width=3200 3200w" width="3200" height="3200" loading="lazy" sizes="
+                                                         (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
+                                                         (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
+                                                         (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
+                                                         calc((100vw - 30px) * 0.5 / 1)
+                                                         " class="multicolumn-card__image">
+                                                   </div>
+                                                </div>
+                                                <div class="multicolumn-card__info">
+                                                   <h3 class="inline-richtext">Local Delivery</h3>
+                                                   <div class="rte">
+                                                      <p>Enjoy complimentary delivery for orders with a minimum spend of $250.</p>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </li>
+                                       </ul>
+                                       <div class="slider-buttons no-js-hidden medium-hide">
+                                          <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left" disabled>
+                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                             </svg>
+                                          </button>
+                                          <div class="slider-counter caption">
+                                             <span class="slider-counter--current">1</span>
+                                             <span aria-hidden="true"> / </span>
+                                             <span class="visually-hidden">of</span>
+                                             <span class="slider-counter--total">2</span>
+                                          </div>
+                                          <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
+                                             <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewbox="0 0 10 6">
+                                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"></path>
+                                             </svg>
+                                          </button>
+                                       </div>
+                                    </slider-component>
+                                    <div class="center small-hide medium-hide"></div>
+                                 </div>
+                              </div>
+                              <style> #shopify-section-template--16932308091060__multicolumn_qrFXUg .multicolumn-card.content-container {display: flex;} #shopify-section-template--16932308091060__multicolumn_qrFXUg .multicolumn-card__info {text-align: left;} </style>
+                           </section>
+                        </main>
+                     </div>
+                  </div>
+               </modal-dialog>
+               <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-modal.js?v=116616134454508949461742784888" defer="defer"></script>
+               <script src="//www.istudiosg.com/cdn/shop/t/14/assets/media-gallery.js?v=96661908581229995091742784888" defer="defer"></script><script>
+                  document.addEventListener('DOMContentLoaded', function () {
+                    function isIE() {
+                      const ua = window.navigator.userAgent;
+                      const msie = ua.indexOf('MSIE ');
+                      const trident = ua.indexOf('Trident/');
+                  
+                      return msie > 0 || trident > 0;
+                    }
+                  
+                    if (!isIE()) return;
+                    const hiddenInput = document.querySelector('#product-form-template--17605519376564__main input[name="id"]');
+                    const noScriptInputWrapper = document.createElement('div');
+                    const variantSwitcher =
+                      document.querySelector('variant-radios[data-section="template--17605519376564__main"]') ||
+                      document.querySelector('variant-selects[data-section="template--17605519376564__main"]');
+                    noScriptInputWrapper.innerHTML = document.querySelector(
+                      '.product-form__noscript-wrapper-template--17605519376564__main'
+                    ).textContent;
+                    variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
+                  
+                    document.querySelector('#Variants-template--17605519376564__main').addEventListener('change', function (event) {
+                      hiddenInput.value = event.currentTarget.value;
+                    });
+                  });
+               </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil",
+  "url": "https://kamimadrasah.com/jasa-pembuatan-website/",
+  "image": [
+    "https://i.imgur.com/3mqYgjH.png?v=1757450054&width=823"
+  ],
+  "description": "Menghadirkan situs slot Bank DIY gacor, IDEBET menawarkan sistem permainan yang aman, stabil, dan nyaman untuk bermain setiap hari.",
+  "sku": "9600005409",
+  "brand": {
+    "@type": "Brand",
+    "name": "Slot Gacor"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "sku": "9600005409",
+      "gtin12": "9600005409",
+      "availability": "https://schema.org/OutOfStock",
+      "price": 300.00,
+      "priceCurrency": "SGD",
+      "url": "https://kamimadrasah.com/jasa-pembuatan-website/"
+    }
+  ]
+}
+</script>
+            </section>
 
-    <details>
-      <summary>Bagaimana cara daftar akun di situs slot IDEBET?</summary>
-      <p>Untuk bergabung, cukup cari “IDEBET” melalui Google, lalu pilih menu Daftar. Isi formulir pendaftaran, lakukan verifikasi akun, dan Anda langsung dapat mengakses semua permainan slot Mahjong Ways 2 yang tersedia, lengkap dengan fitur menarik dan peluang kemenangan besar.</p>
-    </details>
+
+<style>
+.IDEBET-fixed-footer {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+
+    /* GRADIENT MERAH (pengganti biru) */
+    background: radial-gradient(circle farthest-corner at -4% -12.9%, #F2775E 40%, #F2775E 90.2%);
+
+    box-shadow: 
+        inset 2px 2px 2px 0px rgba(0, 0, 0, 0.5),
+        7px 7px 20px 0px rgba(0, 240, 253, 0.64),
+        4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+
+    outline: none;
+    padding: 8px 0;
+
+    /* shadow merah */
+    box-shadow: 0 0 10px #F2775E;
+
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+
+    border-radius: 40px 40px 0px 0px;
+    border-style: dashed;
+}
+
+.IDEBET-fixed-footer a {
+    flex-basis: calc((100% - 15px*6)/ 5);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    max-width: 75px;
+    font-size: 13px;
+    font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.IDEBET-fixed-footer a:hover {
+    font-weight: bold;
+}
+
+.IDEBET-fixed-footer .center {
+    transform: scale(1.5) translateY(-5px);
+    background: center no-repeat;
+    background-size: contain;
+    background-color: inherit;
+    border-radius: 50%;
+}
+
+.IDEBET-fixed-footer img {
+    max-width: 20px;
+    margin-bottom: 0;
+    max-height: 20px;
+}
+</style>
+
+<div class="IDEBET-fixed-footer">
+    <a href="https://kamimadrasah.pages.dev/jasa-pembuatan" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/FmgiCew.png" alt="BONUS IDEBET">
+        Promo
+    </a>
+    <a href="https://kamimadrasah.pages.dev/jasa-pembuatan" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/FmgiCew.png" alt="LOGIN IDEBET">
+        Login
+    </a>
+    <a href="https://kamimadrasah.pages.dev/jasa-pembuatan" rel="nofollow noopener" target="_blank" class="tada">
+        <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/FmgiCew.png" alt="DAFTAR IDEBET">
+        Daftar
+    </a>
+    <a href="https://kamimadrasah.pages.dev/jasa-pembuatan" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/FmgiCew.png" alt="WHATSAPP IDEBET">
+        Whatsapp
+    </a>
+    <a href="https://kamimadrasah.pages.dev/jasa-pembuatan" rel="nofollow noopener" target="_blank"
+        class="js_live_chat_link live-chat-link">
+        <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://i.imgur.com/FmgiCew.png"
+            alt="LIVE CHAT IDEBET">
+        Live Chat
+    </a>
+</div>
+</script>
+
+
+<input type="hidden" id="page_title"
+       value="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil" />
+
+<script type="application/json" id="adobeAnalyticsProductData">
+{
+  "product_name": "IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil",
+  "mpn_id": "9600005409",
+  "currency": "SGD",
+  "product_price": {
+    "sellingPrice": 259.0,
+    "basePrice": 259.0
+  },
+  "brand": "IDEBET",
+  "lob": "SLOT GACOR",
+  "sub_lob": "IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil"
+}
+</script>
+            <style>.slider_media video {max-width: 100%;}</style>
+            
+            <script>
+               $(document).ready(function() {
+                 $(document).on('click', '#apple-care-add', function (event) {
+                   var isChecked = $('#add-apple-care').is(':checked');
+                   if (isChecked) {
+                     $('#add-apple-care').prop('checked', false);
+                     $("#apple-care-add .pdp-care-btn").html("Add");
+                     // $("#apple-added-if").val("");
+                   } else {
+                     $('#add-apple-care').prop('checked', true);
+                     $("#apple-care-add .pdp-care-btn").html("Added");
+                     // $("#apple-added-if").val("added");
+                   }
+                   var appleCareID = $(this).attr("data-index");
+                   $("#apple-care-varid").val(appleCareID);
+                   updatePriceAfterAddingCareOrWarranty();
+                 });
+                 $(document).on('click', '#secWarranty-add', function (event) {
+                   var isChecked2 = $('#add-secWarranty').is(':checked');
+                   if (isChecked2) {
+                     $('#add-secWarranty').prop('checked', false);
+                     $("#secWarranty-add .pdp-secWarranty-btn").html("Add");
+                   } else {
+                     $('#add-secWarranty').prop('checked', true);
+                     $("#secWarranty-add .pdp-secWarranty-btn").html("Added");
+                     // $("#apple-added-if").val("added");
+                   }
+                   var secWarrantyID = $(this).attr("data-index");
+                   $("#secWarranty-varid").val(secWarrantyID);
+                   updatePriceAfterAddingCareOrWarranty();
+                 });
+               
+                 // Reset trade-in values to 0
+                 $(document).on('click', '#no-trade-in', () => {
+                   const $tradeInValueAmounts = document.querySelectorAll('.js-trade-in-value-amount');
+                   const $startTradeInBtn = document.querySelector('.js-product-option-form .js-trade-in-modal-trigger-input');
+                   const $startTradeInBtnLabel = document.querySelector('.js-product-option-form .js-trade-in-modal-trigger-input + label');
+                   const $hiddenSelectedTradeIn = document.querySelector('#selected-trade-in-value');
+                   const $productPrices = document.querySelectorAll('.js-product-price-with-care-warranty');
+               
+                   $tradeInValueAmounts.forEach(($tradeInValueAmount) => {
+                     if ($tradeInValueAmount.classList?.contains('pdp-value-amount')) {
+                       $tradeInValueAmount.innerText = '$0';
+                       $tradeInValueAmount.setAttribute('data-trade-in-value', 0);
+                       $tradeInValueAmount.parentElement?.classList?.add('hidden');
+                     }
+                   });
+               
+                   $startTradeInBtnLabel.innerText = 'Start trade-in';
+                   $hiddenSelectedTradeIn.value = 0;
+               
+                   updatePriceAfterRemovingTradeIn();
+                 });
+               
+                 function updatePriceAfterRemovingTradeIn() {
+                   const isAppleCareAdded = $('#add-apple-care').is(':checked');
+                   const isWarrantyAdded = $('#add-secWarranty').is(':checked');
+                   const isTradeInAdded = document.querySelector('#selected-trade-in-value')?.value;
+                   const $productPrices = document.querySelectorAll('.js-product-price-with-care-warranty');
+               
+                   $('.js-product-price-with-care-warranty').each((i, $productPrice) => {
+                     const price = $($productPrice).data('price');
+                     let updatedPrice;
+               
+                     /* TO BE ADDED */
+                     if (isTradeInAdded && isAppleCareAdded && isWarrantyAdded) {
+                       updatedPrice = $($productPrice).attr('data-price-with-care-and-secWarranty');
+                     } else if (isTradeInAdded && isAppleCareAdded) {
+                       updatedPrice = $($productPrice).attr('data-price-with-care');
+                     } else if (isTradeInAdded && isWarrantyAdded) {
+                       updatedPrice = $($productPrice).attr('data-price-with-secWarranty');
+                     } else if (isTradeInAdded) {
+                       updatedPrice = price;
+                     } else {
+                       updatedPrice = price;
+                     }
+               
+                     $($productPrice).html(updatedPrice);
+                   });
+                 }
+               
+                 function updatePriceAfterAddingCareOrWarranty() {
+                   const isAppleCareAdded = $('#add-apple-care').is(':checked');
+                   const isWarrantyAdded = $('#add-secWarranty').is(':checked');
+                   const hasTradeIn = $('#selected-trade-in-value').val() && $('#selected-trade-in-value').val() !== '0' && $("#selected-trade-in-device").val() !== '';
+                   const hiddenSelectedTradeInValue = $('#selected-trade-in-value').val();
+                   const tradeInPrice = hiddenSelectedTradeInValue
+                     ? formatMoney(hiddenSelectedTradeInValue)
+                     : 0;
+               
+                   $('.js-product-price-with-care-warranty').each(function(i, $productPrice) {
+                     let price = $(this).attr('data-price');
+                     const nmpPriceCalculation = $(this).data('priceCalculation');
+               
+                     if (isAppleCareAdded && isWarrantyAdded && hasTradeIn) {
+                       price = setPriceWithTradeIn('data-price-with-care-and-secWarranty', $productPrice);
+                     } else if (isAppleCareAdded && isWarrantyAdded) {
+                       price = $(this).attr('data-price-with-care-and-secWarranty');
+                     } else if (isAppleCareAdded && hasTradeIn) {
+                       price = setPriceWithTradeIn('data-price-with-care', $productPrice);
+                     } else if (isWarrantyAdded && hasTradeIn) {
+                       price = setPriceWithTradeIn('data-price-with-secWarranty', $productPrice);
+                     } else if (isAppleCareAdded) {
+                       price = $(this).attr('data-price-with-care');
+                     } else if (isWarrantyAdded) {
+                       price = $(this).attr('data-price-with-secWarranty');
+                     } else if (hasTradeIn) {
+                       price = setPriceWithTradeIn('data-price', $productPrice);
+                     }
+               
+                     $(this).html(price);
+                   });
+                 }
+               
+                 function setCookie(name, value, days) {
+                   var expires = "";
+                   if (days) {
+                     var date = new Date();
+                     date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                     expires = "; expires=" + date.toUTCString();
+                   }
+                   document.cookie = name + "=" + (value || "") + expires + "; path=/";
+                 }
+               
+                 function getCookie(name) {
+                   var nameEQ = name + "=";
+                   var ca = document.cookie.split(';');
+                   for (var i = 0; i < ca.length; i++) {
+                     var c = ca[i];
+                     while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                     if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                   }
+                   return null;
+                 }
+               
+                 function eraseCookie(name) {
+                   document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                 }
+               
+                 //added by anusha - 4th variant option cookie approach - start
+               
+                 //check if the main product is inside 4th option product list. if its present, set cookie array
+                 var pid = "7986665160884";
+                 var pid1 = "";
+                 var pid1 = pid1.replace(/s/g, "");
+                 var pid2 = pid1.split('-');
+                 var count = 0;
+                 for (var j = 0; j < pid2.length; j++) {
+                   var a = pid2[j];
+                   var b = pid;
+                   if (a.trim() == b.trim()) {
+                     count++;
+                   }
+                 }
+                 if (count > 0) {
+                   setCookie('optionPIDlist', pid2.join('|'), {
+                     path: '/'
+                   });
+                 }
+               
+                 // if the main product has 'empty 4th product list', then delete all the cookies
+                 if (!pid1.length > 0) {
+                   eraseCookie('option1select');
+                   eraseCookie('option2select');
+                   eraseCookie('option3select');
+                   eraseCookie('optionPIDlist');
+                 }
+               
+                 // cookie values - 3 options
+                 let op1 = getCookie('option1select');
+                 let op2 = getCookie('option2select');
+                 let op3 = getCookie('option3select');
+               
+                 // when customer change the 4th option selection - trigger click event (inorder to set cookie values for 3 options)
+                 if (op1 && $('fieldset.product-form__input[data-opcount="1"]').length > 0) {
+                   setTimeout(function() {
+                     $('fieldset.product-form__input[data-opcount="1"]').find('label[data-title="' + op1 + '"]').trigger('click');
+                   }, 1000);
+                 };
+                 if (op2 && $('fieldset.product-form__input[data-opcount="2"]').length > 0) {
+                   setTimeout(function() {
+                     $('fieldset.product-form__input[data-opcount="2"]').find('label[data-title="' + op2 + '"]').trigger('click');
+                   }, 1000);
+                 };
+                 if (op3 && $('fieldset.product-form__input[data-opcount="3"]').length > 0) {
+                   setTimeout(function() {
+                     $('fieldset.product-form__input[data-opcount="3"]').find('label[data-title="' + op3 + '"]').trigger('click');
+                   }, 1000);
+                 };
+               
+                 let op11 = $("input[type='radio'][name='Title']:checked").val();
+                 let op22 = $("input[type='radio'][name='']:checked").val();
+                 let op33 = $("input[type='radio'][name='']:checked").val();
+               
+                 // when customer dont click on any of the variant buttons - set cookie values for 3 options from current mainprod variant selection
+                 if (op1 == null && op2 == null && op3 == null) {
+                   if (op11 && $('fieldset.product-form__input[data-opcount="1"]').length > 0) {
+                     setTimeout(function() {
+                       $('fieldset.product-form__input[data-opcount="1"]').find('label[data-title="' + op11 + '"]').trigger('click');
+                     }, 1000);
+                   };
+                   if (op22 && $('fieldset.product-form__input[data-opcount="2"]').length > 0) {
+                     setTimeout(function() {
+                       $('fieldset.product-form__input[data-opcount="2"]').find('label[data-title="' + op22 + '"]').trigger('click');
+                     }, 1000);
+                   };
+                   if (op33 && $('fieldset.product-form__input[data-opcount="3"]').length > 0) {
+                     setTimeout(function() {
+                       $('fieldset.product-form__input[data-opcount="3"]').find('label[data-title="' + op33 + '"]').trigger('click');
+                     }, 1000);
+                   };
+                   if (getCookie('optionPIDlist')) {
+                     setCookie('option1select', op11, 7);
+                     setCookie('option2select', op22, 7);
+                     setCookie('option3select', op33, 7);
+                   }
+                 }
+                 // added by anusha - 4th variant option cookie approach - end
+               
+                 if (vat_free_day == true) {
+                   var vat_price_footer = $(".pricestyle").find(".vat_price_bold").text();
+                   if (vat_price_footer != "") {
+                     $("#price-element").find(".footerOr2").css("display", "none");
+                   }
+                 }
+               });
+            </script>
+            <script>
+               $(document).on('change', 'input[type="number"]', function (event) {
+                 this.value = this.value.replace(/[^0-9]+/g, '');
+                 if (this.value < 1) this.value = 0;
+               });
+               $(document).on('keypress', 'input[type="number"]', function (event) {
+                 if (
+                   (event.target.value.length == 0 && event.which == 48) ||
+                   (event.target.value.length == 0 && event.which > 31 && event.which < 48) ||
+                   (event.target.value.length == 0 && event.which > 57 && event.which < 128)
+                 ) {
+                   return false;
+                 }
+               });
+               $(document).on('keypress', 'input[type="number"]', function (event) {
+                 return (((event.which > 47) && (event.which < 58)) || (event.which == 13));
+               });
+               
+               // reload page on back button click since the cached version on Safari browsers is incorrect
+               $(window).bind("pageshow", function(event) {
+                 if (event.originalEvent.persisted) {
+                   window.location.reload();
+                 }
+               });
+            </script>
+            <style data-shopify>
+               .add-on-product-style.add-on-product-style-secWarranty .care-pdp-title {
+               /*     margin-left: 0; */
+               }
+            </style>
+            <style> #shopify-section-template--17605519376564__main .accordion__content p a {color: var(--color-link-dynamic-label) !important;} #shopify-section-template--17605519376564__main .popup_round_border {display: none;} </style>
+         </section>
+         <div id="shopify-section-template--17605519376564__productMarketingContent" class="shopify-section">
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887" rel="stylesheet" type="text/css" media="all" />
+<!-- Kontainer teks dengan border & efek MERAH premium 3D -->
+<div style="
+  background: linear-gradient(145deg, #F2775E, #F2775E);
+  border: 1px solid #ffd11a;
+  border-radius: 14px;
+  padding: 22px 26px;
+  color: #ffeaea;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+
+  /* Premium Red Glass Effect */
+  backdrop-filter: blur(12px) saturate(170%);
+  -webkit-backdrop-filter: blur(12px) saturate(170%);
+
+  /* 3D Red Glow */
+  box-shadow:
+    inset 0 0 18px rgba(100, 250, 255,0.20),
+    0 0 26px rgba(70, 249, 255,0.45),
+    0 0 55px rgba(40, 255, 255,0.32);
+
+  width: 92%;
+  margin: 22px auto;
+  position: relative;
+  overflow: hidden;
+">
+
+  <!-- Lapisan shine merah -->
+  <span style="
+    content: '';
+    position: absolute;
+    top: -30%;
+    left: -40%;
+    width: 180%;
+    height: 200%;
+    background: radial-gradient(
+      circle,
+      rgba(120, 255, 248,0.18) 0%,
+      transparent 70%
+    );
+    animation: shineRedGold 8s linear infinite;
+    pointer-events: none;
+  "></span>
+
+  <p style="position: relative; z-index: 2;">
+<div class="product-title-style product__title">
+<h1 style="text-align: center;">IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil</h1>
+</div>
+<p style="text-align: center;" data-start="195" data-end="858"><span style="color: #000000;">Menghadirkan situs slot Bank DIY gacor, IDEBET menawarkan sistem permainan yang aman, stabil, dan nyaman untuk bermain setiap hari. Proses deposit dan withdraw melalui Bank DIY berjalan cepat tanpa kendala, didukung server responsif serta pilihan game slot gacor dengan RTP tinggi dan potensi maxwin besar, menjadikan IDEBET pilihan tepat bagi pemain yang mengutamakan keamanan, kelancaran transaksi, dan peluang kemenangan maksimal.</a></em></span></p>
+<p style="text-align: center;" data-start="195" data-end="858">&nbsp;</p>
+
+
+  <style type="text/css">
+         div.advertisement-placeholder {
+             text-align: center;
+             padding-bottom: 20px;
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+         }
+         div.advertisement-text p {
+             margin: 0;
+             font-family: Open Sans;
+             font-style: normal;
+             font-weight: normal;
+             font-size: 10px;
+             line-height: 20px;
+             color: #999999;
+         }
+         div.advertisement-banner {
+             margin: 0px auto;
+         }
+         div#div-gpt-ad-billboard-placeholder {
+             width: 996px;
+             margin: 0 auto;
+             background: #F5F5F5;
+             padding-bottom: unset !important;
+             min-height: 200px;
+         }
+         div#div-gpt-ad-lb-placeholder {
+             background: #F5F5F5;
+             padding-bottom: unset !important;
+             min-height: 280px;
+         }
+         .faq-section{
+             max-width:1200px;
+             margin:50px auto;
+             padding:40px 20px;
+             position:relative;
+             background-color: rgba(0, 0, 0, 0.1);
+             backdrop-filter: blur(25px);
+             border-radius: 20px;
+             }
+         
+         .faq-section::before{
+             content:"";
+             position:absolute;
+             top:0;left:50%;
+             transform:translateX(-50%);
+             width:80%;
+             height:2px;
+             background:linear-gradient(90deg,transparent,#b38f00,transparent)
+             }
+             
+         .faq-section h2{
+             text-align:center;
+             font-size:34px;font-weight:700;
+             margin-bottom:50px;
+             background: linear-gradient(135deg, #b38f00, #b38f00, #b38f00);
+             -webkit-background-clip:text;
+             -webkit-text-fill-color:transparent;
+             background-clip:text;
+             font-family:"Poppins",sans-serif;letter-spacing:1px
+         }
+         
+         .faq-container{
+             display:flex;
+             flex-direction:column;
+             gap:25px
+         }
+         
+         .faq-item{
+             background:linear-gradient(145deg,#0a0a0a,#1a1a1a);
+             border:2px solid #F2775E;
+             border-radius:20px;overflow:hidden;
+             transition:all .4s ease;box-shadow:0 5px 20px rgba(0,0,0,0.5)
+         }
+         
+         .faq-item:hover{
+             border-color:#F2775E;
+             transform:translateX(10px);
+             box-shadow:0 12px 35px #F2775E
+         }
+ 
+         .faq-question{width:100%;
+             padding:28px 35px;background:transparent;
+             color:#ffffff;
+             font-size:18px;
+             font-weight:600;
+             text-align:left;
+             border:none;cursor:pointer;
+             display:flex;
+             justify-content:space-between;
+             align-items:center;
+             font-family:"Poppins",sans-serif;
+             transition:all .3s ease
+         }
+         
+         .faq-question:hover{
+             color:#b38f00
+         }
+         
+         .faq-question::after{
+             content:'+';
+             font-size:32px;
+             font-weight:300;
+             transition:all .4s ease;
+             color:#b38f00;
+             width:40px;
+             height:40px;
+             display:flex;
+             align-items:center;
+             justify-content:center;
+             border:2px solid #F2775E;border-radius:50%;
+             background:rgba(0, 0, 0, 0.1)
+         }
+         
+         .faq-item.active .faq-question::after{
+             transform:rotate(135deg);
+             background:linear-gradient(135deg#997a00#997a00);
+             color:#000;border-color:transparent
+         }
+         
+         .faq-answer{
+             max-height:0;
+             overflow:hidden;
+             transition:max-height .5s ease,padding .5s ease;
+             background:linear-gradient(180deg,rgba(253,228,4,0.05),transparent);
+             padding:0 35px
+         }
+         
+         .faq-item.active .faq-answer{
+             max-height:800px;padding:30px 35px;
+             border-top:1px solid rgba(253, 4, 4, 0.3)
+         }
+         
+         .faq-answer p{
+             color:#e0e0e0;
+             font-size:16px;
+             line-height:2;
+             margin:0;
+             font-family:"Poppins",sans-serif
+         }
+ 
+         @media
+             (max-width:768px)
+         {
+         
+         .faq-section
+             {padding:30px 15px}
+         
+         .faq-section h2
+             {font-size:26px}
+         
+         .faq-question
+             {font-size:16px;
+             padding:22px 25px}
+         
+         .faq-question::after
+             {width:35px;
+             height:35px;
+             font-size:28px}
+         
+         .faq-answer
+             {padding:0 25px}
+         
+         .faq-item.active .faq-answer
+             {padding:25px}
+         
+         .faq-item:hover
+             {transform:translateX(5px)}
+             }
+     </style>
+	 
+	   <script>
+         document.addEventListener('DOMContentLoaded',
+             function(){const faqItems=document.querySelectorAll('.faq-item');
+             faqItems.forEach(item=>{const question=item.querySelector('.faq-question');
+             question.addEventListener('click',
+             ()=>{const isActive=item.classList.contains('active');
+             faqItems.forEach(otherItem=>{otherItem.classList.remove('active')});
+             if(!isActive){item.classList.add('active')}})})});
+         </script>
+ 
+ 
+             <div class="page__overlay" data-view="offCanvasNavToggle" data-off-canvas="close" bis_skin_checked="1">
+             </div>
+<!-- ========================= FAQ TITLE ========================= -->
+
+<h2 class="cok-faq-title">FAQ — Pertanyaan Umum</h2>
+
+<!-- ========================= FAQ LIST ========================= -->
+
+<div class="cok-faq">
+
+  <div class="cok-faq-item">
+    <button class="cok-faq-q">❓ Apakah bermain perlu pakai batas waktu?</button>
+    <div class="cok-faq-a">Iya, wajib banget. Dengan ngatur durasi main, otak tetap fokus dan nggak gampang emosian. Alurnya juga jadi lebih terkontrol biar tetap aman dan nggak kebablasan.</div>
   </div>
 
-  <h2>Testimoni Member</h2>
-
-  <div class="testimoni-wrapper">
-    <blockquote>
-        Awal saya mencoba bermain di IDEBET dengan deposit minimal 10.000 saya rasa itu deposit yang sangat terjangkau bagi semua kalangan , dengan minimal bett slot 400 itu adalah minimal deposit yang cukup pas.
-        <cite>- Gelvin Sembiring, Medan</cite>
-    </blockquote>
-    <blockquote>
-        Tidak sia sia saya coba main di IDEBET, dari modal kecil saya main panjang dari mulai jam 7 malam sampe jam 12 malam saya mendapatkan cuan sekitar 15 jt hanya modal 500.000 saja , Terimakasih IDEBET  .
-        <cite>- Dencay, Pontianak</cite>
-    </blockquote>
-    <blockquote>
-       Tampilan rapi dan dan sanggat canggih, dan saya suka warna biru dari tema website seperti ini, pelayanan yang sangat sigap atau cepat , responsip, ramah, the best off situs andalan aing.
-        <cite>- Yanto Komaladi, Riau</cite>
-    </blockquote>
-    <blockquote>
-        Dimana-mana saya coba semua situs, tidak ada yang mampu membayar kemenangan slot Mahjong Ways 2, hanya di IDEBET saya menang besar dan langsung dibayar tanpa harus menunggu estimasi lama!
-        <cite>- Yaya Toure, Palembang</cite>
-    </blockquote>
-    <div class="seller-name__detail" data-spm="seller">
-      <a href="https://kamimadrasah.com/linieritas-kualifikasi-s1-dengan-bidang-studi-ppg-daljab/" target="_self">Copyright 2010 - 2026 IDEBET SuperBaby</a>
-    </div>
+  <div class="cok-faq-item">
+    <button class="cok-faq-q">❓ Gimana cara main yang benar-benar bertanggung jawab?</button>
+    <div class="cok-faq-a">Simple: tentuin batas modal dari awal, jangan pakai uang kebutuhan sehari-hari, dan stop kalau batas udah tercapai. Intinya main santai, jangan maksain.</div>
   </div>
+
+  <div class="cok-faq-item">
+    <button class="cok-faq-q">❓ Kenapa harus ngerti aturan sebelum main?</button>
+    <div class="cok-faq-a">Karena tiap game punya pola, ritme, dan risiko yang beda. Kalau paham dulu, keputusan yang diambil jadi lebih tepat dan nggak asal pencet tombol.</div>
+  </div>
+
+  <div class="cok-faq-item">
+    <button class="cok-faq-q">❓ Apa strategi bisa bikin hasil main jadi pasti menang?</button>
+    <div class="cok-faq-a">Nggak ada yang bisa nentuin hasil 100%, bro. Strategi cuma bantu atur tempo main dan ngatur modal. Hasil tetap ditentukan sistem acak dari game.</div>
+  </div>
+
+  <div class="cok-faq-item">
+    <button class="cok-faq-q">❓ Gimana cara menjaga keamanan akun saat main online?</button>
+    <div class="cok-faq-a">Gunakan password kuat, jangan pernah login pakai WiFi publik, dan pastikan data pribadi nggak dibagi ke siapa pun. Biar akun tetap aman dan nggak keambil orang.</div>
+  </div>
+
 </div>
 
-  <br>
-  <br>
-</div>
-</div>
-</div>
-</div>
-<style>
-    /* === FOOTER SLOT GAMING TEMA IDEBET NEON === */
-    .shura-gacor-fixed-footer {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      z-index: 99;
-      display: flex;
-      justify-content: space-evenly;
-      align-items: center;
-      gap: 8px;
-      padding: 12px 0;
-      background: linear-gradient(180deg, #ffae00
- 0%, #000000 100%);
-      border-top: 2px solid rgba(0, 0, 0, 0.5);
-      box-shadow: 0 -3px 18px #ffd000,
-                  inset 0 0 12px #ffd000;
-      border-radius: 20px 20px 0 0;
-      font-family: "Poppins", "Segoe UI", sans-serif;
-      color: #eaffef;
-    }
-    
-    /* === Tombol Footer === */
-    .shura-gacor-fixed-footer a {
-      flex: 1;
-      max-width: 90px;
-      text-align: center;
-      text-decoration: none;
-      color: #ffffff;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 4px;
-      font-size: 13px;
-      font-weight: 600;
-      text-shadow: 0 0 6px #ffd000, 0 0 12px #ffd000;
-      transition: all 0.25s ease-in-out;
-    }
-    
-    /* Hover efek */
-    .shura-gacor-fixed-footer a:hover {
-      color: #ffffff;
-      transform: translateY(-6px) scale(1.1);
-      text-shadow: 0 0 10px #ffd000, 0 0 15px #ffd000, 0 0 20px #ffd000;
-    }
-    
-    /* === Ikon tombol === */
-    .shura-gacor-fixed-footer img {
-      width: 26px;
-      height: 26px;
-      filter: drop-shadow(0 0 5px #ffd000);
-      transition: transform 0.3s ease, filter 0.3s ease;
-    }
-    
-    .shura-gacor-fixed-footer a:hover img {
-      transform: scale(1.25);
-      filter: drop-shadow(0 0 10px #ffd000) drop-shadow(0 0 10px #ffd000);
-    }
-    
-    /* === Tombol Tengah (Spesial: Daftar) === */
-    .shura-gacor-fixed-footer .tada {
-      background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 70%);
-      border-radius: 50%;
-      padding: 8px;
-      transform: scale(1.2);
-      animation: neonGlow 2.5s infinite alternate;
-    }
-    
-    @keyframes neonGlow {
-      0% {
-        box-shadow: 0 0 6px #ffd000, 0 0 12px #ffd000;
-      }
-      25% {
-        box-shadow: 0 0 12px #ffd000, 0 0 20px #ffd000;
-      }
-      50% {
-        box-shadow: 0 0 14px #ffd000, 0 0 25px #ffd000;
-      }
-      75% {
-        box-shadow: 0 0 18px #ffd000, 0 0 30px #ffd000;
-      }
-      100% {
-        box-shadow: 0 0 6px #ffd000, 0 0 12px #ffd000;
-      }
-    }
-    
-    /* Klik efek */
-    .shura-gacor-fixed-footer a:active {
-      transform: scale(0.95);
-      opacity: 0.85;
-    }
-    
-    /* === Responsif untuk layar kecil === */
-    @media (max-width: 500px) {
-      .shura-gacor-fixed-footer {
-        padding: 8px 0;
-        border-radius: 16px 16px 0 0;
-      }
-    
-      .shura-gacor-fixed-footer a {
-        font-size: 11px;
-      }
-    
-      .shura-gacor-fixed-footer img {
-        width: 22px;
-        height: 22px;
-      }
-    }
-    
-    </style>
-    
 
-<div class="shura-gacor-fixed-footer">
-  <a href="https://slot-mahjong-gacor-a84.pages.dev/amp" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/qby4S4Q.png" alt="BONUS IDEBET">
-    Promo
-  </a>
-  <a href="https://slot-mahjong-gacor-a84.pages.dev/amp" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/qby4S4Q.png" alt="LOGIN IDEBET">
-    Login
-  </a>
-  <a href="https://slot-mahjong-gacor-a84.pages.dev/amp" target="_blank" rel="nofollow noopener" class="tada">
-    <img src="https://i.imgur.com/qby4S4Q.png" alt="DAFTAR IDEBET">
-    Daftar
-  </a>
-  <a href="https://slot-mahjong-gacor-a84.pages.dev/amp" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/qby4S4Q.png" alt="WHATSAPP IDEBET">
-    Whatsapp
-  </a>
-  <a href="https://slot-mahjong-gacor-a84.pages.dev/amp" target="_blank" rel="nofollow noopener">
-    <img src="https://i.imgur.com/qby4S4Q.png" alt="LIVE CHAT IDEBET">
-    Live Chat
-  </a>
-</div>
+<!-- ========================= CSS ========================= -->
 
 <style>
-    /* === Snowfall Overlay Neon Green === */
-    .snow-wrap {
-      position: fixed;
-      inset: 0;
-      pointer-events: none;
-      overflow: hidden;
-      z-index: 9999;
-    }
-    
-    /* basic flake */
-    .snowflake {
-      position: absolute;
-      top: -10vh;
-      width: 8px;
-      height: 8px;
-      border-radius: 50%;
-      background: radial-gradient(circle at 30% 30%, #ffffff 0 45%, rgb(255, 255, 255) 55%, rgba(20, 255, 255, 255) 70%);
-      filter: drop-shadow(0 0 10px rgb(255, 255, 255)) blur(0.3px);
-      opacity: .95;
-      animation:
-        fall var(--dur, 12s) linear var(--delay, 0s) infinite,
-        sway var(--sway, 6s) ease-in-out var(--delay, 0s) infinite alternate;
-      will-change: transform;
-    }
-    
-    /* glowing variations */
-    .snowflake.-sm {
-      width: 4px;
-      height: 4px;
-      opacity: .8;
-      filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.7));
-    }
-    
-    .snowflake.-lg {
-      width: 12px;
-      height: 12px;
-      opacity: .9;
-      filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.7));
-    }
-    
-    /* motion */
-    @keyframes fall {
-      to {
-        transform: translate3d(var(--drift, 0px), 110vh, 0) rotate(var(--rot, 180deg));
-      }
-    }
-    @keyframes sway {
-      from { margin-left: -10px; }
-      to   { margin-left: 10px; }
-    }
-    
-    /* gentle glow animation for more life */
-    @keyframes glow {
-      0%, 100% { filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.8)); }
-      50% { filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.7)); }
-    }
-    .snowflake { animation: glow 2s ease-in-out infinite alternate, fall var(--dur,12s) linear var(--delay,0s) infinite, sway var(--sway,6s) ease-in-out var(--delay,0s) infinite alternate; }
-    
-    /* optional: prefers-reduced-motion */
-    @media (prefers-reduced-motion: reduce) {
-      .snowflake { animation: none; }
-    }
-    </style>
-    
-    <div class="snow-wrap" id="snow"></div>
+/* === TITLE MATCH COLOR WITH FAQ === */
+.cok-faq-title {
+  text-align: center;
+  color: #000000;
+  font-size: 32px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-weight: 800;
+  font-family: "Segoe UI", sans-serif;
+  text-shadow: 0 0 12px #000000aa, 0 0 20px #3d3d3d55;
+  letter-spacing: 1px;
+}
+
+/* === FAQ CONTAINER === */
+.cok-faq {
+  max-width: 1200px;
+  margin: 10px auto 40px auto;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* === QUESTION BUTTON === */
+.cok-faq-q {
+  width: 100%;
+  padding: 14px;
+  background: #0b0f1a;
+  color: #f90000;
+  font-weight: bold;
+  border: 1px solid #3d3d3d55;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: left;
+  margin-bottom: 8px;
+  transition: .25s ease;
+  box-shadow: 0 0 10px #00000022;
+}
+
+.cok-faq-q:hover {
+  background: #092332;
+  box-shadow: 0 0 15px #00000044;
+}
+
+/* === ANSWER BOX === */
+.cok-faq-a {
+  max-height: 0;
+  overflow: hidden;
+  background: #0f1623;
+  color: #e6faff;
+  margin-top: -5px;
+  border-radius: 0 0 8px 8px;
+  padding: 0 14px;
+  border-left: 1px solid #00000033;
+  border-right: 1px solid #00000033;
+  border-bottom: 1px solid #00000033;
+  transition: max-height .35s ease, padding .25s ease;
+  box-shadow: inset 0 0 10px #00000022;
+}
+
+.cok-faq-a.open {
+  max-height: 500px;
+  padding: 14px;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 480px) {
+  .cok-faq-title {
+    font-size: 26px;
+  }
+}
+</style>
+
+<!-- ========================= JS ========================= -->
+
+<script>
+document.querySelectorAll(".cok-faq-q").forEach(btn => {
+  btn.addEventListener("click", () => {
+    let answer = btn.nextElementSibling;
+    answer.classList.toggle("open");
+  });
+});
+</script>
+
+            <link rel="stylesheet" href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="print" onload="this.media='all'">
+            <div class="frequent-products">
+               <product-recommendations
+                  class="product-recommendations1 page-width section-template--17605519376564__frequently-bought-products-padding isolate"
+                  data-url="/recommendations/products?section_id=template--17605519376564__frequently-bought-products&product_id=7986665160884&limit=3"
+                  >
+                  <div
+                     class="product-recommendations__cta hidden"
+                     style="height:0px;"
+                     >
+                     <input type="hidden" id="prod_currency" value="SGD">
+                     <button
+                        type="submit"
+                        class="button-cart-frequent card-btn-1 product-form__submit button button--full-width js-frequent-submit"
+                        id="card-button"
+                        class="frq-card-btn"
+                        >
+                        Add&nbsp; <span id="checked-products"> </span> &nbsp;Items to Cart
+                        <div class="loading-overlay__spinner-frequent hidden">
+                           <svg
+                              aria-hidden="true"
+                              focusable="false"
+                              role="presentation"
+                              class="spinner"
+                              viewBox="0 0 66 66"
+                              xmlns="http://www.w3.org/2000/svg"
+                              >
+                              <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                           </svg>
+                        </div>
+                     </button>
+                  </div>
+               </product-recommendations>
+            </div>
+            <script>
+               class ProductRecommendations extends HTMLElement {
+                 constructor() {
+                   super();
+                   this.config = {
+                     dom: {
+                       button: '.js-frequent-submit',
+                       input: '.js-frequent-products-checkbox',
+                       selected: 'input[name="frequent-products-pdp"]:checked',
+                     },
+                     cls: {
+                       hide: 'hide',
+                     },
+                   };
+                   const handleIntersection = (entries, observer) => {
+                     if (!entries[0].isIntersecting) return;
+                     observer.unobserve(this);
+                     fetch(this.dataset.url)
+                       .then((response) => response.text())
+                       .then((text) => {
+                         const html = document.createElement('div');
+                         html.innerHTML = text;
+                         const recommendations = html.querySelector('product-recommendations');
+                         if (recommendations && recommendations.innerHTML.trim().length) {
+                           this.innerHTML = recommendations.innerHTML;
+                         }
+                         if (html.querySelector('.grid__item')) {
+                           this.classList.add('product-recommendations--loaded');
+                         }
+               
+                         this.addEvent();
+                         call_gafunction();
+                       })
+                       .catch((e) => {
+                         console.error(e);
+                       });
+                   };
+                   new IntersectionObserver(handleIntersection.bind(this), { rootMargin: '0px 0px 200px 0px' }).observe(this);
+                 }
+                 hideButton(el) {
+                   if (!el) return;
+                   el.classList.add(this.config.cls.hide);
+                 }
+                 showButton(el) {
+                   if (!el) return;
+                   el.classList.remove(this.config.cls.hide);
+                 }
+                 updateButtonState(show = true) {
+                   const $button = this.querySelector(this.config.dom.button) || null;
+                   if (!$button) return;
+               
+                   if (show) {
+                     this.showButton($button);
+                   } else {
+                     this.hideButton($button);
+                   }
+                 }
+                 addEvent() {
+                   const $inputs = this.querySelectorAll(this.config.dom.input) || [];
+               
+                   if (!$inputs?.length > 0) return;
+                   [...$inputs].forEach(($input) => {
+                     $input.addEventListener('change', () => {
+                       const $selected = this.querySelector(this.config.dom.selected) || null;
+               
+                       if ($selected) {
+                         this.updateButtonState();
+                       } else {
+                         this.updateButtonState(false);
+                       }
+                     });
+                   });
+                 }
+               }
+               customElements.define('product-recommendations', ProductRecommendations);
+               
+               function call_gafunction() {
+                 var mpn_handle = $('#mpn_handle').val();
+                 var frequentProducts_ga = [];
+                 var productList = 'Shopify Rec :: ' + mpn_handle;
+                 $.each($("input[name='frequent-products-pdp']"), function () {
+                   var prodtitle = $('#title_' + $(this).val()).val();
+                   var prodMPN = $('#product_mpn_handle_' + $(this).val()).val();
+                   var prodType = $('.card_product_category_' + $(this).val()).val();
+                   var prodCurrency = $('.card_product_currency_' + $(this).val()).attr('value');
+                   var prodPrice = $('.card_product_price_' + $(this).val()).attr('value');
+                   var prodSku = $('.card_product_sku_' + $(this).val()).attr('value');
+                   var compareprice = $('.card_product_compare_' + $(this).val()).attr('value');
+                   prodPrice = Number(prodPrice.replace(/[^0-9.-]+/g, ''));
+                   var discount = 0;
+                   if (compareprice != '') {
+                     compareprice = Number(compareprice.replace(/[^0-9.-]+/g, ''));
+                     discount = parseFloat(compareprice) - parseFloat(prodPrice);
+                     discount = parseFloat(discount);
+                     // prodPrice = compareprice;
+                   }
+                   var productPrice1 = parseFloat(prodPrice);
+                   item_ga = {};
+                   item_ga['item_id'] = prodSku;
+                   item_ga['item_name'] = prodtitle;
+                   item_ga['item_category'] = prodType;
+                   item_ga['item_list_name'] = productList;
+                   item_ga['price'] = prodPrice;
+                   item_ga['quantity'] = 1;
+                   frequentProducts_ga.push(item_ga);
+                 });
+                 if (frequentProducts_ga.length != 0) {
+                   dataLayer.push({ ecommerce: null });
+                   dataLayer.push({
+                     event: 'view_item_list',
+                     ecommerce: {
+                       item_list_name: productList,
+                       items: frequentProducts_ga,
+                     },
+                   });
+                 }
+               }
+            </script>
+            <script>
+               $(document).ready(function () {
+                 $(window).on('scroll', function () {
+                   if (
+                     $(window).scrollTop() >=
+                     $('.product-recommendations1').offset().top + $('.product-recommendations1').outerHeight() - window.innerHeight
+                   ) {
+                     setTimeout(function () {
+                       var checkLength = $("input[name='frequent-products-pdp']:checked").length;
+                       var productRecs = document.querySelector('.product-recommendations1');
+               
+                       $('#checked-products').text(checkLength);
+                     }, 4000);
+                     setTimeout(function () {
+                       var height;
+                       var maxheight = 0;
+                       var minheight = 0;
+                       $('.price_container_cal').each(function () {
+                         height = parseInt($(this).height());
+                         if (height > maxheight) {
+                           maxheight = height;
+                         } else {
+                           minheight = height;
+                         }
+                       });
+                       let isMobile = window.matchMedia('only screen and (max-width: 1023px)').matches;
+                       if (!isMobile) {
+                         if (maxheight >= minheight) {
+                           $('.price_container_cal').attr(
+                             'style',
+                             'display: flex; flex-flow: column; justify-content: flex-end; height:' + maxheight + 'px;'
+                           );
+                         }
+                       }
+                     }, 500);
+                   }
+                 });
+               });
+            </script>
+         </section>
+
+         
+      </main>
+      <!-- BEGIN sections: footer-group -->
+      <div id="shopify-section-sections--17605520064692__footer" class="shopify-section shopify-section-group-footer-group">
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/section-footer.css?v=119412480688511735931742784889" rel="stylesheet" type="text/css" media="all" />
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-newsletter.css?v=35697508531179068801742784889" rel="stylesheet" type="text/css" media="all" />
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888" rel="stylesheet" type="text/css" media="all" />
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-payment.css?v=176967998584360591851742784888" rel="stylesheet" type="text/css" media="all" />
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-social.css?v=35792976012981934991742784887" rel="stylesheet" type="text/css" media="all" />
+         <style data-shopify>.footer {
+            margin-top: 18px;
+            }
+            .active_2, .accordion2:after {
+            color: #121212;
+            }
+            .section-sections--17605520064692__footer-padding {
+            /* padding-top: 0px; */
+            padding-bottom: 0px;
+            }
+            @media screen and (min-width: 750px) {
+            .footer {
+            margin-top: 24px;
+            }
+            .section-sections--17605520064692__footer-padding {
+            padding-top: 0px;
+            padding-bottom: 0px;
+            }
+            }
+         </style>
+         <footer class="footer color-background-1 gradient section-sections--17605520064692__footer-padding">
+            <div id="footerAccordion" class="accordionpadding page-width ">
+               <div class="borderTop">
+                  <div class="accordion2 ">
+                     <span class="headerBlu footer-block__heading">Products</span>
+                     <span class="caretfooter">
+                        <svg
+                           aria-hidden="true"
+                           focusable="false"
+                           role="presentation"
+                           class="footercareticon icon icon-caret "
+                           viewBox="0 0 10 6"
+                           >
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" class="footercareticon">
+                           </path>
+                        </svg>
+                     </span>
+                  </div>
+                  <div class="panel2">
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           IDEBET
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SLOT777
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SLOT GACOR
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SLOT ONLINE
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SITUS SLOT
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           BANDAR SLOT
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SLOT 4D
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SITUS SLOT
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="accordion2 ">
+                     <span class="headerBlu footer-block__heading">Services</span>
+                     <span class="caretfooter">
+                        <svg
+                           aria-hidden="true"
+                           focusable="false"
+                           role="presentation"
+                           class="footercareticon icon icon-caret "
+                           viewBox="0 0 10 6"
+                           >
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" class="footercareticon">
+                           </path>
+                        </svg>
+                     </span>
+                  </div>
+                  <div class="panel2">
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="/pages/applecare" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           AppleCare+
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/business-solutions" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Corporate
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="//www.sms-murau.at/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SLOT777
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/service-provider" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Elush Service Provider
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/financing" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Financing Options
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/trade-in" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Trade-in
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/travellers-reservation" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Traveller’s Reservation
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="accordion2 ">
+                     <span class="headerBlu footer-block__heading">Support</span>
+                     <span class="caretfooter">
+                        <svg
+                           aria-hidden="true"
+                           focusable="false"
+                           role="presentation"
+                           class="footercareticon icon icon-caret "
+                           viewBox="0 0 10 6"
+                           >
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" class="footercareticon">
+                           </path>
+                        </svg>
+                     </span>
+                  </div>
+                  <div class="panel2">
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="/account/login" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           My Account
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/shipping-policy" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Collection & Delivery
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/refund-policy" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Returns & Exchanges
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/contact-us" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Contact Us
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/istudio-faq" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           FAQ
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/privacy-policy" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Privacy Policy
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/terms-of-service" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Site Terms of Use
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="accordion2 ">
+                     <span class="headerBlu footer-block__heading">About iStudio</span>
+                     <span class="caretfooter">
+                        <svg
+                           aria-hidden="true"
+                           focusable="false"
+                           role="presentation"
+                           class="footercareticon icon icon-caret "
+                           viewBox="0 0 10 6"
+                           >
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" class="footercareticon">
+                           </path>
+                        </svg>
+                     </span>
+                  </div>
+                  <div class="panel2">
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="/pages/about-us" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           About Us
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/store-locator" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Find an iStudio near you
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/why-shop-at-istudio" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Why Shop at iStudio
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://www.elushretail.com/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Elush Corporate Website
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="accordion2 ">
+                     <span class="headerBlu footer-block__heading">Apple Premium Partner</span>
+                     <span class="caretfooter">
+                        <svg
+                           aria-hidden="true"
+                           focusable="false"
+                           role="presentation"
+                           class="footercareticon icon icon-caret "
+                           viewBox="0 0 10 6"
+                           >
+                           <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" class="footercareticon">
+                           </path>
+                        </svg>
+                     </span>
+                  </div>
+                  <div class="panel2">
+                     <div class="subtext_css footer-block__details-content rte">
+                     </div>
+                  </div>
+                  <div class="footer_logosMobile">
+                     <div class="footerLogo ">
+                        <div
+                           class="ratio"
+                           style="--ratio-percent: 46.97508896797152%"
+                           >
+                           <img
+                              srcset="//www.istudiosg.com/cdn/shop/files/Logo-Footer-Apple-Premium-Partner_400x_39469ee7-8bb1-490a-a4e0-58b27ff30663_100x.svg?v=1711639473, //www.istudiosg.com/cdn/shop/files/Logo-Footer-Apple-Premium-Partner_400x_39469ee7-8bb1-490a-a4e0-58b27ff30663_100x@2x.svg?v=1711639473 2x"
+                              src="//www.istudiosg.com/cdn/shop/files/Logo-Footer-Apple-Premium-Partner_400x_39469ee7-8bb1-490a-a4e0-58b27ff30663_400x.svg?v=1711639473"
+                              alt=""
+                              loading="lazy"
+                              width="100"
+                              height="auto"
+                              style="max-width: min(100%, 100px);"
+                              >
+                        </div>
+                     </div>
+                     <div class="footerLogo ">
+                        <div
+                           class="ratio"
+                           style="--ratio-percent: 25.396825396825395%"
+                           >
+                           <img
+                              srcset="//www.istudiosg.com/cdn/shop/files/Autho_Ser_Provi_2ln_blk_US_051117_400x_dd0df580-27ec-4b6b-91cd-d1aa02264385_130x.svg?v=1711639499, //www.istudiosg.com/cdn/shop/files/Autho_Ser_Provi_2ln_blk_US_051117_400x_dd0df580-27ec-4b6b-91cd-d1aa02264385_130x@2x.svg?v=1711639499 2x"
+                              src="//www.istudiosg.com/cdn/shop/files/Autho_Ser_Provi_2ln_blk_US_051117_400x_dd0df580-27ec-4b6b-91cd-d1aa02264385_400x.svg?v=1711639499"
+                              alt=""
+                              loading="lazy"
+                              width="130"
+                              height="auto"
+                              style="max-width: min(100%, 130px);"
+                              >
+                        </div>
+                     </div>
+                     <div class="footerLogo ">
+                        <svg class="placeholder-svg placeholder" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
+                           <path d="M324.5 212.7H203c-1.6 0-2.8 1.3-2.8 2.8V308c0 1.6 1.3 2.8 2.8 2.8h121.6c1.6 0 2.8-1.3 2.8-2.8v-92.5c0-1.6-1.3-2.8-2.9-2.8zm1.1 95.3c0 .6-.5 1.1-1.1 1.1H203c-.6 0-1.1-.5-1.1-1.1v-92.5c0-.6.5-1.1 1.1-1.1h121.6c.6 0 1.1.5 1.1 1.1V308z"/>
+                           <path d="M210.4 299.5H240v.1s.1 0 .2-.1h75.2v-76.2h-105v76.2zm1.8-7.2l20-20c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l1.5 1.5 16.8 16.8c-12.9 3.3-20.7 6.3-22.8 7.2h-27.7v-5.5zm101.5-10.1c-20.1 1.7-36.7 4.8-49.1 7.9l-16.9-16.9 26.3-26.3c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l27.5 27.5v7.8zm-68.9 15.5c9.7-3.5 33.9-10.9 68.9-13.8v13.8h-68.9zm68.9-72.7v46.8l-26.2-26.2c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-26.3 26.3-.9-.9c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-18.8 18.8V225h101.4z"/>
+                           <path d="M232.8 254c4.6 0 8.3-3.7 8.3-8.3s-3.7-8.3-8.3-8.3-8.3 3.7-8.3 8.3 3.7 8.3 8.3 8.3zm0-14.9c3.6 0 6.6 2.9 6.6 6.6s-2.9 6.6-6.6 6.6-6.6-2.9-6.6-6.6 3-6.6 6.6-6.6z"/>
+                        </svg>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="footer__content-top page-width">
+               <div
+                  class="js-footer-blocks-wrapper footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet grid--5-col-desktop grid--5-col-desktop"
+                  >
+                  <div
+                     class="footer-block grid__item footer-block--menu"
+                     >
+                     <p class="footer-block__heading inline-richtext">Products</p>
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="/pages/view-all-mac" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Mac
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/view-all-ipad" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           iPad
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/view-all-iphone" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           iPhone
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/view-all-watch" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Watch
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/view-all-music" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Music
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/view-all-tv" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SLOT777
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Toto
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           IDEBET
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div
+                     class="footer-block grid__item footer-block--menu"
+                     >
+                     <p class="footer-block__heading inline-richtext">Services</p>
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="/pages/applecare" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           AppleCare+
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/business-solutions" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Corporate
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           SLOT777
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/service-provider" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Elush Service Provider
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/financing" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Financing Options
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/trade-in" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Trade-in
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/travellers-reservation" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Traveller’s Reservation
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div
+                     class="footer-block grid__item footer-block--menu"
+                     >
+                     <p class="footer-block__heading inline-richtext">Support</p>
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="/account/login" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           My Account
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/shipping-policy" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Collection & Delivery
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/refund-policy" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Returns & Exchanges
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/contact-us" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Contact Us
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/istudio-faq" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           FAQ
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/privacy-policy" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Privacy Policy
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/policies/terms-of-service" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Site Terms of Use
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div
+                     class="footer-block grid__item footer-block--menu"
+                     >
+                     <p class="footer-block__heading inline-richtext">About iStudio</p>
+                     <ul class="footer-block__details-content list-unstyled">
+                        <li>
+                           <a
+                              href="/pages/about-us" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           About Us
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/store-locator" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Find an iStudio near you
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="/pages/why-shop-at-istudio" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Why Shop at iStudio
+                           </a>
+                        </li>
+                        <li>
+                           <a
+                              href="https://www.elushretail.com/" target="_blank" rel="nofollow noopener noreferrer"
+                              class="footer_content_list link link--text list-menu__item list-menu__item--link"
+                              >
+                           Elush Corporate Website
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div
+                     class="footer-block grid__item"
+                     >
+                     <p class="footer-block__heading inline-richtext">Apple Premium Partner</p>
+                     <div class="subtext_css footer-block__details-content rte">
+                     </div>
+                     <div class="footer_logos">
+                        <div class="footerLogo ">
+                           <div
+                              class="ratio"
+                              style="--ratio-percent: 46.97508896797152%"
+                              >
+                              <img
+                                 srcset="//www.istudiosg.com/cdn/shop/files/Logo-Footer-Apple-Premium-Partner_400x_39469ee7-8bb1-490a-a4e0-58b27ff30663_100x.svg?v=1711639473, //www.istudiosg.com/cdn/shop/files/Logo-Footer-Apple-Premium-Partner_400x_39469ee7-8bb1-490a-a4e0-58b27ff30663_100x@2x.svg?v=1711639473 2x"
+                                 src="//www.istudiosg.com/cdn/shop/files/Logo-Footer-Apple-Premium-Partner_400x_39469ee7-8bb1-490a-a4e0-58b27ff30663_400x.svg?v=1711639473"
+                                 alt=""
+                                 loading="lazy"
+                                 width="100"
+                                 height="auto"
+                                 style="max-width: min(100%, 100px);"
+                                 >
+                           </div>
+                        </div>
+                        <div class="footerLogo ">
+                           <div
+                              class="ratio"
+                              style="--ratio-percent: 25.396825396825395%"
+                              >
+                              <img
+                                 srcset="//www.istudiosg.com/cdn/shop/files/Autho_Ser_Provi_2ln_blk_US_051117_400x_dd0df580-27ec-4b6b-91cd-d1aa02264385_130x.svg?v=1711639499, //www.istudiosg.com/cdn/shop/files/Autho_Ser_Provi_2ln_blk_US_051117_400x_dd0df580-27ec-4b6b-91cd-d1aa02264385_130x@2x.svg?v=1711639499 2x"
+                                 src="//www.istudiosg.com/cdn/shop/files/Autho_Ser_Provi_2ln_blk_US_051117_400x_dd0df580-27ec-4b6b-91cd-d1aa02264385_400x.svg?v=1711639499"
+                                 alt=""
+                                 loading="lazy"
+                                 width="130"
+                                 height="auto"
+                                 style="max-width: min(100%, 130px);"
+                                 >
+                           </div>
+                        </div>
+                        <div class="footerLogo ">
+                           <svg class="placeholder-svg placeholder" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
+                              <path d="M324.5 212.7H203c-1.6 0-2.8 1.3-2.8 2.8V308c0 1.6 1.3 2.8 2.8 2.8h121.6c1.6 0 2.8-1.3 2.8-2.8v-92.5c0-1.6-1.3-2.8-2.9-2.8zm1.1 95.3c0 .6-.5 1.1-1.1 1.1H203c-.6 0-1.1-.5-1.1-1.1v-92.5c0-.6.5-1.1 1.1-1.1h121.6c.6 0 1.1.5 1.1 1.1V308z"/>
+                              <path d="M210.4 299.5H240v.1s.1 0 .2-.1h75.2v-76.2h-105v76.2zm1.8-7.2l20-20c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l1.5 1.5 16.8 16.8c-12.9 3.3-20.7 6.3-22.8 7.2h-27.7v-5.5zm101.5-10.1c-20.1 1.7-36.7 4.8-49.1 7.9l-16.9-16.9 26.3-26.3c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l27.5 27.5v7.8zm-68.9 15.5c9.7-3.5 33.9-10.9 68.9-13.8v13.8h-68.9zm68.9-72.7v46.8l-26.2-26.2c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-26.3 26.3-.9-.9c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-18.8 18.8V225h101.4z"/>
+                              <path d="M232.8 254c4.6 0 8.3-3.7 8.3-8.3s-3.7-8.3-8.3-8.3-8.3 3.7-8.3 8.3 3.7 8.3 8.3 8.3zm0-14.9c3.6 0 6.6 2.9 6.6 6.6s-2.9 6.6-6.6 6.6-6.6-2.9-6.6-6.6 3-6.6 6.6-6.6z"/>
+                           </svg>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div
+                  class="page-width footer_newsletter_icon_section"
+                  >
+                  <div class="footer-block__newsletter">
+                     <p class="footer-block__heading2 inline-richtext">Subscribe to our emails</p>
+                     <form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="footer__newsletter newsletter-form">
+                        <input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter">
+                        <div class="emailTextBoxFooter1 newsletter-form__field-wrapper">
+                           <div class="field">
+                              <input
+                                 id="NewsletterForm--sections--17605520064692__footer"
+                                 type="email"
+                                 name="contact[email]"
+                                 class="emailTextBoxFooter1 field__input"
+                                 value=""
+                                 aria-required="true"
+                                 autocorrect="off"
+                                 autocapitalize="off"
+                                 autocomplete="email"
+                                 placeholder="Email"
+                                 required
+                                 >
+                              <label class="email_label_css field__label" for="NewsletterForm--sections--17605520064692__footer">
+                              Email
+                              </label>
+                              <button
+                                 type="submit"
+                                 class="newsletter-form__button field__button"
+                                 name="commit"
+                                 id="Subscribe"
+                                 aria-label="Subscribe"
+                                 data-form-type="footer-newsletter"
+                                 >
+                                 <svg
+                                    viewBox="0 0 14 10"
+                                    fill="none"
+                                    aria-hidden="true"
+                                    focusable="false"
+                                    class="footer_mail_arrow icon icon-arrow"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    >
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+                                 </svg>
+                              </button>
+                           </div>
+                        </div>
+                     </form>
+                  </div>
+                  <div class="footer__content-bottom">
+                     <div class="footer__content-bottom-wrapper ">
+                        <div class=" footer__column footer__column--info">
+                           <ul class="ulClassSocialIcon footer__list-social list-unstyled list-social">
+                              <li class="social_icon_footer list-social__item-f">
+                                 <a
+                                    href="https://www.facebook.com/istudiosg" target="_blank" rel="nofollow noopener noreferrer"
+                                    class="social_icon_anchor link list-social__link"
+                                    >
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-facebook" viewBox="0 0 20 20">
+                                       <path fill="currentColor" d="M18 10.049C18 5.603 14.419 2 10 2c-4.419 0-8 3.603-8 8.049C2 14.067 4.925 17.396 8.75 18v-5.624H6.719v-2.328h2.03V8.275c0-2.017 1.195-3.132 3.023-3.132.874 0 1.79.158 1.79.158v1.98h-1.009c-.994 0-1.303.621-1.303 1.258v1.51h2.219l-.355 2.326H11.25V18c3.825-.604 6.75-3.933 6.75-7.951Z"/>
+                                    </svg>
+                                    <span class="visually-hidden">Facebook</span>
+                                 </a>
+                              </li>
+                              <li class="social_icon_footer list-social__item-f">
+                                 <a
+                                    href="https://www.instagram.com/istudiosg/" target="_blank" rel="nofollow noopener noreferrer"
+                                    class="social_icon_anchor link list-social__link"
+                                    >
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-instagram" viewBox="0 0 20 20">
+                                       <path fill="currentColor" fill-rule="evenodd" d="M13.23 3.492c-.84-.037-1.096-.046-3.23-.046-2.144 0-2.39.01-3.238.055-.776.027-1.195.164-1.487.273a2.43 2.43 0 0 0-.912.593 2.486 2.486 0 0 0-.602.922c-.11.282-.238.702-.274 1.486-.046.84-.046 1.095-.046 3.23 0 2.134.01 2.39.046 3.229.004.51.097 1.016.274 1.495.145.365.319.639.602.913.282.282.538.456.92.602.474.176.974.268 1.479.273.848.046 1.103.046 3.238.046 2.134 0 2.39-.01 3.23-.046.784-.036 1.203-.164 1.486-.273.374-.146.648-.329.921-.602.283-.283.447-.548.602-.922.177-.476.27-.979.274-1.486.037-.84.046-1.095.046-3.23 0-2.134-.01-2.39-.055-3.229-.027-.784-.164-1.204-.274-1.495a2.43 2.43 0 0 0-.593-.913 2.604 2.604 0 0 0-.92-.602c-.284-.11-.703-.237-1.488-.273ZM6.697 2.05c.857-.036 1.131-.045 3.302-.045 1.1-.014 2.202.001 3.302.045.664.014 1.321.14 1.943.374a3.968 3.968 0 0 1 1.414.922c.41.397.728.88.93 1.414.23.622.354 1.279.365 1.942C18 7.56 18 7.824 18 10.005c0 2.17-.01 2.444-.046 3.292-.036.858-.173 1.442-.374 1.943-.2.53-.474.976-.92 1.423a3.896 3.896 0 0 1-1.415.922c-.51.191-1.095.337-1.943.374-.857.036-1.122.045-3.302.045-2.171 0-2.445-.009-3.302-.055-.849-.027-1.432-.164-1.943-.364a4.152 4.152 0 0 1-1.414-.922 4.128 4.128 0 0 1-.93-1.423c-.183-.51-.329-1.085-.365-1.943C2.009 12.45 2 12.167 2 10.004c0-2.161 0-2.435.055-3.302.027-.848.164-1.432.365-1.942a4.44 4.44 0 0 1 .92-1.414 4.18 4.18 0 0 1 1.415-.93c.51-.183 1.094-.33 1.943-.366Zm.427 4.806a4.105 4.105 0 1 1 5.805 5.805 4.105 4.105 0 0 1-5.805-5.805Zm1.882 5.371a2.668 2.668 0 1 0 2.042-4.93 2.668 2.668 0 0 0-2.042 4.93Zm5.922-5.942a.958.958 0 1 1-1.355-1.355.958.958 0 0 1 1.355 1.355Z" clip-rule="evenodd"/>
+                                    </svg>
+                                    <span class="visually-hidden">Instagram</span>
+                                 </a>
+                              </li>
+                              <li class="social_icon_footer list-social__item-f">
+                                 <a
+                                    href="https://www.youtube.com/channel/UCIkbIFG01maO7Rs_yW9XkKA/" target="_blank" rel="nofollow noopener noreferrer"
+                                    class="social_icon_anchor link list-social__link"
+                                    >
+                                    <svg aria-hidden="true" focusable="false" class="icon icon-youtube" viewBox="0 0 20 20">
+                                       <path fill="currentColor" d="M18.16 5.87c.34 1.309.34 4.08.34 4.08s0 2.771-.34 4.08a2.125 2.125 0 0 1-1.53 1.53c-1.309.34-6.63.34-6.63.34s-5.321 0-6.63-.34a2.125 2.125 0 0 1-1.53-1.53c-.34-1.309-.34-4.08-.34-4.08s0-2.771.34-4.08a2.173 2.173 0 0 1 1.53-1.53C4.679 4 10 4 10 4s5.321 0 6.63.34a2.173 2.173 0 0 1 1.53 1.53ZM8.3 12.5l4.42-2.55L8.3 7.4v5.1Z"/>
+                                    </svg>
+                                    <span class="visually-hidden">YouTube</span>
+                                 </a>
+                              </li>
+                           </ul>
+                           <div class="footer__payment">
+                              <span class="visually-hidden">Payment methods</span>
+                              <ul class="footerPayment list list-payment">
+                                 <li class="paymenticon list-payment__item">
+                                    <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pi-american_express" viewBox="0 0 38 24" width="38" height="24">
+                                       <title id="pi-american_express">American Express</title>
+                                       <path fill="#000" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z" opacity=".07"/>
+                                       <path fill="#006FCF" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z"/>
+                                       <path fill="#FFF" d="M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z"/>
+                                       <path fill="#006FCF" d="M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z"/>
+                                       <path fill="#006FCF" d="m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z"/>
+                                       <path fill="#FFF" d="M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z"/>
+                                       <path fill="#006FCF" d="m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z"/>
+                                       <path fill="#006FCF" d="M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z"/>
+                                    </svg>
+                                 </li>
+                                 <li class="paymenticon list-payment__item">
+                                    <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master">
+                                       <title id="pi-master">Mastercard</title>
+                                       <path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/>
+                                       <path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/>
+                                       <circle fill="#EB001B" cx="15" cy="12" r="7"/>
+                                       <circle fill="#F79E1B" cx="23" cy="12" r="7"/>
+                                       <path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/>
+                                    </svg>
+                                 </li>
+                                 <li class="paymenticon list-payment__item">
+                                    <svg class="icon icon--full-color" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa">
+                                       <title id="pi-visa">Visa</title>
+                                       <path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/>
+                                       <path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/>
+                                       <path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/>
+                                    </svg>
+                                 </li>
+                                 <li class="paymenticon list-payment__item" style='width:auto;'>
+                                    <img src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/payment_badge_green.png?v=1753250452" height="24">
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="copyrightCss footer__copyright caption">
+                              <span class="copyright__content"
+                                 >&copy; 2025, <a href="https://kamimadrasah.com/jasa-pembuatan-website/" target="_blank" title="">IDEBET</a></span>
+                              <span class="copyright__content"><a target="_blank" rel="nofollow noopener noreferrer" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </footer>
+         <script>
+            var acc = document.getElementsByClassName('accordion2');
+            var i;
+            $(document).on('click', '.accordion2', function () {
+              this.classList.toggle('active_2');
+              this.classList.toggle('headerBlu');
+              var panel2 = this.nextElementSibling;
+              $(panel2.style.maxHeight);
+              if (panel2.style.maxHeight) {
+                panel2.style.maxHeight = null;
+                $(this).find('span').removeClass('svgrotate');
+              } else {
+                panel2.style.maxHeight = panel2.scrollHeight + 'px';
+                $(this).find('span').addClass('svgrotate');
+              }
+            });
+         </script>
+      </div>
+      <section id="shopify-section-sections--17605520064692__collapsible_content_xjDGLy" class="shopify-section shopify-section-group-footer-group section">
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-accordion.css?v=114305622551526091581742784887" rel="stylesheet" type="text/css" media="all" />
+         <link href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsible-content.css?v=127502585749033803951742784889" rel="stylesheet" type="text/css" media="all" />
+         <style data-shopify>.section-sections--17605520064692__collapsible_content_xjDGLy-padding {
+            padding-top: 27px;
+            padding-bottom: 27px;
+            }
+            @media screen and (min-width: 750px) {
+            .section-sections--17605520064692__collapsible_content_xjDGLy-padding {
+            padding-top: 36px;
+            padding-bottom: 36px;
+            }
+            }
+         </style>
+         <div class="color-background-1 gradient">
+            <div class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
+               <div class="collapsible-content__wrapper section-sections--17605520064692__collapsible_content_xjDGLy-padding">
+                  <div class="collapsible-content-wrapper-narrow">
+                     <div
+                        class="collapsible-content__header"
+                        style="text-align: center;"
+                        >
+                        <p class="caption-with-letter-spacing">
+                           Prices include 9% GST but exclude shipping costs.
+                        </p>
+                        <h2 class="visually-hidden">Single column accordion</h2>
+                     </div>
+                     <div class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
+                        <div class="grid__item"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- END sections: footer-group -->
+      <ul hidden>
+         <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+         <li id="a11y-new-window-message">Opens in a new window.</li>
+      </ul>
+      <script>
+         window.themeJsData = {
+           templateName: "product",
+           templateStrip: "product",
+           cartItemCount: 0,
+           shopCurrency: 'SGD',
+         }
+      </script>
+      <script src="//www.istudiosg.com/cdn/shop/t/14/assets/theme.js?v=35343184324329019891742784888" defer="defer"></script>
+      <script>
+         window.shopUrl = 'https://www.istudiosg.com';
+         window.routes = {
+           cart_add_url: '/cart/add',
+           cart_change_url: '/cart/change',
+           cart_clear_url: '/cart/clear',
+           cart_update_url: '/cart/update',
+           cart_url: '/cart',
+           account_addresses_url: '/account/addresses',
+           account_login_url: '/account/login',
+           account_logout_url: '/account/logout',
+           account_recover_url: '/account/recover',
+           account_register_url: '/account/register',
+           account_url: '/account',
+           predictive_search_url: '/search/suggest',
+         };
+         
+         window.cartStrings = {
+           error: `There was an error while updating your cart. Please try again.`,
+           quantityError: `You can only add [quantity] of this item to your cart.`,
+           storeConfirmationMessage: 'Confirm store at checkout',
+         };
+         
+         window.variantStrings = {
+           addToCart: `Add to cart`,
+           soldOut: `Out of Stock`,
+           unavailable: `Unavailable`,
+           unavailable_with_option: `[value] - Unavailable`,
+         };
+         
+         window.quickOrderListStrings = {
+           itemsAdded: `[quantity] items added`,
+           itemAdded: `[quantity] item added`,
+           itemsRemoved: `[quantity] items removed`,
+           itemRemoved: `[quantity] item removed`,
+           viewCart: `View cart`,
+           each: `[money]/ea`,
+         };
+         
+         window.accessibilityStrings = {
+           imageAvailable: `Image [index] is now available in gallery view`,
+           shareSuccess: `Link copied to clipboard`,
+           pauseSlideshow: `Pause slideshow`,
+           playSlideshow: `Play slideshow`,
+           recipientFormExpanded: `Gift card recipient form expanded`,
+           recipientFormCollapsed: `Gift card recipient form collapsed`,
+         };
+         
+         window.deliveryOptionsStrings = {"en":{"Usually ready in 1 hour":"Usually ready in 1 hour","Usually ready in 2 hours":"Usually ready in 2 hours","Usually ready in 4 hours":"Usually ready in 4 hours","Usually ready in 24 hours":"Usually ready in 24 hours","Usually ready in 2-4 days":"Usually ready in 2-4 days","Temporarily Unavailable for Pickup":"Temporarily Unavailable for Pickup"}};
+      </script><script src="//www.istudiosg.com/cdn/shop/t/14/assets/predictive-search.js?v=3351204828225219081742784888" defer="defer"></script>
+      <my-store-locator-drawer
+         class="gradient my-store-locator-drawer"
+         tabindex="-1"
+         role="dialog"
+         aria-modal="true"
+         aria-labelledby="MyStoreLocatorDrawerHeading"
+         >
+         <div class="my-store-locator-drawer__inner">
+            <div class="my-store-locator-drawer__close-wrapper">
+               <button
+                  class="js-store-locator-drawer-close my-store-locator__close"
+                  type="button"
+                  aria-label="Close"
+                  >
+                  <svg
+                     xmlns="http://www.w3.org/2000/svg"
+                     aria-hidden="true"
+                     focusable="false"
+                     class="icon icon-close"
+                     fill="none"
+                     viewBox="0 0 18 17"
+                     width="18"
+                     height="17"
+                     >
+                     <path
+                        d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
+                        fill="currentColor"
+                        >
+                  </svg>
+               </button>
+            </div>
+            <h2 class="my-store-locator-drawer__title" id="MyStoreLocatorDrawerHeading">
+               Store availability
+            </h2>
+            <div class="js-store-locator-product-info my-store-locator-drawer__product">
+               <div class="my-store-locator-drawer__product-image global-media-settings">
+                  <img
+                     src="https://i.imgur.com/3mqYgjH.png?v=1757450054&width=176"
+                     alt="IDEBET: Situs Slot Bank DIY Gacor dengan Sistem Aman dan Stabil"
+                     width="88"
+                     height="88"
+                     loading="lazy"
+                     >
+               </div>
+               <div class="my-store-locator-drawer__product-info">
+                  <h3>IDEBET</h3>
+                  <div class="my-store-locator-drawer__product-option">
+                     <span>Color:</span>
+                     <span>Cosmic Orange</span>
+                  </div>
+                  <div class="my-store-locator-drawer__product-option">
+                     <span>Model:</span>
+                     <span>IDEBET</span>
+                  </div>
+                  <div class="my-store-locator-drawer__product-option">
+                     <span>Capacity:</span>
+                     <span>256GB</span>
+                  </div>
+               </div>
+            </div>
+            <div class="my-store-locator-drawer__search">
+               <form id="storeLocatorSearchForm" class="nosubmit_form my-store-locator-drawer__form">
+                  <input
+                     class="nosubmit my-store-locator-drawer__input"
+                     id="storeLocatorSearch"
+                     type="search"
+                     name="storeLocatorSearch"
+                     placeholder="Enter City or Postal Code"
+                     aria-label="Enter City or Postal Code"
+                     role="combobox"
+                     aria-expanded="false"
+                     aria-owns="myLocations"
+                     aria-controls="myLocations"
+                     aria-haspopup="listbox"
+                     aria-autocomplete="list"
+                     autocorrect="off"
+                     autocomplete="off"
+                     autocapitalize="off"
+                     spellcheck="false"
+                     >
+               </form>
+               <div class="js-store-locator-search-suggestions my-store-locator-drawer__suggestions hidden"></div>
+               <p class="js-store-locator-search-error my-store-locator-drawer__error hidden">
+                  <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Please fill this out
+               </p>
+               <button class="js-store-locator-use-location-btn my-store-locator-drawer__use-location-btn">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M11.9023 5.98047C11.309 5.98047 10.729 6.15642 10.2356 6.48606C9.74229 6.8157 9.35777 7.28424 9.13071 7.83242C8.90364 8.3806 8.84423 8.9838 8.95999 9.56574C9.07574 10.1477 9.36147 10.6822 9.78102 11.1018C10.2006 11.5213 10.7351 11.8071 11.3171 11.9228C11.899 12.0386 12.5022 11.9792 13.0504 11.7521C13.5986 11.525 14.0671 11.1405 14.3968 10.6472C14.7264 10.1538 14.9023 9.57381 14.9023 8.98047C14.9014 8.1851 14.5851 7.42256 14.0227 6.86015C13.4603 6.29774 12.6977 5.98137 11.9023 5.98047ZM11.9023 10.4805C11.6057 10.4805 11.3157 10.3925 11.069 10.2277C10.8223 10.0628 10.6301 9.82858 10.5165 9.55449C10.403 9.2804 10.3733 8.9788 10.4312 8.68783C10.489 8.39686 10.6319 8.12959 10.8417 7.91981C11.0515 7.71003 11.3187 7.56717 11.6097 7.50929C11.9007 7.45141 12.2023 7.48112 12.4764 7.59465C12.7505 7.70818 12.9847 7.90044 13.1495 8.14711C13.3144 8.39379 13.4023 8.6838 13.4023 8.98047C13.4019 9.37815 13.2437 9.75942 12.9625 10.0406C12.6813 10.3218 12.3 10.48 11.9023 10.4805Z" fill="#0071E3"/>
+                     <path d="M17.6676 3.21133C16.2423 1.78635 14.3396 0.939858 12.3268 0.835221C10.3141 0.730584 8.33391 1.37522 6.76849 2.64472C5.20307 3.91422 4.16338 5.71858 3.85009 7.70957C3.5368 9.70055 3.97212 11.737 5.07202 13.4259L10.7395 22.1265C10.8657 22.3201 11.0381 22.4792 11.2412 22.5893C11.4444 22.6994 11.6718 22.7571 11.9029 22.7571C12.1339 22.7571 12.3613 22.6994 12.5645 22.5893C12.7676 22.4792 12.9401 22.3201 13.0662 22.1265L18.7339 13.4259C19.7545 11.8592 20.2055 9.98931 20.0114 8.12962C19.8172 6.26993 18.9898 4.53348 17.6676 3.21133ZM17.4771 12.6071L11.9029 21.1642L6.32865 12.6071C4.6224 9.98782 4.98835 6.4825 7.19879 4.27197C7.81653 3.65421 8.54991 3.16418 9.35704 2.82985C10.1642 2.49551 11.0292 2.32344 11.9029 2.32344C12.7765 2.32344 13.6416 2.49551 14.4487 2.82985C15.2559 3.16418 15.9892 3.65421 16.607 4.27197C18.8174 6.4825 19.1833 9.98782 17.4771 12.6071Z" fill="#0071E3"/>
+                  </svg>
+                  <span> Use my current location </span>
+               </button>
+               <div class="my-store-locator-drawer__search-result-options">
+                  <span
+                     class="js-store-locator-results-count my-store-locator-drawer__search-result-label"
+                     data-results="results"
+                     data-result="result"
+                     data-results-near="results near"
+                     data-result-near="result near"
+                     data-results-near-you="results near you"
+                     data-result-near-you="result near you"
+                     data-no-results-found="no results found"
+                     ></span>
+                  <label
+                     class="screenreader"
+                     for="storeLocatorDistanceSelectDrawer"
+                     >
+                  Filter stores by distance
+                  </label>
+                  <select
+                     class="js-store-locator-results-distance my-store-locator-drawer__search-distance-select"
+                     id="storeLocatorDistanceSelectDrawer"
+                     >
+                     <option value="all" >
+                        All stores
+                     </option>
+                     <option value="5" selected>
+                        5
+                        miles
+                     </option>
+                     <option value="10" selected>
+                        10
+                        miles
+                     </option>
+                     <option value="30" selected>
+                        30
+                        miles
+                     </option>
+                     <option value="50" selected>
+                        50
+                        miles
+                     </option>
+                     <option value="100" selected>
+                        100
+                        miles
+                     </option>
+                  </select>
+               </div>
+            </div>
+            <div id="myLocationResults" class="my-store-locator-drawer__search-results"></div>
+            <div class="my-store-locator-drawer__footer">
+               <button
+                  class="js-store-locator-select-btn my-store-locator__details-btn button button--secondary button--full-width"
+                  >
+               Select
+               </button>
+            </div>
+         </div>
+         <div id="storeLocatorDrawerLoading" class="my-store-locator-drawer__loading">
+            <i class="fa fa-spinner fa-spin" style="font-size:24px"></i>
+         </div>
+      </my-store-locator-drawer>
+      <div class="my-store-locator-drawer__bg"></div>
+      <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-notify-modal.css?v=121279191211236621751742784888" rel="stylesheet" type="text/css" media="all" />
+      <aside id="notifyModal" class="modal ac-moda">
+         <form class="modal__inner modal__inner--notify">
+            <header class="modal__header">
+               <button id="notifyModalClose" type="button" class="modal__close modal-close-button">
+                  <span class="modal-close-icon">
+                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                        <path d="M12.12,10l4.07-4.06a1.5,1.5,0,1,0-2.11-2.12L10,7.88,5.94,3.81A1.5,1.5,0,1,0,3.82,5.93L7.88,10,3.81,14.06a1.5,1.5,0,0,0,0,2.12,1.51,1.51,0,0,0,2.13,0L10,12.12l4.06,4.07a1.45,1.45,0,0,0,1.06.44,1.5,1.5,0,0,0,1.06-2.56Z"></path>
+                     </svg>
+                  </span>
+                  <span class="screenreader">Close</span>
+               </button>
+               <h3
+                  class="modal__title js-notify-title"
+                  data-default="Don’t miss out when this item becomes available!"
+                  data-success="You will be notified when it becomes available."
+                  >Don’t miss out when this item becomes available!</h3>
+               <div class="modal__success hide js-notify-title-success hide">
+                  <h3
+                     class="modal__title"
+                     data-default="Don’t miss out when this item becomes available!"
+                     >You will be notified when it becomes available.</h3>
+               </div>
+            </header>
+            <div class="modal__inner-content">
+               <p class="modal__inner-content-p js-notify-content">Enter your email address to be notified when this item is back in stock.</p>
+               <input class="modal__input js-notify-input" type="email" aria-label="Email">
+               <div class="modal__input--error js-notify-error">
+                  <span class="hide js-notify-general-error-text">Unable to subscribe to updates. Please try again later.</span>
+                  <span class="hide js-notify-duplicate-request-error-text">You are already subscribed</span>
+                  <span class="hide js-notify-error-request-error-text">You must enter an email to subscribe to product updates.</span>
+               </div>
+            </div>
+            <button
+               class="modal__submit modal__submit--notify button button--full-width button--primary js-notify-submit"
+               type="button"
+               >
+            <span class="screenreader">Submit</span>
+            <span class="modal__submit-text">Notify me</span>
+            </button>
+            <button
+               class="modal__submit modal__submit--notify button button--full-width button--primary hide js-notify-success-button"
+               type="button"
+               >
+            <span class="screenreader">Close</span>
+            <span class="modal__submit-text">Done</span>
+            </button>
+         </form>
+         <div class="notify-modal__overlay modal-page-overlay js-notify-overlay"></div>
+      </aside>
+      <style>
+         .modal__submit.modal__submit--notify {
+         background-color: #0071E3;
+         }
+         .modal__submit.modal__submit--notify {
+         color: #FFFFFF;
+         }
+      </style>
+      <div class="seedkit-component-standalone">
+         <a
+            class="ac-modal-trigger hidden js-net-monthly-pricing-modal-trigger"
+            data-modal-target="modal-net-monthly-pricing-modal"
+            >Pelajari Selengkapnya<i class="fa-solid fa-angle-right billboard_icon"></i></a>
+         <div
+            id="modal-net-monthly-pricing-modal"
+            class="ac-modal"
+            data-type="content"
+            data-width="wide"
+            data-variant="pageOverlay"
+            data-modal-dialog-label="Modal"
+            data-modal-close-label="Close Modal"
+            >
+            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-nmp-test-mode.css?v=20702808579977612711742784887" rel="stylesheet" type="text/css" media="all" />
+            <nmp-test-mode class="nmp-test-mode  js-nmp-test-mode" data-frequency="/mo. for {{ per_month }} mo.">
+               <div
+                  class="nmp-test-mode__heading"
+                  id="modal-headline"
+                  >
+                  <h2>Bonus dan Promosi yang tersedia di IDEBET ?</h2>
+                  <p>Bonus Event Zeus , Starlight Princess & Sweet Bonanza Bonus MAXWIN</p>
+                  <p>Bonus Bonus Kekalahan Khusus Slot</p>
+				  <p>Bonus Event Free Spin dan Buy Spin</p>
+				  <p>Bonus Petir Zeus & Starlight Princess & Sweet Bonanza</p>
+				  <p>Bonus Event Scatter PG SOFT</p>
+               </div>
+               <h3 class="nmp-test-mode__title">IDEBET portal Slot Gacor terbaik untuk pecinta slot hari ini</h3>
+               <div class="nmp-test-mode__plan">
+                  <div class="js-nmp-terms">
+                     <i class="fa fa-spinner fa-spin"></i>
+                  </div>
+               </div>
+            </nmp-test-mode>
+            <script src="//www.istudiosg.com/cdn/shop/t/14/assets/nmp-test-mode.js?v=52863412589471034481742784889" defer="defer"></script>
+         </div>
+      </div>
+      <script src="//www.istudiosg.com/cdn/shop/t/14/assets/share.js?v=19406306419835735731742784889" defer="defer"></script>
+      <style> .header__heading {align-items: center;} .brand--logo {margin-right: 78px; max-width: 139px;} .header__icons {align-items: center;} @media screen and (max-width: 749px) {.brand--logo {margin-right: 39px; }} div .product-form > form.form {display: none;} .shopify-policy__title h1 {margin-top: 75px;} table.tbl-content {table-layout: fixed; border-collapse: collapse; font-size: 1.4rem; border-style: hidden; border-top: 0.1rem solid rgba(var(--color-foreground), 0.2); border-right: 0.1rem solid rgba(var(--color-foreground), 0.2); border-left: 0.1rem solid rgba(var(--color-foreground), 0.2); border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.2);} table.tbl-content td,table.tbl-content th {padding: 1em; border: 0.1rem solid rgba(var(--color-foreground), 0.2);} .rte ul,.rte ol {list-style-position: outside;} .shopify-policy__container {max-width: 125ch;} .shopify-policy__body table.tbl-content td,table.tbl-content th {font-size: 16px;} .shopify-policy__body table.tbl-content td span.cite,table.tbl-content th span.cite {font-size: 12px;}  /*applecare Pelajari Selengkapnya pop up*/.modal .ac-modal {display: flex !important; flex-direction: column;} .apple-care-modal__heading {order: 1; margin-bottom: 30px;} .modal .media.media--transparent.ratio {width: 100% !important; height: 110px !important; order: 0;} .modal .media.media--transparent.ratio img {width: 110px !important; height: auto !important; position: relative !important;} .apple-care-modal__content {order: 2;}  /*end applecare Pelajari Selengkapnya pop up*/ </style>
+<div class="snow-wrap" id="snow"></div>
     
     <!-- auto-generate snow -->
     <script>
@@ -3193,7 +7027,9 @@ ball.classList.remove('spin');
       }
     })();
     </script>
-
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"6e76c66e58724facbe571fb741337db1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"168f925cde024f99856b26faf838ff11","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"77100e159c3943b2bbfa93cba3081fce","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"54aabc2c82df46d8b6560ea0c392e12f","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"32a5b023f3c943d692de23b6c07f2157","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
