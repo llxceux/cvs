@@ -16,7 +16,7 @@
   <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W8KL5Q5"></script>
   <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <link rel="amphtml" href="https://exacoreglobal.pages.dev/DEPOBOS">
+  <link rel="amphtml" href="https://exacoreglobal.pages.dev/KEPRITOGEL">
   <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
     //<![CDATA[
     window.DATADOG_CONFIG = {
@@ -43,8 +43,8 @@
   <link rel="preload" href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4" as="image">
   <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
   <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
-  <title>DEPOBOS | Link Login Situs Slot Resmi Terbaik</title>
-  <meta name="description" content="DEPOBOS merupakan situs slot online resmi dan terpercaya yang menyediakan akses login cepat dengan server stabil serta sistem permainan yang optimal.">
+  <title>KEPRITOGEL | Link Login Slot Gacor Modal Receh</title>
+  <meta name="description" content="KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/sfmgGYZ4/icon.webp">
   <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://i.postimg.cc/sfmgGYZ4/icon.webp" sizes="72x72">
@@ -56,24 +56,24 @@
   <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
   <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer=""></script>
   <meta name="theme-color" content="#333333">
-  <link rel="canonical" href="https://doc.kamimadrasah.com/kategori/branding">
+  <link rel="canonical" href="https://doc.kamimadrasah.com/kategori/instalasi">
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Product",
-      "name": "DEPOBOS | Link Login Situs Slot Resmi Terbaik",
+      "name": "KEPRITOGEL | Link Login Slot Gacor Modal Receh",
       "image": "https://i.imgur.com/3UGci6p.jpeg",
-      "description": "DEPOBOS merupakan situs slot online resmi dan terpercaya yang menyediakan akses login cepat dengan server stabil serta sistem permainan yang optimal.",
+      "description": "KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.",
       "brand": {
         "@type": "Brand",
-        "name": "DEPOBOS"
+        "name": "KEPRITOGEL"
       },
-      "sku": "DEPOBOS-RESMI2026",
+      "sku": "KEPRITOGEL-RESMI2026",
       "mpn": "77GCR-001",
-      "url": "https://doc.kamimadrasah.com/kategori/branding",
+      "url": "https://doc.kamimadrasah.com/kategori/instalasi",
       "offers": {
         "@type": "Offer",
-        "url": "https://doc.kamimadrasah.com/kategori/branding",
+        "url": "https://doc.kamimadrasah.com/kategori/instalasi",
         "priceCurrency": "USD",
         "price": "0.00",
         "priceValidUntil": "2026-01-01",
@@ -81,7 +81,7 @@
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
-          "name": "DEPOBOS"
+          "name": "KEPRITOGEL"
         }
       },
       "aggregateRating": {
@@ -121,43 +121,43 @@
       "itemListElement": [{
         "@type": "ListItem",
         "position": 1,
-        "name": "DEPOBOS",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "name": "KEPRITOGEL",
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 2,
-        "name": "DEPOBOS LOGIN",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "name": "KEPRITOGEL LOGIN",
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 3,
         "name": "SLOT GACOR",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 4,
         "name": "LINK GACOR",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 5,
-        "name": "DAFTAR DEPOBOS",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "name": "DAFTAR KEPRITOGEL",
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 6,
-        "name": "LOGIN DEPOBOS",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "name": "LOGIN KEPRITOGEL",
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 7,
         "name": "SITUS SLOT",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 8,
-        "name": "DEPOBOS LOGIN",
-        "item": "https://doc.kamimadrasah.com/kategori/branding"
+        "name": "KEPRITOGEL LOGIN",
+        "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }]
     }
   </script>
@@ -165,8 +165,8 @@
     {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "DEPOBOS",
-      "url": "https://doc.kamimadrasah.com/kategori/branding",
+      "name": "KEPRITOGEL",
+      "url": "https://doc.kamimadrasah.com/kategori/instalasi",
       "logo": "https://i.imgur.com/7d9iYu7.png",
       "sameAs": ["https://www.facebook.com/SDTOTOofficial", "https://twitter.com/SDTOTORESMI", "https://www.instagram.com/SDTOTOgacor"],
       "contactPoint": {
@@ -185,21 +185,21 @@
   </script>
   <meta name="bingbot" content="nocache">
   <!-- Open Graph -->
-  <meta property="og:title" content="DEPOBOS | Link Login Situs Slot Resmi Terbaik">
-  <meta property="og:description" content="DEPOBOS merupakan situs slot online resmi dan terpercaya yang menyediakan akses login cepat dengan server stabil serta sistem permainan yang optimal.">
+  <meta property="og:title" content="KEPRITOGEL | Link Login Slot Gacor Modal Receh">
+  <meta property="og:description" content="KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.">
   <meta property="og:image" content="https://i.imgur.com/3UGci6p.jpeg">
-  <meta property="og:url" content="https://doc.kamimadrasah.com/kategori/branding">
+  <meta property="og:url" content="https://doc.kamimadrasah.com/kategori/instalasi">
   <meta property="og:type" content="website">
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="DEPOBOS | Link Login Situs Slot Resmi Terbaik">
-  <meta name="twitter:description" content="DEPOBOS merupakan situs slot online resmi dan terpercaya yang menyediakan akses login cepat dengan server stabil serta sistem permainan yang optimal.">
+  <meta name="twitter:title" content="KEPRITOGEL | Link Login Slot Gacor Modal Receh">
+  <meta name="twitter:description" content="KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.">
   <meta name="twitter:image" content="https://i.imgur.com/3UGci6p.jpeg">
-  <meta property="og:title" content="DEPOBOS | Link Login Situs Slot Resmi Terbaik">
+  <meta property="og:title" content="KEPRITOGEL | Link Login Slot Gacor Modal Receh">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://doc.kamimadrasah.com/kategori/branding">
+  <meta property="og:url" content="https://doc.kamimadrasah.com/kategori/instalasi">
   <meta property="og:image" content="https://i.imgur.com/3UGci6p.jpeg">
-  <meta property="og:description" content="DEPOBOS merupakan situs slot online resmi dan terpercaya yang menyediakan akses login cepat dengan server stabil serta sistem permainan yang optimal.">
+  <meta property="og:description" content="KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.">
   <meta property="og:site_name" content="ThemeForest">
   <meta name="csrf-param" content="authenticity_token">
   <meta name="csrf-token" content="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ">
@@ -580,11 +580,11 @@
 
     /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
   </style>
-    <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+    <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <style type="text/css">
     .fancybox-margin {
       margin-right: 15px;
@@ -905,11 +905,11 @@
 
     /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
   </style>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000164&amp;cv=11&amp;fst=1766448000164&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=DEPOBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000188&amp;cv=11&amp;fst=1766448000188&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=DEPOBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1766448000213&amp;cv=11&amp;fst=1766448000213&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=DEPOBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1766448000231&amp;cv=11&amp;fst=1766448000231&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=DEPOBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1766448000282&amp;cv=11&amp;fst=1766448000282&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391252~115583767~115938465~115938469~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=DEPOBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000164&amp;cv=11&amp;fst=1766448000164&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=KEPRITOGEL%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000188&amp;cv=11&amp;fst=1766448000188&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=KEPRITOGEL%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1766448000213&amp;cv=11&amp;fst=1766448000213&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=KEPRITOGEL%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1766448000231&amp;cv=11&amp;fst=1766448000231&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=KEPRITOGEL%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1766448000282&amp;cv=11&amp;fst=1766448000282&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391252~115583767~115938465~115938469~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=KEPRITOGEL%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <style>
     :root {
       --color-grey-1000: #191919;
@@ -1223,11 +1223,11 @@
 
     /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
   </style>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=DEPOBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=KEPRITOGEL%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 </head>
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
@@ -1304,35 +1304,35 @@
     <div class="page__off-canvas--left overflow" bis_skin_checked="1">
       <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
         <div class="off-canvas-left__top" bis_skin_checked="1">
-          <a href="https://doc.kamimadrasah.com/kategori/branding">Envato Market</a>
+          <a href="https://doc.kamimadrasah.com/kategori/instalasi">Envato Market</a>
         </div>
         <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
           <span class="off-canvas-left__site-title"> Web Themes &amp; Templates </span>
-          <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://doc.kamimadrasah.com/kategori/branding"></a>
+          <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://doc.kamimadrasah.com/kategori/instalasi"></a>
         </div>
         <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
           <a class="off-canvas-left__site" href="hhttps://battistellag.eu/en/cookie-policy/">
             <span class="off-canvas-left__site-title"> Code </span>
             <i class="e-icon -icon-right-open"></i>
-          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/branding">
+          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/instalasi">
             <span class="off-canvas-left__site-title"> Video </span>
             <i class="e-icon -icon-right-open"></i>
-          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/branding">
+          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/instalasi">
             <span class="off-canvas-left__site-title"> Audio </span>
             <i class="e-icon -icon-right-open"></i>
-          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/branding">
+          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/instalasi">
             <span class="off-canvas-left__site-title"> Graphics </span>
             <i class="e-icon -icon-right-open"></i>
-          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/branding">
+          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/instalasi">
             <span class="off-canvas-left__site-title"> Photos </span>
             <i class="e-icon -icon-right-open"></i>
-          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/branding">
+          </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/kategori/instalasi">
             <span class="off-canvas-left__site-title"> 3D Files </span>
             <i class="e-icon -icon-right-open"></i>
           </a>
         </div>
         <div class="off-canvas-left__search" bis_skin_checked="1">
-          <form id="search" action="https://doc.kamimadrasah.com/kategori/branding" accept-charset="UTF-8" method="get">
+          <form id="search" action="https://doc.kamimadrasah.com/kategori/instalasi" accept-charset="UTF-8" method="get">
             <div class="search-field -border-none" bis_skin_checked="1">
               <div class="search-field__input" bis_skin_checked="1">
                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1345,371 +1345,371 @@
         </div>
         <ul>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://doc.kamimadrasah.com/kategori/branding"> All Items </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://doc.kamimadrasah.com/kategori/instalasi"> All Items </a>
             <ul class="is-hidden" id="off-canvas-all-items">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Files</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Files</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Featured Files</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Featured Files</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Top New Files</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Top New Files</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Follow Feed</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Follow Feed</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Top Authors</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Top Authors</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Top New Authors</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Top New Authors</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Public Collections</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Public Collections</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">View All Categories</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">View All Categories</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://doc.kamimadrasah.com/kategori/branding"> WordPress </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://doc.kamimadrasah.com/kategori/instalasi"> WordPress </a>
             <ul class="is-hidden" id="off-canvas-wordpress">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Show all WordPress</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Show all WordPress</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Items</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Items</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Blog / Magazine</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Blog / Magazine</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">BuddyPress</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">BuddyPress</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Corporate</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Corporate</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Creative</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Creative</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Directory &amp; Listings</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Directory &amp; Listings</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">eCommerce</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">eCommerce</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Education</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Education</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Elementor</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Elementor</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Entertainment</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Entertainment</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Mobile</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Mobile</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Nonprofit</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Nonprofit</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Real Estate</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Real Estate</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Retail</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Retail</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Technology</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Technology</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Wedding</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Wedding</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Miscellaneous</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Miscellaneous</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">WordPress Plugins</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">WordPress Plugins</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://doc.kamimadrasah.com/kategori/branding"> Elementor </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://doc.kamimadrasah.com/kategori/instalasi"> Elementor </a>
             <ul class="is-hidden" id="off-canvas-elementor">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Template Kits</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Template Kits</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Plugins</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Plugins</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Themes</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Themes</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link--empty" href="https://doc.kamimadrasah.com/kategori/branding"> Hosting </a>
+            <a class="off-canvas-category-link--empty" href="https://doc.kamimadrasah.com/kategori/instalasi"> Hosting </a>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://doc.kamimadrasah.com/kategori/branding"> HTML </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://doc.kamimadrasah.com/kategori/instalasi"> HTML </a>
             <ul class="is-hidden" id="off-canvas-html">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Show all HTML</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Show all HTML</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Items</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Items</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Admin Templates</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Admin Templates</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Corporate</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Corporate</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Creative</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Creative</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Entertainment</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Entertainment</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Mobile</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Mobile</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Nonprofit</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Nonprofit</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Personal</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Personal</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Retail</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Retail</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Specialty Pages</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Specialty Pages</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Technology</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Technology</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Wedding</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Wedding</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Miscellaneous</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Miscellaneous</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://doc.kamimadrasah.com/kategori/branding"> Shopify </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://doc.kamimadrasah.com/kategori/instalasi"> Shopify </a>
             <ul class="is-hidden" id="off-canvas-shopify">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Show all Shopify</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Show all Shopify</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Items</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Items</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Fashion</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Fashion</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Shopping</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Shopping</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Health &amp; Beauty</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Health &amp; Beauty</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Technology</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Technology</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Entertainment</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Entertainment</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Miscellaneous</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Miscellaneous</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link--empty" href="https://doc.kamimadrasah.com/kategori/branding"> Jamstack </a>
+            <a class="off-canvas-category-link--empty" href="https://doc.kamimadrasah.com/kategori/instalasi"> Jamstack </a>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://doc.kamimadrasah.com/kategori/branding"> Marketing </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://doc.kamimadrasah.com/kategori/instalasi"> Marketing </a>
             <ul class="is-hidden" id="off-canvas-marketing">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Show all Marketing</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Show all Marketing</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Items</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Items</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Email Templates</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Email Templates</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Landing Pages</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Landing Pages</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Unbounce Landing Pages</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Unbounce Landing Pages</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://doc.kamimadrasah.com/kategori/branding"> CMS </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://doc.kamimadrasah.com/kategori/instalasi"> CMS </a>
             <ul class="is-hidden" id="off-canvas-cms">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Show all CMS</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Show all CMS</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Items</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Items</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Concrete5</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Concrete5</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Drupal</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Drupal</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">HubSpot CMS Hub</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">HubSpot CMS Hub</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Joomla</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Joomla</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">MODX Themes</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">MODX Themes</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Moodle</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Moodle</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Webflow</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Webflow</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Weebly</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Weebly</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Miscellaneous</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Miscellaneous</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://doc.kamimadrasah.com/kategori/branding"> eCommerce </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://doc.kamimadrasah.com/kategori/instalasi"> eCommerce </a>
             <ul class="is-hidden" id="off-canvas-ecommerce">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Show all eCommerce</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Show all eCommerce</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Items</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Items</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">WooCommerce</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">WooCommerce</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">BigCommerce</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">BigCommerce</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Drupal Commerce</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Drupal Commerce</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Easy Digital Downloads</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Easy Digital Downloads</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Ecwid</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Ecwid</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Magento</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Magento</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">OpenCart</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">OpenCart</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">PrestaShop</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">PrestaShop</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Shopify</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Shopify</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Ubercart</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Ubercart</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">VirtueMart</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">VirtueMart</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Zen Cart</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Zen Cart</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Miscellaneous</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Miscellaneous</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://doc.kamimadrasah.com/kategori/branding"> UI Templates </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://doc.kamimadrasah.com/kategori/instalasi"> UI Templates </a>
             <ul class="is-hidden" id="off-canvas-ui-templates">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Popular Items</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Popular Items</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Figma</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Figma</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Adobe XD</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Adobe XD</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Photoshop</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Photoshop</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Sketch</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Sketch</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="off-canvas-category-link--empty" href="https://doc.kamimadrasah.com/kategori/branding"> Plugins </a>
+            <a class="off-canvas-category-link--empty" href="https://doc.kamimadrasah.com/kategori/instalasi"> Plugins </a>
           </li>
           <li>
-            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://doc.kamimadrasah.com/kategori/branding"> More </a>
+            <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://doc.kamimadrasah.com/kategori/instalasi"> More </a>
             <ul class="is-hidden" id="off-canvas-more">
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Blogging</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Blogging</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Courses</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Courses</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Facebook Templates</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Facebook Templates</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Free Elementor Templates</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Free Elementor Templates</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Free WordPress Themes</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Free WordPress Themes</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Forums</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Forums</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Ghost Themes</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Ghost Themes</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/branding">Tumblr</a>
+                <a class="off-canvas-category-link--sub" href="https://doc.kamimadrasah.com/kategori/instalasi">Tumblr</a>
               </li>
               <li>
-                <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://doc.kamimadrasah.com/kategori/branding">Unlimited Creative Assets</a>
+                <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://doc.kamimadrasah.com/kategori/instalasi">Unlimited Creative Assets</a>
               </li>
             </ul>
           </li>
           <li>
-            <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://doc.kamimadrasah.com/kategori/branding">Unlimited Downloads</a>
+            <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://doc.kamimadrasah.com/kategori/instalasi">Unlimited Downloads</a>
           </li>
         </ul>
       </div>
     </div>
     <div class="page__off-canvas--right overflow" bis_skin_checked="1">
       <div class="off-canvas-right" bis_skin_checked="1">
-        <a class="off-canvas-right__link--cart" href="https://doc.kamimadrasah.com/kategori/branding"> Guest Cart <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
+        <a class="off-canvas-right__link--cart" href="https://doc.kamimadrasah.com/kategori/instalasi"> Guest Cart <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
             <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
             <i class="e-icon -icon-cart"></i>
           </div>
         </a>
-        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/DEPOBOS"> Create an Envato Account <i class="e-icon -icon-envato"></i>
+        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/KEPRITOGEL"> Create an Envato Account <i class="e-icon -icon-envato"></i>
         </a>
-        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/DEPOBOS"> Sign In <i class="e-icon -icon-login"></i>
+        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/KEPRITOGEL"> Sign In <i class="e-icon -icon-login"></i>
         </a>
       </div>
     </div>
@@ -1720,7 +1720,7 @@
             <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
               <div class="header-mini" bis_skin_checked="1">
                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                  <a class="btn btn--square" href="https://doc.kamimadrasah.com/kategori/branding">
+                  <a class="btn btn--square" href="https://doc.kamimadrasah.com/kategori/instalasi">
                     <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                       <title>Cart</title>
                       <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
@@ -1731,19 +1731,19 @@
                   </a>
                 </div>
                 <div class="header-mini__button--account" bis_skin_checked="1">
-                  <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://doc.kamimadrasah.com/kategori/branding">
+                  <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://doc.kamimadrasah.com/kategori/instalasi">
                     <i class="e-icon -icon-person"></i>
                     <span class="is-hidden">Account</span>
                   </a>
                 </div>
                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                  <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://doc.kamimadrasah.com/kategori/branding">
+                  <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://doc.kamimadrasah.com/kategori/instalasi">
                     <i class="e-icon -icon-hamburger"></i>
                     <span class="is-hidden">Sites, Search &amp; Categories</span>
                   </a>
                 </div>
                 <div class="header-mini__logo" bis_skin_checked="1">
-                  <a href="https://doc.kamimadrasah.com/kategori/branding">
+                  <a href="https://doc.kamimadrasah.com/kategori/instalasi">
                     <img alt="Logo Baru" src="https://i.imgur.com/7d9iYu7.png" style="height:40px; width:auto; display:inline-block;">
                   </a>
                 </div>
@@ -1752,23 +1752,23 @@
             <div class="global-header is-hidden-tablet-and-below" bis_skin_checked="1">
               <div class="grid-container -layout-wide" bis_skin_checked="1">
                 <div class="global-header__wrapper" bis_skin_checked="1">
-                  <a href="https://doc.kamimadrasah.com/kategori/branding">
+                  <a href="https://doc.kamimadrasah.com/kategori/instalasi">
                     <img height="50" alt="Envato Market" class="global-header__logo" src="https://i.imgur.com/7d9iYu7.png">
                   </a>
                   <nav class="global-header-menu" role="navigation">
                     <ul class="global-header-menu__list">
                       <li class="global-header-menu__list-item">
-                        <a class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/branding">
-                          <span class="global-header-menu__link-text"> DEPOBOS </span>
+                        <a class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/instalasi">
+                          <span class="global-header-menu__link-text"> KEPRITOGEL </span>
                         </a>
                       </li>
                       <li class="global-header-menu__list-item">
-                        <a class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/branding">
-                          <span class="global-header-menu__link-text"> DEPOBOS LOGIN </span>
+                        <a class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/instalasi">
+                          <span class="global-header-menu__link-text"> KEPRITOGEL LOGIN </span>
                         </a>
                       </li>
                       <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                        <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/branding">
+                        <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/instalasi">
                           <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                             <title>Menu</title>
                             <path d="M3.5 2A1.5 1.5 0 0 1 5 3.5 1.5 1.5 0 0 1 3.5 5 1.5 1.5 0 0 1 2 3.5 1.5 1.5 0 0 1 3.5 2zM8 2a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 5a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 2zM12.5 2A1.5 1.5 0 0 1 14 3.5 1.5 1.5 0 0 1 12.5 5 1.5 1.5 0 0 1 11 3.5 1.5 1.5 0 0 1 12.5 2zM3.5 6.5A1.5 1.5 0 0 1 5 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 2 8a1.5 1.5 0 0 1 1.5-1.5zM8 6.5A1.5 1.5 0 0 1 9.5 8 1.5 1.5 0 0 1 8 9.5 1.5 1.5 0 0 1 6.5 8 1.5 1.5 0 0 1 8 6.5zM12.5 6.5A1.5 1.5 0 0 1 14 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 11 8a1.5 1.5 0 0 1 1.5-1.5zM3.5 11A1.5 1.5 0 0 1 5 12.5 1.5 1.5 0 0 1 3.5 14 1.5 1.5 0 0 1 2 12.5 1.5 1.5 0 0 1 3.5 11zM8 11a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 14a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 11zM12.5 11a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z">
@@ -1778,7 +1778,7 @@
                         </a>
                       </li>
                       <li class="global-header-menu__list-item -background-light -border-radius">
-                        <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://doc.kamimadrasah.com/kategori/branding">
+                        <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://doc.kamimadrasah.com/kategori/instalasi">
                           <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                             <title>Cart</title>
                             <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
@@ -1788,7 +1788,7 @@
                         </a>
                       </li>
                       <li class="global-header-menu__list-item -background-light -border-radius">
-                        <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/branding">
+                        <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/instalasi">
                           <span id="spec-user-username" class="global-header-menu__link-text"> Sign In </span>
                         </a>
                       </li>
@@ -1802,25 +1802,25 @@
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                   <nav class="header-site-titles__container">
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS</a>
+                      <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Code" href="https://doc.kamimadrasah.com/kategori/branding">LINK DEPOBOS</a>
+                      <a class="header-site-titles__link t-link" alt="Code" href="https://doc.kamimadrasah.com/kategori/instalasi">LINK KEPRITOGEL</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Video" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS DAFTAR</a>
+                      <a class="header-site-titles__link t-link" alt="Video" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL DAFTAR</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Music" href="https://doc.kamimadrasah.com/kategori/branding">LINK GACOR</a>
+                      <a class="header-site-titles__link t-link" alt="Music" href="https://doc.kamimadrasah.com/kategori/instalasi">LINK GACOR</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Graphics" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS LOGIN</a>
+                      <a class="header-site-titles__link t-link" alt="Graphics" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL LOGIN</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Photos" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS ALTERNATIF</a>
+                      <a class="header-site-titles__link t-link" alt="Photos" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL ALTERNATIF</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="3D Files" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS RESMI</a>
+                      <a class="header-site-titles__link t-link" alt="3D Files" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL RESMI</a>
                     </div>
                     <div class="header-site-titles__site elements-nav__container" bis_skin_checked="1">
                       <a class="header-site-titles__link t-link elements-nav__main-link" href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net" target="_blank">
@@ -1851,7 +1851,7 @@
                     </div>
                     <div class="header-site-floating-logo__container" bis_skin_checked="1">
                       <div class="" bis_skin_checked="1">
-                        <img src="https://i.imgur.com/7d9iYu7.png" alt="DEPOBOS" style="max-width: 150px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
+                        <img src="https://i.imgur.com/7d9iYu7.png" alt="KEPRITOGEL" style="max-width: 150px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
                       </div>
                     </div>
                   </nav>
@@ -1863,32 +1863,32 @@
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                   <ul class="header-categories__links">
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://doc.kamimadrasah.com/kategori/branding"> DEPOBOS </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> KEPRITOGEL </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://doc.kamimadrasah.com/kategori/branding"> LINK GACOR </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> LINK GACOR </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://doc.kamimadrasah.com/kategori/branding"> DEPOBOS LOGIN </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> KEPRITOGEL LOGIN </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link header-categories__main-link--empty" href="https://doc.kamimadrasah.com/kategori/branding"> SLOT GACOR </a>
+                      <a class="header-categories__main-link header-categories__main-link--empty" href="https://doc.kamimadrasah.com/kategori/instalasi"> SLOT GACOR </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://doc.kamimadrasah.com/kategori/branding"> SITUS SLOT GACOR </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> SITUS SLOT GACOR </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://doc.kamimadrasah.com/kategori/branding"> SLOT GACOR </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> SLOT GACOR </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link header-categories__main-link--empty" href="https://doc.kamimadrasah.com/kategori/branding"> SLOT777 </a>
+                      <a class="header-categories__main-link header-categories__main-link--empty" href="https://doc.kamimadrasah.com/kategori/instalasi"> SLOT777 </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-7-dropdown" href="https://doc.kamimadrasah.com/kategori/branding"> SLOT88 </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-7-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> SLOT88 </a>
                     </li>
                   </ul>
                   <div class="header-categories__search" bis_skin_checked="1">
-                    <form id="search" data-view="searchField" action="https://doc.kamimadrasah.com/kategori/branding" accept-charset="UTF-8" method="get">
+                    <form id="search" data-view="searchField" action="https://doc.kamimadrasah.com/kategori/instalasi" accept-charset="UTF-8" method="get">
                       <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                         <div class="search-field__input" bis_skin_checked="1">
                           <input id="term" name="term" class="js-term search-field__input-field" type="search" placeholder="Search">
@@ -1910,19 +1910,19 @@
           <div class="context-header " bis_skin_checked="1">
             <div class="grid-container " bis_skin_checked="1">
               <nav class="breadcrumbs h-text-truncate  ">
-                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS</a>
-                <a href="https://doc.kamimadrasah.com/kategori/branding" class="js-breadcrumb-category">DEPOBOS LOGIN</a>
-                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS DAFTAR</a>
-                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/branding">SITUS DEPOBOS</a>
+                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL</a>
+                <a href="https://doc.kamimadrasah.com/kategori/instalasi" class="js-breadcrumb-category">KEPRITOGEL LOGIN</a>
+                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL DAFTAR</a>
+                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">SITUS KEPRITOGEL</a>
               </nav>
               <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                 <div class="item-header__top" bis_skin_checked="1">
                   <div class="item-header__title" bis_skin_checked="1">
-                    <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">DEPOBOS | Link Login Situs Slot Resmi Terbaik</h1>
-                    <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above"> DEPOBOS | Link Login Situs Slot Resmi Terbaik</h1>
+                    <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">KEPRITOGEL | Link Login Slot Gacor Modal Receh</h1>
+                    <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above"> KEPRITOGEL | Link Login Slot Gacor Modal Receh</h1>
                   </div>
                   <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
-                    <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/branding">
+                    <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/instalasi">
                       <span class="item-header__cart-button-icon">
                         <i class="e-icon -icon-cart -margin-right"></i>
                       </span>
@@ -1933,7 +1933,7 @@
                   </div>
                 </div>
                 <div class="item-header__details-section" bis_skin_checked="1">
-                  <div class="item-header__author-details" bis_skin_checked="1"> By <a rel="author" class="js-by-author" href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS</a>
+                  <div class="item-header__author-details" bis_skin_checked="1"> By <a rel="author" class="js-by-author" href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL</a>
                   </div>
                   <div class="item-header__sales-count" bis_skin_checked="1">
                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1944,7 +1944,7 @@
                     <strong>58,556,748</strong> sales
                   </div>
                   <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                    <strong>DEPOBOS</strong>
+                    <strong>KEPRITOGEL</strong>
                     <svg width="16px" height="16px" viewBox="0 0 14 14" class="item-header__envato-checkmark-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                       <title></title>
                       <path fill-rule="evenodd" clip-rule="evenodd" d="M0.333252 7.00004C0.333252 3.31814 3.31802 0.333374 6.99992 0.333374C8.76803 0.333374 10.4637 1.03575 11.714 2.286C12.9642 3.53624 13.6666 5.23193 13.6666 7.00004C13.6666 10.6819 10.6818 13.6667 6.99992 13.6667C3.31802 13.6667 0.333252 10.6819 0.333252 7.00004ZM6.15326 9.23337L9.89993 5.48671C10.0227 5.35794 10.0227 5.15547 9.89993 5.02671L9.54659 4.67337C9.41698 4.54633 9.20954 4.54633 9.07993 4.67337L5.91993 7.83337L4.91993 6.84004C4.85944 6.77559 4.77498 6.73903 4.68659 6.73903C4.5982 6.73903 4.51375 6.77559 4.45326 6.84004L4.09993 7.19337C4.03682 7.25596 4.00133 7.34116 4.00133 7.43004C4.00133 7.51892 4.03682 7.60412 4.09993 7.66671L5.68659 9.23337C5.74708 9.29782 5.83154 9.33439 5.91993 9.33439C6.00832 9.33439 6.09277 9.29782 6.15326 9.23337Z" fill="#79B530"></path>
@@ -2007,8 +2007,8 @@
                     <div class="col-12">
                       <div class="w-100 mt-4 mb-4 text-center">
                         <div class="n-columns-2">
-                          <a href="https://exacoreglobal.pages.dev/DEPOBOS" rel="nofollow noreferrer" class="login">LOGIN DEPOBOS</a>
-                          <a href="https://exacoreglobal.pages.dev/DEPOBOS" rel="nofollow noreferrer" class="register">DAFTAR DEPOBOS</a>
+                          <a href="https://exacoreglobal.pages.dev/KEPRITOGEL" rel="nofollow noreferrer" class="login">LOGIN KEPRITOGEL</a>
+                          <a href="https://exacoreglobal.pages.dev/KEPRITOGEL" rel="nofollow noreferrer" class="register">DAFTAR KEPRITOGEL</a>
                         </div>
                       </div>
                       <!-- Section 2 -->
@@ -2016,9 +2016,9 @@
                     <!-- Desktop Item Navigation -->
                     <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                       <ul>
-                        <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/branding">Item Details</a>
+                        <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/instalasi">Item Details</a>
                         </li>
-                        <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/branding"><span>Reviews</span><span>
+                        <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/instalasi"><span>Reviews</span><span>
                               <div class="rating-detailed-small" bis_skin_checked="1">
                                 <div class="rating-detailed-small__header" bis_skin_checked="1">
                                   <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -2034,8 +2034,8 @@
                                 </div>
                               </div>
                             </span><span class="item-navigation-reviews-comments">888</span></a></li>
-                        <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/branding"><span>Comments</span><span class="item-navigation-reviews-comments">9,999</span></a></li>
-                        <li><a class="js-item-navigation-support t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/branding">Support</a>
+                        <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/instalasi"><span>Comments</span><span class="item-navigation-reviews-comments">9,999</span></a></li>
+                        <li><a class="js-item-navigation-support t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/instalasi">Support</a>
                         </li>
                       </ul>
                     </div>
@@ -2043,9 +2043,9 @@
                   </div>
                   <div class="page-tabs" bis_skin_checked="1">
                     <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
-                      <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/branding"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
+                      <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/instalasi"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
                       </li>
-                      <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/branding"><span class="item-bookmarking__control--label">Add to Collection</span></a>
+                      <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://doc.kamimadrasah.com/kategori/instalasi"><span class="item-bookmarking__control--label">Add to Collection</span></a>
                       </li>
                     </ul>
                   </div>
@@ -2064,7 +2064,7 @@
                         "items": [{
                           "affiliation": "themeforest",
                           "item_id": 8988002,
-                          "item_name": "DEPOBOS | Link Login Situs Slot Resmi Terbaik",
+                          "item_name": "KEPRITOGEL | Link Login Slot Gacor Modal Receh",
                           "item_brand": "tokopress",
                           "item_category": "wordpress",
                           "item_category2": "ecommerce",
@@ -2085,12 +2085,12 @@
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader">
                           <li class="item-bookmarking__control_icons--favorite">
                             <span>
-                              <a title="Add to Favorites" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/branding"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
+                              <a title="Add to Favorites" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/instalasi"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
                             </span>
                           </li>
                           <li class="item-bookmarking__control_icons--collection">
                             <span>
-                              <a title="Add to Collection" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/branding">
+                              <a title="Add to Collection" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/instalasi">
                                 <span class="item-bookmarking__control--label">Add to Collection</span>
                               </a> </span>
                           </li>
@@ -2098,8 +2098,8 @@
                       </div>
                       <div class="box--no-padding" bis_skin_checked="1">
                         <div class="item-preview live-preview-btn--blue -preview-live" bis_skin_checked="1">
-                          <a target="_blank" href="https://exacoreglobal.pages.dev/DEPOBOS"><img alt="DEPOBOS | Link Login Situs Slot Resmi Terbaik - WooCommerce eCommerce" width="300" height="300" srcset="https://i.imgur.com/3UGci6p.jpeg" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://i.imgur.com/3UGci6p.jpeg"></a>
-                          <div class="js- item-preview-image__gallery" data-title="DEPOBOS | Link Login Situs Slot Resmi Terbaik - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
+                          <a target="_blank" href="https://exacoreglobal.pages.dev/KEPRITOGEL"><img alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh - WooCommerce eCommerce" width="300" height="300" srcset="https://i.imgur.com/3UGci6p.jpeg" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://i.imgur.com/3UGci6p.jpeg"></a>
+                          <div class="js- item-preview-image__gallery" data-title="KEPRITOGEL | Link Login Slot Gacor Modal Receh - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                             <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                             <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
                             <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/02_marketica2_shop_page.png">MARKETICA_PREVIEW/02_marketica2_shop_page.png</a>
@@ -2133,25 +2133,25 @@
                           </div>
                           <div class="item-preview__actions" bis_skin_checked="1">
                             <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
-                              <a href="https://exacoreglobal.pages.dev/DEPOBOS" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow"> LOGIN </a>
-                              <a data-view="screenshotGallery" href="https://exacoreglobal.pages.dev/DEPOBOS" role="button" class="btn-icon screenshots" target="_blank" rel="noopener"> DAFTAR </a>
+                              <a href="https://exacoreglobal.pages.dev/KEPRITOGEL" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow"> LOGIN </a>
+                              <a data-view="screenshotGallery" href="https://exacoreglobal.pages.dev/KEPRITOGEL" role="button" class="btn-icon screenshots" target="_blank" rel="noopener"> DAFTAR </a>
                             </div>
                           </div>
                           <br>
-                          <a href="https://exacoreglobal.pages.dev/DEPOBOS"><img src="https://i.imgur.com/z9MRLla.gif" alt="panenslot" style="width: 320px; height: 125px;">
+                          <a href="https://exacoreglobal.pages.dev/KEPRITOGEL"><img src="https://i.imgur.com/z9MRLla.gif" alt="panenslot" style="width: 320px; height: 125px;">
                           </a>
-                        </div><a href="https://exacoreglobal.pages.dev/DEPOBOS">
+                        </div><a href="https://exacoreglobal.pages.dev/KEPRITOGEL">
                         </a>
-                      </div><a href="https://exacoreglobal.pages.dev/DEPOBOS">
+                      </div><a href="https://exacoreglobal.pages.dev/KEPRITOGEL">
                       </a>
-                    </div><a href="https://exacoreglobal.pages.dev/DEPOBOS">
+                    </div><a href="https://exacoreglobal.pages.dev/KEPRITOGEL">
                     </a>
-                    <div data-view="toggleItemDescription" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/DEPOBOS">
+                    <div data-view="toggleItemDescription" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/KEPRITOGEL">
                       </a>
-                      <div class="js-item-togglable-content has-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/DEPOBOS">
+                      <div class="js-item-togglable-content has-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/KEPRITOGEL">
                         </a>
-                        <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/DEPOBOS">
-                          </a><a class="item-description-toggle__link" href="https://doc.kamimadrasah.com/kategori/branding">
+                        <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/KEPRITOGEL">
+                          </a><a class="item-description-toggle__link" href="https://doc.kamimadrasah.com/kategori/instalasi">
                             <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                             <span class="item-description-toggle__less">Show Less <i class="e-icon -icon-chevron-down -rotate-180"></i></span>
                           </a>
@@ -2172,7 +2172,7 @@
                     <div class="pricebox-container" bis_skin_checked="1">
                       <div class="purchase-panel" bis_skin_checked="1">
                         <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                          <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;DEPOBOS | Link Login Situs Slot Resmi Terbaik&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://doc.kamimadrasah.com/kategori/branding" accept-charset="UTF-8" method="post">
+                          <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;KEPRITOGEL | Link Login Slot Gacor Modal Receh&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://doc.kamimadrasah.com/kategori/instalasi" accept-charset="UTF-8" method="post">
                             <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                             <div bis_skin_checked="1">
                               <div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
@@ -2200,7 +2200,7 @@
                                         </div>
                                         <div class="flyout__link" bis_skin_checked="1">
                                           <p class="t-body -size-m h-m0">
-                                            <a class="t-link -decoration-reversed" target="_blank" href="https://doc.kamimadrasah.com/kategori/brandinglaser-therapy-phototherapy.htmllicenses/standard">View license details</a>
+                                            <a class="t-link -decoration-reversed" target="_blank" href="https://doc.kamimadrasah.com/kategori/instalasilaser-therapy-phototherapy.htmllicenses/standard">View license details</a>
                                           </p>
                                         </div>
                                       </div>
@@ -2218,13 +2218,13 @@
                                 <div class="purchase-form__support" bis_skin_checked="1">
                                   <ul class="t-icon-list -font-size-s -icon-size-s -offset-flush">
                                     <li class="t-icon-list__item -icon-ok">
-                                      <span class="is-visually-hidden">Included:</span> DEPOBOS
+                                      <span class="is-visually-hidden">Included:</span> KEPRITOGEL
                                     </li>
                                     <li class="t-icon-list__item -icon-ok">
-                                      <span class="is-visually-hidden">Included:</span> DEPOBOS LOGIN
+                                      <span class="is-visually-hidden">Included:</span> KEPRITOGEL LOGIN
                                     </li>
                                     <li class="t-icon-list__item -icon-ok">
-                                      <span class="is-visually-hidden">Included:</span> DEPOBOS DAFTAR <span class="purchase-form__author-name"></span>
+                                      <span class="is-visually-hidden">Included:</span> KEPRITOGEL DAFTAR <span class="purchase-form__author-name"></span>
                                       <a class="t-link -decoration-reversed js-support__inclusion-link" data-view="modalAjax" href="/item_support/what_is_item_support/8988002">
                                         <svg width="12px" height="13px" viewBox="0 0 12 13" class="" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                           <title>More Info</title>
@@ -2261,14 +2261,14 @@
                                 </p>
                               </div>
                               <!--konten-->
-                              <a href="https://doc.kamimadrasah.com/kategori/branding">DEPOBOS</a> merupakan situs slot online resmi dan terpercaya yang menyediakan akses login cepat dengan server stabil serta sistem permainan yang optimal. DEPOBOS menghadirkan berbagai game slot gacor dari provider ternama dengan RTP tinggi dan peluang jackpot besar setiap hari, didukung keamanan data berlapis, proses transaksi instan, serta layanan pelanggan 24 jam nonstop, menjadikannya pilihan tepat bagi pemain yang mencari slot online resmi, aman, dan berkualitas terbaik.<p></p>
+                              <a href="https://doc.kamimadrasah.com/kategori/instalasi">KEPRITOGEL</a> merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain. KEPRITOGEL menghadirkan berbagai game slot gacor dari provider ternama dengan RTP tinggi, memungkinkan peluang menang dan jackpot besar meski hanya dengan modal receh, didukung sistem keamanan berlapis, proses transaksi instan, serta layanan pelanggan 24 jam nonstop, menjadikannya pilihan tepat bagi pemain yang mencari slot online aman, gacor, dan ramah modal kecil.<p></p>
                             </div>
                           </form>
                         </div>
                       </div>
                     </div>
-                    <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1"> Ã‚Â© All Rights Reserved DEPOBOS <br>
-                      <a href="https://doc.kamimadrasah.com/kategori/branding">Contact the DEPOBOS Help Team</a>
+                    <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1"> Ã‚Â© All Rights Reserved KEPRITOGEL <br>
+                      <a href="https://doc.kamimadrasah.com/kategori/instalasi">Contact the KEPRITOGEL Help Team</a>
                     </div>
                   </div>
                   <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -2295,10 +2295,10 @@
                           <ul class="global-footer-sublist">
                             <li class="global-footer-sublist__item-title"> Envato Market </li>
                             <li class="global-footer-sublist__item h-p0">
-                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/brandinglaser-therapy-phototherapy.htmlhc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/instalasilaser-therapy-phototherapy.htmlhc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                             </li>
                             <li class="global-footer-sublist__item h-p0">
-                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/brandinglaser-therapy-phototherapy.htmllicenses">Licenses</a>
+                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/instalasilaser-therapy-phototherapy.htmllicenses">Licenses</a>
                             </li>
                             <li class="global-footer-sublist__item h-p0">
                               <a class="global-footer__text-link" href="https://build.envato.com">Market API</a>
@@ -2318,7 +2318,7 @@
                           <ul class="global-footer-sublist">
                             <li class="global-footer-sublist__item-title"> Help </li>
                             <li class="global-footer-sublist__item h-p0">
-                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/branding">Help Center</a>
+                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/instalasi">Help Center</a>
                             </li>
                             <li class="global-footer-sublist__item h-p0">
                               <a class="global-footer__text-link" href="https://help.author.envato.com/hc/en-us">Authors</a>
@@ -2335,7 +2335,7 @@
                               <a class="global-footer__text-link" href="https://envato.com/blog">Blog</a>
                             </li>
                             <li class="global-footer-sublist__item h-p0">
-                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/branding">Forums</a>
+                              <a class="global-footer__text-link" href="https://doc.kamimadrasah.com/kategori/instalasi">Forums</a>
                             </li>
                             <li class="global-footer-sublist__item h-p0">
                               <a class="global-footer__text-link" href="https://community.envato.com/#/events">Meetups</a>
@@ -2526,14 +2526,14 @@
       </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-      <div class="h-text-align-right" bis_skin_checked="1"><a href="https://doc.kamimadrasah.com/kategori/branding" id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
+      <div class="h-text-align-right" bis_skin_checked="1"><a href="https://doc.kamimadrasah.com/kategori/instalasi" id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a>
       </div>
       <div class="survey-popup--section" bis_skin_checked="1">
         <h2 class="t-heading h-text-align-center -size-m">Tell us what you think!</h2>
         <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
       </div>
       <div class="survey-popup--section" bis_skin_checked="1">
-        <a href="https://doc.kamimadrasah.com/kategori/branding" id="js-show-survey-button" class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to the survey</a>
+        <a href="https://doc.kamimadrasah.com/kategori/instalasi" id="js-show-survey-button" class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to the survey</a>
       </div>
     </div>
     <div id="affiliate-tracker" class="is-hidden" data-view="affiliatesTracker" data-cookiebot-enabled="true" bis_skin_checked="1"></div>
@@ -2643,7 +2643,7 @@
       </div>
       <div class="flyout__link" bis_skin_checked="1">
         <p class="t-body -size-m h-m0">
-          <a class="t-link -decoration-reversed" target="_blank" href="https://doc.kamimadrasah.com/kategori/branding">View license details</a>
+          <a class="t-link -decoration-reversed" target="_blank" href="https://doc.kamimadrasah.com/kategori/instalasi">View license details</a>
         </p>
       </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-953691586" data-load-time="1753876666560" height="0" width="0" src="https://td.doubleclick.net/td/rul/953691586?random=1753876666537&amp;cv=11&amp;fst=1753876666537&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}" bis_id="fr_x7s5fwn363kzny6xssxfbd" bis_depth="0" bis_chainid="2"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-943617023" data-load-time="1753876666627" height="0" width="0" src="https://td.doubleclick.net/td/rul/943617023?random=1753876666603&amp;cv=11&amp;fst=1753876666603&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1v889115050z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}" bis_id="fr_ha2x32or3khbgk3c9ve5nv" bis_depth="0" bis_chainid="3"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-943617023" data-load-time="1753876666634" height="0" width="0" src="https://td.doubleclick.net/td/rul/943617023?random=1753876666631&amp;cv=11&amp;fst=1753876666631&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be57s1v889115050z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;did=dMWZhNz&amp;gdid=dMWZhNz&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;_tu=Cg&amp;data=ads_data_redaction%3Dfalse" style="display: none; visibility: hidden;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}" bis_id="fr_z2gfbnsev3bhw7ln6q22jb" bis_depth="0" bis_chainid="4"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-800411572" data-load-time="1753876666710" height="0" width="0" src="https://td.doubleclick.net/td/rul/800411572?random=1753876666684&amp;cv=11&amp;fst=1753876666684&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1v896649154z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105087538~105087540~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}" bis_id="fr_ir7vx1wyqbahien0mokr2t" bis_depth="0" bis_chainid="5"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-934741711" data-load-time="1753876666723" height="0" width="0" src="https://td.doubleclick.net/td/rul/934741711?random=1753876666713&amp;cv=11&amp;fst=1753876666713&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be57s1v896649154z89195929391za200zb9195929391zd9195929391&amp;gcd=13n3n3n3n5l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~104948813~105087538~105087540~105103161~105103163~105124543~105124545&amp;u_w=1920&amp;u_h=1080&amp;url=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;npa=0&amp;us_privacy=1---&amp;pscdl=noapi&amp;auid=786247872.1753876602&amp;uaa=x86&amp;uab=64&amp;uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.183%7CGoogle%2520Chrome%3B138.0.7204.183&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;fledge=1&amp;data=event%3Dgtag.config" style="display: none; visibility: hidden;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:300,&quot;w&quot;:0,&quot;h&quot;:0,&quot;abs_x&quot;:0,&quot;abs_y&quot;:300}" bis_id="fr_rldn0wquvhqrddm50v4c1n" bis_depth="0" bis_chainid="6"></iframe><img id="CookiebotSessionPixel" src="https://imgsct.cookiebot.com/1.gif?dgi=d10f7659-aa82-4007-9cf1-54a9496002bf" alt="Cookiebot session tracker icon loaded" data-cookieconsent="ignore" style="display: none;">
