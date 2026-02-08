@@ -16,7 +16,7 @@
   <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W8KL5Q5"></script>
   <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <link rel="amphtml" href="https://exacoreglobal.pages.dev/WDBOS">
+  <link rel="amphtml" href="https://exacoreglobal.pages.dev/BOSJOKO">
   <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
     //<![CDATA[
     window.DATADOG_CONFIG = {
@@ -43,8 +43,8 @@
   <link rel="preload" href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4" as="image">
   <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
   <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
-  <title>WDBOS | Link Login Slot Gacor Paling Cuan</title>
-  <meta name="description" content="WDBOS merupakan situs slot online terpercaya yang menawarkan akses login cepat dengan server stabil dan performa permainan optimal.">
+  <title>BOSJOKO | Link Login Situs Slot Online Tanpa Kendala</title>
+  <meta name="description" content="BOSJOKO merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan dukungan server stabil dan sistem permainan lancar tanpa gangguan.">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/sfmgGYZ4/icon.webp">
   <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://i.postimg.cc/sfmgGYZ4/icon.webp" sizes="72x72">
@@ -61,14 +61,14 @@
     {
       "@context": "https://schema.org",
       "@type": "Product",
-      "name": "WDBOS | Link Login Slot Gacor Paling Cuan",
+      "name": "BOSJOKO | Link Login Situs Slot Online Tanpa Kendala",
       "image": "https://i.imgur.com/3UGci6p.jpeg",
-      "description": "WDBOS merupakan situs slot online terpercaya yang menawarkan akses login cepat dengan server stabil dan performa permainan optimal.",
+      "description": "BOSJOKO merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan dukungan server stabil dan sistem permainan lancar tanpa gangguan.",
       "brand": {
         "@type": "Brand",
-        "name": "WDBOS"
+        "name": "BOSJOKO"
       },
-      "sku": "WDBOS-RESMI2026",
+      "sku": "BOSJOKO-RESMI2026",
       "mpn": "77GCR-001",
       "url": "https://doc.kamimadrasah.com/kategori/instalasi",
       "offers": {
@@ -81,7 +81,7 @@
         "availability": "https://schema.org/InStock",
         "seller": {
           "@type": "Organization",
-          "name": "WDBOS"
+          "name": "BOSJOKO"
         }
       },
       "aggregateRating": {
@@ -121,12 +121,12 @@
       "itemListElement": [{
         "@type": "ListItem",
         "position": 1,
-        "name": "WDBOS",
+        "name": "BOSJOKO",
         "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 2,
-        "name": "WDBOS LOGIN",
+        "name": "BOSJOKO LOGIN",
         "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
@@ -141,12 +141,12 @@
       }, {
         "@type": "ListItem",
         "position": 5,
-        "name": "DAFTAR WDBOS",
+        "name": "DAFTAR BOSJOKO",
         "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
         "position": 6,
-        "name": "LOGIN WDBOS",
+        "name": "LOGIN BOSJOKO",
         "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }, {
         "@type": "ListItem",
@@ -156,7 +156,7 @@
       }, {
         "@type": "ListItem",
         "position": 8,
-        "name": "WDBOS LOGIN",
+        "name": "BOSJOKO LOGIN",
         "item": "https://doc.kamimadrasah.com/kategori/instalasi"
       }]
     }
@@ -165,7 +165,7 @@
     {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "WDBOS",
+      "name": "BOSJOKO",
       "url": "https://doc.kamimadrasah.com/kategori/instalasi",
       "logo": "https://i.imgur.com/7d9iYu7.png",
       "sameAs": ["https://www.facebook.com/SDTOTOofficial", "https://twitter.com/SDTOTORESMI", "https://www.instagram.com/SDTOTOgacor"],
@@ -185,21 +185,21 @@
   </script>
   <meta name="bingbot" content="nocache">
   <!-- Open Graph -->
-  <meta property="og:title" content="WDBOS | Link Login Slot Gacor Paling Cuan">
-  <meta property="og:description" content="WDBOS merupakan situs slot online terpercaya yang menawarkan akses login cepat dengan server stabil dan performa permainan optimal.">
+  <meta property="og:title" content="BOSJOKO | Link Login Situs Slot Online Tanpa Kendala">
+  <meta property="og:description" content="BOSJOKO merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan dukungan server stabil dan sistem permainan lancar tanpa gangguan.">
   <meta property="og:image" content="https://i.imgur.com/3UGci6p.jpeg">
   <meta property="og:url" content="https://doc.kamimadrasah.com/kategori/instalasi">
   <meta property="og:type" content="website">
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="WDBOS | Link Login Slot Gacor Paling Cuan">
-  <meta name="twitter:description" content="WDBOS merupakan situs slot online terpercaya yang menawarkan akses login cepat dengan server stabil dan performa permainan optimal.">
+  <meta name="twitter:title" content="BOSJOKO | Link Login Situs Slot Online Tanpa Kendala">
+  <meta name="twitter:description" content="BOSJOKO merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan dukungan server stabil dan sistem permainan lancar tanpa gangguan.">
   <meta name="twitter:image" content="https://i.imgur.com/3UGci6p.jpeg">
-  <meta property="og:title" content="WDBOS | Link Login Slot Gacor Paling Cuan">
+  <meta property="og:title" content="BOSJOKO | Link Login Situs Slot Online Tanpa Kendala">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://doc.kamimadrasah.com/kategori/instalasi">
   <meta property="og:image" content="https://i.imgur.com/3UGci6p.jpeg">
-  <meta property="og:description" content="WDBOS merupakan situs slot online terpercaya yang menawarkan akses login cepat dengan server stabil dan performa permainan optimal.">
+  <meta property="og:description" content="BOSJOKO merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan dukungan server stabil dan sistem permainan lancar tanpa gangguan.">
   <meta property="og:site_name" content="ThemeForest">
   <meta name="csrf-param" content="authenticity_token">
   <meta name="csrf-token" content="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ">
@@ -580,11 +580,11 @@
 
     /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
   </style>
-    <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+    <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <style type="text/css">
     .fancybox-margin {
       margin-right: 15px;
@@ -905,11 +905,11 @@
 
     /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
   </style>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000164&amp;cv=11&amp;fst=1766448000164&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=WDBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000188&amp;cv=11&amp;fst=1766448000188&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=WDBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1766448000213&amp;cv=11&amp;fst=1766448000213&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=WDBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1766448000231&amp;cv=11&amp;fst=1766448000231&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=WDBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1766448000282&amp;cv=11&amp;fst=1766448000282&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391252~115583767~115938465~115938469~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=WDBOS%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000164&amp;cv=11&amp;fst=1766448000164&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=BOSJOKO%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1766448000188&amp;cv=11&amp;fst=1766448000188&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528500~104684208~104684211~105391252~115583767~115616986~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=BOSJOKO%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1766448000213&amp;cv=11&amp;fst=1766448000213&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=BOSJOKO%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1766448000231&amp;cv=11&amp;fst=1766448000231&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938465~115938468~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=BOSJOKO%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1766448000282&amp;cv=11&amp;fst=1766448000282&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391252~115583767~115938465~115938469~116184927~116184929~116251938~116251940&amp;u_w=412&amp;u_h=732&amp;url=https%3A%2F%2Fwww.win-health.com%2F&amp;frm=0&amp;tiba=BOSJOKO%3A%20Provider%20Utama%20Bandar%20Togel%20Terbesar%20dan%20AGen%20Situs%20Toto%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1464404623.1766448000&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
   <style>
     :root {
       --color-grey-1000: #191919;
@@ -1223,11 +1223,11 @@
 
     /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uL2FwcC9qYXZhc2NyaXB0L2NvbXBvbmVudHMvYnJhbmRfbmV1ZV90b2tlbnMvY29tcG9uZW50cy9idXR0b24uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHNCQUFBO0VBQ0Esc0NBQUE7RUFDQSw0Q0FBQTtFQUNBLGlDQUFBO0VBQ0EsNEJBQUE7RUFDQSw4QkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBQ0Y7QUFBRTtFQUNFLGtEQUFBO0FBRUo7O0FBQ0U7RUFDRSxZQUFBO0VBQ0EsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGdEQUFBO0FBRUoiLCJzb3VyY2VzQ29udGVudCI6WyIuYnJhbmQtbmV1ZS1idXR0b25cbiAgZ2FwOiB2YXIoLS1zcGFjaW5nLTJ4KVxuICBib3JkZXItcmFkaXVzOiB2YXIoLS1yb3VuZG5lc3Mtc3VidGxlKVxuICBiYWNrZ3JvdW5kOiB2YXIoLS1jb2xvci1pbnRlcmFjdGl2ZS1wcmltYXJ5KVxuICBjb2xvcjogdmFyKC0tY29sb3ItY29udGVudC1icmFuZClcbiAgZm9udC1mYW1pbHk6IFBvbHlTYW5zLU1lZGlhblxuICBmb250LXNpemU6IHZhcigtLWZvbnQtc2l6ZS0yeClcbiAgbGV0dGVyLXNwYWNpbmc6IDAuMDJlbVxuICB0ZXh0LWFsaWduOiBjZW50ZXJcbiAgcGFkZGluZzogMCAyMHB4XG4gICY6aG92ZXIsICY6YWN0aXZlLCAmOmZvY3VzXG4gICAgYmFja2dyb3VuZDogdmFyKC0tY29sb3ItaW50ZXJhY3RpdmUtcHJpbWFyeS1ob3ZlcilcblxuLmJyYW5kLW5ldWUtYnV0dG9uX19vcGVuLWluLW5ld1xuICAmOjphZnRlclxuICAgIGZvbnQtc2l6ZTogMFxuICAgIG1hcmdpbi1sZWZ0OiA1cHhcbiAgICB2ZXJ0aWNhbC1hbGlnbjogc3ViXG4gICAgY29udGVudDogdXJsKCdkYXRhOmltYWdlL3N2Zyt4bWwsPHN2ZyB3aWR0aD1cIjE0XCIgaGVpZ2h0PVwiMTRcIiB2aWV3Qm94PVwiMCAwIDIwIDIwXCIgZmlsbD1cIm5vbmVcIiB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCI+PGcgaWQ9XCJpY28tLy0yNC0vLWFjdGlvbnMtLy1vcGVuX2luX25ld1wiPjxwYXRoIGlkPVwiSWNvbi1jb2xvclwiIGQ9XCJNMTcuNSAxMi4wODMzVjE1LjgzMzNDMTcuNSAxNi43NTM4IDE2Ljc1MzggMTcuNSAxNS44MzMzIDE3LjVINC4xNjY2N0MzLjI0NjE5IDE3LjUgMi41IDE2Ljc1MzggMi41IDE1LjgzMzNWNC4xNjY2N0MyLjUgMy4yNDYxOSAzLjI0NjE5IDIuNSA0LjE2NjY3IDIuNUg3LjkxNjY3QzguMTQ2NzkgMi41IDguMzMzMzMgMi42ODY1NSA4LjMzMzMzIDIuOTE2NjdWMy43NUM4LjMzMzMzIDMuOTgwMTIgOC4xNDY3OSA0LjE2NjY3IDcuOTE2NjcgNC4xNjY2N0g0LjE2NjY3VjE1LjgzMzNIMTUuODMzM1YxMi4wODMzQzE1LjgzMzMgMTEuODUzMiAxNi4wMTk5IDExLjY2NjcgMTYuMjUgMTEuNjY2N0gxNy4wODMzQzE3LjMxMzUgMTEuNjY2NyAxNy41IDExLjg1MzIgMTcuNSAxMi4wODMzWk0xNy4zMTY3IDIuOTE2NjdMMTcuMDkxNyAyLjY5MTY3QzE2Ljk4IDIuNTc1MzUgMTYuODI3OCAyLjUwNjY4IDE2LjY2NjcgMi41SDExLjI1QzExLjAxOTkgMi41IDEwLjgzMzMgMi42ODY1NSAxMC44MzMzIDIuOTE2NjdWMy43NUMxMC44MzMzIDMuOTgwMTIgMTEuMDE5OSA0LjE2NjY3IDExLjI1IDQuMTY2NjdIMTQuNjU4M0w3LjYyNSAxMS4yQzcuNTQ2MTIgMTEuMjc4MiA3LjUwMTc1IDExLjM4NDcgNy41MDE3NSAxMS40OTU4QzcuNTAxNzUgMTEuNjA2OSA3LjU0NjEyIDExLjcxMzQgNy42MjUgMTEuNzkxN0w4LjIwODMzIDEyLjM3NUM4LjI4NjU3IDEyLjQ1MzkgOC4zOTMwNyAxMi40OTgyIDguNTA0MTcgMTIuNDk4MkM4LjYxNTI3IDEyLjQ5ODIgOC43MjE3NiAxMi40NTM5IDguOCAxMi4zNzVMMTUuODMzMyA1LjM1VjguNzVDMTUuODMzMyA4Ljk4MDEyIDE2LjAxOTkgOS4xNjY2NyAxNi4yNSA5LjE2NjY3SDE3LjA4MzNDMTcuMzEzNSA5LjE2NjY3IDE3LjUgOC45ODAxMiAxNy41IDguNzVWMy4zMzMzM0MxNy40OTU1IDMuMTczNDIgMTcuNDI5OSAzLjAyMTMyIDE3LjMxNjcgMi45MDgzM1YyLjkxNjY3WlwiIGZpbGw9XCIlMjMxQTQyMDBcIi8+PC9nPjwvc3ZnPicpXG5cbiJdLCJzb3VyY2VSb290IjoiIn0= */
   </style>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=WDBOS%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953691586/?random=1767420417111&amp;cv=11&amp;fst=1767420417111&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1z89195929391za200xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/800411572/?random=1767420417120&amp;cv=11&amp;fst=1767420417120&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/934741711/?random=1767420417127&amp;cv=11&amp;fst=1767420417127&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v896649154z89195929391za200zd896649154xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115616985~115938466~115938468~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417155&amp;cv=11&amp;fst=1767420417155&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;en=gtag.config&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xec&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+  <script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/943617023/?random=1767420417175&amp;cv=11&amp;fst=1767420417175&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5ca1v889115050z89195929391za20gzb9195929391zd9195929391xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115583767~115938466~115938469~116184927~116184929~116251938~116251940&amp;u_w=800&amp;u_h=600&amp;url=https%3A%2F%2Fmyperuglobal.com%2Fcontacto%2F&amp;_ng=1&amp;frm=0&amp;tiba=BOSJOKO%20%3A%20Website%20Situs%20Togel%20Resmi%20Main%20Toto%20Togel%204D%20Terlengkap%20dan%20Bandar%20Togel%20Resmi%20Terpercaya&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1194422182.1767420417&amp;uaa=&amp;uab=&amp;uafvl=&amp;uamb=0&amp;uam=&amp;uap=&amp;uapv=&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 </head>
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
@@ -1707,9 +1707,9 @@
             <i class="e-icon -icon-cart"></i>
           </div>
         </a>
-        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/WDBOS"> Create an Envato Account <i class="e-icon -icon-envato"></i>
+        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/BOSJOKO"> Create an Envato Account <i class="e-icon -icon-envato"></i>
         </a>
-        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/WDBOS"> Sign In <i class="e-icon -icon-login"></i>
+        <a class="off-canvas-right__link" href="https://exacoreglobal.pages.dev/BOSJOKO"> Sign In <i class="e-icon -icon-login"></i>
         </a>
       </div>
     </div>
@@ -1759,12 +1759,12 @@
                     <ul class="global-header-menu__list">
                       <li class="global-header-menu__list-item">
                         <a class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/instalasi">
-                          <span class="global-header-menu__link-text"> WDBOS </span>
+                          <span class="global-header-menu__link-text"> BOSJOKO </span>
                         </a>
                       </li>
                       <li class="global-header-menu__list-item">
                         <a class="global-header-menu__link" href="https://doc.kamimadrasah.com/kategori/instalasi">
-                          <span class="global-header-menu__link-text"> WDBOS LOGIN </span>
+                          <span class="global-header-menu__link-text"> BOSJOKO LOGIN </span>
                         </a>
                       </li>
                       <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
@@ -1802,25 +1802,25 @@
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                   <nav class="header-site-titles__container">
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS</a>
+                      <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Code" href="https://doc.kamimadrasah.com/kategori/instalasi">LINK WDBOS</a>
+                      <a class="header-site-titles__link t-link" alt="Code" href="https://doc.kamimadrasah.com/kategori/instalasi">LINK BOSJOKO</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Video" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS DAFTAR</a>
+                      <a class="header-site-titles__link t-link" alt="Video" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO DAFTAR</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
                       <a class="header-site-titles__link t-link" alt="Music" href="https://doc.kamimadrasah.com/kategori/instalasi">LINK GACOR</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Graphics" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS LOGIN</a>
+                      <a class="header-site-titles__link t-link" alt="Graphics" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO LOGIN</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="Photos" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS ALTERNATIF</a>
+                      <a class="header-site-titles__link t-link" alt="Photos" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO ALTERNATIF</a>
                     </div>
                     <div class="header-site-titles__site" bis_skin_checked="1">
-                      <a class="header-site-titles__link t-link" alt="3D Files" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS RESMI</a>
+                      <a class="header-site-titles__link t-link" alt="3D Files" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO RESMI</a>
                     </div>
                     <div class="header-site-titles__site elements-nav__container" bis_skin_checked="1">
                       <a class="header-site-titles__link t-link elements-nav__main-link" href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_8988002&amp;utm_medium=referral&amp;utm_source=themeforest.net" target="_blank">
@@ -1851,7 +1851,7 @@
                     </div>
                     <div class="header-site-floating-logo__container" bis_skin_checked="1">
                       <div class="" bis_skin_checked="1">
-                        <img src="https://i.imgur.com/7d9iYu7.png" alt="WDBOS" style="max-width: 150px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
+                        <img src="https://i.imgur.com/7d9iYu7.png" alt="BOSJOKO" style="max-width: 150px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
                       </div>
                     </div>
                   </nav>
@@ -1863,13 +1863,13 @@
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                   <ul class="header-categories__links">
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> WDBOS </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> BOSJOKO </a>
                     </li>
                     <li class="header-categories__links-item">
                       <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> LINK GACOR </a>
                     </li>
                     <li class="header-categories__links-item">
-                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> WDBOS LOGIN </a>
+                      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://doc.kamimadrasah.com/kategori/instalasi"> BOSJOKO LOGIN </a>
                     </li>
                     <li class="header-categories__links-item">
                       <a class="header-categories__main-link header-categories__main-link--empty" href="https://doc.kamimadrasah.com/kategori/instalasi"> SLOT GACOR </a>
@@ -1910,16 +1910,16 @@
           <div class="context-header " bis_skin_checked="1">
             <div class="grid-container " bis_skin_checked="1">
               <nav class="breadcrumbs h-text-truncate  ">
-                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS</a>
-                <a href="https://doc.kamimadrasah.com/kategori/instalasi" class="js-breadcrumb-category">WDBOS LOGIN</a>
-                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS DAFTAR</a>
-                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">SITUS WDBOS</a>
+                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO</a>
+                <a href="https://doc.kamimadrasah.com/kategori/instalasi" class="js-breadcrumb-category">BOSJOKO LOGIN</a>
+                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO DAFTAR</a>
+                <a class="js-breadcrumb-category" href="https://doc.kamimadrasah.com/kategori/instalasi">SITUS BOSJOKO</a>
               </nav>
               <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                 <div class="item-header__top" bis_skin_checked="1">
                   <div class="item-header__title" bis_skin_checked="1">
-                    <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">WDBOS | Link Login Slot Gacor Paling Cuan</h1>
-                    <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above"> WDBOS | Link Login Slot Gacor Paling Cuan</h1>
+                    <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">BOSJOKO | Link Login Situs Slot Online Tanpa Kendala</h1>
+                    <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above"> BOSJOKO | Link Login Situs Slot Online Tanpa Kendala</h1>
                   </div>
                   <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                     <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://doc.kamimadrasah.com/kategori/instalasi">
@@ -1933,7 +1933,7 @@
                   </div>
                 </div>
                 <div class="item-header__details-section" bis_skin_checked="1">
-                  <div class="item-header__author-details" bis_skin_checked="1"> By <a rel="author" class="js-by-author" href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS</a>
+                  <div class="item-header__author-details" bis_skin_checked="1"> By <a rel="author" class="js-by-author" href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO</a>
                   </div>
                   <div class="item-header__sales-count" bis_skin_checked="1">
                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1944,7 +1944,7 @@
                     <strong>58,556,748</strong> sales
                   </div>
                   <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                    <strong>WDBOS</strong>
+                    <strong>BOSJOKO</strong>
                     <svg width="16px" height="16px" viewBox="0 0 14 14" class="item-header__envato-checkmark-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                       <title></title>
                       <path fill-rule="evenodd" clip-rule="evenodd" d="M0.333252 7.00004C0.333252 3.31814 3.31802 0.333374 6.99992 0.333374C8.76803 0.333374 10.4637 1.03575 11.714 2.286C12.9642 3.53624 13.6666 5.23193 13.6666 7.00004C13.6666 10.6819 10.6818 13.6667 6.99992 13.6667C3.31802 13.6667 0.333252 10.6819 0.333252 7.00004ZM6.15326 9.23337L9.89993 5.48671C10.0227 5.35794 10.0227 5.15547 9.89993 5.02671L9.54659 4.67337C9.41698 4.54633 9.20954 4.54633 9.07993 4.67337L5.91993 7.83337L4.91993 6.84004C4.85944 6.77559 4.77498 6.73903 4.68659 6.73903C4.5982 6.73903 4.51375 6.77559 4.45326 6.84004L4.09993 7.19337C4.03682 7.25596 4.00133 7.34116 4.00133 7.43004C4.00133 7.51892 4.03682 7.60412 4.09993 7.66671L5.68659 9.23337C5.74708 9.29782 5.83154 9.33439 5.91993 9.33439C6.00832 9.33439 6.09277 9.29782 6.15326 9.23337Z" fill="#79B530"></path>
@@ -2007,8 +2007,8 @@
                     <div class="col-12">
                       <div class="w-100 mt-4 mb-4 text-center">
                         <div class="n-columns-2">
-                          <a href="https://exacoreglobal.pages.dev/WDBOS" rel="nofollow noreferrer" class="login">LOGIN WDBOS</a>
-                          <a href="https://exacoreglobal.pages.dev/WDBOS" rel="nofollow noreferrer" class="register">DAFTAR WDBOS</a>
+                          <a href="https://exacoreglobal.pages.dev/BOSJOKO" rel="nofollow noreferrer" class="login">LOGIN BOSJOKO</a>
+                          <a href="https://exacoreglobal.pages.dev/BOSJOKO" rel="nofollow noreferrer" class="register">DAFTAR BOSJOKO</a>
                         </div>
                       </div>
                       <!-- Section 2 -->
@@ -2064,7 +2064,7 @@
                         "items": [{
                           "affiliation": "themeforest",
                           "item_id": 8988002,
-                          "item_name": "WDBOS | Link Login Slot Gacor Paling Cuan",
+                          "item_name": "BOSJOKO | Link Login Situs Slot Online Tanpa Kendala",
                           "item_brand": "tokopress",
                           "item_category": "wordpress",
                           "item_category2": "ecommerce",
@@ -2098,8 +2098,8 @@
                       </div>
                       <div class="box--no-padding" bis_skin_checked="1">
                         <div class="item-preview live-preview-btn--blue -preview-live" bis_skin_checked="1">
-                          <a target="_blank" href="https://exacoreglobal.pages.dev/WDBOS"><img alt="WDBOS | Link Login Slot Gacor Paling Cuan - WooCommerce eCommerce" width="300" height="300" srcset="https://i.imgur.com/3UGci6p.jpeg" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://i.imgur.com/3UGci6p.jpeg"></a>
-                          <div class="js- item-preview-image__gallery" data-title="WDBOS | Link Login Slot Gacor Paling Cuan - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
+                          <a target="_blank" href="https://exacoreglobal.pages.dev/BOSJOKO"><img alt="BOSJOKO | Link Login Situs Slot Online Tanpa Kendala - WooCommerce eCommerce" width="300" height="300" srcset="https://i.imgur.com/3UGci6p.jpeg" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://i.imgur.com/3UGci6p.jpeg"></a>
+                          <div class="js- item-preview-image__gallery" data-title="BOSJOKO | Link Login Situs Slot Online Tanpa Kendala - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                             <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                             <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
                             <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/02_marketica2_shop_page.png">MARKETICA_PREVIEW/02_marketica2_shop_page.png</a>
@@ -2133,24 +2133,24 @@
                           </div>
                           <div class="item-preview__actions" bis_skin_checked="1">
                             <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
-                              <a href="https://exacoreglobal.pages.dev/WDBOS" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow"> LOGIN </a>
-                              <a data-view="screenshotGallery" href="https://exacoreglobal.pages.dev/WDBOS" role="button" class="btn-icon screenshots" target="_blank" rel="noopener"> DAFTAR </a>
+                              <a href="https://exacoreglobal.pages.dev/BOSJOKO" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow"> LOGIN </a>
+                              <a data-view="screenshotGallery" href="https://exacoreglobal.pages.dev/BOSJOKO" role="button" class="btn-icon screenshots" target="_blank" rel="noopener"> DAFTAR </a>
                             </div>
                           </div>
                           <br>
-                          <a href="https://exacoreglobal.pages.dev/WDBOS"><img src="https://i.imgur.com/z9MRLla.gif" alt="panenslot" style="width: 320px; height: 125px;">
+                          <a href="https://exacoreglobal.pages.dev/BOSJOKO"><img src="https://i.imgur.com/z9MRLla.gif" alt="panenslot" style="width: 320px; height: 125px;">
                           </a>
-                        </div><a href="https://exacoreglobal.pages.dev/WDBOS">
+                        </div><a href="https://exacoreglobal.pages.dev/BOSJOKO">
                         </a>
-                      </div><a href="https://exacoreglobal.pages.dev/WDBOS">
+                      </div><a href="https://exacoreglobal.pages.dev/BOSJOKO">
                       </a>
-                    </div><a href="https://exacoreglobal.pages.dev/WDBOS">
+                    </div><a href="https://exacoreglobal.pages.dev/BOSJOKO">
                     </a>
-                    <div data-view="toggleItemDescription" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/WDBOS">
+                    <div data-view="toggleItemDescription" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/BOSJOKO">
                       </a>
-                      <div class="js-item-togglable-content has-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/WDBOS">
+                      <div class="js-item-togglable-content has-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/BOSJOKO">
                         </a>
-                        <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/WDBOS">
+                        <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1"><a href="https://exacoreglobal.pages.dev/BOSJOKO">
                           </a><a class="item-description-toggle__link" href="https://doc.kamimadrasah.com/kategori/instalasi">
                             <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                             <span class="item-description-toggle__less">Show Less <i class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2172,7 +2172,7 @@
                     <div class="pricebox-container" bis_skin_checked="1">
                       <div class="purchase-panel" bis_skin_checked="1">
                         <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
-                          <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;WDBOS | Link Login Slot Gacor Paling Cuan&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://doc.kamimadrasah.com/kategori/instalasi" accept-charset="UTF-8" method="post">
+                          <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;BOSJOKO | Link Login Situs Slot Online Tanpa Kendala&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}" action="https://doc.kamimadrasah.com/kategori/instalasi" accept-charset="UTF-8" method="post">
                             <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                             <div bis_skin_checked="1">
                               <div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
@@ -2218,13 +2218,13 @@
                                 <div class="purchase-form__support" bis_skin_checked="1">
                                   <ul class="t-icon-list -font-size-s -icon-size-s -offset-flush">
                                     <li class="t-icon-list__item -icon-ok">
-                                      <span class="is-visually-hidden">Included:</span> WDBOS
+                                      <span class="is-visually-hidden">Included:</span> BOSJOKO
                                     </li>
                                     <li class="t-icon-list__item -icon-ok">
-                                      <span class="is-visually-hidden">Included:</span> WDBOS LOGIN
+                                      <span class="is-visually-hidden">Included:</span> BOSJOKO LOGIN
                                     </li>
                                     <li class="t-icon-list__item -icon-ok">
-                                      <span class="is-visually-hidden">Included:</span> WDBOS DAFTAR <span class="purchase-form__author-name"></span>
+                                      <span class="is-visually-hidden">Included:</span> BOSJOKO DAFTAR <span class="purchase-form__author-name"></span>
                                       <a class="t-link -decoration-reversed js-support__inclusion-link" data-view="modalAjax" href="/item_support/what_is_item_support/8988002">
                                         <svg width="12px" height="13px" viewBox="0 0 12 13" class="" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                           <title>More Info</title>
@@ -2261,14 +2261,14 @@
                                 </p>
                               </div>
                               <!--konten-->
-                              <a href="https://doc.kamimadrasah.com/kategori/instalasi">WDBOS</a> merupakan situs slot online terpercaya yang menawarkan akses login cepat dengan server stabil dan performa permainan optimal. WDBOS menghadirkan berbagai game slot gacor dari provider ternama dengan RTP tinggi serta peluang cuan maksimal setiap hari, didukung sistem keamanan berlapis, proses transaksi instan, dan layanan pelanggan 24 jam nonstop, menjadikannya pilihan tepat bagi pemain yang mencari slot online aman, gacor, dan paling menguntungkan.<p></p>
+                              <a href="https://doc.kamimadrasah.com/kategori/instalasi">BOSJOKO</a> merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan dukungan server stabil dan sistem permainan lancar tanpa gangguan. BOSJOKO menghadirkan berbagai game slot gacor dari provider ternama dengan RTP tinggi dan peluang jackpot besar setiap hari, didukung keamanan data berlapis, proses transaksi instan, serta layanan pelanggan 24 jam nonstop, menjadikannya pilihan tepat bagi pemain yang mencari slot online aman, gacor, dan bebas kendala.<p></p>
                             </div>
                           </form>
                         </div>
                       </div>
                     </div>
-                    <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1"> Ã‚Â© All Rights Reserved WDBOS <br>
-                      <a href="https://doc.kamimadrasah.com/kategori/instalasi">Contact the WDBOS Help Team</a>
+                    <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1"> Ã‚Â© All Rights Reserved BOSJOKO <br>
+                      <a href="https://doc.kamimadrasah.com/kategori/instalasi">Contact the BOSJOKO Help Team</a>
                     </div>
                   </div>
                   <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
