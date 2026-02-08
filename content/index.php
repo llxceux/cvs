@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US"
     xmlns:og="http://ogp.me/ns#"
@@ -122,8 +121,8 @@
 
         
 
-        <title>IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini</title>
-        <meta name="description" content="IDEBET Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba.">
+        <title>KEPRITOGEL | Link Login Slot Gacor Modal Receh</title>
+        <meta name="description" content="KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.">
 
             <meta name="robots" content="index, follow, max-image-preview:large">
 
@@ -133,13 +132,13 @@
         {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "IDEBET",
-        "url": "https://linkidebet.com/",
+        "name": "KEPRITOGEL",
+        "url": "https://doc.kamimadrasah.com/kategori/branding",
         "logo": "https://i.imgur.com/ROI5i7g.png",
         "sameAs": [
-        "https://www.facebook.com/IDEBET",
-        "https://instagram.com/IDEBET",
-        "https://twitter.com/IDEBET"
+        "https://www.facebook.com/KEPRITOGEL",
+        "https://instagram.com/KEPRITOGEL",
+        "https://twitter.com/KEPRITOGEL"
         ]   
         }
     </script>
@@ -147,11 +146,11 @@
         {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "url": "https://linkidebet.com/",
-        "name": "IDEBET",
+        "url": "https://doc.kamimadrasah.com/kategori/branding",
+        "name": "KEPRITOGEL",
         "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://linkidebet.com/?search={search_term_string}",
+        "target": "https://doc.kamimadrasah.com/kategori/branding?search={search_term_string}",
         "query-input": "required name=search_term_string"
         }
     }
@@ -160,17 +159,17 @@
         {
         "@context": "https://schema.org/",
         "@type": "Product",
-        "name": "IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini",
-        "image": "https://i.imgur.com/uUTjY21.png",
-        "description": "IDEBET Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba.",
-        "url": "https://linkidebet.com/",
+        "name": "KEPRITOGEL | Link Login Slot Gacor Modal Receh",
+        "image": "https://i.imgur.com/3UGci6p.jpeg",
+        "description": "KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.",
+        "url": "https://doc.kamimadrasah.com/kategori/branding",
         "brand": {
           "@type": "Brand",
-          "name": "IDEBET"
+          "name": "KEPRITOGEL"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://linkidebet.com/",
+          "url": "https://doc.kamimadrasah.com/kategori/branding",
           "price": "75000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2028-12-31",
@@ -178,7 +177,7 @@
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://linkidebet.com/",
+            "merchantReturnLink": "https://doc.kamimadrasah.com/kategori/branding",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -242,7 +241,7 @@
             "@type": "Person",
             "name": "Junior"
           },
-          "reviewBody": "IDEBET adalah platform slot gacor resmi dengan fitur gampang menang dan peluang maxwin besar yang bisa dirasakan semua pemain setiap hari."
+          "reviewBody": "KEPRITOGEL adalah platform slot gacor resmi dengan fitur gampang menang dan peluang maxwin besar yang bisa dirasakan semua pemain setiap hari."
         }
         }
     </script>
@@ -252,19 +251,19 @@
               "@type": "Article",
               "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "https://linkidebet.com/"
+                "@id": "https://doc.kamimadrasah.com/kategori/branding"
               },
-              "headline": "IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini",
-              "description": "IDEBET Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba.",
-              "image": ["https://i.imgur.com/uUTjY21.png"],
+              "headline": "KEPRITOGEL | Link Login Slot Gacor Modal Receh",
+              "description": "KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.",
+              "image": ["https://i.imgur.com/3UGci6p.jpeg"],
               "author": {
                 "@type": "Organization",
                 "name": "Slot Gacor",
-                "url": "https://linkidebet.com/"
+                "url": "https://doc.kamimadrasah.com/kategori/branding"
               },
               "publisher": {
                 "@type": "Organization",
-                "name": "IDEBET",
+                "name": "KEPRITOGEL",
                 "logo": {
                   "@type": "ImageObject",
                   "url": "https://i.imgur.com/ROI5i7g.png"
@@ -283,42 +282,42 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://linkidebet.com/",
-            "name": "IDEBET"
+            "@id": "https://doc.kamimadrasah.com/kategori/branding",
+            "name": "KEPRITOGEL"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://linkidebet.com/",
+            "@id": "https://doc.kamimadrasah.com/kategori/branding",
             "name": "Slot Gacor"
           }  
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://linkidebet.com/",
+            "@id": "https://doc.kamimadrasah.com/kategori/branding",
             "name": "Situs Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://linkidebet.com/",
-            "name": "Daftar IDEBET"
+            "@id": "https://doc.kamimadrasah.com/kategori/branding",
+            "name": "Daftar KEPRITOGEL"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://linkidebet.com/",
+            "@id": "https://doc.kamimadrasah.com/kategori/branding",
             "name": "Slot Gacor Hari Ini"
           }
         }, {
           "@type": "ListItem",
           "position": 6,
           "item": {
-            "@id": "https://linkidebet.com/",
+            "@id": "https://doc.kamimadrasah.com/kategori/branding",
             "name": "SLOT Gacor"
           }
         }]
@@ -331,42 +330,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Apa itu IDEBET dalam slot gacor?",
+      "name": "Apa itu KEPRITOGEL dalam slot gacor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "IDEBET adalah platform resmi dengan fitur gampang menang dan peluang maxwin besar yang bisa dirasakan setiap hari."
+        "text": "KEPRITOGEL adalah platform resmi dengan fitur gampang menang dan peluang maxwin besar yang bisa dirasakan setiap hari."
       }
     },
     {
       "@type": "Question",
-      "name": "Bagaimana cara sukses menguasai IDEBET?",
+      "name": "Bagaimana cara sukses menguasai KEPRITOGEL?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kunci sukses adalah memahami pola resmi, memanfaatkan analisis digital IDEBET, serta mengikuti strategi slot gacor berbasis tren yang sudah teruji."
+        "text": "Kunci sukses adalah memahami pola resmi, memanfaatkan analisis digital KEPRITOGEL, serta mengikuti strategi slot gacor berbasis tren yang sudah teruji."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah IDEBET bisa meningkatkan peluang maxwin?",
+      "name": "Apakah KEPRITOGEL bisa meningkatkan peluang maxwin?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ya. Pola IDEBET didukung data real-time dan metode analitik yang mampu meningkatkan peluang jackpot maxwin secara signifikan bagi pemain online."
+        "text": "Ya. Pola KEPRITOGEL didukung data real-time dan metode analitik yang mampu meningkatkan peluang jackpot maxwin secara signifikan bagi pemain online."
       }
     },
     {
       "@type": "Question",
-      "name": "Mengapa IDEBET dipercaya sebagai situs slot gacor gampang maxwin?",
+      "name": "Mengapa KEPRITOGEL dipercaya sebagai situs slot gacor gampang maxwin?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Karena IDEBET selalu menggunakan pola resmi, validasi data, serta strategi digital yang transparan sehingga kemenangan maxwin bisa didapatkan dengan mudah."
+        "text": "Karena KEPRITOGEL selalu menggunakan pola resmi, validasi data, serta strategi digital yang transparan sehingga kemenangan maxwin bisa didapatkan dengan mudah."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah layanan IDEBET mudah diakses semua pemain?",
+      "name": "Apakah layanan KEPRITOGEL mudah diakses semua pemain?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ya, layanan IDEBET bisa diakses kapan saja secara online, baik dari desktop maupun perangkat mobile, tanpa aplikasi tambahan."
+        "text": "Ya, layanan KEPRITOGEL bisa diakses kapan saja secara online, baik dari desktop maupun perangkat mobile, tanpa aplikasi tambahan."
       }
     }
   ]
@@ -376,7 +375,7 @@
   {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "IDEBET",
+    "name": "KEPRITOGEL",
     "operatingSystem": "ANDROID",
     "applicationCategory": "GameApplication",
     "aggregateRating": {
@@ -391,28 +390,28 @@
     }
   }
 </script>
-        <meta name="twitter:site" content="@IDEBET" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="IDEBET" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="IDEBET" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="IDEBET" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
-<meta property="og:title" content="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini" />
-<meta property="og:description" content="IDEBET Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba." />
-<meta property="og:type" content="product" /><meta property="og:url" content="https://linkidebet.com//?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://i.imgur.com/uUTjY21.png" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
+        <meta name="twitter:site" content="@KEPRITOGEL" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="KEPRITOGEL" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="KEPRITOGEL" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="KEPRITOGEL" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
+<meta property="og:title" content="KEPRITOGEL | Link Login Slot Gacor Modal Receh" />
+<meta property="og:description" content="KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain." />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://doc.kamimadrasah.com/kategori/branding/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" /><meta property="og:image" content="https://i.imgur.com/3UGci6p.jpeg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
 
         
 
-        <meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="IDEBET" /><meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="IDEBET" />
+        <meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="KEPRITOGEL" /><meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="KEPRITOGEL" />
 
-        <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://i.imgur.com/uUTjY21.png" fetchpriority="high" />
+        <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://i.imgur.com/3UGci6p.jpeg" fetchpriority="high" />
 
 
-            <link rel="canonical" href="https://linkidebet.com/" />
-            <link rel="amphtml" href="https://johngodlee.pages.dev/2025-01-22" />
-<link rel="alternate" href="https://linkidebet.com/" hreflang="en" /><link rel="alternate" href="https://linkidebet.com/#fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://linkidebet.com/#au/" hreflang="en-AU" /><link rel="alternate" href="https://linkidebet.com/#ca/" hreflang="en-CA" /><link rel="alternate" href="https://linkidebet.com/#dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://linkidebet.com/#hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://linkidebet.com/#ie/" hreflang="en-IE" /><link rel="alternate" href="https://linkidebet.com/#il-en/" hreflang="en-IL" /><link rel="alternate" href="https://linkidebet.com/#in-en/" hreflang="en-IN" /><link rel="alternate" href="https://linkidebet.com/#nz/" hreflang="en-NZ" /><link rel="alternate" href="https://linkidebet.com/#no-en/" hreflang="en-NO" /><link rel="alternate" href="https://linkidebet.com/#se-en/" hreflang="en-SE" /><link rel="alternate" href="https://linkidebet.com/#sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://linkidebet.com/uk/" hreflang="en-GB" /><link rel="alternate" href="https://linkidebet.com/#de/" hreflang="de" /><link rel="alternate" href="https://linkidebet.com/#at/" hreflang="de-AT" /><link rel="alternate" href="https://linkidebet.com/#ch/" hreflang="de-CH" /><link rel="alternate" href="https://linkidebet.com/#fr/" hreflang="fr" /><link rel="alternate" href="https://linkidebet.com/#ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://linkidebet.com/#nl/" hreflang="nl" /><link rel="alternate" href="https://linkidebet.com/#be/" hreflang="nl-BE" /><link rel="alternate" href="https://linkidebet.com/#it/" hreflang="it" /><link rel="alternate" href="https://linkidebet.com/#es/" hreflang="es" /><link rel="alternate" href="https://linkidebet.com/#mx/" hreflang="es-MX" /><link rel="alternate" href="https://linkidebet.com/#jp/" hreflang="ja" /><link rel="alternate" href="https://linkidebet.com/#pl/" hreflang="pl" /><link rel="alternate" href="https://linkidebet.com/#pt/" hreflang="pt" /><link rel="alternate" href="https://linkidebet.com/" hreflang="x-default" /><link rel="alternate" href="https://linkidebet.com/" hreflang="en-US" />
+            <link rel="canonical" href="https://doc.kamimadrasah.com/kategori/branding" />
+            <link rel="amphtml" href="https://exacoreglobal.pages.dev/KEPRITOGEL" />
+<link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding" hreflang="en" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#fi-en/" hreflang="en-FI" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#au/" hreflang="en-AU" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#ca/" hreflang="en-CA" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#dk-en/" hreflang="en-DK" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#hk-en/" hreflang="en-HK" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#ie/" hreflang="en-IE" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#il-en/" hreflang="en-IL" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#in-en/" hreflang="en-IN" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#nz/" hreflang="en-NZ" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#no-en/" hreflang="en-NO" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#se-en/" hreflang="en-SE" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#sg-en/" hreflang="en-SG" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/brandinguk/" hreflang="en-GB" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#de/" hreflang="de" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#at/" hreflang="de-AT" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#ch/" hreflang="de-CH" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#fr/" hreflang="fr" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#ca-fr/" hreflang="fr-CA" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#nl/" hreflang="nl" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#be/" hreflang="nl-BE" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#it/" hreflang="it" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#es/" hreflang="es" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#mx/" hreflang="es-MX" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#jp/" hreflang="ja" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#pl/" hreflang="pl" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding#pt/" hreflang="pt" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding" hreflang="x-default" /><link rel="alternate" href="https://doc.kamimadrasah.com/kategori/branding" hreflang="en-US" />
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw" type="e87f98e6903fa77342bb5665-text/javascript">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
 
         <link rel="shortcut icon" href="https://i.imgur.com/ROI5i7g.png" /><link rel="icon" href="https://i.imgur.com/ROI5i7g.png" type="image/webp" sizes="32x32" /><link rel="icon" href="https://i.imgur.com/ROI5i7g.png" type="image/webp" sizes="16x16" /><link rel="apple-touch-icon" href="https://i.imgur.com/ROI5i7g.png" sizes="180x180" /><link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="rgb(241, 100, 30)" /><link rel="manifest" href="/site.webmanifest" />
-<meta name="apple-mobile-web-app-title" content="IDEBET" /><meta name="application-name" content="IDEBET" /><meta name="msapplication-TileColor" content="#F1641E" /><meta name="theme-color" content="rgb(255, 255, 255)" />
+<meta name="apple-mobile-web-app-title" content="KEPRITOGEL" /><meta name="application-name" content="KEPRITOGEL" /><meta name="msapplication-TileColor" content="#F1641E" /><meta name="theme-color" content="rgb(255, 255, 255)" />
 
-        <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="IDEBET"/>
+        <link type="application/opensearchdescription+xml" rel="search" href="/osdd.php" title="KEPRITOGEL"/>
     </head>
     <body class="ui-toolkit transitional-wide etsy-has-it-design is-responsive no-touch en-US IDR ID"
         data-language="en-US"
@@ -475,7 +474,7 @@
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw" type="e87f98e6903fa77342bb5665-text/javascript">!function(e){var r=e.__etsy_logging;if(r&&r.perf&&r.perf.prefixMarkMeasure){var n=r.perf.prefixMarkMeasure("logo_render");e.performance&&e.performance.mark&&e.requestAnimationFrame((function(){setTimeout((function(){e.performance.mark(n)}))}))}}(window);</script>
 <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
     <a href="/?ref=lgo" elementtiming="ux-global-nav">
-        <span class="wt-screen-reader-only">IDEBET</span>
+        <span class="wt-screen-reader-only">KEPRITOGEL</span>
         <span class="etsy-icon wt-display-block wt-fill-orange wt-nudge-r-3 wt-nudge-t-1 logo-dimensions" id="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" aria-hidden="true" focusable="false"><path d="M6.547,3.125v6.008c0,0,2.117,0,3.25-0.086c0.891-0.156,1.055-0.242,1.219-1.133l0.328-1.305h0.969l-0.164,2.852 l0.086,2.922h-0.977l-0.242-1.141c-0.242-0.812-0.57-0.977-1.219-1.055c-0.812-0.086-3.25-0.086-3.25-0.086v5.039 c0,0.969,0.492,1.383,1.625,1.383h3.414c1.055,0,2.109-0.086,2.766-1.625l0.883-1.953h0.82c-0.086,0.406-0.492,3.984-0.57,4.789 c0,0-3.086-0.078-4.383-0.078H5.25l-3.492,0.078v-0.883l1.133-0.25c0.82-0.164,1.062-0.406,1.062-1.055 c0,0,0.086-2.195,0.086-5.852c0-3.648-0.086-5.844-0.086-5.844c0-0.727-0.242-0.891-1.062-1.055L1.758,2.555V1.664l3.414,0.07h6.5 c1.297,0,3.484-0.234,3.484-0.234s-0.078,1.375-0.164,4.625h-0.891l-0.328-1.141c-0.32-1.461-0.805-2.188-1.703-2.188H6.961 C6.547,2.797,6.547,2.875,6.547,3.125z M19.703,3.766h0.977V7.18l3.336-0.164l-0.164,1.547l-3.25-0.25v6.016 c0,1.703,0.57,2.359,1.547,2.359c0.883,0,1.539-0.492,1.781-0.898l0.484,0.57c-0.484,1.133-1.859,1.703-3.164,1.703 c-1.617,0-2.93-0.969-2.93-2.836V8.398h-1.938V7.586C18.008,7.422,19.219,6.445,19.703,3.766z M26.695,14.242l0.648,1.547 c0.242,0.648,0.812,1.305,2.109,1.305c1.383,0,1.953-0.734,1.953-1.625c0-2.766-5.445-1.953-5.445-5.688c0-2.109,1.703-3.094,3.898-3.094c0.977,0,2.438,0.164,3.172,0.492c-0.164,0.812-0.25,1.867-0.25,2.68l-0.805,0.078l-0.57-1.625 c-0.164-0.398-0.82-0.727-1.625-0.727c-0.977,0-1.953,0.406-1.953,1.461c0,2.516,5.609,1.953,5.609,5.688c0,2.117-1.867,3.25-4.148,3.25c-1.703,0-3.414-0.656-3.414-0.656c0.164-0.969,0.086-2.023,0-3.086H26.695z M33.031,22.039 c0.242-0.891,0.406-2.023,0.57-3.086l0.891-0.078l0.328,1.703c0.078,0.406,0.32,0.734,0.969,0.734c1.055,0,2.438-0.648,3.742-2.922 c-0.578-1.383-2.281-5.844-3.828-9.258c-0.406-0.898-0.484-0.977-1.047-1.141l-0.414-0.156v-0.82l2.445,0.086l3-0.164V7.75 l-0.734,0.164c-0.57,0.078-0.805,0.398-0.805,0.727c0,0.086,0,0.164,0.078,0.328c0.156,0.492,1.461,4.141,2.438,6.578c0.805-1.703,2.352-5.523,2.594-6.172c0.086-0.328,0.164-0.406,0.164-0.648c0-0.414-0.242-0.656-0.805-0.812L42.039,7.75V6.938 l2.281,0.078l2.109-0.078V7.75l-0.406,0.32c-0.812,0.328-0.898,0.406-1.219,1.062l-3.57,8.359 c-2.117,4.797-4.312,5.203-5.852,5.203C34.406,22.695,33.672,22.445,33.031,22.039z"/></svg></span>
     </a>
 </div>
@@ -502,7 +501,7 @@
         </button>
 
         <div data-neu-spec-placeholder="1" id="bd2c69bf978c5288825b3623782eb9a1">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"IDEBET\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu","args":[]}</script>
+    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"KEPRITOGEL\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu","args":[]}</script>
     <div>
     
         
@@ -564,7 +563,7 @@
                     wt-pr-xs-7
                                         
                     "
-            placeholder="Search for IDEBET"
+            placeholder="Search for KEPRITOGEL"
             value=""
             autocomplete="off"
             autocorrect="off"
@@ -678,7 +677,7 @@
     data-ge-hover-event-name="gnav_hover_cart_menu"
 >
     <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-        <a aria-label="Cart" href="https://linkidebet.com/#cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+        <a aria-label="Cart" href="https://doc.kamimadrasah.com/kategori/branding#cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
             <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
                 0
             </span>
@@ -703,39 +702,39 @@
                       
                       <li class="wt-mr-xs-3">
   <a
-    href="https://linkidebet.com/"
+    href="https://doc.kamimadrasah.com/kategori/branding"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
     
     data-node-id="-10" >
     <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628 1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z"/></svg></span><span>
-    IDEBET
+    KEPRITOGEL
 </span>
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://linkidebet.com/"
+    href="https://doc.kamimadrasah.com/kategori/branding"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
     
     >
-    IDEBET Gacor
+    KEPRITOGEL Gacor
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://linkidebet.com/"
+    href="https://doc.kamimadrasah.com/kategori/branding"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
     
     data-node-id="2" >
-    IDEBET Situs Slot Gacor
+    KEPRITOGEL Situs Slot Gacor
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://linkidebet.com/"
+    href="https://doc.kamimadrasah.com/kategori/branding"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -745,7 +744,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://linkidebet.com/"
+    href="https://doc.kamimadrasah.com/kategori/branding"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -755,7 +754,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://linkidebet.com/"
+    href="https://doc.kamimadrasah.com/kategori/branding"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -795,8 +794,8 @@
 </script>
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw" type="e87f98e6903fa77342bb5665-text/javascript">
-        window.IDEBET=window.IDEBET||{};
-        IDEBET.Context=IDEBET.Context||{};
+        window.KEPRITOGEL=window.KEPRITOGEL||{};
+        KEPRITOGEL.Context=KEPRITOGEL.Context||{};
         (function() {
             function assign(firstSource, secondSource) {
                 if (!secondSource) return;
@@ -808,8 +807,8 @@
                 }
                 return out;
             }
-            IDEBET.Context.feature=assign(IDEBET.Context.feature ? IDEBET.Context.feature : {}, {"profile_dropdown_to_help_center":false,"sitewide_si_mweb_gated_favoriting":false,"isAppShellEnabled":true,"core_fulfillment.product_level_readiness_states":false,"design_systems.buybox_performance_web_components":false,"seller_platform_web.buyer_inquiry":false,"seller_platform_web.seller_local_time":false,"seller_platform_web.item_detail_overlay":false,"buyer_promise.issue_resolution.fee_avoidance_v2":false,"content_moderation.convo_safety.structured_convos":false,"risk_experience.buyer_email_verification":false});
-            IDEBET.Context.data=assign(IDEBET.Context.data ? IDEBET.Context.data : {}, {"is_mobile":false,"should_auto_redirect":false,"locale_settings":{"language":{"code":"en-US","id":0,"name":"English (US)","translation":"English (US)","is_detected":false,"is_default":true},"currency":{"currency_id":360,"code":"IDR","name":"Indonesian Rupiah","number_precision":0,"symbol":"Rp","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true,"is_synthetic":true,"is_detected":false,"is_default":false,"append_currency_symbol":false},"region":{"code":"ID","country_id":121,"name":"Indonesia","translation":"Indonesia","is_detected":false,"is_default":false,"is_EU_region":false},"subdir_code":""},"neu_api_specs_sample_rate":null,"FB_GRAPHQL_VERSION":"v2.10","page_guid":"ffbde3696ef.69632e5014d83cdc8fa2.00","primary_event_name":"view_listing","request_uuid":"EunhLnzL4sAYJypZdeOPahA2o_53","user_is_test_account":false,"user_id":null,"css_variant":"sasquatch","runtime_analysis":false,"collage_shadow_dom_css_url":"https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.b60eba69b0e074.css","fix_domready":true,"auto_yield":true,"vite_public_path":"https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-US\/","guest_uaid":["uj0nemGYfZm0u5UhoRQWjT5qMRzf","uj0nemGYfZm0u5UhoRQWjT5qMRzf"],"is_app_shell":true,"csrf_nonce":"3:1757443933:Mvi3gD28lGl_sMVoWBqRUvO_fPN7:fb5b3b0b6c9d621df07685fcadfae794290315e934e51dac8c5cc31a46f635c0","uaid_nonce":"3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4","clientlogger":{"is_enabled":true,"endpoint":"\/clientlog","logs_per_page":6,"id":"EunhLnzL4sAYJypZdeOPahA2o_53","digest":"e45a20331c4c369cb55b4c17b23900bdd1979e0f","enabled_features":["info","warn","error","basic","uncaught"]},"01125905a4e5ddf2_appshell_fallback":"recs-impression","3c65557fa67e42dc_appshell_fallback":"bf47527aa0b4cf042","c5420ec98ed7db34_appshell_fallback":"b58bc9bdcc28e8c2a","imp_listener_sources":["ads","search","recs","nonlisting"],"impact_tracker_should_prompt_signin":false,"impact_tracker_should_direct_open":false,"shop_favorites_see_all_link":"See all","shop_favorites_search_header":"Shops you follow","is_mobile_shop_search":false,"show_simplified_mobile_header":false,"is_eligible_for_ship_to_setting_in_global_header":false,"remove_catnav_for_bots":false,"in_cart_count":0,"page_type":"view_listing","is_desktop_mini_favorites_operational_enabled":false,"clickable_nav":true,"has_dropdown":true,"add_vintage_node":false,"images_in_l2":false,"recs":[],"mweb_full_screen_search_dropdown":false,"relocate_cat_nav":false,"zero_pane_recent_searches":[],"is_eligible_to_fetch_category_suggestions":false,"category_suggestions_in_autosuggest_variant":null,"is_eligible_for_contentful_title_on_trending_searches":true,"is_eligible_for_always_show_shop_search":true,"is_eligible_for_search_bar_improvements":false,"is_eligible_for_refinement_pills_in_autosuggest":true,"mott_version":"761dfd2","catnav_show_sales":false,"catnav_gift_guide":"off","gifting_catnav_flyout_js":false,"should_show_registry_on_nav":false,"should_use_gifting_taxos_in_nav_flyout":false,"impact_message":{"footer_renewable_impact":{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]},"lp_impact_narrative_banner_carbon":{"impact_name":"lp_impact_narrative_banner_carbon","impact_themes":["carbon"],"impact_audiences":["buyers"]}},"airgap_url":"https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js","airgap_bundle":"control_bundle","dual_write_enabled":true,"google_tag_manager_async_enabled":false,"dynamic_privacy_settings_ui_enabled":false,"forced_data_regimes":"","has_forced_data_regimes":false,"all_purposes":["Advertising","Functional"],"all_regimes":["us-gpc","consent-prompt"],"default_consent_expiry":518400,"disable_advertising_regimes":[],"seller_is_viewing_own_listing":false,"listingId":4302118744,"listing_price":22.5,"shopId":25947065,"shop_id":25947065,"shop_name":"IDEBET","custom_orders_listings2":true,"is_listing_preview":false,"checkout_decorator":"","was_landing_from_external_referrer":false,"should_collapse_neighbors":false,"should_open_single_content_toggle":false,"is_logged_in":false,"referring_listing_id":4302118744,"address_formats":{"0":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"ZZ"},"55":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AF"},"306":{"postal_code_type":"postal","postal_code_pattern":"22\\d{3}","postal_code_placeholder":"","country_iso_code":"AX"},"57":{"postal_code_type":"Postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AL"},"95":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DZ"},"250":{"postal_code_type":"zip","postal_code_pattern":"(96799)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"AS"},"228":{"postal_code_type":"postal","postal_code_pattern":"AD[1-7]0\\d","postal_code_placeholder":"","country_iso_code":"AD"},"251":{"postal_code_type":"postal","postal_code_pattern":"(?:AI-)?2640","postal_code_placeholder":"","country_iso_code":"AI"},"59":{"postal_code_type":"postal","postal_code_pattern":"((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?","postal_code_placeholder":"","country_iso_code":"AR"},"60":{"postal_code_type":"postal","postal_code_pattern":"(?:37)?\\d{4}","postal_code_placeholder":"","country_iso_code":"AM"},"61":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3393","country_iso_code":"AU"},"62":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AT"},"63":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AZ"},"232":{"postal_code_type":"postal","postal_code_pattern":"(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)","postal_code_placeholder":"","country_iso_code":"BH"},"68":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BD"},"237":{"postal_code_type":"Postal","postal_code_pattern":"BB\\d{5}","postal_code_placeholder":"","country_iso_code":"BB"},"71":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"BY"},"65":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BE"},"225":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?[A-Z0-9]{2}","postal_code_placeholder":"","country_iso_code":"BM"},"76":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BT"},"70":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BA"},"74":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{3}","postal_code_placeholder":"","country_iso_code":"BR"},"255":{"postal_code_type":"postal","postal_code_pattern":"BBND 1ZZ","postal_code_placeholder":"","country_iso_code":"IO"},"231":{"postal_code_type":"postal","postal_code_pattern":"VG\\d{4}","postal_code_placeholder":"","country_iso_code":"VG"},"75":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{4}","postal_code_placeholder":"","country_iso_code":"BN"},"69":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BG"},"135":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"KH"},"79":{"postal_code_type":"postal","postal_code_pattern":"[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d","postal_code_placeholder":"A1A 1A1","country_iso_code":"CA"},"222":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CV"},"247":{"postal_code_type":"postal","postal_code_pattern":"KY\\d-\\d{4}","postal_code_placeholder":"","country_iso_code":"KY"},"81":{"postal_code_type":"postal","postal_code_pattern":"\\d{7}","postal_code_placeholder":"","country_iso_code":"CL"},"82":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CN"},"257":{"postal_code_type":"postal","postal_code_pattern":"6798","postal_code_placeholder":"","country_iso_code":"CX"},"258":{"postal_code_type":"postal","postal_code_pattern":"6799","postal_code_placeholder":"","country_iso_code":"CC"},"86":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CO"},"87":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}|\\d{3}-\\d{4}","postal_code_placeholder":"","country_iso_code":"CR"},"118":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HR"},"88":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"CU"},"89":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CY"},"90":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"CZ"},"93":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"DK"},"94":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DO"},"96":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"EC"},"97":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EG"},"187":{"postal_code_type":"postal","postal_code_pattern":"CP [1-3][1-7][0-2]\\d","postal_code_placeholder":"CP 1101","country_iso_code":"SV"},"100":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EE"},"101":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ET"},"262":{"postal_code_type":"postal","postal_code_pattern":"FIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"FK"},"241":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"FO"},"102":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"FI"},"103":{"postal_code_type":"postal","postal_code_pattern":"\\d{2} ?\\d{3}","postal_code_placeholder":"75000","country_iso_code":"FR"},"115":{"postal_code_type":"postal","postal_code_pattern":"9[78]3\\d{2}","postal_code_placeholder":"","country_iso_code":"GF"},"263":{"postal_code_type":"postal","postal_code_pattern":"987\\d{2}","postal_code_placeholder":"","country_iso_code":"PF"},"106":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GE"},"91":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"80331","country_iso_code":"DE"},"226":{"postal_code_type":"postal","postal_code_pattern":"GX11 1AA","postal_code_placeholder":"","country_iso_code":"GI"},"112":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"104 31","country_iso_code":"GR"},"113":{"postal_code_type":"postal","postal_code_pattern":"39\\d{2}","postal_code_placeholder":"","country_iso_code":"GL"},"265":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"GP"},"266":{"postal_code_type":"zip","postal_code_pattern":"(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"GU"},"114":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"GT"},"305":{"postal_code_type":"postal","postal_code_pattern":"GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"GG"},"108":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"GN"},"110":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GW"},"119":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HT"},"267":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HM"},"268":{"postal_code_type":"postal","postal_code_pattern":"00120","postal_code_placeholder":"","country_iso_code":"VA"},"117":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HN"},"120":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HU"},"126":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"IS"},"122":{"postal_code_type":"pin","postal_code_pattern":"^[1-9][0-9]{5}$","postal_code_placeholder":"110001","country_iso_code":"IN"},"121":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ID"},"124":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{5}","postal_code_placeholder":"","country_iso_code":"IR"},"125":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"IQ"},"123":{"postal_code_type":"eircode","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"IE"},"269":{"postal_code_type":"postal","postal_code_pattern":"IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"IM"},"127":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}(?:\\d{2})?","postal_code_placeholder":"","country_iso_code":"IL"},"128":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"50100","country_iso_code":"IT"},"131":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}-?\\d{4}","postal_code_placeholder":"100-0001","country_iso_code":"JP"},"307":{"postal_code_type":"postal","postal_code_pattern":"JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"JE"},"130":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"JO"},"132":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KZ"},"133":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KE"},"137":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KW"},"134":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KG"},"138":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LA"},"146":{"postal_code_type":"postal","postal_code_pattern":"LV-\\d{4}","postal_code_placeholder":"","country_iso_code":"LV"},"139":{"postal_code_type":"postal","postal_code_pattern":"(?:\\d{4})(?: ?(?:\\d{4}))?","postal_code_placeholder":"","country_iso_code":"LB"},"143":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"LS"},"140":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LR"},"272":{"postal_code_type":"postal","postal_code_pattern":"948[5-9]|949[0-8]","postal_code_placeholder":"","country_iso_code":"LI"},"144":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LT"},"145":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LU"},"151":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MK"},"149":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"MG"},"159":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MY"},"238":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MV"},"227":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{3} ?\\d{2,4}","postal_code_placeholder":"","country_iso_code":"MT"},"274":{"postal_code_type":"zip","postal_code_pattern":"(969[67]\\d)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MH"},"275":{"postal_code_type":"postal","postal_code_pattern":"9[78]2\\d{2}","postal_code_placeholder":"","country_iso_code":"MQ"},"239":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})","postal_code_placeholder":"","country_iso_code":"MU"},"276":{"postal_code_type":"postal","postal_code_pattern":"976\\d{2}","postal_code_placeholder":"","country_iso_code":"YT"},"150":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MX"},"277":{"postal_code_type":"zip","postal_code_pattern":"(9694[1-4])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"FM"},"148":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MD"},"278":{"postal_code_type":"postal","postal_code_pattern":"980\\d{2}","postal_code_placeholder":"","country_iso_code":"MC"},"154":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MN"},"155":{"postal_code_type":"postal","postal_code_pattern":"8\\d{4}","postal_code_placeholder":"","country_iso_code":"ME"},"147":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MA"},"156":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MZ"},"153":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MM"},"160":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NA"},"166":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NP"},"233":{"postal_code_type":"postal","postal_code_pattern":"988\\d{2}","postal_code_placeholder":"","country_iso_code":"NC"},"167":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3974","country_iso_code":"NZ"},"163":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NI"},"161":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NE"},"162":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"NG"},"282":{"postal_code_type":"postal","postal_code_pattern":"2899","postal_code_placeholder":"","country_iso_code":"NF"},"283":{"postal_code_type":"zip","postal_code_pattern":"(9695[012])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MP"},"176":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"KP"},"165":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NO"},"168":{"postal_code_type":"postal","postal_code_pattern":"(?:PC )?\\d{3}","postal_code_placeholder":"","country_iso_code":"OM"},"169":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PK"},"284":{"postal_code_type":"zip","postal_code_pattern":"(969(?:39|40))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PW"},"173":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"PG"},"178":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PY"},"171":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PE"},"172":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PH"},"174":{"postal_code_type":"postal","postal_code_pattern":"\\d{2}-\\d{3}","postal_code_placeholder":"10-345","country_iso_code":"PL"},"177":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}-\\d{3}","postal_code_placeholder":"1000-205","country_iso_code":"PT"},"175":{"postal_code_type":"zip","postal_code_pattern":"(00[679]\\d{2})(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PR"},"304":{"postal_code_type":"postal","postal_code_pattern":"9[78]4\\d{2}","postal_code_placeholder":"","country_iso_code":"RE"},"180":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"RO"},"181":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"101000","country_iso_code":"RU"},"308":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"BL"},"286":{"postal_code_type":"postal","postal_code_pattern":"(?:ASCN|STHL) 1ZZ","postal_code_placeholder":"","country_iso_code":"SH"},"288":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"MF"},"289":{"postal_code_type":"postal","postal_code_pattern":"9[78]5\\d{2}","postal_code_placeholder":"","country_iso_code":"PM"},"249":{"postal_code_type":"Postal","postal_code_pattern":"VC\\d{4}","postal_code_placeholder":"","country_iso_code":"VC"},"291":{"postal_code_type":"postal","postal_code_pattern":"4789\\d","postal_code_placeholder":"","country_iso_code":"SM"},"183":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SA"},"185":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SN"},"189":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"RS"},"220":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"SG"},"191":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"SK"},"192":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SI"},"188":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{5}","postal_code_placeholder":"","country_iso_code":"SO"},"215":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ZA"},"294":{"postal_code_type":"postal","postal_code_pattern":"SIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"GS"},"136":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KR"},"99":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"28013","country_iso_code":"ES"},"142":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LK"},"184":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SD"},"295":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SJ"},"194":{"postal_code_type":"postal","postal_code_pattern":"[HLMS]\\d{3}","postal_code_placeholder":"","country_iso_code":"SZ"},"193":{"postal_code_type":"postal","postal_code_pattern":"^\\d{5}$","postal_code_placeholder":"111 22","country_iso_code":"SE"},"80":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CH"},"204":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2,3})?","postal_code_placeholder":"","country_iso_code":"TW"},"199":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TJ"},"205":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}","postal_code_placeholder":"","country_iso_code":"TZ"},"198":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TH"},"164":{"postal_code_type":"postal","postal_code_pattern":"[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])","postal_code_placeholder":"1105 AW","country_iso_code":"NL"},"202":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"TN"},"203":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TR"},"200":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TM"},"299":{"postal_code_type":"postal","postal_code_pattern":"TKCA 1ZZ","postal_code_placeholder":"","country_iso_code":"TC"},"207":{"postal_code_type":"postal","postal_code_pattern":"^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$","postal_code_placeholder":"","country_iso_code":"UA"},"105":{"postal_code_type":"postal","postal_code_pattern":"^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$","postal_code_placeholder":"NW1 6XE","country_iso_code":"GB"},"209":{"postal_code_type":"zip","postal_code_pattern":"^\\d{5}(?:-\\d{4})?$","postal_code_placeholder":"12345","country_iso_code":"US"},"302":{"postal_code_type":"zip","postal_code_pattern":"96898","postal_code_placeholder":"","country_iso_code":"UM"},"208":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"UY"},"248":{"postal_code_type":"zip","postal_code_pattern":"(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"VI"},"210":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"UZ"},"211":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"VE"},"212":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}\\d?","postal_code_placeholder":"","country_iso_code":"VN"},"224":{"postal_code_type":"postal","postal_code_pattern":"986\\d{2}","postal_code_placeholder":"","country_iso_code":"WF"},"213":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EH"},"217":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ZM"}},"ship_to_preference_capabilities":{"209":{"postal_code":{"is_assignable":true,"is_required":true}},"79":{"postal_code":{"is_assignable":true,"is_required":true}},"122":{"postal_code":{"is_assignable":true,"is_required":true}},"61":{"postal_code":{"is_assignable":true,"is_required":true}},"105":{"postal_code":{"is_assignable":true,"is_required":true}}},"category_id":68887416,"admin_tools_page_data":[],"currency_data":{"currency_id":826,"code":"GBP","name":"British Pound","number_precision":2,"symbol":"\u00a3","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true},"machine_translation\/listings_click_to_translate":true,"ads.prolist\/log_clicks_and_impressions":false,"mfg\/dovetail":true,"mfg\/buyer_facing_dovetail":true,"searchx\/4q18\/dwell_time_as_backend_event":false,"is_regulatory_buyer_disclosure_enabled":true,"is_convos_condensed_disclosure_enabled":false,"machine_translation":{"mode":"disabled","listing_id":4302118744,"to_lang_code":"en-US","from_lang_code":"en-US","translated":null,"untranslated":null,"category_tags":null},"listing_fee":20,"presented_listing_fee":"$0.20 USD","listing_period_months":4,"apple_pay_api_version_number":12,"render_is_gift_section":true,"coupons_in_buy_box_is_enabled":false,"is_eligible_web_components":false,"should_show_atc_from_listing_cards":true,"should_show_atc_from_listing_cards_mweb":false,"added_to_cart_text":"Added to cart!","speculation_rules_prefetch":false,"speculation_rules_prefetch_from_search":false,"prefetch_event_cache_key":"","should_show_sidebar_cart_post_atc_recs":false,"is_eligible_for_trust_suite_section":false,"is_gift_guide_flyout_enabled":false,"should_hide_sub_nav":true,"should_show_breadcrumbs":true,"listing_image_url":"","eligible_for_mini_collections_and_ignore_menu":false,"image_ids_by_listing_variation_ids":[],"should_show_scrollable_thumbnails":true,"should_show_video":true,"shouldShowThumbnails":true,"carousel_height_percentage_relative_to_width":[80,80,80,80,80,80,80,80,80,80],"is_mobile_experience":false,"is_users_own_listing":false,"listing_sale_price_is_gamed":false,"lp_toffers_v2_true_sale_enabled":false,"sale_ending_soon_countdown":true,"should_show_histogram_panel":false,"anchor_shop_name_to_seller_cred":false,"shop_reviews_count":62595,"neu_buy_box_type":"offerings","listing_id":4302118744,"klarna_osm_js":"https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js","is_eligible_for_klarna_osm":false,"is_eligible_for_variations_update":true,"can_listing_have_coupon_applied":false,"quantity_submodule_enabled":true,"is_multiple_questions_enabled_buyer":true,"personalization_is_required":true,"personalization_field_count":1,"how_its_made_label_type":"seller_designed","product_details_content_toggle_selector":"[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']","should_show_description_content_toggle":true,"use_shipping_variant_view":true,"shipping_section_default_open":true,"shipping_and_returns_is_eligible_for_sticky_buy_box":true,"estimated_shipping_is_eligible_for_sticky_buy_box":true,"is_eligible_for_shipping_and_returns_cleanup":true,"is_postal_code_empty_on_initial_load":true,"invalid_postal_codes":{"209":["000","001","002","003","004","213","269","343","345","348","353","419","428","429","517","518","519","529","533","536","552","568","569","578","579","589","621","632","642","643","659","663","682","694","695","696","697","698","699","702","709","715","732","742","771","817","818","819","839","848","849","854","858","861","862","866","867","868","869","872","886","887","888","892","896","899","909","929","987"]},"is_eligible_for_policies_in_overlay":true,"active_tab":"same_listing_reviews","allow_reviews_debug":false,"using_mweb_tabs":false,"load_tabbed_layout_js":true,"should_show_helpful_count":true,"should_default_chronological_sort":false,"should_include_subratings":true,"current_page":1,"is_deep_dive":false,"has_appreciation_photos":true,"eligible_for_review_photo_filter_and_sort":true,"is_new_deep_dive":false,"photos_per_page":4,"review_categorical_tags_enabled":true,"review_hide_sort_by_prefix":true,"mweb_can_scroll_to_seller_cred_module":false,"is_eligible_for_showing_more_items_on_explore_more":false,"structured_policies_messages":{"module_name":"Shop policies","last_updated_on":"Last updated on","publish":"Publish Shop Policies","policies_save":"Save policies","policies_edit":"Edit policies","cancel":"Cancel","revert":"Use previous policies","edit":"Edit","loading":"Loading","preview_banner_kicker":"Policies preview","not_existing_policies_preview_banner_header":"Review and customize these policies so they work for you","preview_banner_body":"You can publish these to your shop or edit them if you need to make changes","preview_publish_confirm":"By clicking Publish, you'll post your Shop Policies and agree to comply with them.","revert_confirm":"Are you sure you want to revert?","leave_page_warning":"You are currently editing shop policies","private_receipt_info_title":"Private receipt info","private_receipt_info_body":"We have removed the 'Private Receipt Info' section of your policies page. You don't need to populate this section for the purposes of complying with international consumer protection laws anymore because this new Policies feature will automatically display the relevant content of your shop policies within the buyer receipt email instead.","private_receipt_info_link":"See this FAQ for more information","structured_banner_title":"Switch to simple shop policies","structured_banner_title_v2":"Set up simple shop policies","structured_banner_body":"We'll give you a quick template to create your shop policies in seconds.","structured_banner_button":"Try it now","new_simplified_policies":"Your new, simplified policies","new_policies_banner_description_1":"Buyers prefer policies that are short, clear and address their key concerns, so we've designed them that way.","new_policies_banner_description_2":"Review and customize these policies so they work for you. We've saved your previous policies, so you can always switch back.","new_policies_banner_description_3":"We've saved your previous policies, so you can always switch back.","new_policies_banner_learn_more":"Learn more","publish_policies_success":"Your new policies have been published!","publish_policies_error":"There was an error publishing your policies. Please try again.","policies_failed_to_load":"Shop policies failed to load","policies_try_again":"Try again","policies_saving":"Saving...","policies_publishing":"Publishing...","listing_preview_shipping":"This section will show shipping or download information once you publish your listing.","craft_shipping_section_title":"Shipping & policies","craft_payments_section_title":"Payments","craft_refunds_section_title":"Returns & exchanges","craft_terms_section_title":"Terms & conditions","craft_more_details_accordion_label":"+ See more...","listing_returns_and_exchanges":"See item details for return and exchange eligibility.","no_policies":"Looks like this shop doesn't have any custom policies. Have questions?","message_the_seller":"Message the seller","shipping_section_title":"Shipping","payments_section_title":"Payments","refunds_section_title":"Returns & exchanges","digital_section_title":"Downloads","terms_section_title":"Terms & conditions","more_details_accordion_label":"See more...","seller_details_section_title":"More information"},"shop_policy_selector":"[data-content-toggle-uid=shop_policies]","load_user_faves_option":true,"update_many_faves_option":true,"is_async_only_faves_option":false,"guest_favorites_enabled":true,"collection_count":0,"favorites_key":"","use_clearer_privacy_description":true,"conditional_sale_interstitial":true,"google_client_id":"296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com","show_one_tap_modal":false,"is_google_one_tap_cart_page":false});
+            KEPRITOGEL.Context.feature=assign(KEPRITOGEL.Context.feature ? KEPRITOGEL.Context.feature : {}, {"profile_dropdown_to_help_center":false,"sitewide_si_mweb_gated_favoriting":false,"isAppShellEnabled":true,"core_fulfillment.product_level_readiness_states":false,"design_systems.buybox_performance_web_components":false,"seller_platform_web.buyer_inquiry":false,"seller_platform_web.seller_local_time":false,"seller_platform_web.item_detail_overlay":false,"buyer_promise.issue_resolution.fee_avoidance_v2":false,"content_moderation.convo_safety.structured_convos":false,"risk_experience.buyer_email_verification":false});
+            KEPRITOGEL.Context.data=assign(KEPRITOGEL.Context.data ? KEPRITOGEL.Context.data : {}, {"is_mobile":false,"should_auto_redirect":false,"locale_settings":{"language":{"code":"en-US","id":0,"name":"English (US)","translation":"English (US)","is_detected":false,"is_default":true},"currency":{"currency_id":360,"code":"IDR","name":"Indonesian Rupiah","number_precision":0,"symbol":"Rp","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true,"is_synthetic":true,"is_detected":false,"is_default":false,"append_currency_symbol":false},"region":{"code":"ID","country_id":121,"name":"Indonesia","translation":"Indonesia","is_detected":false,"is_default":false,"is_EU_region":false},"subdir_code":""},"neu_api_specs_sample_rate":null,"FB_GRAPHQL_VERSION":"v2.10","page_guid":"ffbde3696ef.69632e5014d83cdc8fa2.00","primary_event_name":"view_listing","request_uuid":"EunhLnzL4sAYJypZdeOPahA2o_53","user_is_test_account":false,"user_id":null,"css_variant":"sasquatch","runtime_analysis":false,"collage_shadow_dom_css_url":"https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.b60eba69b0e074.css","fix_domready":true,"auto_yield":true,"vite_public_path":"https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-US\/","guest_uaid":["uj0nemGYfZm0u5UhoRQWjT5qMRzf","uj0nemGYfZm0u5UhoRQWjT5qMRzf"],"is_app_shell":true,"csrf_nonce":"3:1757443933:Mvi3gD28lGl_sMVoWBqRUvO_fPN7:fb5b3b0b6c9d621df07685fcadfae794290315e934e51dac8c5cc31a46f635c0","uaid_nonce":"3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4","clientlogger":{"is_enabled":true,"endpoint":"\/clientlog","logs_per_page":6,"id":"EunhLnzL4sAYJypZdeOPahA2o_53","digest":"e45a20331c4c369cb55b4c17b23900bdd1979e0f","enabled_features":["info","warn","error","basic","uncaught"]},"01125905a4e5ddf2_appshell_fallback":"recs-impression","3c65557fa67e42dc_appshell_fallback":"bf47527aa0b4cf042","c5420ec98ed7db34_appshell_fallback":"b58bc9bdcc28e8c2a","imp_listener_sources":["ads","search","recs","nonlisting"],"impact_tracker_should_prompt_signin":false,"impact_tracker_should_direct_open":false,"shop_favorites_see_all_link":"See all","shop_favorites_search_header":"Shops you follow","is_mobile_shop_search":false,"show_simplified_mobile_header":false,"is_eligible_for_ship_to_setting_in_global_header":false,"remove_catnav_for_bots":false,"in_cart_count":0,"page_type":"view_listing","is_desktop_mini_favorites_operational_enabled":false,"clickable_nav":true,"has_dropdown":true,"add_vintage_node":false,"images_in_l2":false,"recs":[],"mweb_full_screen_search_dropdown":false,"relocate_cat_nav":false,"zero_pane_recent_searches":[],"is_eligible_to_fetch_category_suggestions":false,"category_suggestions_in_autosuggest_variant":null,"is_eligible_for_contentful_title_on_trending_searches":true,"is_eligible_for_always_show_shop_search":true,"is_eligible_for_search_bar_improvements":false,"is_eligible_for_refinement_pills_in_autosuggest":true,"mott_version":"761dfd2","catnav_show_sales":false,"catnav_gift_guide":"off","gifting_catnav_flyout_js":false,"should_show_registry_on_nav":false,"should_use_gifting_taxos_in_nav_flyout":false,"impact_message":{"footer_renewable_impact":{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]},"lp_impact_narrative_banner_carbon":{"impact_name":"lp_impact_narrative_banner_carbon","impact_themes":["carbon"],"impact_audiences":["buyers"]}},"airgap_url":"https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js","airgap_bundle":"control_bundle","dual_write_enabled":true,"google_tag_manager_async_enabled":false,"dynamic_privacy_settings_ui_enabled":false,"forced_data_regimes":"","has_forced_data_regimes":false,"all_purposes":["Advertising","Functional"],"all_regimes":["us-gpc","consent-prompt"],"default_consent_expiry":518400,"disable_advertising_regimes":[],"seller_is_viewing_own_listing":false,"listingId":4302118744,"listing_price":22.5,"shopId":25947065,"shop_id":25947065,"shop_name":"KEPRITOGEL","custom_orders_listings2":true,"is_listing_preview":false,"checkout_decorator":"","was_landing_from_external_referrer":false,"should_collapse_neighbors":false,"should_open_single_content_toggle":false,"is_logged_in":false,"referring_listing_id":4302118744,"address_formats":{"0":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"ZZ"},"55":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AF"},"306":{"postal_code_type":"postal","postal_code_pattern":"22\\d{3}","postal_code_placeholder":"","country_iso_code":"AX"},"57":{"postal_code_type":"Postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AL"},"95":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DZ"},"250":{"postal_code_type":"zip","postal_code_pattern":"(96799)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"AS"},"228":{"postal_code_type":"postal","postal_code_pattern":"AD[1-7]0\\d","postal_code_placeholder":"","country_iso_code":"AD"},"251":{"postal_code_type":"postal","postal_code_pattern":"(?:AI-)?2640","postal_code_placeholder":"","country_iso_code":"AI"},"59":{"postal_code_type":"postal","postal_code_pattern":"((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?","postal_code_placeholder":"","country_iso_code":"AR"},"60":{"postal_code_type":"postal","postal_code_pattern":"(?:37)?\\d{4}","postal_code_placeholder":"","country_iso_code":"AM"},"61":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3393","country_iso_code":"AU"},"62":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AT"},"63":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AZ"},"232":{"postal_code_type":"postal","postal_code_pattern":"(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)","postal_code_placeholder":"","country_iso_code":"BH"},"68":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BD"},"237":{"postal_code_type":"Postal","postal_code_pattern":"BB\\d{5}","postal_code_placeholder":"","country_iso_code":"BB"},"71":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"BY"},"65":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BE"},"225":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?[A-Z0-9]{2}","postal_code_placeholder":"","country_iso_code":"BM"},"76":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BT"},"70":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BA"},"74":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{3}","postal_code_placeholder":"","country_iso_code":"BR"},"255":{"postal_code_type":"postal","postal_code_pattern":"BBND 1ZZ","postal_code_placeholder":"","country_iso_code":"IO"},"231":{"postal_code_type":"postal","postal_code_pattern":"VG\\d{4}","postal_code_placeholder":"","country_iso_code":"VG"},"75":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{4}","postal_code_placeholder":"","country_iso_code":"BN"},"69":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BG"},"135":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"KH"},"79":{"postal_code_type":"postal","postal_code_pattern":"[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d","postal_code_placeholder":"A1A 1A1","country_iso_code":"CA"},"222":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CV"},"247":{"postal_code_type":"postal","postal_code_pattern":"KY\\d-\\d{4}","postal_code_placeholder":"","country_iso_code":"KY"},"81":{"postal_code_type":"postal","postal_code_pattern":"\\d{7}","postal_code_placeholder":"","country_iso_code":"CL"},"82":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CN"},"257":{"postal_code_type":"postal","postal_code_pattern":"6798","postal_code_placeholder":"","country_iso_code":"CX"},"258":{"postal_code_type":"postal","postal_code_pattern":"6799","postal_code_placeholder":"","country_iso_code":"CC"},"86":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CO"},"87":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}|\\d{3}-\\d{4}","postal_code_placeholder":"","country_iso_code":"CR"},"118":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HR"},"88":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"CU"},"89":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CY"},"90":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"CZ"},"93":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"DK"},"94":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DO"},"96":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"EC"},"97":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EG"},"187":{"postal_code_type":"postal","postal_code_pattern":"CP [1-3][1-7][0-2]\\d","postal_code_placeholder":"CP 1101","country_iso_code":"SV"},"100":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EE"},"101":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ET"},"262":{"postal_code_type":"postal","postal_code_pattern":"FIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"FK"},"241":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"FO"},"102":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"FI"},"103":{"postal_code_type":"postal","postal_code_pattern":"\\d{2} ?\\d{3}","postal_code_placeholder":"75000","country_iso_code":"FR"},"115":{"postal_code_type":"postal","postal_code_pattern":"9[78]3\\d{2}","postal_code_placeholder":"","country_iso_code":"GF"},"263":{"postal_code_type":"postal","postal_code_pattern":"987\\d{2}","postal_code_placeholder":"","country_iso_code":"PF"},"106":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GE"},"91":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"80331","country_iso_code":"DE"},"226":{"postal_code_type":"postal","postal_code_pattern":"GX11 1AA","postal_code_placeholder":"","country_iso_code":"GI"},"112":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"104 31","country_iso_code":"GR"},"113":{"postal_code_type":"postal","postal_code_pattern":"39\\d{2}","postal_code_placeholder":"","country_iso_code":"GL"},"265":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"GP"},"266":{"postal_code_type":"zip","postal_code_pattern":"(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"GU"},"114":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"GT"},"305":{"postal_code_type":"postal","postal_code_pattern":"GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"GG"},"108":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"GN"},"110":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GW"},"119":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HT"},"267":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HM"},"268":{"postal_code_type":"postal","postal_code_pattern":"00120","postal_code_placeholder":"","country_iso_code":"VA"},"117":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HN"},"120":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HU"},"126":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"IS"},"122":{"postal_code_type":"pin","postal_code_pattern":"^[1-9][0-9]{5}$","postal_code_placeholder":"110001","country_iso_code":"IN"},"121":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ID"},"124":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{5}","postal_code_placeholder":"","country_iso_code":"IR"},"125":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"IQ"},"123":{"postal_code_type":"eircode","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"IE"},"269":{"postal_code_type":"postal","postal_code_pattern":"IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"IM"},"127":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}(?:\\d{2})?","postal_code_placeholder":"","country_iso_code":"IL"},"128":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"50100","country_iso_code":"IT"},"131":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}-?\\d{4}","postal_code_placeholder":"100-0001","country_iso_code":"JP"},"307":{"postal_code_type":"postal","postal_code_pattern":"JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"JE"},"130":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"JO"},"132":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KZ"},"133":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KE"},"137":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KW"},"134":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KG"},"138":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LA"},"146":{"postal_code_type":"postal","postal_code_pattern":"LV-\\d{4}","postal_code_placeholder":"","country_iso_code":"LV"},"139":{"postal_code_type":"postal","postal_code_pattern":"(?:\\d{4})(?: ?(?:\\d{4}))?","postal_code_placeholder":"","country_iso_code":"LB"},"143":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"LS"},"140":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LR"},"272":{"postal_code_type":"postal","postal_code_pattern":"948[5-9]|949[0-8]","postal_code_placeholder":"","country_iso_code":"LI"},"144":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LT"},"145":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LU"},"151":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MK"},"149":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"MG"},"159":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MY"},"238":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MV"},"227":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{3} ?\\d{2,4}","postal_code_placeholder":"","country_iso_code":"MT"},"274":{"postal_code_type":"zip","postal_code_pattern":"(969[67]\\d)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MH"},"275":{"postal_code_type":"postal","postal_code_pattern":"9[78]2\\d{2}","postal_code_placeholder":"","country_iso_code":"MQ"},"239":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})","postal_code_placeholder":"","country_iso_code":"MU"},"276":{"postal_code_type":"postal","postal_code_pattern":"976\\d{2}","postal_code_placeholder":"","country_iso_code":"YT"},"150":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MX"},"277":{"postal_code_type":"zip","postal_code_pattern":"(9694[1-4])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"FM"},"148":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MD"},"278":{"postal_code_type":"postal","postal_code_pattern":"980\\d{2}","postal_code_placeholder":"","country_iso_code":"MC"},"154":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MN"},"155":{"postal_code_type":"postal","postal_code_pattern":"8\\d{4}","postal_code_placeholder":"","country_iso_code":"ME"},"147":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MA"},"156":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MZ"},"153":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MM"},"160":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NA"},"166":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NP"},"233":{"postal_code_type":"postal","postal_code_pattern":"988\\d{2}","postal_code_placeholder":"","country_iso_code":"NC"},"167":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3974","country_iso_code":"NZ"},"163":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NI"},"161":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NE"},"162":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"NG"},"282":{"postal_code_type":"postal","postal_code_pattern":"2899","postal_code_placeholder":"","country_iso_code":"NF"},"283":{"postal_code_type":"zip","postal_code_pattern":"(9695[012])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MP"},"176":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"KP"},"165":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NO"},"168":{"postal_code_type":"postal","postal_code_pattern":"(?:PC )?\\d{3}","postal_code_placeholder":"","country_iso_code":"OM"},"169":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PK"},"284":{"postal_code_type":"zip","postal_code_pattern":"(969(?:39|40))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PW"},"173":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"PG"},"178":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PY"},"171":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PE"},"172":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PH"},"174":{"postal_code_type":"postal","postal_code_pattern":"\\d{2}-\\d{3}","postal_code_placeholder":"10-345","country_iso_code":"PL"},"177":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}-\\d{3}","postal_code_placeholder":"1000-205","country_iso_code":"PT"},"175":{"postal_code_type":"zip","postal_code_pattern":"(00[679]\\d{2})(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PR"},"304":{"postal_code_type":"postal","postal_code_pattern":"9[78]4\\d{2}","postal_code_placeholder":"","country_iso_code":"RE"},"180":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"RO"},"181":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"101000","country_iso_code":"RU"},"308":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"BL"},"286":{"postal_code_type":"postal","postal_code_pattern":"(?:ASCN|STHL) 1ZZ","postal_code_placeholder":"","country_iso_code":"SH"},"288":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"MF"},"289":{"postal_code_type":"postal","postal_code_pattern":"9[78]5\\d{2}","postal_code_placeholder":"","country_iso_code":"PM"},"249":{"postal_code_type":"Postal","postal_code_pattern":"VC\\d{4}","postal_code_placeholder":"","country_iso_code":"VC"},"291":{"postal_code_type":"postal","postal_code_pattern":"4789\\d","postal_code_placeholder":"","country_iso_code":"SM"},"183":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SA"},"185":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SN"},"189":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"RS"},"220":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"SG"},"191":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"SK"},"192":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SI"},"188":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{5}","postal_code_placeholder":"","country_iso_code":"SO"},"215":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ZA"},"294":{"postal_code_type":"postal","postal_code_pattern":"SIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"GS"},"136":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KR"},"99":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"28013","country_iso_code":"ES"},"142":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LK"},"184":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SD"},"295":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SJ"},"194":{"postal_code_type":"postal","postal_code_pattern":"[HLMS]\\d{3}","postal_code_placeholder":"","country_iso_code":"SZ"},"193":{"postal_code_type":"postal","postal_code_pattern":"^\\d{5}$","postal_code_placeholder":"111 22","country_iso_code":"SE"},"80":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CH"},"204":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2,3})?","postal_code_placeholder":"","country_iso_code":"TW"},"199":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TJ"},"205":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}","postal_code_placeholder":"","country_iso_code":"TZ"},"198":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TH"},"164":{"postal_code_type":"postal","postal_code_pattern":"[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])","postal_code_placeholder":"1105 AW","country_iso_code":"NL"},"202":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"TN"},"203":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TR"},"200":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TM"},"299":{"postal_code_type":"postal","postal_code_pattern":"TKCA 1ZZ","postal_code_placeholder":"","country_iso_code":"TC"},"207":{"postal_code_type":"postal","postal_code_pattern":"^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$","postal_code_placeholder":"","country_iso_code":"UA"},"105":{"postal_code_type":"postal","postal_code_pattern":"^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$","postal_code_placeholder":"NW1 6XE","country_iso_code":"GB"},"209":{"postal_code_type":"zip","postal_code_pattern":"^\\d{5}(?:-\\d{4})?$","postal_code_placeholder":"12345","country_iso_code":"US"},"302":{"postal_code_type":"zip","postal_code_pattern":"96898","postal_code_placeholder":"","country_iso_code":"UM"},"208":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"UY"},"248":{"postal_code_type":"zip","postal_code_pattern":"(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"VI"},"210":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"UZ"},"211":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"VE"},"212":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}\\d?","postal_code_placeholder":"","country_iso_code":"VN"},"224":{"postal_code_type":"postal","postal_code_pattern":"986\\d{2}","postal_code_placeholder":"","country_iso_code":"WF"},"213":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EH"},"217":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ZM"}},"ship_to_preference_capabilities":{"209":{"postal_code":{"is_assignable":true,"is_required":true}},"79":{"postal_code":{"is_assignable":true,"is_required":true}},"122":{"postal_code":{"is_assignable":true,"is_required":true}},"61":{"postal_code":{"is_assignable":true,"is_required":true}},"105":{"postal_code":{"is_assignable":true,"is_required":true}}},"category_id":68887416,"admin_tools_page_data":[],"currency_data":{"currency_id":826,"code":"GBP","name":"British Pound","number_precision":2,"symbol":"\u00a3","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true},"machine_translation\/listings_click_to_translate":true,"ads.prolist\/log_clicks_and_impressions":false,"mfg\/dovetail":true,"mfg\/buyer_facing_dovetail":true,"searchx\/4q18\/dwell_time_as_backend_event":false,"is_regulatory_buyer_disclosure_enabled":true,"is_convos_condensed_disclosure_enabled":false,"machine_translation":{"mode":"disabled","listing_id":4302118744,"to_lang_code":"en-US","from_lang_code":"en-US","translated":null,"untranslated":null,"category_tags":null},"listing_fee":20,"presented_listing_fee":"$0.20 USD","listing_period_months":4,"apple_pay_api_version_number":12,"render_is_gift_section":true,"coupons_in_buy_box_is_enabled":false,"is_eligible_web_components":false,"should_show_atc_from_listing_cards":true,"should_show_atc_from_listing_cards_mweb":false,"added_to_cart_text":"Added to cart!","speculation_rules_prefetch":false,"speculation_rules_prefetch_from_search":false,"prefetch_event_cache_key":"","should_show_sidebar_cart_post_atc_recs":false,"is_eligible_for_trust_suite_section":false,"is_gift_guide_flyout_enabled":false,"should_hide_sub_nav":true,"should_show_breadcrumbs":true,"listing_image_url":"","eligible_for_mini_collections_and_ignore_menu":false,"image_ids_by_listing_variation_ids":[],"should_show_scrollable_thumbnails":true,"should_show_video":true,"shouldShowThumbnails":true,"carousel_height_percentage_relative_to_width":[80,80,80,80,80,80,80,80,80,80],"is_mobile_experience":false,"is_users_own_listing":false,"listing_sale_price_is_gamed":false,"lp_toffers_v2_true_sale_enabled":false,"sale_ending_soon_countdown":true,"should_show_histogram_panel":false,"anchor_shop_name_to_seller_cred":false,"shop_reviews_count":62595,"neu_buy_box_type":"offerings","listing_id":4302118744,"klarna_osm_js":"https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js","is_eligible_for_klarna_osm":false,"is_eligible_for_variations_update":true,"can_listing_have_coupon_applied":false,"quantity_submodule_enabled":true,"is_multiple_questions_enabled_buyer":true,"personalization_is_required":true,"personalization_field_count":1,"how_its_made_label_type":"seller_designed","product_details_content_toggle_selector":"[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']","should_show_description_content_toggle":true,"use_shipping_variant_view":true,"shipping_section_default_open":true,"shipping_and_returns_is_eligible_for_sticky_buy_box":true,"estimated_shipping_is_eligible_for_sticky_buy_box":true,"is_eligible_for_shipping_and_returns_cleanup":true,"is_postal_code_empty_on_initial_load":true,"invalid_postal_codes":{"209":["000","001","002","003","004","213","269","343","345","348","353","419","428","429","517","518","519","529","533","536","552","568","569","578","579","589","621","632","642","643","659","663","682","694","695","696","697","698","699","702","709","715","732","742","771","817","818","819","839","848","849","854","858","861","862","866","867","868","869","872","886","887","888","892","896","899","909","929","987"]},"is_eligible_for_policies_in_overlay":true,"active_tab":"same_listing_reviews","allow_reviews_debug":false,"using_mweb_tabs":false,"load_tabbed_layout_js":true,"should_show_helpful_count":true,"should_default_chronological_sort":false,"should_include_subratings":true,"current_page":1,"is_deep_dive":false,"has_appreciation_photos":true,"eligible_for_review_photo_filter_and_sort":true,"is_new_deep_dive":false,"photos_per_page":4,"review_categorical_tags_enabled":true,"review_hide_sort_by_prefix":true,"mweb_can_scroll_to_seller_cred_module":false,"is_eligible_for_showing_more_items_on_explore_more":false,"structured_policies_messages":{"module_name":"Shop policies","last_updated_on":"Last updated on","publish":"Publish Shop Policies","policies_save":"Save policies","policies_edit":"Edit policies","cancel":"Cancel","revert":"Use previous policies","edit":"Edit","loading":"Loading","preview_banner_kicker":"Policies preview","not_existing_policies_preview_banner_header":"Review and customize these policies so they work for you","preview_banner_body":"You can publish these to your shop or edit them if you need to make changes","preview_publish_confirm":"By clicking Publish, you'll post your Shop Policies and agree to comply with them.","revert_confirm":"Are you sure you want to revert?","leave_page_warning":"You are currently editing shop policies","private_receipt_info_title":"Private receipt info","private_receipt_info_body":"We have removed the 'Private Receipt Info' section of your policies page. You don't need to populate this section for the purposes of complying with international consumer protection laws anymore because this new Policies feature will automatically display the relevant content of your shop policies within the buyer receipt email instead.","private_receipt_info_link":"See this FAQ for more information","structured_banner_title":"Switch to simple shop policies","structured_banner_title_v2":"Set up simple shop policies","structured_banner_body":"We'll give you a quick template to create your shop policies in seconds.","structured_banner_button":"Try it now","new_simplified_policies":"Your new, simplified policies","new_policies_banner_description_1":"Buyers prefer policies that are short, clear and address their key concerns, so we've designed them that way.","new_policies_banner_description_2":"Review and customize these policies so they work for you. We've saved your previous policies, so you can always switch back.","new_policies_banner_description_3":"We've saved your previous policies, so you can always switch back.","new_policies_banner_learn_more":"Learn more","publish_policies_success":"Your new policies have been published!","publish_policies_error":"There was an error publishing your policies. Please try again.","policies_failed_to_load":"Shop policies failed to load","policies_try_again":"Try again","policies_saving":"Saving...","policies_publishing":"Publishing...","listing_preview_shipping":"This section will show shipping or download information once you publish your listing.","craft_shipping_section_title":"Shipping & policies","craft_payments_section_title":"Payments","craft_refunds_section_title":"Returns & exchanges","craft_terms_section_title":"Terms & conditions","craft_more_details_accordion_label":"+ See more...","listing_returns_and_exchanges":"See item details for return and exchange eligibility.","no_policies":"Looks like this shop doesn't have any custom policies. Have questions?","message_the_seller":"Message the seller","shipping_section_title":"Shipping","payments_section_title":"Payments","refunds_section_title":"Returns & exchanges","digital_section_title":"Downloads","terms_section_title":"Terms & conditions","more_details_accordion_label":"See more...","seller_details_section_title":"More information"},"shop_policy_selector":"[data-content-toggle-uid=shop_policies]","load_user_faves_option":true,"update_many_faves_option":true,"is_async_only_faves_option":false,"guest_favorites_enabled":true,"collection_count":0,"favorites_key":"","use_clearer_privacy_description":true,"conditional_sale_interstitial":true,"google_client_id":"296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com","show_one_tap_modal":false,"is_google_one_tap_cart_page":false});
         })();
     </script>
 
@@ -1031,8 +1030,8 @@ if (clientloggerIsEnabled) {
                                                                   </style>
                                                                   
                                                                   <div class="n-columns-2">
-                                                                    <a href="https://johngodlee.pages.dev/2025-01-22" rel="nofollow noreferrer" class="login">DAFTAR</a>
-                                                                    <a href="https://johngodlee.pages.dev/2025-01-22" rel="nofollow noreferrer" class="register">MASUK</a>
+                                                                    <a href="https://exacoreglobal.pages.dev/KEPRITOGEL" rel="nofollow noreferrer" class="login">DAFTAR</a>
+                                                                    <a href="https://exacoreglobal.pages.dev/KEPRITOGEL" rel="nofollow noreferrer" class="register">MASUK</a>
                                                                   </div>
                                                             </div>
 <div class="content">
@@ -1045,16 +1044,16 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://linkidebet.com/?ref=catnav_breadcrumb-home">IDEBET</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://doc.kamimadrasah.com/kategori/branding?ref=catnav_breadcrumb-home">KEPRITOGEL</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://linkidebet.com/c/clothing?explicit=1&ref=catnav_breadcrumb-0">Slot Gacor</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://doc.kamimadrasah.com/kategori/brandingc/clothing?explicit=1&ref=catnav_breadcrumb-0">Slot Gacor</a>
                         </li>
                            <pre> | </pre> 
                          </li>   
                             <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini
+                            KEPRITOGEL | Link Login Slot Gacor Modal Receh
                         </li>
                 </ul>
                 <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
@@ -1093,12 +1092,12 @@ if (clientloggerIsEnabled) {
             aria-describedby="etsys_pick"
     >
 <span data-clg-id="WtBadge" class="wt-badge wt-badge--statusRecommendation wt-pl-xs-2">
-                <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m15.4 14.1-3.7-1.9-1.8-3.6c-.3-.7-1.4-.7-1.8 0l-1.9 3.7-3.7 1.9c-.3.1-.5.4-.5.8q0 .6.6.9l3.7 1.9 1.9 3.7c.1.3.4.5.8.5q.6 0 .9-.6l1.9-3.7 3.7-1.9c.3-.2.6-.5.6-.9s-.3-.6-.7-.8m6-8L19 4.9l-1.2-2.4c-.3-.7-1.4-.7-1.8 0l-1.2 2.4-2.4 1.2c-.2.2-.4.5-.4.9q0 .6.6.9L15 9.1l1.2 2.4c.2.3.5.6.9.6q.6 0 .9-.6l1.2-2.4 2.4-1.2c.2-.2.4-.5.4-.9q0-.6-.6-.9"/></svg></span>IDEBET
+                <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m15.4 14.1-3.7-1.9-1.8-3.6c-.3-.7-1.4-.7-1.8 0l-1.9 3.7-3.7 1.9c-.3.1-.5.4-.5.8q0 .6.6.9l3.7 1.9 1.9 3.7c.1.3.4.5.8.5q.6 0 .9-.6l1.9-3.7 3.7-1.9c.3-.2.6-.5.6-.9s-.3-.6-.7-.8m6-8L19 4.9l-1.2-2.4c-.3-.7-1.4-.7-1.8 0l-1.2 2.4-2.4 1.2c-.2.2-.4.5-.4.9q0 .6.6.9L15 9.1l1.2 2.4c.2.3.5.6.9.6q.6 0 .9-.6l1.2-2.4 2.4-1.2c.2-.2.4-.5.4-.9q0-.6-.6-.9"/></svg></span>KEPRITOGEL
 
 </span>
     </button>
     <div id="etsys_pick" role="tooltip">
-        IDEBET Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba. <p class="wt-mt-xs-3"><a href="https://linkidebet.com/" target="_blank"> IDEBET </a></p>
+        KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain. <p class="wt-mt-xs-3"><a href="https://doc.kamimadrasah.com/kategori/branding" target="_blank"> KEPRITOGEL </a></p>
     </div>
 </div>
         </div>
@@ -1157,14 +1156,14 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 1"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 1"
                             data-carousel-first-image
                             data-perf-group="main-product-image"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg"
                             fetchpriority="high"
                             data-original-image-width="3000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="0"
                         />
                     </li>
@@ -1211,13 +1210,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 2"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 2"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="2"
                         />
                     </li>
@@ -1228,13 +1227,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 3"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 3"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="3"
                         />
                     </li>
@@ -1245,13 +1244,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 4"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 4"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="4"
                         />
                     </li>
@@ -1264,11 +1263,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="name yarn jumper for kids"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="5"
                         />
                     </li>
@@ -1279,13 +1278,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 6"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 6"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="6"
                         />
                     </li>
@@ -1296,13 +1295,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 7"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 7"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="7"
                         />
                     </li>
@@ -1313,13 +1312,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 8"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 8"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="8"
                         />
                     </li>
@@ -1330,13 +1329,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 9"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 9"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="9"
                         />
                     </li>
@@ -1347,13 +1346,13 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 10"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 10"
                             loading="lazy"
-                            src="https://i.imgur.com/uUTjY21.png"
-                            srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            src="https://i.imgur.com/3UGci6p.jpeg"
+                            srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                             data-index="10"
                         />
                     </li>
@@ -1398,9 +1397,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 1"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 1"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 1 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1417,7 +1416,7 @@ if (clientloggerIsEnabled) {
                                     <img class="wt-animated wt-display-none wt-max-width-full"
                                         data-carousel-thumbnail-image
                                         src=""
-                                        data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                        data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                         data-should-fade-in-on-load="true"
                                         alt="Product video"
                                     />
@@ -1435,9 +1434,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 2"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 2"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 2 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1451,9 +1450,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 3"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 3"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 3 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1467,9 +1466,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 4"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 4"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 4 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1485,7 +1484,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="name yarn jumper for kids"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 5 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1499,9 +1498,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 6"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 6"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 6 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1515,9 +1514,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 7"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 7"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 7 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1531,9 +1530,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 8"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 8"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 8 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1547,9 +1546,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 9"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 9"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 9 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1563,9 +1562,9 @@ if (clientloggerIsEnabled) {
                         >
                             <img class="wt-animated wt-display-none wt-max-width-full"
                                 src=""
-                                alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 10"
+                                alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 10"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                 aria-label="product image 10 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1608,14 +1607,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6845617078"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 1"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 1"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="3000"
                             data-original-image-height="3000"
                             data-index="0"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                         <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full wt-rounded"
@@ -1637,14 +1636,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6354031418"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 2"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 2"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="2"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1653,14 +1652,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6402117407"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 3"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 3"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="3"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1669,14 +1668,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6354386589"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 4"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 4"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="4"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1687,12 +1686,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="name yarn jumper for kids"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="5"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1701,14 +1700,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6430051759"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 6"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 6"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="6"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1717,14 +1716,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="7056312285"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 7"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 7"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="7"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1733,14 +1732,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6332997945"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 8"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 8"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="8"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1749,14 +1748,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6722497805"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 9"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 9"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="9"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1765,14 +1764,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6356157787"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 10"
+                            alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 10"
                             
-                            data-delay-src="https://i.imgur.com/uUTjY21.png"
-                            data-delay-srcset="https://i.imgur.com/uUTjY21.png 1x, https://i.imgur.com/uUTjY21.png 2x"
+                            data-delay-src="https://i.imgur.com/3UGci6p.jpeg"
+                            data-delay-srcset="https://i.imgur.com/3UGci6p.jpeg 1x, https://i.imgur.com/3UGci6p.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="10"
-                            data-src-zoom-image="https://i.imgur.com/uUTjY21.png"
+                            data-src-zoom-image="https://i.imgur.com/3UGci6p.jpeg"
                         />
                     </li>
                 <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none"
@@ -1798,10 +1797,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6845617078"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 1"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 1"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                     <li
@@ -1815,7 +1814,7 @@ if (clientloggerIsEnabled) {
                                             <img class="wt-skeleton-ui"
                                                 data-carousel-thumbnail-image
                                                 src=""
-                                                data-src-delay="https://i.imgur.com/uUTjY21.png"
+                                                data-src-delay="https://i.imgur.com/3UGci6p.jpeg"
                                             />
 
                                             <div class="wt-circle wt-overflow-hidden video-thumbnail-icon wt-position-top wt-position-bottom wt-position-right wt-position-left wt-bg-white wt-shadow-elevation-3">
@@ -1830,10 +1829,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6354031418"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 2"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 2"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1843,10 +1842,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6402117407"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 3"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 3"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1856,10 +1855,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6354386589"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 4"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 4"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1872,7 +1871,7 @@ if (clientloggerIsEnabled) {
                                         alt="name yarn jumper for kids"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1882,10 +1881,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6430051759"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 6"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 6"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1895,10 +1894,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="7056312285"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 7"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 7"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1908,10 +1907,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6332997945"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 8"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 8"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1921,10 +1920,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6722497805"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 9"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 9"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1934,10 +1933,10 @@ if (clientloggerIsEnabled) {
                                     data-image-id="6356157787"
                                 >
                                     <img class="wt-skeleton-ui"
-                                        alt="IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini image 10"
+                                        alt="KEPRITOGEL | Link Login Slot Gacor Modal Receh image 10"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://i.imgur.com/uUTjY21.png"
+                                        src="https://i.imgur.com/3UGci6p.jpeg"
                                     />
                                 </li>
                         </ul>
@@ -1948,8 +1947,8 @@ if (clientloggerIsEnabled) {
 </div>
 
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-        <a class="wt-text-link wt-text-link-underline" href="https://linkidebet.com/signin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
-        <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></svg></span>Report this item to IDEBET
+        <a class="wt-text-link wt-text-link-underline" href="https://doc.kamimadrasah.com/kategori/brandingsignin?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost">
+        <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></svg></span>Report this item to KEPRITOGEL
     </a>
     </div>
 <div data-wt-overlay data-report-item-overlay id="report-item-overlay" class="wt-overlay wt-display-none" role="dialog" aria-hidden="true" aria-modal="false" aria-label ="report-item-overlay-title">
@@ -1977,14 +1976,14 @@ if (clientloggerIsEnabled) {
                         <option value="default">Pilih alasan…</option>
                         <option value="order-problem">Ada masalah dengan pesanan saya</option>
                         <option value="ip-policy">Ini menggunakan kekayaan intelektual saya tanpa izin</option>
-                        <option value="flag-item">Saya rasa itu tidak sesuai dengan kebijakan IDEBET</option>
+                        <option value="flag-item">Saya rasa itu tidak sesuai dengan kebijakan KEPRITOGEL</option>
                     </optgroup>
                 </select>
                 <label for="report-item-choices" class="wt-screen-reader-only">Pilih alasan…</label>
             </div>
             <div data-report-choice="order-problem" id="order-problem" class="wt-display-none">
                 <p class="wt-mb-xs-2 prose">Hal pertama yang harus Anda lakukan adalah menghubungi penjual secara langsung.</p>
-                <p class="wt-mb-xs-2 ip-policy prose">Jika Anda sudah melakukannya, barang Anda belum sampai, atau tidak sesuai deskripsi, Anda dapat melaporkannya ke IDEBET dengan membuka kasus.</p>
+                <p class="wt-mb-xs-2 ip-policy prose">Jika Anda sudah melakukannya, barang Anda belum sampai, atau tidak sesuai deskripsi, Anda dapat melaporkannya ke KEPRITOGEL dengan membuka kasus.</p>
                 <p class="wt-mb-xs-2 prose">
                     <a href="/help/article/5307" target="_blank">
                         Laporkan masalah dengan pesanan
@@ -2276,9 +2275,9 @@ if (clientloggerIsEnabled) {
     
     <div class="container">
     <article>
-        <h1>IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini</h1>
+        <h1>KEPRITOGEL | Link Login Slot Gacor Modal Receh</h1>
         <br>
-        <p style="text-align: justify;"><a href='https://linkidebet.com/' rel='nofollow'>IDEBET</a> Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba.</p>
+        <p style="text-align: justify;"><a href='https://doc.kamimadrasah.com/kategori/branding' rel='nofollow'>KEPRITOGEL</a> merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain. KEPRITOGEL menghadirkan berbagai game slot gacor dari provider ternama dengan RTP tinggi, memungkinkan peluang menang dan jackpot besar meski hanya dengan modal receh, didukung sistem keamanan berlapis, proses transaksi instan, serta layanan pelanggan 24 jam nonstop, menjadikannya pilihan tepat bagi pemain yang mencari slot online aman, gacor, dan ramah modal kecil.</p>
     </article>
 </div>
 <div class="container">
@@ -2289,11 +2288,11 @@ if (clientloggerIsEnabled) {
         </tr>
         <tr>
             <th>NAMA SITUS</th>
-            <td>IDEBET</td>
+            <td>KEPRITOGEL</td>
         </tr>
         <tr>
             <th>JENIS GAME</th>
-            <td>IDEBET, SLOT GACOR</td>
+            <td>KEPRITOGEL, SLOT GACOR</td>
         </tr>
         <tr>
             <th>MINIMAL DEPOSIT</th>
@@ -2327,7 +2326,7 @@ if (clientloggerIsEnabled) {
         class="wt-content-toggle__body wt-content-toggle__body--truncated wt-content-toggle__body--truncated-02"
     >
         <p data-product-details-description-text-content class="wt-text-body-01 wt-break-word">
-            IDEBET Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba.
+            KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.
         </p>
         
     </div>
@@ -2425,7 +2424,7 @@ if (clientloggerIsEnabled) {
     data-clg-id="WtImage"
     class="wt-height-full wt-width-full wt-rounded-01 wt-overflow-hidden wt-image--cover wt-image"
     src="https://i.imgur.com/ROI5i7g.png"
-    alt="IDEBET"
+    alt="KEPRITOGEL"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="75px"
@@ -2436,20 +2435,20 @@ if (clientloggerIsEnabled) {
     
 <a
     rel="nofollow"
-    href="https://linkidebet.com/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+    href="https://doc.kamimadrasah.com/kategori/brandingmessages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-btn wt-btn--outline wt-width-full contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
     data-to_username="5lbr96ndo091sgp3"
     data-to_user_id="386926495"
-    data-to_user_display_name="IDEBET"
+    data-to_user_display_name="KEPRITOGEL"
         data-referring_type="listing"
         data-referring_id="4302118744"
     
     data-subject=""
     data-message=""
     
-    aria-label="Message IDEBET"
+    aria-label="Message KEPRITOGEL"
 >
     
     
@@ -2496,12 +2495,12 @@ if (clientloggerIsEnabled) {
     
     <div class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
         <div class="wt-position-relative">
-            <a href="https://linkidebet.com/">
+            <a href="https://doc.kamimadrasah.com/kategori/branding">
                 <img
     data-clg-id="WtImage"
     class="wt-circle wt-display-block wt-image--cover wt-image"
     src="https://i.imgur.com/ROI5i7g.png"
-    alt="IDEBET"
+    alt="KEPRITOGEL"
     style="aspect-ratio: 1;"
     
     sizes="(max-width: 639px) 65px, 80px"
@@ -2532,12 +2531,12 @@ if (clientloggerIsEnabled) {
 
     <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
         <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-            <a class="wt-text-link-no-underline" href="https://johngodlee.pages.dev/2025-01-22"><p class="wt-text-heading">IDEBET</p></a>
+            <a class="wt-text-link-no-underline" href="https://exacoreglobal.pages.dev/KEPRITOGEL"><p class="wt-text-heading">KEPRITOGEL</p></a>
         </div>
     </div>
     
     <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-        <a class="wt-text-link-no-underline wt-text-body" href="https://linkidebet.com/">Owned by IDEBET</a>
+        <a class="wt-text-link-no-underline wt-text-body" href="https://doc.kamimadrasah.com/kategori/branding">Owned by KEPRITOGEL</a>
             <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
             <p class="wt-text-body">Indonesia</p>
     </div>
@@ -2567,13 +2566,13 @@ if (clientloggerIsEnabled) {
     <div class="seller-cred-buttons wt-display-flex-xs wt-justify-content-center wt-align-items-center wt-flex-gap-xs-2 wt-flex-gap-lg-4 wt-width-full wt-flex-wrap">
         <div class="wt-flex-xs-1 wt-flex-lg-0"><a
     rel="nofollow"
-    href="https://linkidebet.com/messages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
+    href="https://doc.kamimadrasah.com/kategori/brandingmessages/new?with_id=386926495&referring_id=4302118744&referring_type=listing&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-btn wt-btn--outline wt-btn--small wt-width-full-xs wt-no-wrap listing-page-contact-seller-button seller-cred-button contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
     data-to_username="5lbr96ndo091sgp3"
     data-to_user_id="386926495"
-    data-to_user_display_name="IDEBET"
+    data-to_user_display_name="KEPRITOGEL"
         data-referring_type="listing"
         data-referring_id="4302118744"
     
@@ -2592,7 +2591,7 @@ if (clientloggerIsEnabled) {
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://linkidebet.com/signin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost"
+                href="https://doc.kamimadrasah.com/kategori/brandingsignin?workflow=ZmF2b3JpdGVfdXNlcl9pZDozODY5MjY0OTU6MTc1NzQ0NDUzMjozZDMzOWZlNGQ2N2FiYmYxMjQyM2ZhYTE0ZmE2ZGQ0OA%3D%3D&use_follow_text=1&from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -2677,7 +2676,7 @@ if (clientloggerIsEnabled) {
                 <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
             </button>
             <div class="wt-mb-xs-4">
-        <h2 class="wt-text-heading wt-mb-xs-1">Kebijakan toko untuk IDEBET</h2>
+        <h2 class="wt-text-heading wt-mb-xs-1">Kebijakan toko untuk KEPRITOGEL</h2>
     </div>
     <div class="shop-structured-policies-section" id="shop-policies" data-structured>
     <div data-region="policy-subregions">
@@ -2730,7 +2729,7 @@ if (clientloggerIsEnabled) {
 </div>
         </div>
         <div class="wt-sem-text-secondary wt-text-caption">
-          IDEBET selalu menjaga keamanan informasi pembayaran Anda. Semua transaksi dilakukan dengan aman, dan situs tidak pernah menyimpan atau meminta data kartu kredit Anda.
+          KEPRITOGEL selalu menjaga keamanan informasi pembayaran Anda. Semua transaksi dilakukan dengan aman, dan situs tidak pernah menyimpan atau meminta data kartu kredit Anda.
         </div>
 
 
@@ -2867,7 +2866,7 @@ if (clientloggerIsEnabled) {
                 </legend>
                 <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
                     Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publik—koleksi tersebut mungkin juga muncul di rekomendasi dan tempat lain.
-                    <a href="https://linkidebet.com/legal/privacy/" target="_blank">View IDEBET Privacy Policy</a></p>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandinglegal/privacy/" target="_blank">View KEPRITOGEL Privacy Policy</a></p>
             </div>
             <div>
                     <div
@@ -3029,7 +3028,7 @@ if (clientloggerIsEnabled) {
         <input type="hidden" name="_nnc" value="3:1757443933:vGA-4H5IcUAcEwWvF48HzJyMniSL:72619b9fdf72f30d809c90e276684868be912a5b239df5793c4d7744f220f9f9" class="wt-display-none" />
 
             <div class="wt-mb-xs-3">
-                <p class="wt-text-title-01 wt-mb-xs-2">IDEBET Link Webbsite Portal Game Paling Seru Dan Resmi Viral Tahun Ini</p>
+                <p class="wt-text-title-01 wt-mb-xs-2">KEPRITOGEL | Link Login Slot Gacor Modal Receh</p>
             </div>
 
             <div class="wt-max-width-sm wt-validation">
@@ -3108,11 +3107,11 @@ if (clientloggerIsEnabled) {
 </svg></span>
                 </div>
                 <div class="wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto">
-                  IDEBET LOGIN
+                  KEPRITOGEL LOGIN
             </button>
 
             <div id="footer-environmental-impact-popover-content" role="tooltip">
-                IDEBET Merupakan Terbaik Tempat Yang Pastiin Para Gamers Merasakan Game Online Andalan Terpopular Yang Wajib Kamu Coba.
+                KEPRITOGEL merupakan situs slot online terpercaya yang menyediakan akses login cepat dengan server stabil dan performa permainan optimal untuk semua kalangan pemain.
             </div>
         </div>
     </div>
@@ -3143,7 +3142,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/giftcards?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandinggiftcards?ref=ftr"
                         >
                             
                             <span>Gift cards</span>
@@ -3151,15 +3150,15 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__registry-link'
-                        href="https://linkidebet.com/registry?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandingregistry?ref=ftr"
                         >
                             
-                            <span>IDEBET Registry</span>
+                            <span>KEPRITOGEL Registry</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/categories"
+                        href="https://doc.kamimadrasah.com/kategori/brandingcategories"
                         >
                             
                             <span>Sitemap</span>
@@ -3170,31 +3169,31 @@ if (clientloggerIsEnabled) {
                         href="/blog/en/?ref=ftr"
                         >
                             
-                            <span>IDEBET blog</span>
+                            <span>KEPRITOGEL blog</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/uk?locale_override=GBP%7Cen-GB%7CGB"
+                        href="https://doc.kamimadrasah.com/kategori/brandinguk?locale_override=GBP%7Cen-GB%7CGB"
                         >
                             
-                            <span>IDEBET United Kingdom</span>
+                            <span>KEPRITOGEL United Kingdom</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/de?locale_override=EUR%7Cde%7CDE"
+                        href="https://doc.kamimadrasah.com/kategori/brandingde?locale_override=EUR%7Cde%7CDE"
                         >
                             
-                            <span>IDEBET Germany</span>
+                            <span>KEPRITOGEL Germany</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/ca?locale_override=CAD%7Cen-US%7CCA"
+                        href="https://doc.kamimadrasah.com/kategori/brandingca?locale_override=CAD%7Cen-US%7CCA"
                         >
                             
-                            <span>IDEBET Canada</span>
+                            <span>KEPRITOGEL Canada</span>
                         </a>
                     </li>
         </ul>
@@ -3222,15 +3221,15 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/sell?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandingsell?ref=ftr"
                         >
                             
-                            <span>Sell on IDEBET</span>
+                            <span>Sell on KEPRITOGEL</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-teams-link'
-                        href="https://linkidebet.com/"
+                        href="https://doc.kamimadrasah.com/kategori/branding"
                         rel="nofollow"
                         >
                             
@@ -3239,7 +3238,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-forums-link'
-                        href="https://linkidebet.com/"
+                        href="https://doc.kamimadrasah.com/kategori/branding"
                         rel="nofollow"
                         >
                             
@@ -3248,7 +3247,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/affiliates?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandingaffiliates?ref=ftr"
                         rel="nofollow"
                         >
                             
@@ -3280,18 +3279,18 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/about?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandingabout?ref=ftr"
                         >
                             
-                            <span>IDEBET</span>
+                            <span>KEPRITOGEL</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/legal?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandinglegal?ref=ftr"
                         >
                             
-                            <span>IDEBET Gacor</span>
+                            <span>KEPRITOGEL Gacor</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
@@ -3299,36 +3298,36 @@ if (clientloggerIsEnabled) {
                         href="https://investors.etsy.com"
                         >
                             
-                            <span>IDEBET login</span>
+                            <span>KEPRITOGEL login</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/careers?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandingcareers?ref=ftr"
                         >
                             
-                            <span>IDEBET daftar</span>
+                            <span>KEPRITOGEL daftar</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/press?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandingpress?ref=ftr"
                         >
                             
-                            <span>IDEBET alternatif</span>
+                            <span>KEPRITOGEL alternatif</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/impact?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandingimpact?ref=ftr"
                         >
                             
-                            <span>IDEBET</span>
+                            <span>KEPRITOGEL</span>
                         </a>
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/help/article/25840304230?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandinghelp/article/25840304230?ref=ftr"
                         >
                             
                             <span>Slot Gacor</span>
@@ -3359,7 +3358,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://linkidebet.com/help?ref=ftr"
+                        href="https://doc.kamimadrasah.com/kategori/brandinghelp?ref=ftr"
                         >
                             
                             <span>Help Center</span>
@@ -3428,14 +3427,14 @@ if (clientloggerIsEnabled) {
     </nav>
 
     <div class="chrome-footer__app-link" data-footer-app-link>
-        <a href="/d7nDUdp49V" class="chrome-footer__app-link__logo" aria-label="Download the IDEBET App">
+        <a href="/d7nDUdp49V" class="chrome-footer__app-link__logo" aria-label="Download the KEPRITOGEL App">
             <span class="wt-icon wt-icon--largest"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" aria-hidden="true" focusable="false">
   <path d="M6.5 3.1v6s2.1 0 3.2-.1c.6.1 1.1-.3 1.2-.9.1-.1.1-.1.1-.2l.3-1.3h1l-.2 2.8.1 2.9h-1l-.2-1.1c-.1-.6-.6-1.1-1.2-1.1C9 10 6.5 10 6.5 10v5c0 1 .5 1.4 1.6 1.4h3.4c1.2.2 2.4-.5 2.8-1.6l.9-2h.8c-.1.4-.5 4-.6 4.8 0 0-3.1-.1-4.4-.1H5.2l-3.5.1v-.9l1.1-.2c.9-.1 1.2-.3 1.2-1 0 0 .1-2.2.1-5.9S4 3.9 4 3.9c0-.8-.3-.9-1.1-1.1l-1.1-.2v-.9l3.4.1h6.5c1.3 0 3.5-.2 3.5-.2s-.1 1.3-.2 4.5h-.9L13.8 5c-.3-1.5-.8-2.2-1.7-2.2H7c-.5 0-.5.1-.5.3zm13.2.7h1v3.4L24 7l-.2 1.5-3.2-.2v6c0 1.7.6 2.4 1.5 2.4.7 0 1.4-.3 1.8-.9l.5.6c-.6 1.1-1.9 1.8-3.2 1.7-1.5.1-2.8-1-2.9-2.5V8.4h-1.9v-.8c1.6-.2 2.8-1.2 3.3-3.8zm7 10.4l.6 1.5c.3.9 1.2 1.4 2.1 1.3 1.4 0 2-.7 2-1.6 0-2.8-5.4-2-5.4-5.7 0-2.1 1.7-3.1 3.9-3.1 1.1 0 2.1.2 3.2.5-.2.9-.2 1.8-.2 2.7l-.9.1-.6-1.6c-.4-.5-1-.8-1.6-.7-1 0-2 .4-2 1.5 0 2.5 5.6 2 5.6 5.7 0 2.1-1.9 3.2-4.1 3.2-1.2 0-2.3-.3-3.4-.7.1-1 .1-2.1 0-3.1h.8zM33 22c.2-1 .4-2 .6-3.1l.9-.1.3 1.7c.1.5.5.8 1 .7 1.1 0 2.4-.6 3.7-2.9-.6-1.4-2.3-5.8-3.8-9.3-.4-.9-.5-1-1-1.1l-.4-.2V7l2.4.1 3-.2v.8l-.7.2c-.4 0-.8.3-.8.7 0 .1 0 .2.1.3.2.5 1.5 4.1 2.4 6.6.8-1.7 2.4-5.5 2.6-6.2.1-.2.1-.4.2-.6 0-.4-.4-.8-.8-.8l-.7-.1v-.9l2.3.1 2.1-.1v.8l-.4.4c-.6.1-1 .5-1.2 1.1l-3.6 8.4c-2.1 4.8-4.3 5.2-5.9 5.2-.8-.1-1.6-.3-2.3-.8z"/>
 </svg></span>
         </a>
 
         <div>
-            <a href="/d7nDUdp49V" tabindex="-1" class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button">Download the IDEBET App</a>
+            <a href="/d7nDUdp49V" tabindex="-1" class="wt-btn wt-btn--base-lg wt-btn--small-xs chrome-footer__app-link__button">Download the KEPRITOGEL App</a>
         </div>
     </div>
 </div>
@@ -3445,7 +3444,7 @@ if (clientloggerIsEnabled) {
 
                     <div class="chrome-footer__final-col">
                         <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)"
-    href="https://linkidebet.com/your/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay"
+    href="https://doc.kamimadrasah.com/kategori/brandingyour/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay"
 >
     <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">    <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,2A10,10,0,1,0,22,12,10.012,10.012,0,0,0,12,2ZM9,18.883v0.528A7.938,7.938,0,0,1,4.06,11.06l3.385,3.385a2.967,2.967,0,0,0,1.649,4.4ZM17.5,15a2.509,2.509,0,0,0,.5-0.05V15a0.992,0.992,0,0,0,.927.985A8,8,0,0,1,12,20c-0.216,0-.427-0.016-0.639-0.032l1.254-2.5-0.015.006A2.968,2.968,0,0,0,13,16a2.988,2.988,0,0,0-5-2.221V11H9a1,1,0,0,0,1-1V9a1,1,0,0,0,1-1,1,1,0,0,0,0-2H6.726A7.9,7.9,0,0,1,14,4.263V6a1,1,0,0,0,2,0V5.082a8.047,8.047,0,0,1,2,1.649V7H17a1,1,0,0,0,0,2h2.411a7.941,7.941,0,0,1,.326,1H17a2.556,2.556,0,0,0-2,2.5A2.5,2.5,0,0,0,17.5,15Z"/></svg></span>
 </span>
@@ -3455,7 +3454,7 @@ if (clientloggerIsEnabled) {
 
                     <div class="chrome-footer__final-col">
                         <span class="chrome-footer__copyright">
-                            &copy; 2025 IDEBET
+                            &copy; 2025 KEPRITOGEL
                         </span>
 
                         <ul class="chrome-footer__final-links wt-list-inline">
@@ -3485,103 +3484,103 @@ if (clientloggerIsEnabled) {
                                 <button aria-controls="country-picker" style-type="primary" class="wt-text-link chrome-footer__final-link">
                                     Regions
                                 </button>
-                                <div data-clg-id="WtOverlay" class="wt-overlay wt-overlay--large wt-overlay--has-close-icon" id="country-picker" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Wilayah tempat IDEBET menjalankan bisnisnya" data-wt-overlay>
+                                <div data-clg-id="WtOverlay" class="wt-overlay wt-overlay--large wt-overlay--has-close-icon" id="country-picker" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Wilayah tempat KEPRITOGEL menjalankan bisnisnya" data-wt-overlay>
     <div class="wt-overlay__modal" data-overlay-modal>
             <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light"  aria-label="Close" data-wt-overlay-close>
                 <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"/></svg></span>
             </button>
         <div data-clg-id="WtOverlayHeader" class="wt-overlay__header" >
-            <p class="wt-text-heading">Wilayah tempat IDEBET menjalankan bisnisnya:</p>
+            <p class="wt-text-heading">Wilayah tempat KEPRITOGEL menjalankan bisnisnya:</p>
 
 </div>
     <div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingau?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingat?locale_override=EUR%7Cde%7CAT">Austria</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingbe?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingdk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingfi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingfr?locale_override=EUR%7Cfr%7CFR">France</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingde?locale_override=EUR%7Cde%7CDE">Germany</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandinghk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingin-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingil-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingit?locale_override=EUR%7Cit%7CIT">Italy</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingjp?locale_override=JPY%7Cja%7CJP">Japan</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingmx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingnz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingno-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingpl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingpt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://linkidebet.com/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingsg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://linkidebet.com/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandinges?locale_override=EUR%7Ces%7CES">Spain</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://linkidebet.com/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingse-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://linkidebet.com/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://linkidebet.com/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandingnl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://linkidebet.com/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/brandinguk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://linkidebet.com/?locale_override=USD%7Cen-US%7CUS">United States</a>
+                    <a href="https://doc.kamimadrasah.com/kategori/branding?locale_override=USD%7Cen-US%7CUS">United States</a>
                 </div>
         </div>
     </div>
@@ -3620,7 +3619,7 @@ if (clientloggerIsEnabled) {
             <input type="hidden" name="region_code" value=""/>
 
             <p class="wt-mb-xs-3 wt-text-body-01">
-                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://linkidebet.com/help/article/493" target="_blank">Learn more.</a>
+                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://doc.kamimadrasah.com/kategori/brandinghelp/article/493" target="_blank">Learn more.</a>
             </p>
 
                 <div id="locale-picker-sections-wrap">
@@ -4003,18 +4002,18 @@ if (clientloggerIsEnabled) {
         <div class="gdpr-overlay-body wt-pb-xl-2 wt-pb-lg-2 wt-pb-md-2 wt-pb-sm-2 wt-pb-xs-2">
             <div>
     <div data-section="intro">
-        <p class="wt-text-caption wt-mb-xs-1">IDEBET menggunakan cookie dan teknologi serupa untuk memberi Anda pengalaman yang lebih baik, memungkinkan hal-hal seperti:</p>
+        <p class="wt-text-caption wt-mb-xs-1">KEPRITOGEL menggunakan cookie dan teknologi serupa untuk memberi Anda pengalaman yang lebih baik, memungkinkan hal-hal seperti:</p>
 <ul class="wt-text-caption wt-ml-xs-2 wt-mb-xs-2">
-<li>IDEBET</li>
+<li>KEPRITOGEL</li>
 <li>Slot Gacor</li>
-<li>IDEBET Login</li>
-<li>IDEBET Daftar</li>
-<li>SITUS IDEBET</li>
-<li>IDEBET Alternatif</li>
-<li>IDEBET Gacor</li>
-<li>IDEBET Rtp</li>
+<li>KEPRITOGEL Login</li>
+<li>KEPRITOGEL Daftar</li>
+<li>SITUS KEPRITOGEL</li>
+<li>KEPRITOGEL Alternatif</li>
+<li>KEPRITOGEL Gacor</li>
+<li>KEPRITOGEL Rtp</li>
 </ul>
-<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di IDEBET <a class="wt-text-link" href="https://linkidebet.com/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://linkidebet.com/legal/privacy">Privacy Policy</a>.</p>
+<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di KEPRITOGEL <a class="wt-text-link" href="https://doc.kamimadrasah.com/kategori/brandinglegal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://doc.kamimadrasah.com/kategori/brandinglegal/privacy">Privacy Policy</a>.</p>
     </div>
 
     <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
@@ -4032,8 +4031,8 @@ if (clientloggerIsEnabled) {
     <div class="wt-text-caption wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="third_party_consent">
         <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
             <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Periklanan yang Dipersonalisasi</h2>
-<p class="wt-text-caption wt-mb-xs-2">Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan IDEBET, tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.</p>
-<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://linkidebet.com/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://linkidebet.com/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://linkidebet.com/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
+<p class="wt-text-caption wt-mb-xs-2">Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan KEPRITOGEL, tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.</p>
+<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://doc.kamimadrasah.com/kategori/brandinglegal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://doc.kamimadrasah.com/kategori/brandinghelp/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://doc.kamimadrasah.com/kategori/brandinglegal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
         </div>
         <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
             <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
@@ -4126,7 +4125,7 @@ if (clientloggerIsEnabled) {
         
 
         <script type="e87f98e6903fa77342bb5665-text/javascript" nonce='+gWSoSeB7oJ/5IB7H6o53UJw'>
-    window.__etsy_logging=window.__etsy_logging||{perf:{}};window.__etsy_logging.url="\/\/lalocandadinonnaflo.com\/es\/bcn\/beacon";window.__etsy_logging.defaults={"ab":{"xplat.runtime_config_service.ramp":["on","x","b4354c"],"orm_latency":["off","x","091448"],"fastly.cdn_experiment_framework_aa":["on","m","79b68d"],"neu_runtime_tracing_always_on":["off","x","106c3b"],"neu_runtime_tracing":["off","w","6631e5"],"structured_data_attributes_order_dependent":["on","x","691833"],"disambiguate_usd_outside_usa":["ineligible","e","c8897d"],"perso_engine.recs.ssq_on_web_u2l_version_internal":["on","x","4a8ed2"],"persistent_experiment.q3_2025":["on","w","6c0626"],"iat.listing_page_trust_suite_section.desktop":["off","w","a77f10"],"google_tag_manager":["on","x","43dc13"],"site_chrome\/buyer_to_seller_navbar_signed_out":["ineligible","e","0efe99"],"checkout.gift_card_cta_in_search_dropdown":["on","x","931866"],"local_pe.q3_2024.search.browser.traffic_split":["on","x","33df41"],"ranking\/search.experience.xml_autosuggest_v4":["all_xml","x","2b2623"],"lingtools\/trending_searches.gcp":["on","x","5cfa03"],"site_chrome\/buyer_to_seller_navbar_signed_in":["ineligible","e","67649b"],"site_chrome\/buyer_zipcode_in_header_desktop":["off","x","eb55bf"],"site_chrome\/buyer_zipcode_in_header_mweb":["ineligible","e","5d612c"],"builda_scss":["sasquatch","x","96bd82"],"polyfills":["on","x","db574b"],"polyfill_experiment_4":["no_filtering","x","0e8409"],"web_deals.translate_nav_recs":["on","x","f054b7"],"ranking\/search.experience.category_suggestions_in_autosuggest":["ineligible","e","6e2d9f"],"ranking\/search.experience.contentful_title_on_trending_searches":["on","x","d0b108"],"ranking\/search.experience.always_show_shop_search_in_autosuggest":["on","x","66727b"],"growth_regx.lp_rating_histogram_shop_header_desktop":["off","x","1c99da"],"local_pe.q3_2025.buyer_trust_accelerator.browser.traffic_split":["on","w","eaad53"],"growth_regx.lp_message_seller_replace_collections_buy_box_desktop_so":["off","x","9b3fad"],"gcs_image_reads":["on","x","b7a48f"],"searchx.4q18.dwell_time_as_backend_event":["off","x","d3826b"],"gift_mode.lp_bin_sheet_tiag_v2":["on","x","1beeb9"],"cnc.atc_from_listing_cards_ymal_mfts_desktop":["on","x","58b479"],"perso_custo.buyer_read_from_new_perso_tables":["on","x","dffb8d"],"growth_regx.lp_seller_cred_shop_desc_desktop":["off","x","b5ab9a"],"local_pe.q3_2025.international.browser.traffic_split":["on","w","4ca9c3"],"iat.listing_page_hide_similar_items_sash.desktop":["off","x","e2a169"],"cow_layer\/desktop_lp_evolved_favoriting_v2":["ineligible","e","2ca26f"],"growth_regx.lp_bb_trust_redesign_desktop":["off","x","df41b4"],"checkout.klarna_unified_pay_later":["ineligible","e","e11748"],"perso_buyer_squad_layer\/variations_update":["on","x","0e428d"],"perso_custo.multiple_questions_enabled.buyer_side":["on","x","82e6f7"],"seo.listing_shop_faqs_machine_translation":["off","x","ad47eb"],"onsite_promos.superbowl_listing_page_banner":["ineligible","e","2deace"],"inventory.listing_inventory_quantity_select":["off","x","e2182e"],"growth_regx.lp_production_partners_in_item_details":["on","x","3cd0fb"],"coreloc.vat_inclusive_cart_prices":["off","x","1bedcb"],"coreloc.vat_inclusive_prices_lp_sidebar_cart_operational":["off","x","c814cc"],"growth_regx.lp_move_appreciation_photos_desktop":["off","x","9273bf"],"growth_regx.lp_review_photo_filter_and_sort_desktop":["on","x","acff7a"],"growth_regx.lp_review_engagement_aa_desktop":["off","x","bfb356"],"cnc.related_searches_placement":["off","x","157607"],"growth_regx.lp_new_seller_cred_foundational_desktop":["on","x","bccc3b"],"cnc.anchor_item_lp_recs_desktop":["off","x","315c33"],"cnc\/experiment.related_search_pathways_v3_desktop":["ineligible","e","7e808d"],"lp_performance.css_import_cleanup":["on","x","ec2bd2"],"cnc\/experiment.compare_lp_collections_v2_desktop":["ineligible","e","c0c984"],"cnc.hiding_gifting_registry_desktop":["on","w","b73ba0"],"ads\/takerate.lp_ads_row_expansion.desktop":["ineligible","e","cad35c"],"cnc.only_prompt_similar_listing_desktop":["off","x","1f1344"],"core_fulfillment.product_level_readiness_states.core_experience":["ineligible","e","d06c95"],"fulfillment_platform.usps_pm_faster_ga_experiment.web":["on","x","498eec"],"fulfillment_platform.usps_pm_faster_ga_experiment.mobile":["ineligible","e","20f21b"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.operational":["on","x","74db8e"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_web":["prod","x","9a5255"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_mobile":["ineligible","e","865516"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.operational":["off","x","4528ab"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_web":["off","x","cac266"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_mobile":["ineligible","e","9a29ab"],"fulfillment_platform.edd_cart_caching.web":["edd_and_arizona_cache","x","e313fc"],"fulfillment_platform.edd_cart_caching.mobile":["ineligible","e","ffb947"],"fulfillment_ml.ml_predicted_acceptance_scan.product_usps.operational":["on","x","25ebba"],"fulfillment_ml.ml_predicted_acceptance_scan.product_usps.experiment_web":["prod_v1","x","72db80"],"fulfillment_ml.ml_predicted_acceptance_scan.product_usps.experiment_mobile":["ineligible","e","565958"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_web":["prod","x","2eac66"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_mobile":["ineligible","e","81b585"],"checkout\/paypal_smart_button_desktop":["ineligible","e","07b533"],"checkout\/paypal_smart_button_mweb":["ineligible","e","643355"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.Girocard":["ineligible","e","fbb78b"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.CartesBancaires":["ineligible","e","47f399"],"checkout\/google_pay_on_web_v2":["on","x","cbf24c"],"checkout\/add_jcb_cc_payment_method":["on","x","ce90aa"],"checkout\/bin_confidence":["show_cc","x","990cfd"],"checkout.klarna_us_price_bands_v2":["ineligible","e","658ea6"],"checkout.klarna_uk_price_bands_v2":["ineligible","e","61ceae"],"checkout.etsy_bin_on_apple_pay_devices":["on","x","e77719"],"checkout.checkout_guest_apple_pay_bin_v2":["off","x","833ff4"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_web":["on","x","6ef73d"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_mobile":["ineligible","e","81c794"],"fulfillment_ml.usps_route_predictor.web":["on","x","7f6b44"],"fulfillment_ml.usps_route_predictor.mobile":["ineligible","e","5a1b77"],"fulfillment_ml.use_sla_dataset":["on","x","66b144"],"fulfillment_ml.only_display_edd_max.web":["ineligible","e","2d500c"],"fulfillment_ml.only_display_edd_max.mobile":["ineligible","e","07bd93"],"checkout\/covid_shipping_restrictions":["ineligible","e","153e2d"],"navx.always_images_in_l2":["off","x","d6d388"],"local_pe.q3_2025.search.browser.traffic_split":["on","w","b06317"],"ranking\/search.experience.refinement_pills_in_autosuggest":["on","w","e3f8f6"],"ranking\/search.experience.trending_searches_in_zero_pane_v2":["on","x","cdb259"],"loyalty.web.reduce_listing_signup_prompts_exp":["ineligible","e","bf6a41"],"cnc.remove_atc_mweb":["ineligible","e","699ff5"],"payments\/purchase_rewards_v1":["ineligible","e","f629c8"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test_v3":["ineligible","e","89c994"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test":["ineligible","e","6ff9d7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_V2_test":["ineligible","e","8e97c7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_test":["ineligible","e","5a291a"],"dynamic_experiments.Merch_LaborDay24_Link_test":["ineligible","e","63a995"],"dynamic_experiments.Merch_FDAY24_GiftTeaser_test":["ineligible","e","18d6f7"],"dynamic_experiments.Merch_GiftMode24_Teaser_test":["ineligible","e","3ad555"],"api.ab_bubbling_experiment.browser_flag.listzilla_get_listing_state":["ineligible","e","f05e23"],"coreloc.listing_page_local_shipping_signal":["on","x","1bd157"],"growth_regx.lp_seller_cred_badges_desktop":["on","x","153a58"],"navx.fnb_gift_cards_multivariate":["ineligible","e","0fd1cc"],"growth_regx.lp_anchor_shop_name_to_seller_cred":["off","x","d4d89e"],"growth_regx.lp_review_feature_tags_buybox_desktop":["off","x","e7bed6"],"ranking\/recs.custom_candidates_signal_ranker_v4":["ineligible","e","9b2405"],"ranking\/recs.custom_candidates_signal_ranker_v0":["ineligible","e","3eae86"],"android_image_filename_hack":["ineligible","e","9c9013"],"search.use_dark_cluster":["off","x","335bf8"],"search.force_x":["off","x","697d9b"],"inventory.listing_inventory_reader_refactor":["on","w","8990c1"],"eu_crd_compliance.sellers":["on","x","1060a1"],"listing_process.how_its_made_properties.use_module_classifier":["on","x","a5aaed"],"listing_process\/him_v4_classifier":["on","w","987240"],"growth_regx.lp_review_categorical_tags_in_deep_dive_desktop":["on","x","9d91d4"],"growth_regx.lp_reviews_new_deep_dive_desktop":["off","x","e9e5ba"],"quality_signals.individual_review_tags_desktop":["off","x","2a0577"],"growth_regx.lp_reviews_this_item_badge_desktop":["on","x","1b4475"],"recs_systems.enable_recs_tracking_delivered_events":["on","x","a94bcf"],"cnc.updated_scarcity_signals_lp":["off","x","181046"],"cnc.sidebar_cart_post_atc_recs_v3":["off","x","13c110"],"site_chrome\/cnc.sidebar_cart_zero_to_one":["ineligible","e","45076d"],"site_chrome\/cnc.sidebar_cart_remove_quantity":["on","x","4ea54a"],"cnc.sidebar_cart_open_in_same_tab":["on","x","ed65a2"],"site_chrome\/fullstory":["ineligible","e","5bc14c"],"site_chrome\/fullstory\/use_track_event":["ineligible","e","ae465c"],"google_tag_manager_async":["off","x","7585d0"],"qualtrics_survey":["ineligible","e","c3c730"],"qualtrics_survey_non_en":["ineligible","e","5fec45"],"content_moderation.report_item.desktop":["on","x","4dfa1d"],"growth_regx.lp_mask_generated_names_in_reviews":["off","x","ea05d2"],"collections.privacy_clearer_setting_description":["on","x","412fbc"],"prodperfect\/monthly_data_capture":["off","x","137afb"],"local_pe.q3_2025.ltv_tactics.browser.traffic_split":["off","w","f32908"],"ltv_tactics.cd_1509_two_steps_login_on_nav":["ineligible","e","bd9155"],"buyer_support\/epp_promise_messaging":["ineligible","e","4ebacd"],"growth_regx.lp_view_shop_registration_details":["on","x","fec272"],"eu_cookie_nag":["ineligible","e","f8045f"],"cnc.visual_search_tags_internal":["off","x","b89cdd"],"gifting.gnav_desktop_flyout":["ineligible","e","55be9d"],"seller_platform_web.buyer_inquiry":["off","x","ee9de4"],"seller_platform_web.seller_local_time":["ineligible","e","98a5ac"],"seller_platform_web.item_detail_overlay":["ineligible","e","cf46a1"],"buyer_promise.issue_resolution.fee_avoidance_v2":["ineligible","e","3a7a9c"],"risk_experience.buyer_email_verification":["ineligible","e","a98aad"],"web_performance.on_dom_ready_fix":["fix_and_auto_yield","x","51e04f"]},"user_id":null,"page_guid":"ffbde3696ef.69632e5014d83cdc8fa2.00","version":1,"request_uuid":"EunhLnzL4sAYJypZdeOPahA2o_53","cdn-provider":"fastly","header_fingerprint":"ualc","header_signature":"78858558504c2305bd6ec5ff1707faf9","ip_org":"Bunny-communications-global","ref":"","loc":"http:\/\/lalocandadinonnaflo.com\/es\/listing\/4302118744\/hand-embroidery-sweaters-custom-toddler","locale_currency_code":"IDR","pref_language":"en-US","region":"ID","detected_currency_code":"IDR","detected_language":"en-US","detected_region":"ID","accept-languages":"id,en-US,en","ga_client_id":"GA1.1.578683382.1757443906","isWhiteListedMobileDevice":false,"isMobileRequestIgnoreCookie":false,"isMobileRequest":false,"isMobileDevice":false,"isMobileSupported":false,"isTabletSupported":false,"isTouch":false,"isIDEBETApp":false,"isPreviewRequest":false,"isChromeInstantRequest":false,"isMozPrefetchRequest":false,"isTestAccount":false,"isSupportLogin":false,"isInternal":false,"isInWebView":false,"botCheck":["dc"],"isBot":false,"isSyntheticTest":false,"ebid":"2Zhu2rxwK2mKffai7FCvsZioqiN0tUgB","event_source":"web","browser_id":"uj0nemGYfZm0u5UhoRQWjT5qMRzf","gdpr_tp":3,"gdpr_p":3,"legacy_p":3,"legacy_tp":3,"cmp_tp":true,"cmp_p":true,"page_time":659,"load_strategy":"page_navigation"};
+    window.__etsy_logging=window.__etsy_logging||{perf:{}};window.__etsy_logging.url="\/\/lalocandadinonnaflo.com\/es\/bcn\/beacon";window.__etsy_logging.defaults={"ab":{"xplat.runtime_config_service.ramp":["on","x","b4354c"],"orm_latency":["off","x","091448"],"fastly.cdn_experiment_framework_aa":["on","m","79b68d"],"neu_runtime_tracing_always_on":["off","x","106c3b"],"neu_runtime_tracing":["off","w","6631e5"],"structured_data_attributes_order_dependent":["on","x","691833"],"disambiguate_usd_outside_usa":["ineligible","e","c8897d"],"perso_engine.recs.ssq_on_web_u2l_version_internal":["on","x","4a8ed2"],"persistent_experiment.q3_2025":["on","w","6c0626"],"iat.listing_page_trust_suite_section.desktop":["off","w","a77f10"],"google_tag_manager":["on","x","43dc13"],"site_chrome\/buyer_to_seller_navbar_signed_out":["ineligible","e","0efe99"],"checkout.gift_card_cta_in_search_dropdown":["on","x","931866"],"local_pe.q3_2024.search.browser.traffic_split":["on","x","33df41"],"ranking\/search.experience.xml_autosuggest_v4":["all_xml","x","2b2623"],"lingtools\/trending_searches.gcp":["on","x","5cfa03"],"site_chrome\/buyer_to_seller_navbar_signed_in":["ineligible","e","67649b"],"site_chrome\/buyer_zipcode_in_header_desktop":["off","x","eb55bf"],"site_chrome\/buyer_zipcode_in_header_mweb":["ineligible","e","5d612c"],"builda_scss":["sasquatch","x","96bd82"],"polyfills":["on","x","db574b"],"polyfill_experiment_4":["no_filtering","x","0e8409"],"web_deals.translate_nav_recs":["on","x","f054b7"],"ranking\/search.experience.category_suggestions_in_autosuggest":["ineligible","e","6e2d9f"],"ranking\/search.experience.contentful_title_on_trending_searches":["on","x","d0b108"],"ranking\/search.experience.always_show_shop_search_in_autosuggest":["on","x","66727b"],"growth_regx.lp_rating_histogram_shop_header_desktop":["off","x","1c99da"],"local_pe.q3_2025.buyer_trust_accelerator.browser.traffic_split":["on","w","eaad53"],"growth_regx.lp_message_seller_replace_collections_buy_box_desktop_so":["off","x","9b3fad"],"gcs_image_reads":["on","x","b7a48f"],"searchx.4q18.dwell_time_as_backend_event":["off","x","d3826b"],"gift_mode.lp_bin_sheet_tiag_v2":["on","x","1beeb9"],"cnc.atc_from_listing_cards_ymal_mfts_desktop":["on","x","58b479"],"perso_custo.buyer_read_from_new_perso_tables":["on","x","dffb8d"],"growth_regx.lp_seller_cred_shop_desc_desktop":["off","x","b5ab9a"],"local_pe.q3_2025.international.browser.traffic_split":["on","w","4ca9c3"],"iat.listing_page_hide_similar_items_sash.desktop":["off","x","e2a169"],"cow_layer\/desktop_lp_evolved_favoriting_v2":["ineligible","e","2ca26f"],"growth_regx.lp_bb_trust_redesign_desktop":["off","x","df41b4"],"checkout.klarna_unified_pay_later":["ineligible","e","e11748"],"perso_buyer_squad_layer\/variations_update":["on","x","0e428d"],"perso_custo.multiple_questions_enabled.buyer_side":["on","x","82e6f7"],"seo.listing_shop_faqs_machine_translation":["off","x","ad47eb"],"onsite_promos.superbowl_listing_page_banner":["ineligible","e","2deace"],"inventory.listing_inventory_quantity_select":["off","x","e2182e"],"growth_regx.lp_production_partners_in_item_details":["on","x","3cd0fb"],"coreloc.vat_inclusive_cart_prices":["off","x","1bedcb"],"coreloc.vat_inclusive_prices_lp_sidebar_cart_operational":["off","x","c814cc"],"growth_regx.lp_move_appreciation_photos_desktop":["off","x","9273bf"],"growth_regx.lp_review_photo_filter_and_sort_desktop":["on","x","acff7a"],"growth_regx.lp_review_engagement_aa_desktop":["off","x","bfb356"],"cnc.related_searches_placement":["off","x","157607"],"growth_regx.lp_new_seller_cred_foundational_desktop":["on","x","bccc3b"],"cnc.anchor_item_lp_recs_desktop":["off","x","315c33"],"cnc\/experiment.related_search_pathways_v3_desktop":["ineligible","e","7e808d"],"lp_performance.css_import_cleanup":["on","x","ec2bd2"],"cnc\/experiment.compare_lp_collections_v2_desktop":["ineligible","e","c0c984"],"cnc.hiding_gifting_registry_desktop":["on","w","b73ba0"],"ads\/takerate.lp_ads_row_expansion.desktop":["ineligible","e","cad35c"],"cnc.only_prompt_similar_listing_desktop":["off","x","1f1344"],"core_fulfillment.product_level_readiness_states.core_experience":["ineligible","e","d06c95"],"fulfillment_platform.usps_pm_faster_ga_experiment.web":["on","x","498eec"],"fulfillment_platform.usps_pm_faster_ga_experiment.mobile":["ineligible","e","20f21b"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.operational":["on","x","74db8e"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_web":["prod","x","9a5255"],"fulfillment_ml.ml_predicted_acceptance_scan.uk.experiment_mobile":["ineligible","e","865516"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.operational":["off","x","4528ab"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_web":["off","x","cac266"],"fulfillment_ml.ml_predicted_acceptance_scan.germany.experiment_mobile":["ineligible","e","9a29ab"],"fulfillment_platform.edd_cart_caching.web":["edd_and_arizona_cache","x","e313fc"],"fulfillment_platform.edd_cart_caching.mobile":["ineligible","e","ffb947"],"fulfillment_ml.ml_predicted_acceptance_scan.product_usps.operational":["on","x","25ebba"],"fulfillment_ml.ml_predicted_acceptance_scan.product_usps.experiment_web":["prod_v1","x","72db80"],"fulfillment_ml.ml_predicted_acceptance_scan.product_usps.experiment_mobile":["ineligible","e","565958"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_web":["prod","x","2eac66"],"fulfillment_platform.consolidated_country_to_country_ml_times.experiment_mobile":["ineligible","e","81b585"],"checkout\/paypal_smart_button_desktop":["ineligible","e","07b533"],"checkout\/paypal_smart_button_mweb":["ineligible","e","643355"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.Girocard":["ineligible","e","fbb78b"],"mobile_dynamic_config.iphone.ApplePayPaymentMethods.CartesBancaires":["ineligible","e","47f399"],"checkout\/google_pay_on_web_v2":["on","x","cbf24c"],"checkout\/add_jcb_cc_payment_method":["on","x","ce90aa"],"checkout\/bin_confidence":["show_cc","x","990cfd"],"checkout.klarna_us_price_bands_v2":["ineligible","e","658ea6"],"checkout.klarna_uk_price_bands_v2":["ineligible","e","61ceae"],"checkout.etsy_bin_on_apple_pay_devices":["on","x","e77719"],"checkout.checkout_guest_apple_pay_bin_v2":["off","x","833ff4"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_web":["on","x","6ef73d"],"fulfillment_ml.ml_predicted_acceptance_scan.ups_fedex.experiment_mobile":["ineligible","e","81c794"],"fulfillment_ml.usps_route_predictor.web":["on","x","7f6b44"],"fulfillment_ml.usps_route_predictor.mobile":["ineligible","e","5a1b77"],"fulfillment_ml.use_sla_dataset":["on","x","66b144"],"fulfillment_ml.only_display_edd_max.web":["ineligible","e","2d500c"],"fulfillment_ml.only_display_edd_max.mobile":["ineligible","e","07bd93"],"checkout\/covid_shipping_restrictions":["ineligible","e","153e2d"],"navx.always_images_in_l2":["off","x","d6d388"],"local_pe.q3_2025.search.browser.traffic_split":["on","w","b06317"],"ranking\/search.experience.refinement_pills_in_autosuggest":["on","w","e3f8f6"],"ranking\/search.experience.trending_searches_in_zero_pane_v2":["on","x","cdb259"],"loyalty.web.reduce_listing_signup_prompts_exp":["ineligible","e","bf6a41"],"cnc.remove_atc_mweb":["ineligible","e","699ff5"],"payments\/purchase_rewards_v1":["ineligible","e","f629c8"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test_v3":["ineligible","e","89c994"],"dynamic_experiments.Merch_JewelrySale25_SkinnyBanner_test":["ineligible","e","6ff9d7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_V2_test":["ineligible","e","8e97c7"],"dynamic_experiments.Merch_DDGSkinnyBanner24_test":["ineligible","e","5a291a"],"dynamic_experiments.Merch_LaborDay24_Link_test":["ineligible","e","63a995"],"dynamic_experiments.Merch_FDAY24_GiftTeaser_test":["ineligible","e","18d6f7"],"dynamic_experiments.Merch_GiftMode24_Teaser_test":["ineligible","e","3ad555"],"api.ab_bubbling_experiment.browser_flag.listzilla_get_listing_state":["ineligible","e","f05e23"],"coreloc.listing_page_local_shipping_signal":["on","x","1bd157"],"growth_regx.lp_seller_cred_badges_desktop":["on","x","153a58"],"navx.fnb_gift_cards_multivariate":["ineligible","e","0fd1cc"],"growth_regx.lp_anchor_shop_name_to_seller_cred":["off","x","d4d89e"],"growth_regx.lp_review_feature_tags_buybox_desktop":["off","x","e7bed6"],"ranking\/recs.custom_candidates_signal_ranker_v4":["ineligible","e","9b2405"],"ranking\/recs.custom_candidates_signal_ranker_v0":["ineligible","e","3eae86"],"android_image_filename_hack":["ineligible","e","9c9013"],"search.use_dark_cluster":["off","x","335bf8"],"search.force_x":["off","x","697d9b"],"inventory.listing_inventory_reader_refactor":["on","w","8990c1"],"eu_crd_compliance.sellers":["on","x","1060a1"],"listing_process.how_its_made_properties.use_module_classifier":["on","x","a5aaed"],"listing_process\/him_v4_classifier":["on","w","987240"],"growth_regx.lp_review_categorical_tags_in_deep_dive_desktop":["on","x","9d91d4"],"growth_regx.lp_reviews_new_deep_dive_desktop":["off","x","e9e5ba"],"quality_signals.individual_review_tags_desktop":["off","x","2a0577"],"growth_regx.lp_reviews_this_item_badge_desktop":["on","x","1b4475"],"recs_systems.enable_recs_tracking_delivered_events":["on","x","a94bcf"],"cnc.updated_scarcity_signals_lp":["off","x","181046"],"cnc.sidebar_cart_post_atc_recs_v3":["off","x","13c110"],"site_chrome\/cnc.sidebar_cart_zero_to_one":["ineligible","e","45076d"],"site_chrome\/cnc.sidebar_cart_remove_quantity":["on","x","4ea54a"],"cnc.sidebar_cart_open_in_same_tab":["on","x","ed65a2"],"site_chrome\/fullstory":["ineligible","e","5bc14c"],"site_chrome\/fullstory\/use_track_event":["ineligible","e","ae465c"],"google_tag_manager_async":["off","x","7585d0"],"qualtrics_survey":["ineligible","e","c3c730"],"qualtrics_survey_non_en":["ineligible","e","5fec45"],"content_moderation.report_item.desktop":["on","x","4dfa1d"],"growth_regx.lp_mask_generated_names_in_reviews":["off","x","ea05d2"],"collections.privacy_clearer_setting_description":["on","x","412fbc"],"prodperfect\/monthly_data_capture":["off","x","137afb"],"local_pe.q3_2025.ltv_tactics.browser.traffic_split":["off","w","f32908"],"ltv_tactics.cd_1509_two_steps_login_on_nav":["ineligible","e","bd9155"],"buyer_support\/epp_promise_messaging":["ineligible","e","4ebacd"],"growth_regx.lp_view_shop_registration_details":["on","x","fec272"],"eu_cookie_nag":["ineligible","e","f8045f"],"cnc.visual_search_tags_internal":["off","x","b89cdd"],"gifting.gnav_desktop_flyout":["ineligible","e","55be9d"],"seller_platform_web.buyer_inquiry":["off","x","ee9de4"],"seller_platform_web.seller_local_time":["ineligible","e","98a5ac"],"seller_platform_web.item_detail_overlay":["ineligible","e","cf46a1"],"buyer_promise.issue_resolution.fee_avoidance_v2":["ineligible","e","3a7a9c"],"risk_experience.buyer_email_verification":["ineligible","e","a98aad"],"web_performance.on_dom_ready_fix":["fix_and_auto_yield","x","51e04f"]},"user_id":null,"page_guid":"ffbde3696ef.69632e5014d83cdc8fa2.00","version":1,"request_uuid":"EunhLnzL4sAYJypZdeOPahA2o_53","cdn-provider":"fastly","header_fingerprint":"ualc","header_signature":"78858558504c2305bd6ec5ff1707faf9","ip_org":"Bunny-communications-global","ref":"","loc":"http:\/\/lalocandadinonnaflo.com\/es\/listing\/4302118744\/hand-embroidery-sweaters-custom-toddler","locale_currency_code":"IDR","pref_language":"en-US","region":"ID","detected_currency_code":"IDR","detected_language":"en-US","detected_region":"ID","accept-languages":"id,en-US,en","ga_client_id":"GA1.1.578683382.1757443906","isWhiteListedMobileDevice":false,"isMobileRequestIgnoreCookie":false,"isMobileRequest":false,"isMobileDevice":false,"isMobileSupported":false,"isTabletSupported":false,"isTouch":false,"isKEPRITOGELApp":false,"isPreviewRequest":false,"isChromeInstantRequest":false,"isMozPrefetchRequest":false,"isTestAccount":false,"isSupportLogin":false,"isInternal":false,"isInWebView":false,"botCheck":["dc"],"isBot":false,"isSyntheticTest":false,"ebid":"2Zhu2rxwK2mKffai7FCvsZioqiN0tUgB","event_source":"web","browser_id":"uj0nemGYfZm0u5UhoRQWjT5qMRzf","gdpr_tp":3,"gdpr_p":3,"legacy_p":3,"legacy_tp":3,"cmp_tp":true,"cmp_p":true,"page_time":659,"load_strategy":"page_navigation"};
     !function(e,t){var n=e.__etsy_logging,o=n.url,i=n.firedEvents,r=n.defaults,s=r.ab||{},a=n.bots.botCheck,c=n.bots.isBot;n.mergeObject=function(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var o in n)Object.prototype.hasOwnProperty.call(n,o)&&(e[o]=n[o])}return e};!r.ref&&(r.ref=t.referrer),!r.loc&&(r.loc=e.location.href),!r.webkit_page_visibility&&(r.webkit_page_visibility=t.webkitVisibilityState),!r.event_source&&(r.event_source="web"),r.event_logger="frontend",r.isIosApp&&!0===r.isIosApp?r.event_source="ios":r.isAndroidApp&&!0===r.isAndroidApp&&(r.event_source="android"),a.length>0&&(r.botCheck=r.botCheck||[],r.botCheck=r.botCheck.concat(a)),r.isBot=c,t.wasDiscarded&&(r.was_discarded=!0);var v=function(t){if(e.XMLHttpRequest){var n=new XMLHttpRequest;n.open("POST",o,!0),n.send(JSON.stringify(t))}};n.updateLoc=function(e){e!==r.loc&&(r.ref=r.loc,r.loc=e)},n.adminPublishEvent=function(n){"function"==typeof e.CustomEvent&&t.dispatchEvent(new CustomEvent("eventpipeEvent",{detail:n})),i.push(n)},n.sendEvents=function(t,i){var a=r;if("perf"===i){var c={event_logger:i};n.asyncAb&&(c.ab=n.mergeObject({},n.asyncAb,s)),a=n.mergeObject({},r,c)}var f={events:t,shared:a};e.navigator&&"function"==typeof e.navigator.sendBeacon?function(t){t.events.forEach((function(e){e.attempted_send_beacon=!0})),e.navigator.sendBeacon(o,JSON.stringify(t))||(t.events.forEach((function(e){e.send_beacon_failed=!0})),v(t))}(f):v(f),n.adminPublishEvent(f)}}(window,document);
 </script>
 <script type="e87f98e6903fa77342bb5665-text/javascript" nonce='+gWSoSeB7oJ/5IB7H6o53UJw'>window.__etsy_logging.perf.event={"attributes":{"guid":"ffbde36a6e3.07997fe7bbfd185bde21.00","event_name":"perf","event_logger":"perf","page_type":"view_listing","device_type":"Desktop","browser_name":"Chrome","browser_version":"139.0.7258.155","ip_city":"Jakarta","ip_region":"JK","ip_country_code":"ID","boromir":true}};!function(e,t){if(!t.hidden){var n=e.__etsy_logging||{},r=n.perf||{},i=n.url,a=n.defaults,o=r.event,s=n.sendEvents,c=0===Object.keys(r).length,u=e.webVitals||{},d=n.mergeObject,m=r.isDev||!1,_=r.skipLoggingEvent||!1,l=r.keepPerfObserverActive||!1,f=null,p=0;if(!c&&i&&a&&o&&s){var g=r.MARK_MEASURE_PREFIX||"_etsy_mark_measure_",v=function(e){var t=!1;return function(){t||(t=!0,e.apply(this,arguments))}},y=function(){return void 0!==e.PerformanceObserver},h=function(){return"onpagehide"in e},T=function(e,n){var r=function(e){var n=t.createElement("a");n.href=e;var r=n.pathname.split(".");return r[r.length-1]||""}(e);return/jpe?g|png|svg|gif/i.test(r)?"image":/eot|woff2?|ttf/i.test(r)?"font":"js"===r?"js":"css"===r?"css":"xmlhttprequest"===n?"xhr":"unknown"},E=function(e){return Math.round(e<Math.pow(2,64)-1?e:0)},b=function(e,n){var r=null,i=null;if(n.transferSize>0)for(var a=0;a<n.serverTiming.length;a++){var o=n.serverTiming[a];e.i_etsystatic_cdn||"cdn"!==o.name?"cache_status"===o.name&&(i=o.description):r=o.description}r&&(e.i_etsystatic_cdn=r);var s=null,c=null;i&&(e.cdn_image_caching||(e.cdn_image_caching={miss:0,hit:0}),s=0===i.indexOf("HIT"),c=0===i.indexOf("MISS"),s&&(e.cdn_image_caching.hit+=1),c&&(e.cdn_image_caching.miss+=1)),function(e,n,r,i){f||(f={},t.querySelectorAll("img[data-perf-group]").forEach((function(e){e.currentSrc&&(f[e.currentSrc]=e)})));var a=f[n.name];if(a){var o=a.dataset.perfGroup;e.categorized_images||(e.categorized_images=[]);var s={category:o,duration:E(n.duration),encodedBodySize:E(n.encodedBodySize),transferSize:E(n.transferSize),width:a.width,height:a.height};if(n.transferSize>0){(r||i)&&(s.cdn_hit=r);for(var c=0;c<n.serverTiming.length;c++){var u=n.serverTiming[c];"clientrtt"===u.name?s.clientrtt=E(u.duration):"clienttt"===u.name?s.clienttt=E(u.duration):"cdntime"===u.name?s.cdntime=E(u.duration):"origin"===u.name&&(s.origin=E(u.duration))}}e.categorized_images.push(s)}}(e,n,s,c)},S=function(e){var t={nav_start:E(e.navigationStart||e.startTime),activation_start:E(e.activationStart||0),fetch_start:E(e.fetchStart),dns_start:E(e.domainLookupStart),dns_end:E(e.domainLookupEnd),connect_start:E(e.connectStart),connect_end:E(e.connectEnd),interim_response_start:E(e.firstInterimResponseStart||0),request_start:E(e.requestStart),response_start:E(e.responseStart),response_end:E(e.responseEnd),dom_completed:E(e.domComplete),dom_interactive:E(e.domInteractive),secure_connect_start:E(e.secureConnectionStart)||null,loaded_start:E(e.loadEventStart)||null,loaded_end:E(e.loadEventEnd)||null,dom_content_loaded_start:E(e.domContentLoadedEventStart)||null,dom_content_loaded_end:E(e.domContentLoadedEventEnd)||null,html_tx_size:E(e.transferSize),html_enc_size:E(e.encodedBodySize),html_dec_size:E(e.decodedBodySize),type:e.type};return e.redirectStart&&(t.redirect_start=E(e.redirectStart)),e.redirectEnd&&(t.redirect_end=E(e.redirectEnd)),e.redirectCount&&(t.redirect_count=e.redirectCount),t},k=function(e){return e.reduce((function(e,t){if("entryType"in t){if("resource"===t.entryType)return function(e,t){var n=T(t.name,t.initiatorType);if("unknown"===n)return e;var r=t.name.match(/etsy(static)?(cloud)?\.com/)?"etsy":"third";"image"===n&&"etsy"===r&&(t.name.match(/img0\.etsystatic/)?e.img0_count=(e.img0_count||0)+1:t.name.match(/img1\.etsystatic/)&&(e.img1_count=(e.img1_count||0)+1)),"image"===n&&"etsy"===r&&t.serverTiming&&t.name.match(/i\.etsystatic\.com/)&&b(e,t);var i="sum_"+r+"_"+n+"_bytes",a="sum_"+r+"_"+n+"_enc_bytes",o="sum_"+r+"_"+n+"_tx_bytes",s="sum_"+r+"_"+n+"_dur",c="count_"+r+"_"+n+"_req";return e[i]=(e[i]||0)+E(t.decodedBodySize),e[a]=(e[a]||0)+E(t.encodedBodySize),e[o]=(e[o]||0)+E(t.transferSize),e[s]=(e[s]||0)+E(t.duration),e[c]=(e[c]||0)+1,e}(e,t);if("paint"===t.entryType)return function(e,t){return e[t.name.replace(/-/g,"_")]=E(t.startTime),e}(e,t);if("longtask"===t.entryType)return function(e,t){return e.long_tasks_count=(e.long_tasks_count||0)+1,e.long_tasks_dur=(e.long_tasks_dur||0)+E(t.duration),e}(e,t);if("mark"===t.entryType||"measure"===t.entryType)return function(e,t){return 0===t.name.lastIndexOf(g,0)&&(e[0===t.name.lastIndexOf(g+"async_spec_",0)?t.name.substring(g.length):t.name]=E("mark"===t.entryType?t.startTime:t.duration)),e}(e,t);if("layout-shift"===t.entryType&&!t.hadRecentInput)return function(e,t){return e.layout_shift_count=(e.layout_shift_count||0)+1,e.layout_shift=(e.layout_shift||0)+t.value,t.value>.05&&(e.layout_shift_elements=e.layout_shift_elements||[],e.layout_shift_elements.push({value:t.value,elements:(t.sources||[]).filter((function(e){return!!e.node})).map((function(e){return{className:e.node.classList&&Array.prototype.slice.call(e.node.classList).join(" "),tagName:e.node.tagName,id:e.node.id}}))})),e}(e,t);if("navigation"===t.entryType)return r.t=!0,d(e,S(t));if("element"===t.entryType)return function(e,t){return e.element_timings||(e.element_timings={}),e.element_timings[t.identifier]=t.renderTime,e}(e,t);if("long-animation-frame"===t.entryType)return function(e,t){e.loaf_entries||(e.loaf_entries=[]);var n={start:E(t.startTime),duration:E(t.duration),blockingDuration:E(t.blockingDuration)},r=t.scripts.slice().sort((function(e,t){t.duration,e.duration}))[0];if(r){var i=r.invoker||r.name;n.longestScript={invokerType:r.invokerType||r.type,duration:E(r.duration),invoker:i.substring(0,1024),sourceURL:r.sourceURL||null}}return e.loaf_entries.push(n),e}(e,t)}else if("name"in t){if("INP"===t.name)return function(e,t){return e.interaction_next_paint=t.value,t.attribution&&(e.interaction_next_paint_element=t.attribution.eventTarget,e.interaction_next_paint_time=E(t.attribution.eventTime),e.interaction_next_paint_type=t.attribution.eventType,e.interaction_next_paint_loadstate=t.attribution.loadState),e}(e,t);if("LCP"===t.name)return function(e,t){var n=t.entries[0];return e.largest_contentful_paint=E(n.renderTime||n.loadTime),e.largest_contentful_paint_type=n.renderTime?"renderTime":"loadTime",n.element?(e.largest_contentful_paint_element={className:n.element.classList&&Array.prototype.slice.call(n.element.classList).join(" "),tagName:n.element.tagName,url:n.url},t.attribution.lcpResourceEntry&&(e.largest_contentful_paint_element.resource_size=E(t.attribution.lcpResourceEntry.encodedBodySize))):delete e.largest_contentful_paint_element,e.lcp_element_render_delay=E(t.attribution.elementRenderDelay),e.lcp_resource_load_delay=E(t.attribution.resourceLoadDelay),e.lcp_resource_load_time=E(t.attribution.resourceLoadTime),e}(e,t)}return e}),{})},L=function(){var n,i=!y()&&performance&&performance.getEntries?performance.getEntries():r.e,a=k(i);return r.e=[],r.t||(a.unixTimingNavigation=!0,d(a,S(e.performance.timing))),d(a,function(){if(performance&&performance.getEntriesByName){var e=performance.getEntriesByName("TTP","mark");if(e.length)return{time_to_parsing:E(e[0].startTime)}}return{}}()),d(a,{dom_count_server:p,dom_count_client:t.getElementsByTagName("*").length}),d(a,{dom_max_depth:(n=function(e){if(!e)return 0;for(var t=0,r=0,i=e.children.length;r<i;r++)t=Math.max(t,n(e.children[r]));return t+1})(t.documentElement)}),function(e){var t=navigator;t&&t.connection&&t.connection.effectiveType&&(e.effective_connection_type=t.connection.effectiveType)}(a),a.has_sendbeacon=navigator&&"function"==typeof navigator.sendBeacon,a.has_observer=y(),y()&&PerformanceObserver.supportedEntryTypes&&(a.observer_types=PerformanceObserver.supportedEntryTypes),a.has_pagehide=h(),r.vm_hostname&&(a.vm_hostname=r.vm_hostname),a},z=v((function(n){var r=d(n,o.attributes);r.beacon_send_time=0===r.nav_start?E(performance.now()):(new Date).getTime(),r.page_time=a.page_time,"function"==typeof e.CustomEvent&&t.dispatchEvent(new CustomEvent("perfDataSent",{detail:r})),s([r],"perf")}));!function(){var n=function(e){r.e.length&&(r.e=r.e.concat(e))};if(!!u.onINP&&u.onINP(n,{reportAllChanges:!0}),u.onLCP&&u.onLCP(n),y()&&PerformanceObserver.supportedEntryTypes&&PerformanceObserver.supportedEntryTypes.includes("long-animation-frame")){var i=new PerformanceObserver((function(e){e.getEntries().forEach((function(e){e.duration>150&&e.firstUIEventTimestamp>0&&n(e)}))}));i.observe({type:"long-animation-frame",buffered:!0})}if(!_){var a,o=v((function(e){if(!t.hidden||"on_vischange"===e){clearTimeout(a);var n=L();!l&&y()&&(r.o.disconnect(),i&&i.disconnect()),n[e]=!0,z(n)}})),s=function(){return m&&e.__KEVIN_IS_STILL_BUILDING};m||(a=setTimeout((function(){o("on_fallbacktimeout")}),6e4),"complete"===t.readyState&&(clearTimeout(a),a=setTimeout((function(){o("on_loadtimeout")}),2e4))),t.addEventListener("readystatechange",(function(){"interactive"===t.readyState&&(p=t.getElementsByTagName("*").length)})),e.addEventListener("load",(function(){clearTimeout(a),s()||(a=setTimeout((function(){o("on_loadtimeout")}),2e4))}));var c=function(e){var t=e||"on_unload";s()?(0===performance.getEntriesByName(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-end`).length&&performance.mark(`${r.MARK_MEASURE_PREFIX}dev_kevin-overlay-abandoned-before-done`),setTimeout((function(){o(t)}),0)):o(t)},d=h()?"pagehide":"unload";e.addEventListener(d,c),m&&e.addEventListener("beforeunload",c),t.addEventListener("visibilitychange",(function(){t.hidden&&c("on_vischange")}))}}(),r.logger={getMetricsFromQueue:k}}else n.eventpipe&&n.eventpipe.logEvent&&n.eventpipe.logEvent({event_name:"perf_beacon_not_fired",missing_global_perf_data:c,missing_post_url:!i,missing_defaults:!a,missing_perf_event:!o,missing_send_events:!s})}}(window,document);;</script>
@@ -4138,7 +4137,7 @@ if (clientloggerIsEnabled) {
 
         
 
-            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw" type="e87f98e6903fa77342bb5665-text/javascript">if(window.console){console.log("Is code your craft? https://linkidebet.com/careers/")}</script>
+            <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw" type="e87f98e6903fa77342bb5665-text/javascript">if(window.console){console.log("Is code your craft? https://doc.kamimadrasah.com/kategori/brandingcareers/")}</script>
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"c87365f169124f0bbdfe79fc284fea5f","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous" type="e87f98e6903fa77342bb5665-text/javascript"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"c87365f169124f0bbdfe79fc284fea5f","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous" type="e87f98e6903fa77342bb5665-text/javascript"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"e7517506e86e49fd936454d6cf62968d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous" type="e87f98e6903fa77342bb5665-text/javascript"></script>
