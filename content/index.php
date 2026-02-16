@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html
     class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode 
@@ -12,7 +11,7 @@ inputtypes-color localstorage placeholder svg xhr2"
 nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
 <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" 
 nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
-<link rel="amphtml" href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah">
+<link rel="amphtml" href="https://lelogis.pages.dev/INDOSLOT">
     <meta charset="utf-8">
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
         //<![CDATA[
@@ -59,27 +58,27 @@ href="https://public-assets.envato-static.com/assets/generated_sprites/common-5a
         as="image">
 
 
-    <title>RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online</title>
+    <title>INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi</title>
 
     <meta name="description"
-        content="menghadirkan daftar permainan game sexy baccarat online dan roullete yang menyajikan game mudah dimainkan dan mudah di menangkan, segera daftar dan mainkan Game Sexy Baccarat Online & Roullete Online di agen slot online kesayangan anda.">
+        content="INDOSLOT adalah platform slot online yang menawarkan pengalaman bermain modern dengan akses login cepat, sistem aman, dan pilihan game lengkap dari provider ternama dengan RTP tinggi.">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png">
+    <link rel="icon" type="image/x-icon" href="https://i.imgur.com/OgQyBTV.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png"
+        href="https://i.imgur.com/OgQyBTV.png"
         sizes="72x72">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png"
+        href="https://i.imgur.com/OgQyBTV.png"
         sizes="114x114">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png"
+        href="https://i.imgur.com/OgQyBTV.png"
         sizes="120x120">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png"
+        href="https://i.imgur.com/OgQyBTV.png"
         sizes="144x144">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
-        href="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png">
+        href="https://i.imgur.com/OgQyBTV.png">
 
     <link rel="stylesheet"
         
@@ -98,25 +97,25 @@ src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="http://m.vanderplas.com/">
+    <link rel="canonical" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online",
-  "image": "https://ik.imagekit.io/e8cpcv8gk/random/Logo-Favicon-icon-300X300_ttu4b9%20(1).png",
-  "description": "menghadirkan daftar permainan game sexy baccarat online dan roullete yang menyajikan game mudah dimainkan dan mudah di menangkan, segera daftar dan mainkan Game Sexy Baccarat Online & Roullete Online di agen slot online kesayangan anda.",
+  "name": "INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi",
+  "image": "https://i.imgur.com/B26iqbg.png",
+  "description": "INDOSLOT adalah platform slot online yang menawarkan pengalaman bermain modern dengan akses login cepat, sistem aman, dan pilihan game lengkap dari provider ternama dengan RTP tinggi.",
   "brand": {
     "@type": "Brand",
-    "name": "RAJABOM"
+    "name": "INDOSLOT"
   },
-  "sku": "RAJABOM-RESMI2025",
+  "sku": "INDOSLOT-RESMI2025",
   "mpn": "77GCR-001",
-  "url": "http://m.vanderplas.com/",
+  "url": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma",
   "offers": {
     "@type": "Offer",
-    "url": "http://m.vanderplas.com/",
+    "url": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -124,7 +123,7 @@ src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens
     "availability": "https://schema.org/InStock",
     "seller": {
       "@type": "Organization",
-      "name": "RAJABOM"
+      "name": "INDOSLOT"
     }
   },
   "aggregateRating": {
@@ -169,50 +168,50 @@ src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "RAJABOM",
-      "item": "http://m.vanderplas.com/"
+      "name": "INDOSLOT",
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "LINK RAJABOM",
-      "item": "http://m.vanderplas.com/"
+      "name": "LINK INDOSLOT",
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "DAFTAR RAJABOM",
-      "item": "http://m.vanderplas.com/"
+      "name": "DAFTAR INDOSLOT",
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     },
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "LOGIN RAJABOM",
-      "item": "http://m.vanderplas.com/"
+      "name": "LOGIN INDOSLOT",
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     },
     {
       "@type": "ListItem",
       "position": 5,
-      "name": "ALTERNATIF RAJABOM",
-      "item": "http://m.vanderplas.com/"
+      "name": "ALTERNATIF INDOSLOT",
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     },
     {
       "@type": "ListItem",
       "position": 6,
-      "name": "SLOT RAJABOM",
-      "item": "http://m.vanderplas.com/"
+      "name": "SLOT INDOSLOT",
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     },
     {
       "@type": "ListItem",
       "position": 7,
-      "name": "DEPOSIT RAJABOM",
-      "item": "http://m.vanderplas.com/"
+      "name": "DEPOSIT INDOSLOT",
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "SLOT GACOR",
-      "item": "http://m.vanderplas.com/"
+      "item": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
     }
   ]
 }
@@ -222,13 +221,13 @@ src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "RAJABOM",
-  "url": "http://m.vanderplas.com/",
-  "logo": "https://ik.imagekit.io/e8cpcv8gk/random/Logo-Favicon-icon-300X300_ttu4b9%20(1).png",
+  "name": "INDOSLOT",
+  "url": "https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma",
+  "logo": "https://i.imgur.com/B26iqbg.png",
   "sameAs": [
-    "https://www.facebook.com/RAJABOMofficial",
-    "https://twitter.com/RAJABOMRESMI",
-    "https://www.instagram.com/RAJABOMgacor"
+    "https://www.facebook.com/INDOSLOTofficial",
+    "https://twitter.com/INDOSLOTRESMI",
+    "https://www.instagram.com/INDOSLOTgacor"
   ],
   "contactPoint": {
     "@type": "ContactPoint",
@@ -252,24 +251,24 @@ src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens
     <meta name="bingbot" content="nocache">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online">
+    <meta property="og:title" content="INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi">
     <meta property="og:description"
-        content="menghadirkan daftar permainan game sexy baccarat online dan roullete yang menyajikan game mudah dimainkan dan mudah di menangkan, segera daftar dan mainkan Game Sexy Baccarat Online & Roullete Online di agen slot online kesayangan anda.">
-    <meta property="og:image" content="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png">
-    <meta property="og:url" content="http://m.vanderplas.com/">
+        content="INDOSLOT adalah platform slot online yang menawarkan pengalaman bermain modern dengan akses login cepat, sistem aman, dan pilihan game lengkap dari provider ternama dengan RTP tinggi.">
+    <meta property="og:image" content="https://i.imgur.com/8by0gGh.png">
+    <meta property="og:url" content="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online">
-    <meta name="twitter:description" content="menghadirkan daftar permainan game sexy baccarat online dan roullete yang menyajikan game mudah dimainkan dan mudah di menangkan, segera daftar dan mainkan Game Sexy Baccarat Online & Roullete Online di agen slot online kesayangan anda.">
-    <meta name="twitter:image" content="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png">
-    <meta property="og:title" content="RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online">
+    <meta name="twitter:title" content="INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi">
+    <meta name="twitter:description" content="INDOSLOT adalah platform slot online yang menawarkan pengalaman bermain modern dengan akses login cepat, sistem aman, dan pilihan game lengkap dari provider ternama dengan RTP tinggi.">
+    <meta name="twitter:image" content="https://i.imgur.com/8by0gGh.png">
+    <meta property="og:title" content="INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://m.vanderplas.com/">
-    <meta property="og:image" content="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png" />
+    <meta property="og:url" content="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
+    <meta property="og:image" content="https://i.imgur.com/8by0gGh.png" />
     <meta property="og:description"
-        content="menghadirkan daftar permainan game sexy baccarat online dan roullete yang menyajikan game mudah dimainkan dan mudah di menangkan, segera daftar dan mainkan Game Sexy Baccarat Online & Roullete Online di agen slot online kesayangan anda.">
+        content="INDOSLOT adalah platform slot online yang menawarkan pengalaman bermain modern dengan akses login cepat, sistem aman, dan pilihan game lengkap dari provider ternama dengan RTP tinggi.">
     <meta property="og:site_name" content="ThemeForest">
     <meta name="csrf-param" content="authenticity_token">
     <meta name="csrf-token"
@@ -791,7 +790,7 @@ src="https://public-assets.envato-static.com/assets/gtm_measurements-40b0a0f82ba
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="http://m.vanderplas.com/">Envato Market</a>
+                    <a href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -802,36 +801,36 @@ src="https://public-assets.envato-static.com/assets/gtm_measurements-40b0a0f82ba
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" 
 data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="http://m.vanderplas.com/"></a>
+                        href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttp://m.vanderplas.com/">
+                    <a class="off-canvas-left__site" href="hhttps://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://m.vanderplas.com/">
+                    </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://m.vanderplas.com/">
+                    </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://m.vanderplas.com/">
+                    </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://m.vanderplas.com/">
+                    </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="http://m.vanderplas.com/">
+                    </a> <a class="off-canvas-left__site" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -840,7 +839,7 @@ data-view="dropdown"
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="http://m.vanderplas.com/" accept-charset="UTF-8"
+                    <form id="search" action="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -859,42 +858,42 @@ data-view="dropdown"
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Files</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Featured Files</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Top New Files</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Follow Feed</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Top Authors</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Top New
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Public Collections</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">View All Categories</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">View All Categories</a>
                             </li>
                         </ul>
 
@@ -902,88 +901,88 @@ data-view="dropdown"
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Show all
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Items</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Blog /
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">BuddyPress</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Corporate</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Creative</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Directory &amp; Listings</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">eCommerce</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Education</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Elementor</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Entertainment</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Mobile</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Nonprofit</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Real
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Retail</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Technology</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Wedding</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Miscellaneous</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">WordPress Plugins</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -991,21 +990,21 @@ data-view="dropdown"
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Template Kits</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Plugins</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Themes</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Themes</a>
                             </li>
                         </ul>
 
@@ -1013,73 +1012,73 @@ data-view="dropdown"
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" 
 data-dropdown-target="#off-canvas-html"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Show all
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Items</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Admin Templates</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Corporate</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Creative</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Entertainment</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Mobile</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Nonprofit</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Personal</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Retail</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Specialty Pages</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Technology</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Wedding</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Miscellaneous</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1087,42 +1086,42 @@ data-dropdown-target="#off-canvas-html"
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Show all
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Items</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Fashion</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Shopping</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Health &amp; Beauty</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Technology</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Entertainment</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Miscellaneous</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1130,37 +1129,37 @@ data-dropdown-target="#off-canvas-html"
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Show all
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Items</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Email Templates</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Landing Pages</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Unbounce Landing Pages</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
@@ -1168,54 +1167,54 @@ data-dropdown-target="#off-canvas-html"
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" 
 data-dropdown-target="#off-canvas-cms"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Show all CMS</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Items</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Concrete5</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Drupal</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">HubSpot CMS Hub</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Joomla</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">MODX
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Moodle</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Webflow</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Weebly</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Miscellaneous</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1223,71 +1222,71 @@ data-dropdown-target="#off-canvas-cms"
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Show all
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Items</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">WooCommerce</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">BigCommerce</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Drupal Commerce</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Easy Digital Downloads</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Ecwid</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Magento</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">OpenCart</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">PrestaShop</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Shopify</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Ubercart</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">VirtueMart</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Zen
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Miscellaneous</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1295,30 +1294,30 @@ data-dropdown-target="#off-canvas-cms"
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Popular Items</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Figma</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Adobe
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Photoshop</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Sketch</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Sketch</a>
                             </li>
                         </ul>
 
@@ -1326,50 +1325,50 @@ data-dropdown-target="#off-canvas-cms"
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" 
 data-dropdown-target="#off-canvas-more"
-                            href="http://m.vanderplas.com/">
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Blogging</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Courses</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Facebook Templates</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Free Elementor Templates</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Free
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Forums</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Ghost
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="http://m.vanderplas.com/">Tumblr</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link 
@@ -1385,7 +1384,7 @@ data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot
 nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative 
 Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative 
 Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="http://m.vanderplas.com/">Unlimited
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1402,7 +1401,7 @@ referral&quot;}}"
 data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site 
 switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements 
 referral&quot;}}"
-                            href="http://m.vanderplas.com/">Unlimited
+                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1414,18 +1413,18 @@ referral&quot;}}"
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="http://m.vanderplas.com/">
+                <a class="off-canvas-right__link--cart" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah">
+                <a class="off-canvas-right__link" href="https://lelogis.pages.dev/INDOSLOT">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah">
+                <a class="off-canvas-right__link" href="https://lelogis.pages.dev/INDOSLOT">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1441,7 +1440,7 @@ referral&quot;}}"
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="http://m.vanderplas.com/">
+                                    <a class="btn btn--square" href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" 
 xmlns="http://www.w3.org/2000/svg"
@@ -1473,7 +1472,7 @@ C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" 
 data-off-canvas="right"
-                                        href="http://m.vanderplas.com/">
+                                        href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1482,16 +1481,16 @@ data-off-canvas="right"
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" 
 data-off-canvas="left"
-                                        href="http://m.vanderplas.com/">
+                                        href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="http://m.vanderplas.com/">
+                                    <a href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                         <img alt="Logo Baru"
-                                            src="https://ik.imagekit.io/e8cpcv8gk/random/Logo-Favicon-icon-300X300_ttu4b9%20(1).png"
+                                            src="https://i.imgur.com/B26iqbg.png"
                                             style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1506,25 +1505,25 @@ data-off-canvas="left"
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="http://m.vanderplas.com/">
+                                    <a href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
-                                            src="https://ik.imagekit.io/e8cpcv8gk/random/Logo-Favicon-icon-300X300_ttu4b9%20(1).png">
+                                            src="https://i.imgur.com/B26iqbg.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="http://m.vanderplas.com/">
+                                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                                     <span class="global-header-menu__link-text">
-                                                        RAJABOM
+                                                        INDOSLOT
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="http://m.vanderplas.com/">
+                                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                                     <span class="global-header-menu__link-text">
-                                                        RAJABOM LOGIN
+                                                        INDOSLOT LOGIN
                                                     </span>
                                                 </a>
                                             </li>
@@ -1534,7 +1533,7 @@ data-off-canvas="left"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" 
 class="global-header-menu__link"
-                                                    href="http://m.vanderplas.com/">
+                                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" 
@@ -1561,7 +1560,7 @@ aria-labelledby="title"
                                             <li class="global-header-menu__list-item -background-light 
 -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="http://m.vanderplas.com/">
+                                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon 
@@ -1596,7 +1595,7 @@ aria-labelledby="title"
                                             <li class="global-header-menu__list-item -background-light 
 -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="http://m.vanderplas.com/">
+                                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                                     <span id="spec-user-username" 
 class="global-header-menu__link-text">
                                                         Sign In
@@ -1616,33 +1615,33 @@ class="global-header-menu__link-text">
                                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link is-active" alt="RAJABOM 
+                                            <a class="header-site-titles__link t-link is-active" alt="INDOSLOT 
 Templates"
-                                                href="http://m.vanderplas.com/">RAJABOM</a>
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">INDOSLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="LINK RAJABOM"
-                                                href="http://m.vanderplas.com/">LINK RAJABOM</a>
+                                            <a class="header-site-titles__link t-link" alt="LINK INDOSLOT"
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">LINK INDOSLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="DAFTAR RAJABOM"
-                                                href="http://m.vanderplas.com/">DAFTAR RAJABOM</a>
+                                            <a class="header-site-titles__link t-link" alt="DAFTAR INDOSLOT"
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">DAFTAR INDOSLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="LOGIN RAJABOM"
-                                                href="http://m.vanderplas.com/">LOGIN RAJABOM</a>
+                                            <a class="header-site-titles__link t-link" alt="LOGIN INDOSLOT"
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">LOGIN INDOSLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="ALTERNATIF RAJABOM"
-                                                href="http://m.vanderplas.com/">ALTERNATIF RAJABOM</a>
+                                            <a class="header-site-titles__link t-link" alt="ALTERNATIF INDOSLOT"
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">ALTERNATIF INDOSLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="SLOT RAJABOM"
-                                                href="http://m.vanderplas.com/">SLOT RAJABOM</a>
+                                            <a class="header-site-titles__link t-link" alt="SLOT INDOSLOT"
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">SLOT INDOSLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="DEPOSIT RAJABOM"
-                                                href="http://m.vanderplas.com/">DEPOSIT RAJABOM</a>
+                                            <a class="header-site-titles__link t-link" alt="DEPOSIT INDOSLOT"
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">DEPOSIT INDOSLOT</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1719,8 +1718,8 @@ height="233">
 
                                         <div class="header-site-floating-logo__container" bis_skin_checked="1">
                                             <div class="" bis_skin_checked="1">
-                                                <img src="https://ik.imagekit.io/e8cpcv8gk/random/Logo-Favicon-icon-300X300_ttu4b9%20(1).png"
-                                                    alt="RAJABOM"
+                                                <img src="https://i.imgur.com/B26iqbg.png"
+                                                    alt="INDOSLOT"
                                                     style="max-width: 150px; height: auto; object-fit: contain;"
                                                     data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
                                             </div>
@@ -1739,9 +1738,9 @@ height="233">
                                             <a class="header-categories__main-link" 
 data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
-                                                RAJABOM
+                                                INDOSLOT
 
                                             </a>
                                         </li>
@@ -1749,9 +1748,9 @@ data-view="touchOnlyDropdown"
                                             <a class="header-categories__main-link" 
 data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
-                                                LINK RAJABOM
+                                                LINK INDOSLOT
 
                                             </a>
                                         </li>
@@ -1759,18 +1758,18 @@ data-view="touchOnlyDropdown"
                                             <a class="header-categories__main-link" 
 data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
-                                                DAFTAR RAJABOM
+                                                DAFTAR INDOSLOT
 
                                             </a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link 
 header-categories__main-link--empty"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
-                                                LOGIN RAJABOM
+                                                LOGIN INDOSLOT
 
                                             </a>
                                         </li>
@@ -1778,9 +1777,9 @@ header-categories__main-link--empty"
                                             <a class="header-categories__main-link" 
 data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-4-dropdown"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
-                                                ALTERNATIF RAJABOM
+                                                ALTERNATIF INDOSLOT
 
                                             </a>
                                         </li>
@@ -1788,18 +1787,18 @@ data-view="touchOnlyDropdown"
                                             <a class="header-categories__main-link" 
 data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
-                                                SLOT RAJABOM
+                                                SLOT INDOSLOT
 
                                             </a>
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link 
 header-categories__main-link--empty"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
-                                                DEPOSIT RAJABOM
+                                                DEPOSIT INDOSLOT
 
                                             </a>
                                         </li>
@@ -1807,7 +1806,7 @@ header-categories__main-link--empty"
                                             <a class="header-categories__main-link" 
 data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-7-dropdown"
-                                                href="http://m.vanderplas.com/">
+                                                href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
 
                                                 SLOT GACOR
 
@@ -1815,7 +1814,7 @@ data-view="touchOnlyDropdown"
                                         </li></ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="http://m.vanderplas.com/"
+                                                action="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" 
 bis_skin_checked="1">
@@ -1852,31 +1851,31 @@ type="search"
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="http://m.vanderplas.com/">RAJABOM</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">INDOSLOT</a>
 
 
-                                <a href="http://m.vanderplas.com/"
-                                    class="js-breadcrumb-category">RAJABOM DAFTAR</a>
+                                <a href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
+                                    class="js-breadcrumb-category">INDOSLOT DAFTAR</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="http://m.vanderplas.com/">RAJABOM LOGIN</a>
+                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">INDOSLOT LOGIN</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
-                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online</h1>
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi</h1>
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 
 is-hidden-tablet-and-above">
-                                            RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online
+                                            INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi
                                         </h1>
                                     </div>
 
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="http://m.vanderplas.com/">
+                                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1892,7 +1891,7 @@ class="js-item-header__price">$21</span></b>
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="http://m.vanderplas.com/">RAJABOM</a>
+                                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">INDOSLOT</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1919,7 +1918,7 @@ C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 
                                         <strong>48,253,112</strong> sales
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>RAJABOM</strong>
+                                        <strong>INDOSLOT</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 14 14"
                                             class="item-header__envato-checkmark-icon"
                                             xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" 
@@ -1995,10 +1994,10 @@ role="img">
 
         
                           <div class="n-columns-2">
-                                <a href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah" rel="nofollow 
+                                <a href="https://lelogis.pages.dev/INDOSLOT" rel="nofollow 
 noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah" rel="nofollow noreferrer"
+                               <a href="https://lelogis.pages.dev/INDOSLOT" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -2014,11 +2013,11 @@ noreferrer"
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="http://m.vanderplas.com/">Item Details</a>
+                                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
                                             
-href="http://m.vanderplas.com/"><span>Reviews</span><span>
+href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" 
 bis_skin_checked="1">
@@ -2043,10 +2042,10 @@ class="rating-detailed-small-center__star-rating"
 class="item-navigation-reviews-comments">888</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
                                             
-href="http://m.vanderplas.com/"><span>Comments</span><span
+href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">9,999</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="http://m.vanderplas.com/">Support</a>
+                                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Support</a>
                                     </li>
                                 </ul>
 
@@ -2064,14 +2063,14 @@ data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link 
 -decoration-none"
-                                            href="http://m.vanderplas.com/"><span
+                                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"><span
                                                 class="item-bookmarking__control--label">Add to 
 Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link 
 -decoration-none"
-                                            href="http://m.vanderplas.com/"><span
+                                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"><span
                                                 class="item-bookmarking__control--label">Add to 
 Collection</span></a>
                                     </li>
@@ -2090,7 +2089,7 @@ Collection</span></a>
                                 //<![CDATA[
                                 window.GtmMeasurements.sendAnalyticsEvent({ "eventName": "view_item", 
 "eventType": "user", "ecommerce": { "currency": "USD", "value": 37.0, "items": [{ "affiliation": "themeforest", 
-"item_id": 8988002, "item_name": "RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": 
+"item_id": 8988002, "item_name": "INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi", "item_brand": "tokopress", "item_category": "wordpress", "item_category2": 
 "ecommerce", "item_category3": "woocommerce", "price": 37.0, "quantity": 1, "item_add_on": "bundle_6month", 
 "item_variant": "regular" }] } });
 
@@ -2099,7 +2098,7 @@ Collection</span></a>
 
 
                             <div bis_skin_checked="1">
-                                <link href="https://ik.imagekit.io/e8cpcv8gk/random/Logo-Favicon-icon-300X300_ttu4b9%20(1).png">
+                                <link href="https://i.imgur.com/B26iqbg.png">
 
                                 <div class="content-s " bis_skin_checked="1">
                                     <div class="item-bookmarking__left-icons__wrapper" bis_skin_checked="1">
@@ -2108,7 +2107,7 @@ data-view="bookmarkStatesLoader">
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="http://m.vanderplas.com/"><span
+                                                        href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -2117,7 +2116,7 @@ data-view="bookmarkStatesLoader">
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="http://m.vanderplas.com/">
+                                                        href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2134,17 +2133,17 @@ data-view="bookmarkStatesLoader">
 
 
                                             <a target="_blank"
-                                                href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah"><img
-                                                    alt="RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online - WooCommerce eCommerce"
+                                                href="https://lelogis.pages.dev/INDOSLOT"><img
+                                                    alt="INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     
-srcset="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png"
+srcset="https://i.imgur.com/8by0gGh.png"
                                                     sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 
 600px"
                                                     
-src="https://ik.imagekit.io/e8cpcv8gk/random/93a74c0e-6114-4b17-8357-67d896048c30.png"></a>
+src="https://i.imgur.com/8by0gGh.png"></a>
                                             <div class="js- item-preview-image__gallery"
-                                                data-title="RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online - WooCommerce eCommerce Screenshots Gallery"
+                                                data-title="INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi - WooCommerce eCommerce Screenshots Gallery"
                                                 
 data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002"
                                                 bis_skin_checked="1">
@@ -2244,7 +2243,7 @@ href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/29_marketica2_doka
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah"
+                                                    <a href="https://lelogis.pages.dev/INDOSLOT"
                                                         role="button" class="btn-icon live-preview" 
 target="_blank"
                                                         rel="noopener nofollow">
@@ -2252,7 +2251,7 @@ target="_blank"
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah"
+                                                        href="https://lelogis.pages.dev/INDOSLOT"
                                                         role="button" class="btn-icon screenshots" 
 target="_blank"
                                                         rel="noopener">
@@ -2261,12 +2260,12 @@ target="_blank"
 
                                                 </div>
 
-                                                <p>menghadirkan daftar permainan game sexy baccarat online dan roullete yang menyajikan game mudah dimainkan dan mudah di menangkan, segera daftar dan mainkan Game Sexy Baccarat Online & Roullete Online di agen slot online kesayangan anda.</p>
+                                                <p>INDOSLOT adalah platform slot online yang menawarkan pengalaman bermain modern dengan akses login cepat, sistem aman, dan pilihan game lengkap dari provider ternama dengan RTP tinggi. Melalui dukungan teknologi terbaru, pemain dapat menikmati permainan tanpa lag serta peluang kemenangan maksimal (maxwin) yang lebih besar setiap harinya. INDOSLOT juga menghadirkan berbagai bonus menarik seperti bonus member baru, cashback, dan jackpot progresif, didukung layanan transaksi deposit dan withdraw yang cepat serta customer service 24 jam, menjadikannya pilihan ideal bagi pemain yang mencari situs slot gacor terpercaya dan menguntungkan.</p>
                                                 
                                             </div>
                                                 <br>
-                                                <a href="https://m-vanderplas-com-rajabom.pages.dev/ada-kah"><img 
-src="https://ik.imagekit.io/e8cpcv8gk/random/SLOTGACORGIFTNEW.gif" alt="RAJABOM" style="width: 320px; height: 
+                                                <a href="https://lelogis.pages.dev/INDOSLOT"><img 
+src="https://i.imgur.com/JMRob8X.gif" alt="INDOSLOT" style="width: 320px; height: 
 125px;">
                                             </div>
 
@@ -2281,7 +2280,7 @@ src="https://ik.imagekit.io/e8cpcv8gk/random/SLOTGACORGIFTNEW.gif" alt="RAJABOM"
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="http://m.vanderplas.com/">
+                                                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">
                                                     <span>Show More <i class="e-icon 
 -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
@@ -2337,8 +2336,8 @@ Kit&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;
                                                 <form data-view="purchaseForm" 
 data-analytics-has-custom-click="true"
                                                     
-data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;RAJABOM ## Daftar Game Sexy Baccarat Online & Roullete Online&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="http://m.vanderplas.com/"
+data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;INDOSLOT: Login Situs Slot Gacor Terpercaya dengan Peluang Maxwin Tinggi&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
+                                                    action="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         
@@ -2422,7 +2421,7 @@ price and
 -decoration-reversed"
                                                                                         target="_blank"
                                                                                         
-href="http://m.vanderplas.com/licenses/standard">View
+href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webmalicenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2472,19 +2471,19 @@ bis_skin_checked="1">
                                                                         <span
                                                                             
 class="is-visually-hidden">Included:</span>
-                                                                        RAJABOM
+                                                                        INDOSLOT
                                                                     </li>
                                                                     <li class="t-icon-list__item -icon-ok">
                                                                         <span
                                                                             
 class="is-visually-hidden">Included:</span>
-                                                                        RAJABOM DAFTAR                                                                 
+                                                                        INDOSLOT DAFTAR                                                                 
 </li>
                                                                     <li class="t-icon-list__item -icon-ok">
                                                                         <span
                                                                             
 class="is-visually-hidden">Included:</span>
-                                                                        RAJABOM LOGIN <span
+                                                                        INDOSLOT LOGIN <span
                                                                             
 class="purchase-form__author-name"></span>
                                                                         <a class="t-link -decoration-reversed 
@@ -2580,7 +2579,7 @@ fees</i>
 
                                                         </div>
                     <!--konten-->
-                    <p>menghadirkan daftar permainan game sexy baccarat online dan roullete yang menyajikan game mudah dimainkan dan mudah di menangkan, segera daftar dan mainkan Game Sexy Baccarat Online & Roullete Online di agen slot online kesayangan anda.</p>
+                    <p>INDOSLOT adalah platform slot online yang menawarkan pengalaman bermain modern dengan akses login cepat, sistem aman, dan pilihan game lengkap dari provider ternama dengan RTP tinggi.</p>
 
                                                     </div>
                                                 </form>
@@ -2590,9 +2589,9 @@ fees</i>
 
                                     </div>
                                 <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
-                                        Â© All Rights Reserved RAJABOM
+                                        Â© All Rights Reserved INDOSLOT
                                         <br>
-                                        <a href="http://m.vanderplas.com/">Contact the RAJABOM 
+                                        <a href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Contact the INDOSLOT 
 Help Team</a>
                                 </div>
 
@@ -2633,12 +2632,12 @@ description obscure
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
                                                             
-href="http://m.vanderplas.com/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webmahc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
                                                             
-href="http://m.vanderplas.com/licenses">Licenses</a>
+href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webmalicenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2667,7 +2666,7 @@ href="https://envato.com/market/affiliate-program/">Become
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="http://m.vanderplas.com/">Help 
+                                                            href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Help 
 Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
@@ -2693,7 +2692,7 @@ href="https://help.author.envato.com/hc/en-us">Authors</a>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
                                                             
-href="http://m.vanderplas.com/">Forums</a>
+href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2739,7 +2738,7 @@ href="https://www.envato.com/privacy/my-personal-information">Do
                                     <div class="global-footer-stats" bis_skin_checked="1">
                                         <div class="global-footer-stats__content" bis_skin_checked="1">
                                             <img class="global-footer-stats__logo" alt="Envato Market"
-                                                src="https://ik.imagekit.io/e8cpcv8gk/random/Logo-Favicon-icon-300X300_ttu4b9%20(1).png">
+                                                src="https://i.imgur.com/B26iqbg.png">
 
                                             <ul class="global-footer-stats__list">
                                                 <li class="global-footer-stats__list-item h-p0">
@@ -2975,7 +2974,7 @@ bis_skin_checked="1">
         </div>
     </div>
     <div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden" bis_skin_checked="1">
-        <div class="h-text-align-right" bis_skin_checked="1"><a href="http://m.vanderplas.com/"
+        <div class="h-text-align-right" bis_skin_checked="1"><a href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma"
                 id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon 
 -icon-cancel"></i></a>
         </div>
@@ -2984,7 +2983,7 @@ bis_skin_checked="1">
             <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
         </div>
         <div class="survey-popup--section" bis_skin_checked="1">
-            <a href="http://m.vanderplas.com/" id="js-show-survey-button"
+            <a href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma" id="js-show-survey-button"
                 class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take 
 me to
                 the survey</a>
@@ -3129,7 +3128,7 @@ buyer fee.
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="http://m.vanderplas.com/">View license details</a>
+                    href="https://doc.kamimadrasah.com/artikel/ukuran-gambar-webma">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
